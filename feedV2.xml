@@ -7,9 +7,9 @@
     <item>
       <title>Møte i Valgkomiteen 10.09.2026</title>
       <link>https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe27c354a-765c-4ce1-a1f6-199771ece6c5</link>
-      <guid isPermaLink="false">einnsyn-onenote-v2:5fc646f3b6b8a403f6c98ec67405063d905dc975833c16462ffc8e300693fcdd</guid>
-      <pubDate>Fri, 11 Sep 2026 09:51:14 GMT</pubDate>
-      <description><![CDATA[{"schemaVersion":2,"eventType":"MEETING_PROTOCOL_AVAILABLE_V2","performWrite":true,"meeting":{"id":"https://prod02.elementscloud.no/e27c354a-765c-4ce1-a1f6-199771ece6c5","title":"Møte i Valgkomiteen 10.09.2026","committee":"Valgkomiteen","date":"2026-09-10","place":"Team, Teams","meetingUrl":"https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe27c354a-765c-4ce1-a1f6-199771ece6c5","agendaUrl":"https://api.einnsyn.no/dokumentobjekt/do_01m1gfgq2ped4t28w9sjzsjdgc/download"},"protocol":{"documentId":"https://prod02.elementscloud.no/4a0c0e01-3fe4-43d2-8e33-d1258a027087","url":"https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4a0c0e01-3fe4-43d2-8e33-d1258a027087"}}]]></description>
+      <guid isPermaLink="false">einnsyn-onenote-v2:03de90ed841090564634a2bf34b564df8dc8db2757313d9209dd10c11c7131a2</guid>
+      <pubDate>Fri, 11 Sep 2026 09:51:20 GMT</pubDate>
+      <description><![CDATA[{"schemaVersion":2,"eventType":"CASE_DECISION_AVAILABLE_V2","performWrite":true,"meeting":{"id":"https://prod02.elementscloud.no/e27c354a-765c-4ce1-a1f6-199771ece6c5","title":"Møte i Valgkomiteen 10.09.2026","committee":"Valgkomiteen","date":"2026-09-10","place":"Team, Teams","meetingUrl":"https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe27c354a-765c-4ce1-a1f6-199771ece6c5","agendaUrl":"https://api.einnsyn.no/dokumentobjekt/do_01m1gfgq2ped4t28w9sjzsjdgc/download"},"case":{"id":"https://prod02.elementscloud.no/db7eff41-aac0-4ab7-9e26-776ff29a933c","number":"17/2026","title":"Godkjenning av innkalling og protokoll"},"document":{"id":"https://prod02.elementscloud.no/1b38b41a-58a2-46dd-8ce2-89aaeeccb571","label":"Saksprotokoll VK","url":"https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1b38b41a-58a2-46dd-8ce2-89aaeeccb571"}}]]></description>
     </item>
   </channel>
 </rss>

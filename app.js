@@ -1,7 +1,6 @@
 /*
- * The app deliberately reads the existing state and RSS feed at runtime.
- * No meeting data is copied into this repository, so the view stays current
- * when the integration workflow publishes new state or agenda items.
+ * The app reads the public meeting projection and RSS feed at runtime.
+ * The private integration state is never copied to the public webapp.
  */
 const DATA_URL = ['localhost', '127.0.0.1'].includes(window.location.hostname)
   ? '/einnsyn-state.json'

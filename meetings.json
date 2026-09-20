@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-20T19:48:13.5974066+00:00",
+  "generatedAtUtc": "2026-09-20T21:29:23.3248599+00:00",
   "source": "eInnsyn",
   "meetings": [
     {
@@ -1071,6 +1071,25 @@
       "agendaAvailable": false,
       "agendaUrl": "",
       "agendaCases": [],
+      "protocolAvailable": false,
+      "protocolUrl": ""
+    },
+    {
+      "title": "Møte i Representantskapet Fagskolen i Viken - Kommunalt oppgavefellesskap 26.08.2026",
+      "committee": "Representantskapet Fagskolen i Viken - Kommunalt oppgavefellesskap",
+      "meetingDateUtc": "08/26/2026 13:00:00",
+      "meetingPlace": "Teams",
+      "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fc801fa98-55de-4c2d-93b3-054859716bde",
+      "agendaAvailable": true,
+      "agendaUrl": "https://api.einnsyn.no/dokumentobjekt/do_01m0wajvcxe64agnvtmktffpgr/download",
+      "agendaCases": [
+        {
+          "number": "19/2026",
+          "title": "Justert beløp i sak om årsregnskap for Fagskolen Viken KO 2025",
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F62319abc-e2cb-482e-99fd-b5d9e359ae2a",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F8426cd2c-6cb6-4035-b7a8-f2adbdcef749"
+        }
+      ],
       "protocolAvailable": false,
       "protocolUrl": ""
     }

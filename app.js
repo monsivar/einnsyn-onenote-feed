@@ -70,7 +70,7 @@ function normalizeMeetings(rawMeetings, feedByMeeting) {
     const date = new Date(raw.meetingDateUtc || raw.meetingDate || feed.date);
     const meetingUrl = safeUrl(raw.meetingUrl) || publicMeetingUrl(meetingId) || safeUrl(feed.meetingUrl);
     const agendaUrl = safeUrl(raw.agendaUrl) || safeUrl(feed.agendaUrl) || documentUrl(raw.agendaDocumentObjectId);
-    return { id: meetingId, title: raw.title || feed.title || 'Møte', committee: raw.committee || feed.committee || 'Politisk organ', date, place: raw.meetingPlace || feed.place || '', agendaAvailable: Boolean(raw.agendaAvailable || cases.length || feed.agendaAvailable), agendaUrl, meetingUrl, cases, protocolAvailable: Boolean(raw.protocolAvailable || feed.protocol), protocolUrl: safeUrl(raw.protocolUrl) || safeUrl(feed.protocolUrl), past: date < now };
+    return { id: meetingId, title: raw.title || feed.title || 'Møte', committee: raw.committee || feed.committee || 'Politisk organ', date, place: raw.meetingPlace || feed.place || '', agendaAvailable: Boolean(raw.agendaAvailable || cases.length || feed.agendaAvailable), agendaUrl, meetingUrl, cases, protocolAvailable: Boolean(raw.protocolAvailable || feed.protocol), protocolUrl: safeUrl(feed.protocolUrl) || safeUrl(raw.protocolUrl), past: date < now };
   }).filter(meeting => meeting.id && !Number.isNaN(meeting.date.getTime())).sort((a, b) => a.date - b.date);
 }
 

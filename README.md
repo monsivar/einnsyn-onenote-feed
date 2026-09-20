@@ -1,4 +1,4 @@
-# eInnsyn Buskerud – møter og agenda
+# EInnsyn Buskerud Ap – møter og agenda
 
 Dette repoet inneholder både eksisterende OneNote-feeder og en liten, mobilvennlig webapp for å finne politiske møter i Buskerud.
 

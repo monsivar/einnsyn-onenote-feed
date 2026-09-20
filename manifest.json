@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": "EINNSYN BUSKERUD – møter og agenda",
-  "short_name": "EINNSYN BUSKERUD",
+  "name": "EInnsyn Buskerud Ap – møter og agenda",
+  "short_name": "EInnsyn Buskerud Ap",
   "description": "Kommende og historiske politiske møter i Buskerud.",
   "lang": "nb-NO",
   "dir": "ltr",
@@ -9,8 +9,8 @@
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
-  "background_color": "#071b33",
-  "theme_color": "#071b33",
+  "background_color": "#171717",
+  "theme_color": "#171717",
   "prefer_related_applications": false,
   "icons": [
     {

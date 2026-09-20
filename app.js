@@ -51,7 +51,6 @@ async function loadData() {
     populateCommittees();
     els.loading.hidden = true;
     els.sync.classList.add('is-ready');
-    els.sync.innerHTML = '<span class="status-dot"></span> Siste data lastet';
     els.lastSync.textContent = new Intl.DateTimeFormat('nb-NO', { hour: '2-digit', minute: '2-digit' }).format(new Date());
     render();
   } catch (error) {
@@ -67,7 +66,7 @@ function normalizeMeetings(rawMeetings, feedByMeeting) {
     const meetingId = raw.meetingId || raw.id || raw.meetingUrl || '';
     const meetingUrlFromState = safeUrl(raw.meetingUrl);
     const feed = feedByMeeting.get(meetingId) || feedByMeeting.get(meetingUrlFromState) || feedByMeeting.get(publicMeetingUrl(raw.meetingId)) || {};
-    const cases = mergeCases(raw.agendaCases, feed.cases);
+    const cases = mergeCases(raw.agendaCases, feed.cases, feed.decisions);
     const date = new Date(raw.meetingDateUtc || raw.meetingDate || feed.date);
     const meetingUrl = safeUrl(raw.meetingUrl) || publicMeetingUrl(meetingId) || safeUrl(feed.meetingUrl);
     const agendaUrl = safeUrl(raw.agendaUrl) || safeUrl(feed.agendaUrl) || documentUrl(raw.agendaDocumentObjectId);
@@ -89,24 +88,33 @@ function parseFeed(xmlText) {
       const id = safeUrl(meeting.meetingUrl) || publicMeetingUrl(meeting.id) || decodeMeetingId(item.querySelector('link')?.textContent || '');
       if (!id) return;
       const isAgenda = String(payload.eventType || '').startsWith('AGENDA_') && Array.isArray(payload.cases);
-      const current = result.get(id);
-      if (isAgenda && (!current || new Date(item.querySelector('pubDate')?.textContent || 0) > current.feedDate)) {
-        result.set(id, { id, title: meeting.title, committee: meeting.committee, date: meeting.date, place: meeting.place, meetingUrl: meeting.meetingUrl, agendaUrl: meeting.agendaUrl, agendaAvailable: true, cases: payload.cases, feedDate: new Date(item.querySelector('pubDate')?.textContent || 0) });
-      } else if (!current) {
-        result.set(id, { id, title: meeting.title, committee: meeting.committee, date: meeting.date, place: meeting.place, meetingUrl: meeting.meetingUrl, agendaUrl: meeting.agendaUrl, protocol: payload.protocol, protocolUrl: payload.protocol?.url, cases: [] });
+      const current = result.get(id) || { id, title: meeting.title, committee: meeting.committee, date: meeting.date, place: meeting.place, meetingUrl: meeting.meetingUrl, agendaUrl: meeting.agendaUrl, agendaAvailable: false, cases: [], decisions: [], feedDate: new Date(0) };
+      const publishedAt = new Date(item.querySelector('pubDate')?.textContent || 0);
+      if (isAgenda && publishedAt > current.feedDate) {
+        current.cases = payload.cases;
+        current.agendaAvailable = true;
+        current.feedDate = publishedAt;
       }
+      if (payload.eventType === 'CASE_DECISION_AVAILABLE_V2' && payload.case && payload.document?.url) {
+        current.decisions.push({ number: payload.case.number, title: payload.case.title, decisionUrl: safeUrl(payload.document.url) });
+      }
+      if (payload.eventType === 'MEETING_PROTOCOL_AVAILABLE_V2' && payload.protocol?.url) {
+        current.protocol = payload.protocol;
+        current.protocolUrl = safeUrl(payload.protocol.url);
+      }
+      result.set(id, current);
     } catch { /* Ignore malformed historical RSS items. */ }
   });
   return result;
 }
 
-function mergeCases(stateCases = [], feedCases = []) {
+function mergeCases(...caseLists) {
   const byNumber = new Map();
-  [...stateCases, ...feedCases].forEach(item => {
+  caseLists.flatMap(list => Array.isArray(list) ? list : []).forEach(item => {
     const number = item.number || item.caseNumber || '';
     if (!number) return;
     const previous = byNumber.get(number) || {};
-    byNumber.set(number, { ...previous, ...item, caseUrl: safeUrl(item.caseUrl) || publicCaseUrl(item.id || item.caseId), documents: item.documents || previous.documents || [], recommendation: item.recommendation || previous.recommendation });
+    byNumber.set(number, { ...previous, ...item, caseUrl: safeUrl(item.caseUrl) || publicCaseUrl(item.id || item.caseId) || previous.caseUrl, decisionUrl: safeUrl(item.decisionUrl) || previous.decisionUrl || '', documents: item.documents || previous.documents || [], recommendation: item.recommendation || previous.recommendation });
   });
   return [...byNumber.values()].sort((a, b) => String(a.number).localeCompare(String(b.number), 'nb-NO', { numeric: true }));
 }
@@ -153,16 +161,17 @@ function renderMeeting(meeting) {
   const year = date.find(part => part.type === 'year')?.value || '';
   const time = new Intl.DateTimeFormat('nb-NO', { hour: '2-digit', minute: '2-digit' }).format(meeting.date);
   const status = meeting.agendaAvailable ? '<span class="pill ready">● Agenda klar</span>' : '<span class="pill pending">● Agenda kommer</span>';
-  const actions = [meeting.meetingUrl ? `<a class="action primary" href="${attrUrl(meeting.meetingUrl)}" target="_blank" rel="noreferrer">Åpne møte ↗</a>` : '', meeting.agendaUrl ? `<a class="action" href="${attrUrl(meeting.agendaUrl)}" target="_blank" rel="noreferrer">Agenda PDF ↗</a>` : '', meeting.protocolUrl ? `<a class="action" href="${attrUrl(meeting.protocolUrl)}" target="_blank" rel="noreferrer">Protokoll ↗</a>` : ''].join('');
+  const actions = [meeting.meetingUrl ? `<a class="action primary" href="${attrUrl(meeting.meetingUrl)}" target="_blank" rel="noreferrer">Åpne møtet i EInnsyn ↗</a>` : '', meeting.agendaUrl ? `<a class="action" href="${attrUrl(meeting.agendaUrl)}" target="_blank" rel="noreferrer">Åpne Agenda (PDF) ↗</a>` : '', meeting.protocolUrl ? `<a class="action" href="${attrUrl(meeting.protocolUrl)}" target="_blank" rel="noreferrer">Åpne Protokoll (PDF) ↗</a>` : ''].join('');
   const cases = meeting.cases.length ? `<details class="agenda-details" ${state.view === 'upcoming' && meeting.agendaAvailable ? 'open' : ''}><summary>${meeting.cases.length} ${meeting.cases.length === 1 ? 'sak' : 'saker'} i sakskartet</summary><ul class="case-list">${meeting.cases.map(renderCase).join('')}</ul></details>` : '';
-  return `<article class="meeting-card"><div class="date-badge"><span class="day">${escapeHtml(day)}</span><span class="month">${escapeHtml(month)}</span><span class="year">${escapeHtml(year)}</span></div><div><div class="card-topline"><span class="committee">${escapeHtml(meeting.committee)}</span>${status}</div><h3>${escapeHtml(cleanTitle(meeting.title))}</h3><div class="meta-row"><span class="meta-item">${icon('clock')} ${escapeHtml(time)}</span>${meeting.place ? `<span class="meta-item">${icon('pin')} ${escapeHtml(meeting.place)}</span>` : '<span class="meta-item">Sted ikke publisert ennå</span>'}</div><div class="card-actions">${actions}</div>${cases}</div></article>`;
+  return `<article class="meeting-card"><div class="date-badge"><span class="day">${escapeHtml(day)}</span><span class="month">${escapeHtml(month)}</span><span class="year">${escapeHtml(year)}</span></div><div class="meeting-summary"><div class="card-topline"><span class="committee">${escapeHtml(meeting.committee)}</span>${status}</div><h3>${escapeHtml(cleanTitle(meeting.title))}</h3><div class="meta-row"><span class="meta-item">${icon('clock')} ${escapeHtml(time)}</span>${meeting.place ? `<span class="meta-item">${icon('pin')} ${escapeHtml(meeting.place)}</span>` : '<span class="meta-item">Sted ikke publisert ennå</span>'}</div><div class="card-actions">${actions}</div></div>${cases}</article>`;
 }
 
 function renderCase(item) {
   const title = item.title || 'Uten tittel';
   const content = item.caseUrl ? `<a href="${attrUrl(item.caseUrl)}" target="_blank" rel="noreferrer">${escapeHtml(title)} ↗</a>` : escapeHtml(title);
-  const recommendation = item.recommendation?.text ? `<div class="recommendation"><strong>Innstilling:</strong> ${escapeHtml(item.recommendation.text)}</div>` : '';
-  return `<li class="case-item"><span class="case-number">${escapeHtml(item.number || 'Sak')}</span><span>${content}${recommendation}</span></li>`;
+  const recommendation = item.recommendation?.text ? `<div class="recommendation"><strong>Administrasjonens innstilling i saken:</strong><span>${escapeHtml(item.recommendation.text)}</span></div>` : '';
+  const decision = item.decisionUrl ? `<a class="action case-action" href="${attrUrl(item.decisionUrl)}" target="_blank" rel="noreferrer">Åpne vedtak ↗</a>` : '';
+  return `<li class="case-item"><div class="case-heading"><span class="case-number">${escapeHtml(item.number || 'Sak')}</span><span>${content}</span></div>${recommendation}${decision ? `<div class="case-actions">${decision}</div>` : ''}</li>`;
 }
 
 function populateCommittees() {

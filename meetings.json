@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-20T19:00:22.7072141+00:00",
+  "generatedAtUtc": "2026-09-20T19:23:11.9198615+00:00",
   "source": "eInnsyn",
   "meetings": [
     {
@@ -15,30 +15,36 @@
         {
           "number": "30/2026",
           "title": "Godkjenning av innkalling og protokoll",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F2b9c9037-81f2-44ac-bf5c-89dc9c0e70c8"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F2b9c9037-81f2-44ac-bf5c-89dc9c0e70c8",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F296f702f-33df-405a-ac1f-463e65894cc7"
         },
         {
           "number": "31/2026",
           "title": "Klage over avslag på tildeling - Regional kulturfond i Buskerud 2026 - Spillskaperlaget",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F66826a4d-06c7-42f5-828c-f05cbc042773"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F66826a4d-06c7-42f5-828c-f05cbc042773",
+          "decisionUrl": ""
         },
         {
           "number": "32/2026",
           "title": "Klage på avslag på søknad om TT-kort - Hole kommune - ***** ***** *****",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F3bad3c74-27d2-4997-a072-5f53ecfdf1e0"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F3bad3c74-27d2-4997-a072-5f53ecfdf1e0",
+          "decisionUrl": ""
         },
         {
           "number": "33/2026",
           "title": "Klage på inntak til videregående opplæring - Skoleåret 2026/2027 ***** ***** ***** ***** *****",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fa78c05e8-ce9f-42f5-a674-e1d101cee482"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fa78c05e8-ce9f-42f5-a674-e1d101cee482",
+          "decisionUrl": ""
         },
         {
           "number": "34/2026",
           "title": "Klage på inntak til videregående opplæring - skoleåret 2026/2027 - ***** ***** ***** *****",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Ff4f0690d-d0d7-41d3-80a0-b3cfee43d7fa"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Ff4f0690d-d0d7-41d3-80a0-b3cfee43d7fa",
+          "decisionUrl": ""
         }
       ],
-      "protocolAvailable": true
+      "protocolAvailable": true,
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5b2ae029-2b5c-4616-9093-957bcd2b3222"
     },
     {
       "title": "Møte i Ungdommens fylkesråd 31.08.2026",
@@ -52,30 +58,36 @@
         {
           "number": "35/2026",
           "title": "Godkjenning av innkalling med saksliste",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F5bb42567-2119-425c-8c37-b96639c7bd58"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F5bb42567-2119-425c-8c37-b96639c7bd58",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ffef43003-8dd4-49e4-ac49-1527df7f8607"
         },
         {
           "number": "36/2026",
           "title": "Orienteringer",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F77599c30-e8ea-460a-8b7a-4d8dc3ee38b0"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F77599c30-e8ea-460a-8b7a-4d8dc3ee38b0",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc41a575f-e7a3-40ee-aae6-10f7b0e81d7b"
         },
         {
           "number": "37/2026",
           "title": "Økt valgdeltakelse ved valget i 2027",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fda04d5c7-911b-46f0-83a7-810863ea555b"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fda04d5c7-911b-46f0-83a7-810863ea555b",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc4d7e77d-604c-453b-8101-8260b0088823"
         },
         {
           "number": "38/2026",
           "title": "UngData 2025 medvirkningsrapport- Ungdom i hjerte av Buskerud",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F5f341a10-f627-4a01-8940-300c744c7351"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F5f341a10-f627-4a01-8940-300c744c7351",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3b33c7f8-088e-4953-8874-abad4151f340"
         },
         {
           "number": "39/2026",
           "title": "Eventuelt",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F63295b98-f790-4ca1-b32f-f4512bfa3b79"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F63295b98-f790-4ca1-b32f-f4512bfa3b79",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F60c1126c-fde3-4a4e-8ceb-c8e0c6ca902b"
         }
       ],
-      "protocolAvailable": true
+      "protocolAvailable": true,
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd664f123-581a-4b0b-8cb6-38725f91f797"
     },
     {
       "title": "Møte i Fylkesutvalget 01.09.2026",
@@ -89,20 +101,24 @@
         {
           "number": "75/2026",
           "title": "Godkjenning av innkalling og protokoll",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F02e6f2e1-8f81-45f7-acd2-c2391f975fb6"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F02e6f2e1-8f81-45f7-acd2-c2391f975fb6",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb3345e5d-9b3e-420a-b04a-66d205b77893"
         },
         {
           "number": "76/2026",
           "title": "Orienteringer",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd02fbc59-2a24-44a1-8fc6-6e4d7b7afcec"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd02fbc59-2a24-44a1-8fc6-6e4d7b7afcec",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe7d6734c-88f5-4e21-adbc-29ccb64fc921"
         },
         {
           "number": "77/2026",
           "title": "Budsjettseminar",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Ffbcc4a0c-ed62-4ccf-b3b4-f9855991a5d1"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Ffbcc4a0c-ed62-4ccf-b3b4-f9855991a5d1",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F570dd2ba-c149-4eca-a14f-7d79dd1aa5a0"
         }
       ],
-      "protocolAvailable": true
+      "protocolAvailable": true,
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4f9bd768-b872-4959-9e4f-165671df548c"
     },
     {
       "title": "Møte i Buskerud Eldreråd 01.09.2026",
@@ -116,20 +132,24 @@
         {
           "number": "20/2026",
           "title": "UngData 2025 medvirkningsrapport- Ungdom i hjerte av Buskerud",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F7f44d638-1588-4ef1-934f-4df8467c2abb"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F7f44d638-1588-4ef1-934f-4df8467c2abb",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F746c02c6-fe6d-4322-84d9-d2f475f96ea4"
         },
         {
           "number": "21/2026",
           "title": "Økt valgdeltakelse ved valget i 2027",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F15fae78c-5f8b-44ae-ac3a-39c143e2062d"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F15fae78c-5f8b-44ae-ac3a-39c143e2062d",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1c8ea2f8-95b7-4a5d-a54c-32a799caaa39"
         },
         {
           "number": "22/2026",
           "title": "Åpen post - Eldrerådet 010926",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fa289dd7e-5aa0-4aea-b3cd-d8acf7fd43ae"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fa289dd7e-5aa0-4aea-b3cd-d8acf7fd43ae",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb889265b-8285-489c-a8ba-6ba5c044fe70"
         }
       ],
-      "protocolAvailable": true
+      "protocolAvailable": true,
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb8808f26-e18e-4ec1-b0b2-6c15df88fede"
     },
     {
       "title": "Møte i Flerkulturelt utvalg 02.09.2026",
@@ -143,25 +163,30 @@
         {
           "number": "26/2026",
           "title": "Godkjenning av møteinnkalling og protokoll",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fcb780913-39bf-436d-883e-3173ac7748c8"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fcb780913-39bf-436d-883e-3173ac7748c8",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F453c4b55-55e8-459b-bd83-53d9ca1e5aa6"
         },
         {
           "number": "27/2026",
           "title": "UngData 2025 medvirkningsrapport- Ungdom i hjerte av Buskerud",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F2cb91665-ecf2-461f-bc03-0fd699906429"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F2cb91665-ecf2-461f-bc03-0fd699906429",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2059bdb1-704d-4565-bb3b-00989098235d"
         },
         {
           "number": "28/2026",
           "title": "Økt valgdeltakelse ved valget i 2027",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F626a5b8a-0d08-4e5c-a8b6-de856d55c609"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F626a5b8a-0d08-4e5c-a8b6-de856d55c609",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F061f677d-15ea-4c26-91e2-3a63215b5448"
         },
         {
           "number": "29/2026",
           "title": "Åpen post - Flerkulturelt utvalg 2. september 2026",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F95e70c6e-0eee-4306-b193-6af9b4a35532"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F95e70c6e-0eee-4306-b193-6af9b4a35532",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc2cb4469-d6b3-45dc-b0a1-d35c514bf61d"
         }
       ],
-      "protocolAvailable": true
+      "protocolAvailable": true,
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fdbfea782-025b-46ac-a7cd-fb6ed118f9d7"
     },
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 03.09.2026",
@@ -175,20 +200,24 @@
         {
           "number": "20/2026",
           "title": "UngData 2025 medvirkningsrapport- Ungdom i hjerte av Buskerud",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F3346b280-8c64-4d2e-863f-ddbe2035574a"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F3346b280-8c64-4d2e-863f-ddbe2035574a",
+          "decisionUrl": ""
         },
         {
           "number": "21/2026",
           "title": "Økt valgdeltakelse ved valget i 2027",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F30bf8ad0-b70d-4f69-8b1e-a5db61b31214"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F30bf8ad0-b70d-4f69-8b1e-a5db61b31214",
+          "decisionUrl": ""
         },
         {
           "number": "22/2026",
           "title": "Åpen post - RFF møte 030926",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F888851a3-00df-4a3e-9bb3-f09949d6a7ad"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F888851a3-00df-4a3e-9bb3-f09949d6a7ad",
+          "decisionUrl": ""
         }
       ],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Yrkesopplæringsnemnda 03.09.2026",
@@ -202,30 +231,36 @@
         {
           "number": "19/2026",
           "title": "Godkjenning av innkalling og protokoll",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F3fc90c41-fd24-4f6f-a775-609b03dcbff8"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F3fc90c41-fd24-4f6f-a775-609b03dcbff8",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fdecd7b82-ce38-4233-a35a-8c1c4b92d3f9"
         },
         {
           "number": "20/2026",
           "title": "Sammen om fagopplæring i Buskerud 2026",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe04a196d-8bff-44a0-8b41-b334267de285"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe04a196d-8bff-44a0-8b41-b334267de285",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fcf87dc13-6ad2-4e85-a8a6-e66e4e21be0f"
         },
         {
           "number": "21/2026",
           "title": "Orienteringssak - Resultater fra kartlegging av lærebedrifter",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F0b2e2bd4-61df-4b9c-b8b5-049bca60ebd8"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F0b2e2bd4-61df-4b9c-b8b5-049bca60ebd8",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1122cc82-e041-469a-babb-b767a865c501"
         },
         {
           "number": "22/2026",
           "title": "Endring i representasjon fra Skolenes Landsforbund (SL) i yrkesopplæringsnemnda",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F4d2e90be-405b-45e8-9fb6-c2c6db5dc391"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F4d2e90be-405b-45e8-9fb6-c2c6db5dc391",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F600c5d1f-5376-40e6-8981-4e4c4110fa9c"
         },
         {
           "number": "23/2026",
           "title": "Endring i representasjon fra NHO Viken Oslo i yrkesopplæringsnemnda",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fedc2166c-be9a-4c5e-a106-d442ce00c1c9"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fedc2166c-be9a-4c5e-a106-d442ce00c1c9",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa72da378-5069-4889-9a60-f2a1a19129f2"
         }
       ],
-      "protocolAvailable": true
+      "protocolAvailable": true,
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe4248e68-9b44-4ff7-b34d-92d12343a91f"
     },
     {
       "title": "Møte i Valgkomiteen 10.09.2026",
@@ -239,25 +274,30 @@
         {
           "number": "17/2026",
           "title": "Godkjenning av innkalling og protokoll",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fdb7eff41-aac0-4ab7-9e26-776ff29a933c"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fdb7eff41-aac0-4ab7-9e26-776ff29a933c",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1b38b41a-58a2-46dd-8ce2-89aaeeccb571"
         },
         {
           "number": "18/2026",
           "title": "Nytt valgoppgjør til fylkestinget og suppleringsvalg til fylkeskommunale utvalg, råd og styrer etter Johan Baumanns (H) bortgang",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F3060067c-5260-4bde-8f57-50915cb0e1ad"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F3060067c-5260-4bde-8f57-50915cb0e1ad",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F92332eed-c3d2-4db0-954b-573dde798f32"
         },
         {
           "number": "19/2026",
           "title": "Endring i representasjon fra Skolenes Landsforbund (SL) i yrkesopplæringsnemnda",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F1faf91e8-a85a-4396-9c07-36d5ae0862b7"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F1faf91e8-a85a-4396-9c07-36d5ae0862b7",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ffd12495d-c7c6-45af-9a33-e280a748d035"
         },
         {
           "number": "20/2026",
           "title": "Endring i representasjon fra NHO Viken Oslo i yrkesopplæringsnemnda",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F5d3c0c29-cecd-442e-b664-4c234e8c345f"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F5d3c0c29-cecd-442e-b664-4c234e8c345f",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1506d9ab-f194-4e6f-a4ec-0675fe7ccd22"
         }
       ],
-      "protocolAvailable": true
+      "protocolAvailable": true,
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F192c894e-b630-4635-a26a-4c0ecf697c80"
     },
     {
       "title": "Møte i Oppgavefellesskap fylkesbiblioteket 11.09.2026",
@@ -271,25 +311,30 @@
         {
           "number": "8/2026",
           "title": "Godkjenning av innkalling og protokoll",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Feb7854f7-5dcc-467e-9766-12b9c30cc812"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Feb7854f7-5dcc-467e-9766-12b9c30cc812",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Feba97d05-06f1-4f8d-817a-56a8ce440a02"
         },
         {
           "number": "9/2026",
           "title": "Muntlige orienteringer",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F0b2b3fb8-07f0-4081-8cca-a3db71ef88ad"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F0b2b3fb8-07f0-4081-8cca-a3db71ef88ad",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9d071de4-1b25-4c7e-9bc3-e85a827c6256"
         },
         {
           "number": "10/2026",
           "title": "Status for forbedringstiltak etter evaluering av Fylkesbiblioteket",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F730791e2-f7a5-4fe5-a861-4de20f1132fe"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F730791e2-f7a5-4fe5-a861-4de20f1132fe",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1ea36365-35f8-48e4-bce9-850a64610333"
         },
         {
           "number": "11/2026",
           "title": "Årsrapport for arbeid med skolebibliotekutvikling i videregående skole 2025",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F3ca153ec-6e47-4db5-9e55-4c1def456715"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F3ca153ec-6e47-4db5-9e55-4c1def456715",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F50d09976-db32-4269-ab08-6fbf31fb777a"
         }
       ],
-      "protocolAvailable": true
+      "protocolAvailable": true,
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd69704a2-93ef-4375-87ce-2384bb218452"
     },
     {
       "title": "Møte i Partssammensatt utvalg 11.09.2026",
@@ -303,15 +348,18 @@
         {
           "number": "21/2026",
           "title": "Godkjenning av innkalling og protokoll",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F26b2e688-14d7-4db2-a793-ce84a7e2760d"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F26b2e688-14d7-4db2-a793-ce84a7e2760d",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F62cc8c94-9a60-4d90-95c5-ad8c9b45ce2a"
         },
         {
           "number": "22/2026",
           "title": "Orienteringer",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F7a997789-aab0-4aa8-99ce-1941662d29fd"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F7a997789-aab0-4aa8-99ce-1941662d29fd",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd8e3f229-3a71-444a-b8e7-de3c39a4a266"
         }
       ],
-      "protocolAvailable": true
+      "protocolAvailable": true,
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F78444097-6db3-407b-8a6d-021c41d4e0a5"
     },
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 14.09.2026",
@@ -322,7 +370,8 @@
       "agendaAvailable": false,
       "agendaUrl": "",
       "agendaCases": [],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Samarbeidsutvalget 14.09.2026",
@@ -336,15 +385,18 @@
         {
           "number": "8/2026",
           "title": "Godkjenning av innkalling og protokoll",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F7a8a8071-d204-4b8c-b8b2-10d95a7b2df3"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F7a8a8071-d204-4b8c-b8b2-10d95a7b2df3",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe926b97b-c4d1-46b3-9c93-92acf3e4d313"
         },
         {
           "number": "9/2026",
           "title": "Dialogmøte om forberedelser frem mot nytt fylkesting og neste valgperiode 2027 – 2031",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Ff2890b2a-a45c-4b66-8914-704ec9f8077e"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Ff2890b2a-a45c-4b66-8914-704ec9f8077e",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F63f11234-4e6b-4b94-84ba-2f1a3e743363"
         }
       ],
-      "protocolAvailable": true
+      "protocolAvailable": true,
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fbf48ab6c-99d0-45a3-a84f-67a5e33b185d"
     },
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 15.09.2026",
@@ -358,80 +410,96 @@
         {
           "number": "41/2026",
           "title": "Godkjenning av innkalling og protokoll",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fb17a19c4-9d65-43b0-b0cb-50ae4a050ab7"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fb17a19c4-9d65-43b0-b0cb-50ae4a050ab7",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2d10a1a0-ecb9-4c2e-92b8-4703bdbd8dff"
         },
         {
           "number": "42/2026",
           "title": "Orienteringer",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F3133c2f8-fc2f-44a3-a604-aff43bcd52f7"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F3133c2f8-fc2f-44a3-a604-aff43bcd52f7",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fadbd4b15-9950-4fec-b1b3-8ba50fd75167"
         },
         {
           "number": "43/2026",
           "title": "Revidering av retningslinjer for Tilskudd til festivaler, Tilskudd til kunst- og kulturprosjekter og Regionalt kulturfond i Buskerud",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F74afd2e9-5e53-40e7-9a4b-17450cf5560a"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F74afd2e9-5e53-40e7-9a4b-17450cf5560a",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F04253690-401f-40c6-a197-de55dd7b6ce3"
         },
         {
           "number": "44/2026",
           "title": "Tilskudd til drift for regionale kunst- og kulturinstitusjoner i Buskerud 2027 - 2029",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F00f0eda7-1ed9-43e1-9190-7e20c7b652c4"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F00f0eda7-1ed9-43e1-9190-7e20c7b652c4",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F297c0acb-097c-41d8-8605-e504dc0ac3da"
         },
         {
           "number": "44/2026",
           "title": "Tilskudd til drift for regionale kunst- og kulturinstitusjoner 2027",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe5e06398-3442-456e-927b-aa17932ba8a3"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe5e06398-3442-456e-927b-aa17932ba8a3",
+          "decisionUrl": ""
         },
         {
           "number": "45/2026",
           "title": "Forslag til reviderte retningslinjer for tilskuddsordningen \"Store arrangementer for idrett og fysisk aktivitet\"",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F87f63fdf-19c1-4b41-88ad-6b83b82c351d"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F87f63fdf-19c1-4b41-88ad-6b83b82c351d",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb212ed98-fbb3-4dfb-9983-fc5aa1dd1b35"
         },
         {
           "number": "46/2026",
           "title": "Friluftslivets år 2025 - Sluttrapport",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fabc2dd78-57b0-41eb-b28b-0d7fee056167"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fabc2dd78-57b0-41eb-b28b-0d7fee056167",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F75de01c2-c544-4d19-8002-a93813fd774e"
         },
         {
           "number": "47/2026",
           "title": "Ny innretning på tilskuddsordning - Aktiv i Buskerud",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Ffc19cfec-cdde-4c40-aa84-3f7039f965f7"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Ffc19cfec-cdde-4c40-aa84-3f7039f965f7",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb8fb9b2c-6e66-427f-b9df-6dc2e38ab751"
         },
         {
           "number": "48/2026",
           "title": "Desentralisert ordning for kulturbygg/kulturarena – status og informasjon om ordningen fremover",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F80874549-c24f-4a64-aad0-078de4a52ffa"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F80874549-c24f-4a64-aad0-078de4a52ffa",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F17a13645-a16e-4dfb-9b3d-1f6a8bf3c1ad"
         },
         {
           "number": "49/2026",
           "title": "Tildeling av spillemidler - Den kulturelle skolesekken - skoleåret 2026-2027",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F9e0fb1a5-776e-4bf9-a715-172b603b6384"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F9e0fb1a5-776e-4bf9-a715-172b603b6384",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1c5dfd88-b199-42d2-8e9d-d76d58e379ae"
         },
         {
           "number": "50/2026",
           "title": "Orientering om ny forskrift for tilskudd til bygging og rehabilitering av anlegg for idrett og fysisk aktivitet",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F9311b73f-21b2-4b65-af9d-19d879c4de01"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F9311b73f-21b2-4b65-af9d-19d879c4de01",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F301d43f9-28a1-4163-bd3c-6d87a636fb0b"
         },
         {
           "number": "51/2026",
           "title": "Ny idrettsmelding – innspill fra Buskerud fylkeskommune",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fb6b06dbf-bf37-4743-9b3a-a6a15de698ef"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fb6b06dbf-bf37-4743-9b3a-a6a15de698ef",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fbfe23b35-d071-4f9a-ae08-687e55801608"
         },
         {
           "number": "52/2026",
           "title": "Kongsberg og Nore og Uvdal kommune - Numedalsbanen strekning Rollag - Rødberg - Oppfølging av politiske vedtak",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F1bbbd47d-95e2-4e99-920b-faa19b3efa6f"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F1bbbd47d-95e2-4e99-920b-faa19b3efa6f",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F6c94b13f-e660-41c7-b0db-8aeb9cc69d01"
         },
         {
           "number": "53/2026",
           "title": "Krødsherad kommune - Gbnr. 219/3/1 - Folkets hus - Uttalelse til fredningssak",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F9130659d-b2e8-44fc-92bb-e4af423db0e4"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F9130659d-b2e8-44fc-92bb-e4af423db0e4",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1e462450-49b2-4748-9c8b-21a09cbd8d36"
         },
         {
           "number": "54/2026",
           "title": "UngData 2025 medvirkningsrapport- Ungdom i hjerte av Buskerud",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F4d546133-96fd-48b3-87c6-fa5f66f101ca"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F4d546133-96fd-48b3-87c6-fa5f66f101ca",
+          "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F8bd1cbd3-bc2a-413c-8551-0303c74b04d3"
         }
       ],
-      "protocolAvailable": true
+      "protocolAvailable": true,
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0fb30948-47d6-465d-b22d-3e0331edf50f"
     },
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 16.09.2026",
@@ -442,7 +510,8 @@
       "agendaAvailable": false,
       "agendaUrl": "",
       "agendaCases": [],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Hovedutvalg for samferdsel 17.09.2026",
@@ -456,20 +525,24 @@
         {
           "number": "33/2026",
           "title": "Høringsuttalelse - Sykkelplan for Drammen kommune - 2026 til 2031",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F25dddc13-045f-4240-8611-e04e0ddb2ade"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F25dddc13-045f-4240-8611-e04e0ddb2ade",
+          "decisionUrl": ""
         },
         {
           "number": "34/2026",
           "title": "Oppfølging til vedtak i sak 84/2025 Økonomiplan 2026-2029 verbalpunktene 11, 19 og 20",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F8832d9a9-139e-46fc-a879-8ac9d96256eb"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F8832d9a9-139e-46fc-a879-8ac9d96256eb",
+          "decisionUrl": ""
         },
         {
           "number": "35/2026",
           "title": "Bestilling linje 200",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Ff3f5d057-663c-413f-aa93-a07707992c1e"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Ff3f5d057-663c-413f-aa93-a07707992c1e",
+          "decisionUrl": ""
         }
       ],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 17.09.2026",
@@ -483,70 +556,84 @@
         {
           "number": "34/2026",
           "title": "Godkjenning av innkalling og protokoll",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fb7b9444f-df73-4eab-90f3-78234ad39f87"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fb7b9444f-df73-4eab-90f3-78234ad39f87",
+          "decisionUrl": ""
         },
         {
           "number": "35/2026",
           "title": "Orienteringer",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F7f8c9039-a89b-4917-bc72-da79f1454cfe"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F7f8c9039-a89b-4917-bc72-da79f1454cfe",
+          "decisionUrl": ""
         },
         {
           "number": "36/2026",
           "title": "Tildeling av tilskudd til sosiokulturelle stedsanalyser",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F38273fc6-7857-4199-8e40-b88c4bfc7307"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F38273fc6-7857-4199-8e40-b88c4bfc7307",
+          "decisionUrl": ""
         },
         {
           "number": "37/2026",
           "title": "Høringsinnspill - Forslag til ny forskrift og endringer i vassdragsreguleringsloven og vannressursloven",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd0240c7d-7568-4e28-b97d-716c700c0ffc"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd0240c7d-7568-4e28-b97d-716c700c0ffc",
+          "decisionUrl": ""
         },
         {
           "number": "38/2026",
           "title": "Fordeling av fylkeskommunale midler til vannområder i Buskerud - 2026",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fc58cd59f-4846-423f-869d-b3528c99872e"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fc58cd59f-4846-423f-869d-b3528c99872e",
+          "decisionUrl": ""
         },
         {
           "number": "39/2026",
           "title": "Etablering av regionalt EU-nettverk Buskerud, Telemark, Vestfold og Universitetet i Sørøst- Norge - Invitasjon til samarbeid",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd50edb97-b940-48a8-b089-ede0d72e9660"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd50edb97-b940-48a8-b089-ede0d72e9660",
+          "decisionUrl": ""
         },
         {
           "number": "40/2026",
           "title": "Økosystem Ringeriksregionen og søknad om støtte til utviklingsprogram for forsvarsteknologi",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fc490def9-7dde-489e-b829-97631da6d3e8"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fc490def9-7dde-489e-b829-97631da6d3e8",
+          "decisionUrl": ""
         },
         {
           "number": "41/2026",
           "title": "Regional oppdragsgiverrapport Innovasjon Norge - Buskerud 2025",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F36f11fb7-2dc5-4692-a812-118d261945a2"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F36f11fb7-2dc5-4692-a812-118d261945a2",
+          "decisionUrl": ""
         },
         {
           "number": "42/2026",
           "title": "Tilskudd til bredbånd og mobildekning 2026",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F957e49b9-bfc5-4dfa-a98b-3eba7035bfa2"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F957e49b9-bfc5-4dfa-a98b-3eba7035bfa2",
+          "decisionUrl": ""
         },
         {
           "number": "43/2026",
           "title": "Orienteringssak om årsrapport fra Siva for 2025",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fda971819-cc5e-40a9-b152-6fe781dcb69f"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fda971819-cc5e-40a9-b152-6fe781dcb69f",
+          "decisionUrl": ""
         },
         {
           "number": "44/2026",
           "title": "Fremtidens kompetanse i Buskerud - behandling av innkomne søknader våren 2026",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F94045896-a16c-4313-ac8d-c7bad358c9f1"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F94045896-a16c-4313-ac8d-c7bad358c9f1",
+          "decisionUrl": ""
         },
         {
           "number": "45/2026",
           "title": "Tilskudd Bedriftsintern opplæring (BIO) - behandling av innkomne søknader september 2026",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fee95fc84-c7b6-41a1-a8eb-616f91f5e532"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fee95fc84-c7b6-41a1-a8eb-616f91f5e532",
+          "decisionUrl": ""
         },
         {
           "number": "46/2026",
           "title": "Tilskudd gjennom FORREGION høst 2026 - behandling av mottatt søknad",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F55e2658b-1092-4143-8a9c-5c808cbb97e5"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F55e2658b-1092-4143-8a9c-5c808cbb97e5",
+          "decisionUrl": ""
         }
       ],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Hovedutvalg for samferdsel 18.09.2026",
@@ -557,7 +644,8 @@
       "agendaAvailable": false,
       "agendaUrl": "",
       "agendaCases": [],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Fylkesutvalget 22.09.2026",
@@ -571,90 +659,108 @@
         {
           "number": "78/2026",
           "title": "Godkjenning av innkalling og protokoll",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F5e13adec-2824-423e-ae60-04964f250828"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F5e13adec-2824-423e-ae60-04964f250828",
+          "decisionUrl": ""
         },
         {
           "number": "79/2026",
           "title": "Orienteringer",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F66e0a31a-59fc-4b99-9433-a2e8df3f8c16"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F66e0a31a-59fc-4b99-9433-a2e8df3f8c16",
+          "decisionUrl": ""
         },
         {
           "number": "80/2026",
           "title": "Eierskapsrapport 2026",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Ffd7b32f5-8200-43ed-b891-e01b94e4ca8e"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Ffd7b32f5-8200-43ed-b891-e01b94e4ca8e",
+          "decisionUrl": ""
         },
         {
           "number": "81/2026",
           "title": "Økt valgdeltakelse ved valget i 2027",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F27fe822c-e5ed-4053-bf2e-4251a9a069a1"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F27fe822c-e5ed-4053-bf2e-4251a9a069a1",
+          "decisionUrl": ""
         },
         {
           "number": "82/2026",
           "title": "Valgløftet 2027 – felles forpliktelse for et sterkt lokaldemokrati",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fcad74c21-0afc-487b-ac6d-4453c507ef67"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fcad74c21-0afc-487b-ac6d-4453c507ef67",
+          "decisionUrl": ""
         },
         {
           "number": "83/2026",
           "title": "På vei mot et sterkere interessepolitisk samarbeid i Buskerud",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F443cda07-e057-488f-b4f7-47b1aad697c0"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F443cda07-e057-488f-b4f7-47b1aad697c0",
+          "decisionUrl": ""
         },
         {
           "number": "84/2026",
           "title": "Skjermingstiltak for beboere og lokaltrafikk på Sollihøgda i bompengeprosjektet E16 Bjørum - Skaret",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F629ed510-27db-4445-b240-b091941567b0"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F629ed510-27db-4445-b240-b091941567b0",
+          "decisionUrl": ""
         },
         {
           "number": "85/2026",
           "title": "Krødsherad kommune - Gbnr. 219/3/1 - Folkets hus - Uttalelse til fredningssak",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F9a9c6687-0b01-4868-aeda-68b6c3bf39dc"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F9a9c6687-0b01-4868-aeda-68b6c3bf39dc",
+          "decisionUrl": ""
         },
         {
           "number": "86/2026",
           "title": "Forslag til nytt handlingsprogram, Regional plan for Nordfjella med Raudafjell (2026-2029)",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F07ca1ad5-55de-4b9b-b452-f808e45cd647"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F07ca1ad5-55de-4b9b-b452-f808e45cd647",
+          "decisionUrl": ""
         },
         {
           "number": "87/2026",
           "title": "UngData 2025 medvirkningsrapport- Ungdom i hjerte av Buskerud",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fb8350964-fb5b-4dfd-8ecb-129be9d0ca0e"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fb8350964-fb5b-4dfd-8ecb-129be9d0ca0e",
+          "decisionUrl": ""
         },
         {
           "number": "88/2026",
           "title": "Høringssvar - NOU 2026:6 Den nye velferdskommunen",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F8309526f-537e-4f51-9b90-38b3cf379361"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F8309526f-537e-4f51-9b90-38b3cf379361",
+          "decisionUrl": ""
         },
         {
           "number": "89/2026",
           "title": "Høring - Endringer i reglene om interkommunalt samarbeid etter kommuneloven",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F47faade5-c21c-46b2-af45-5f5a17f8a4d2"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F47faade5-c21c-46b2-af45-5f5a17f8a4d2",
+          "decisionUrl": ""
         },
         {
           "number": "90/2026",
           "title": "Høringsuttalelse fra Buskerud fylkeskommune. Strategi for kompetanse- og studentbyen Drammen 2026–2035",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F90ed0ba2-058c-4a95-b65e-d1a40955fc3b"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F90ed0ba2-058c-4a95-b65e-d1a40955fc3b",
+          "decisionUrl": ""
         },
         {
           "number": "91/2026",
           "title": "Høringssvar fra Buskerud Fylkeskommune - strategiutkast for USN 2027-2035",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F19fa86c0-35af-4393-bc8d-e09e360ec125"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F19fa86c0-35af-4393-bc8d-e09e360ec125",
+          "decisionUrl": ""
         },
         {
           "number": "92/2026",
           "title": "Høringsinnspill - Forslag til ny Oslofjordplan",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F215e8833-d9ab-42af-a568-cf03f28286e1"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F215e8833-d9ab-42af-a568-cf03f28286e1",
+          "decisionUrl": ""
         },
         {
           "number": "93/2026",
           "title": "Nytt valgoppgjør til fylkestinget og suppleringsvalg til fylkeskommunale utvalg, råd og styrer etter Johan Baumanns (H) bortgang",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fb91c6e73-b185-4f63-b6b8-0207a8d199f4"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fb91c6e73-b185-4f63-b6b8-0207a8d199f4",
+          "decisionUrl": ""
         },
         {
           "number": "94/2026",
           "title": "Støtte til NRK TV-aksjonen 2026 - Gi et trygt sted å sove - Flyktninghjelpen",
-          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F5b06d377-5884-4007-9b11-d82c3ef93c64"
+          "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F5b06d377-5884-4007-9b11-d82c3ef93c64",
+          "decisionUrl": ""
         }
       ],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Fylkestinget 07.10.2026",
@@ -665,7 +771,8 @@
       "agendaAvailable": false,
       "agendaUrl": "",
       "agendaCases": [],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Klagenemnd 13.10.2026",
@@ -676,7 +783,8 @@
       "agendaAvailable": false,
       "agendaUrl": "",
       "agendaCases": [],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Buskerud Eldreråd 13.10.2026",
@@ -687,7 +795,8 @@
       "agendaAvailable": false,
       "agendaUrl": "",
       "agendaCases": [],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Flerkulturelt utvalg 14.10.2026",
@@ -698,7 +807,8 @@
       "agendaAvailable": false,
       "agendaUrl": "",
       "agendaCases": [],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 15.10.2026",
@@ -709,7 +819,8 @@
       "agendaAvailable": false,
       "agendaUrl": "",
       "agendaCases": [],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Yrkesopplæringsnemnda 15.10.2026",
@@ -720,7 +831,8 @@
       "agendaAvailable": false,
       "agendaUrl": "",
       "agendaCases": [],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Partssammensatt utvalg 16.10.2026",
@@ -731,7 +843,8 @@
       "agendaAvailable": false,
       "agendaUrl": "",
       "agendaCases": [],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Hovedutvalg for opplæring 21.10.2026",
@@ -742,7 +855,8 @@
       "agendaAvailable": false,
       "agendaUrl": "",
       "agendaCases": [],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Valgkomiteen 22.10.2026",
@@ -753,7 +867,8 @@
       "agendaAvailable": false,
       "agendaUrl": "",
       "agendaCases": [],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Fylkesutvalget 27.10.2026",
@@ -764,7 +879,8 @@
       "agendaAvailable": false,
       "agendaUrl": "",
       "agendaCases": [],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Fylkestinget 04.11.2026",
@@ -775,7 +891,8 @@
       "agendaAvailable": false,
       "agendaUrl": "",
       "agendaCases": [],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Valgkomiteen 11.11.2026",
@@ -786,7 +903,8 @@
       "agendaAvailable": false,
       "agendaUrl": "",
       "agendaCases": [],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Buskerud Eldreråd 11.11.2026",
@@ -797,7 +915,8 @@
       "agendaAvailable": false,
       "agendaUrl": "",
       "agendaCases": [],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Flerkulturelt utvalg 11.11.2026",
@@ -808,7 +927,8 @@
       "agendaAvailable": false,
       "agendaUrl": "",
       "agendaCases": [],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Ungdommens fylkesråd 12.11.2026",
@@ -819,7 +939,8 @@
       "agendaAvailable": false,
       "agendaUrl": "",
       "agendaCases": [],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 13.11.2026",
@@ -830,7 +951,8 @@
       "agendaAvailable": false,
       "agendaUrl": "",
       "agendaCases": [],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Fylkesutvalget 17.11.2026",
@@ -841,7 +963,8 @@
       "agendaAvailable": false,
       "agendaUrl": "",
       "agendaCases": [],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Yrkesopplæringsnemnda 19.11.2026",
@@ -852,7 +975,8 @@
       "agendaAvailable": false,
       "agendaUrl": "",
       "agendaCases": [],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Partssammensatt utvalg 20.11.2026",
@@ -863,7 +987,8 @@
       "agendaAvailable": false,
       "agendaUrl": "",
       "agendaCases": [],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 23.11.2026",
@@ -874,7 +999,8 @@
       "agendaAvailable": false,
       "agendaUrl": "",
       "agendaCases": [],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 24.11.2026",
@@ -885,7 +1011,8 @@
       "agendaAvailable": false,
       "agendaUrl": "",
       "agendaCases": [],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Hovedutvalg for samferdsel 25.11.2026",
@@ -896,7 +1023,8 @@
       "agendaAvailable": false,
       "agendaUrl": "",
       "agendaCases": [],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Hovedutvalg for opplæring 26.11.2026",
@@ -907,7 +1035,8 @@
       "agendaAvailable": false,
       "agendaUrl": "",
       "agendaCases": [],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Fylkesutvalget 01.12.2026",
@@ -918,7 +1047,8 @@
       "agendaAvailable": false,
       "agendaUrl": "",
       "agendaCases": [],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Partssammensatt utvalg 04.12.2026",
@@ -929,7 +1059,8 @@
       "agendaAvailable": false,
       "agendaUrl": "",
       "agendaCases": [],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     },
     {
       "title": "Møte i Fylkestinget 15.12.2026",
@@ -940,7 +1071,8 @@
       "agendaAvailable": false,
       "agendaUrl": "",
       "agendaCases": [],
-      "protocolAvailable": false
+      "protocolAvailable": false,
+      "protocolUrl": ""
     }
   ]
 }

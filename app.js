@@ -122,7 +122,7 @@ function mergeCases(...caseLists) {
 function render() {
   const visible = getVisibleMeetings();
   const upcoming = state.meetings.filter(meeting => !meeting.past);
-  const history = state.meetings.filter(meeting => meeting.past);
+  const history = state.meetings.filter(meeting => meeting.past && meeting.cases.length > 0);
   els.upcomingTabCount.textContent = upcoming.length;
   els.historyTabCount.textContent = history.length;
   els.visible.textContent = visible.length;
@@ -142,10 +142,12 @@ function getVisibleMeetings() {
   const limit = new Date(today); limit.setDate(limit.getDate() + rangeDays);
   const visible = state.meetings.filter(meeting => {
     if (state.view === 'upcoming' ? meeting.past : !meeting.past) return false;
+    if (state.view === 'history' && meeting.cases.length === 0) return false;
     if (state.view === 'upcoming' && meeting.date > limit) return false;
     if (state.filters.committee && meeting.committee !== state.filters.committee) return false;
     if (state.filters.agenda === 'ready' && !meeting.agendaAvailable) return false;
     if (state.filters.agenda === 'pending' && meeting.agendaAvailable) return false;
+    if (state.filters.agenda === 'protocol' && !meeting.protocolAvailable) return false;
     if (state.filters.search) {
       const haystack = [meeting.title, meeting.committee, meeting.place, ...meeting.cases.map(item => `${item.number} ${item.title}`)].join(' ').toLocaleLowerCase('nb-NO');
       if (!haystack.includes(state.filters.search)) return false;

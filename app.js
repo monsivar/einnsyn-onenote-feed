@@ -192,7 +192,7 @@ function icon(type) { return type === 'pin' ? '<svg viewBox="0 0 24 24" fill="no
 
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => {
-    navigator.serviceWorker.register('./sw.js', { scope: './' }).catch(() => {
+    navigator.serviceWorker.register('./sw.js?v=1.0.11', { scope: './' }).catch(() => {
       // The app remains fully usable in Safari private browsing and older browsers.
     });
   });

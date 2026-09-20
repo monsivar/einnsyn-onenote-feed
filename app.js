@@ -46,7 +46,8 @@ async function loadData() {
     if (!stateResponse.ok) throw new Error(`State kunne ikke hentes (${stateResponse.status})`);
     const stateJson = await stateResponse.json();
     const feedText = feedResponse.ok ? await feedResponse.text() : '';
-    state.meetings = normalizeMeetings(Array.isArray(stateJson) ? stateJson : [], parseFeed(feedText));
+    const rawMeetings = Array.isArray(stateJson) ? stateJson : (Array.isArray(stateJson.meetings) ? stateJson.meetings : []);
+    state.meetings = normalizeMeetings(rawMeetings, parseFeed(feedText));
     populateCommittees();
     els.loading.hidden = true;
     els.sync.classList.add('is-ready');

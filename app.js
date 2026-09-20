@@ -140,7 +140,7 @@ function getVisibleMeetings() {
   const today = new Date(); today.setHours(0, 0, 0, 0);
   const rangeDays = state.filters.range === 'all' ? Infinity : Number(state.filters.range);
   const limit = new Date(today); limit.setDate(limit.getDate() + rangeDays);
-  return state.meetings.filter(meeting => {
+  const visible = state.meetings.filter(meeting => {
     if (state.view === 'upcoming' ? meeting.past : !meeting.past) return false;
     if (state.view === 'upcoming' && meeting.date > limit) return false;
     if (state.filters.committee && meeting.committee !== state.filters.committee) return false;
@@ -152,6 +152,7 @@ function getVisibleMeetings() {
     }
     return true;
   });
+  return visible.sort((a, b) => state.view === 'history' ? b.date - a.date : a.date - b.date);
 }
 
 function renderMeeting(meeting) {

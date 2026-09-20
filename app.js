@@ -172,7 +172,7 @@ function renderCase(item) {
     .filter(document => document && (document.role === 'attachment' || !document.role))
     .map(document => ({ ...document, url: safeUrl(document.url) || safeUrl(document.publicUrl) }))
     .filter(document => document.url || document.status === 'UNAVAILABLE');
-  const recommendation = item.recommendation?.text?.trim() ? `<details class="case-option"><summary>Vis administrativ innstilling</summary><div class="recommendation"><strong>Administrasjonens innstilling i saken:</strong><span>${escapeHtml(item.recommendation.text)}</span></div></details>` : '';
+  const recommendation = item.recommendation?.text?.trim() ? `<details class="case-option recommendation-option"><summary>Vis administrativ innstilling</summary><div class="recommendation"><strong>Administrasjonens innstilling i saken:</strong><span>${escapeHtml(item.recommendation.text)}</span></div></details>` : '';
   const caseLink = item.caseUrl ? `<a class="action case-action" href="${attrUrl(item.caseUrl)}" target="_blank" rel="noreferrer">Åpne saken i EInnsyn ↗</a>` : '';
   const decision = item.decisionUrl ? `<a class="action case-action" href="${attrUrl(item.decisionUrl)}" target="_blank" rel="noreferrer">Åpne vedtak ↗</a>` : '';
   const attachments = documents.length ? `<details class="case-option"><summary>Vis vedlegg til saken (${documents.length})</summary><ul class="attachment-list">${documents.map((document, index) => document.url ? `<li><a href="${attrUrl(document.url)}" target="_blank" rel="noreferrer">${escapeHtml(document.title || `Vedlegg ${index + 1}`)} ↗</a></li>` : `<li>${escapeHtml(document.title || `Vedlegg ${index + 1}`)} <span class="attachment-unavailable">Ikke tilgjengelig</span></li>`).join('')}</ul></details>` : '';

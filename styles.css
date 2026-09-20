@@ -26,6 +26,7 @@ button, input, select { font: inherit; }
 
 .site-header { background: var(--navy-950); color: #fff; }
 .header-inner { min-height: 74px; display: flex; align-items: center; justify-content: space-between; gap: 24px; }
+.brand-group { display: inline-flex; align-items: center; gap: 16px; }
 .brand { display: inline-flex; align-items: center; gap: 12px; color: #fff; text-decoration: none; letter-spacing: .08em; }
 .brand strong, .brand small { display: block; line-height: 1; }
 .brand strong { font-size: 1.06rem; font-weight: 700; }
@@ -35,6 +36,8 @@ button, input, select { font: inherit; }
 .brand-mark span:nth-child(1) { height: 45%; opacity: .7; }
 .brand-mark span:nth-child(2) { height: 72%; }
 .brand-mark span:nth-child(3) { height: 100%; background: #fff; }
+.brand-divider { width: 1px; height: 30px; background: rgba(255,255,255,.28); }
+.party-logo { width: 34px; height: 34px; object-fit: contain; }
 .header-note { color: #f5b5bf; font-size: .86rem; }
 
 main { padding: 54px 0 80px; }
@@ -135,6 +138,8 @@ h2 { margin-bottom: 0; color: var(--navy-950); font-size: clamp(1.65rem, 3vw, 2.
 @media (max-width: 560px) {
   .header-inner { min-height: 65px; }
   .header-note { display: none; }
+  .brand-divider { display: none; }
+  .party-logo { width: 27px; height: 27px; }
   h1 { font-size: 3rem; }
   .view-switcher { margin-left: -2px; margin-right: -2px; }
   .view-tab { font-size: .78rem; }

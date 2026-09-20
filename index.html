@@ -21,10 +21,14 @@
   <body>
     <header class="site-header">
       <div class="shell header-inner">
-        <a class="brand" href="./" aria-label="EInnsyn Buskerud Ap – hjem">
-          <span class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></span>
-          <span><strong>EInnsyn</strong><small>BUSKERUD AP</small></span>
-        </a>
+        <div class="brand-group">
+          <a class="brand" href="./" aria-label="EInnsyn Buskerud Ap – hjem">
+            <span class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></span>
+            <span><strong>EInnsyn</strong><small>BUSKERUD AP</small></span>
+          </a>
+          <span class="brand-divider" aria-hidden="true"></span>
+          <img class="party-logo" src="arbeiderpartiet-rose-hvit.png" alt="Arbeiderpartiet" />
+        </div>
         <span class="header-note">Åpne møter og agendaer</span>
         <div class="sync-status" id="sync-status" role="status" aria-live="polite">
           <span class="status-dot"></span><span>Siste synk</span><time id="last-sync">–</time>
@@ -112,6 +116,6 @@
       </div>
     </footer>
 
-    <script src="app.js?v=1.0.7" defer></script>
+    <script src="app.js?v=1.0.8" defer></script>
   </body>
 </html>

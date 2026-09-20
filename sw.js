@@ -1,9 +1,9 @@
-const CACHE_NAME = 'einnsyn-buskerud-shell-v1.0.5';
+const CACHE_NAME = 'einnsyn-buskerud-shell-v1.0.6';
 const APP_SHELL = [
   './',
   './index.html',
   './styles.css',
-  './app.js?v=1.0.5',
+  './app.js?v=1.0.6',
   './manifest.json',
   './icon-180.png',
   './icon-192.png',

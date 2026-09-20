@@ -168,10 +168,16 @@ function renderMeeting(meeting) {
 
 function renderCase(item) {
   const title = item.title || 'Uten tittel';
-  const content = item.caseUrl ? `<a href="${attrUrl(item.caseUrl)}" target="_blank" rel="noreferrer">${escapeHtml(title)} ↗</a>` : escapeHtml(title);
-  const recommendation = item.recommendation?.text ? `<div class="recommendation"><strong>Administrasjonens innstilling i saken:</strong><span>${escapeHtml(item.recommendation.text)}</span></div>` : '';
+  const documents = (Array.isArray(item.documents) ? item.documents : [])
+    .filter(document => document && (document.role === 'attachment' || !document.role))
+    .map(document => ({ ...document, url: safeUrl(document.url) || safeUrl(document.publicUrl) }))
+    .filter(document => document.url || document.status === 'UNAVAILABLE');
+  const recommendation = item.recommendation?.text?.trim() ? `<details class="case-option"><summary>Vis administrativ innstilling</summary><div class="recommendation"><strong>Administrasjonens innstilling i saken:</strong><span>${escapeHtml(item.recommendation.text)}</span></div></details>` : '';
+  const caseLink = item.caseUrl ? `<a class="action case-action" href="${attrUrl(item.caseUrl)}" target="_blank" rel="noreferrer">Åpne saken i EInnsyn ↗</a>` : '';
   const decision = item.decisionUrl ? `<a class="action case-action" href="${attrUrl(item.decisionUrl)}" target="_blank" rel="noreferrer">Åpne vedtak ↗</a>` : '';
-  return `<li class="case-item"><div class="case-heading"><span class="case-number">${escapeHtml(item.number || 'Sak')}</span><span>${content}</span></div>${recommendation}${decision ? `<div class="case-actions">${decision}</div>` : ''}</li>`;
+  const attachments = documents.length ? `<details class="case-option"><summary>Vis vedlegg til saken (${documents.length})</summary><ul class="attachment-list">${documents.map((document, index) => document.url ? `<li><a href="${attrUrl(document.url)}" target="_blank" rel="noreferrer">${escapeHtml(document.title || `Vedlegg ${index + 1}`)} ↗</a></li>` : `<li>${escapeHtml(document.title || `Vedlegg ${index + 1}`)} <span class="attachment-unavailable">Ikke tilgjengelig</span></li>`).join('')}</ul></details>` : '';
+  const actions = [caseLink, decision].filter(Boolean).join('');
+  return `<li class="case-item"><details class="case-details"><summary><span class="case-heading"><span class="case-number">${escapeHtml(item.number || 'Sak')}</span><span>${escapeHtml(title)}</span></span></summary><div class="case-content">${actions ? `<div class="case-actions">${actions}</div>` : ''}${recommendation}${attachments}</div></details></li>`;
 }
 
 function populateCommittees() {

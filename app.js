@@ -5,7 +5,7 @@
  */
 const DATA_URL = ['localhost', '127.0.0.1'].includes(window.location.hostname)
   ? '/einnsyn-state.json'
-  : 'https://raw.githubusercontent.com/monsivar/einnsyn-teams-integration-Buskerud-Ap/refs/heads/main/einnsyn-state.json';
+  : './meetings.json';
 const FEED_URL = './feedV2.xml';
 
 const state = { meetings: [], view: 'upcoming', filters: { search: '', committee: '', agenda: 'all', range: 'all' } };
@@ -64,8 +64,9 @@ async function loadData() {
 function normalizeMeetings(rawMeetings, feedByMeeting) {
   const now = new Date();
   return rawMeetings.map(raw => {
-    const meetingId = raw.meetingId || raw.id || '';
-    const feed = feedByMeeting.get(meetingId) || feedByMeeting.get(publicId(raw.meetingId)) || {};
+    const meetingId = raw.meetingId || raw.id || raw.meetingUrl || '';
+    const meetingUrlFromState = safeUrl(raw.meetingUrl);
+    const feed = feedByMeeting.get(meetingId) || feedByMeeting.get(meetingUrlFromState) || feedByMeeting.get(publicMeetingUrl(raw.meetingId)) || {};
     const cases = mergeCases(raw.agendaCases, feed.cases);
     const date = new Date(raw.meetingDateUtc || raw.meetingDate || feed.date);
     const meetingUrl = safeUrl(raw.meetingUrl) || publicMeetingUrl(meetingId) || safeUrl(feed.meetingUrl);
@@ -85,7 +86,7 @@ function parseFeed(xmlText) {
     try {
       const payload = JSON.parse(match[0]);
       const meeting = payload.meeting || {};
-      const id = meeting.id || decodeMeetingId(item.querySelector('link')?.textContent || '');
+      const id = safeUrl(meeting.meetingUrl) || publicMeetingUrl(meeting.id) || decodeMeetingId(item.querySelector('link')?.textContent || '');
       if (!id) return;
       const isAgenda = String(payload.eventType || '').startsWith('AGENDA_') && Array.isArray(payload.cases);
       const current = result.get(id);
@@ -171,7 +172,7 @@ function populateCommittees() {
 
 function cleanTitle(title) { return title.replace(/^Møte i\s+/i, ''); }
 function publicId(value) { return value ? value.split('/').pop() : ''; }
-function publicMeetingUrl(id) { return id ? `https://einnsyn.no/moetemappe?id=${encodeURIComponent(id)}` : ''; }
+function publicMeetingUrl(id) { return id ? (safeUrl(id) && id.includes('/moetemappe?id=') ? id : `https://einnsyn.no/moetemappe?id=${encodeURIComponent(id)}`) : ''; }
 function publicCaseUrl(id) { return id ? `https://einnsyn.no/moeteregistrering?id=${encodeURIComponent(id)}` : ''; }
 function documentUrl(id) { return id && !String(id).startsWith('db_') && !String(id).startsWith('do_') ? safeUrl(id) : ''; }
 function safeUrl(value) { return typeof value === 'string' && /^https:\/\//i.test(value) ? value : ''; }

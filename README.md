@@ -13,13 +13,15 @@ Dette repoet inneholder både eksisterende OneNote-feeder og en liten, mobilvenn
 - bruker offentlige eInnsyn-lenker til møte, agenda og sak
 - leser `feedV2.xml` for å berike agendaene med sakslenker og innstillinger
 
-Møte-state hentes fra:
+Webappen leser den offentlige projeksjonen `meetings.json` fra dette repoet. Den genereres av integrasjonsrepoets poller og publiseres ved endringer. Hele den private `einnsyn-state.json`-filen publiseres ikke.
+
+Datagrunnlaget bygges fra:
 
 ```text
-https://raw.githubusercontent.com/monsivar/einnsyn-teams-integration-Buskerud-Ap/refs/heads/main/einnsyn-state.json
+`monsivar/einnsyn-teams-integration-Buskerud-Ap/einnsyn-state.json`
 ```
 
-Det betyr at webappen alltid bruker integrasjonens eksisterende datagrunnlag. State blir ikke kopiert eller endret i dette repoet. `feedV2.xml` blir lest lokalt fra samme repo og fortsetter å være tilgjengelig for OneNote-flyten.
+Det betyr at webappen alltid bruker integrasjonens eksisterende datagrunnlag, men bare får en slank offentlig møteprojeksjon. `feedV2.xml` blir lest lokalt fra samme repo og fortsetter å være tilgjengelig for OneNote-flyten.
 
 ## Lokal test
 

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "shardType": "meetings",
   "shardKey": "2025-01",
-  "updatedAtUtc": "09/21/2026 17:51:51",
+  "updatedAtUtc": "09/21/2026 21:07:26",
   "meetingCount": 12,
   "meetings": [
     {
@@ -19,56 +19,232 @@
           "title": "Godkjenning av innkalling med saksliste",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe96814b3-4b63-47f9-b340-dceb69d01ae5",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F386a14e7-f98f-475c-bf26-1c26db84fd13",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jj788xjje44tjr6j34j1dch2",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F386a14e7-f98f-475c-bf26-1c26db84fd13"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "2/2025",
           "title": "Valg av leder og nestleder til Ungdommens fylkesråd",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F6dbcebce-502f-417d-b1ce-b87b63e03736",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa150e86b-91bc-4426-8e18-e1e49aab5169",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jj788xdyeyabqth742pbd4bt",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa150e86b-91bc-4426-8e18-e1e49aab5169"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "3/2025",
           "title": "Orienteringer",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F0ceb3e58-c4a0-4a4e-8845-7eab2b57e4e9",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F652cec9d-e917-4f61-b05f-72672adce1cc",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jj788xc6e5p8r2hxpwdq91a6",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F652cec9d-e917-4f61-b05f-72672adce1cc"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "4/2025",
           "title": "Oppfølging av vedtak 3 a og b i politisk sak 13/2024 - Tilstandsrapport for videregående opplæring i Viken inn mot nye Akershus, Buskerud og Vestfold 2023",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fdfd30caa-4001-42c5-a676-da4aa9b46a50",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0f70c138-430e-4ac5-ba9f-f6d75d7124e7",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jj788xj3eky8xgsfx9hrec83",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0f70c138-430e-4ac5-ba9f-f6d75d7124e7"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "5/2025",
           "title": "Informasjon til fylkestinget om læringsmiljøet, læringsresultatene og gjennomføringen til elevene i opplæringen - skoleåret 2023-24 - Utsatt sak",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F0de4affe-a86f-4a38-a928-69a12923e1d2",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F7471d17d-aedd-4082-8b80-06b6e9ccc51a",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jj788xcmfja8th4tmqb3prtw",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F7471d17d-aedd-4082-8b80-06b6e9ccc51a"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "6/2025",
           "title": "Ungt Entreprenørskap Buskerud - driftstilskudd 2025",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fbfe8fe7e-94f8-442e-8513-b106531bde60",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F285be418-ff98-44a1-a88e-32f1b03ddccf",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jj788xhee4z9dqtegxvmyftw",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F285be418-ff98-44a1-a88e-32f1b03ddccf"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "7/2025",
           "title": "Skolevalget 2025 - Gjennomføring av debatter, valgtorg og stemmegivning",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F8312a250-3486-46ad-b179-15247d716edd",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F809e5486-a03f-466c-bfcc-9349053bd3a8",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jj788xg8eqpb4bjnf707t1mn",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F809e5486-a03f-466c-bfcc-9349053bd3a8"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "8/2025",
           "title": "Åpen post 20.01.25",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F9b3169d3-3fd7-40de-9b2e-c5d56fc2f34c",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fcd89476c-ad29-41af-97d5-5b4bf4e042cc",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jj788xgwev4szzpwhxrqskaj",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fcd89476c-ad29-41af-97d5-5b4bf4e042cc"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         }
       ],
       "attendance": {
@@ -145,21 +321,87 @@
           "title": "Bufdir inviterer til samling i Nettverk for universell utforming i kollektivtransport 13. mars 2025",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fefda78bc-0b1f-41ea-aad3-c57680024bc4",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1984c7f4-1272-412a-a5de-6f9dc05fd365",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jj4fw67devjs4wg9wce0cwj0",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1984c7f4-1272-412a-a5de-6f9dc05fd365"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "2/2025",
           "title": "Suppleringsvalg - oppnevning av nytt medlem til råd for mennesker med funksjonsnedsettelser i Buskerud",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F0b0f4a75-f5be-4803-b01d-52959ca3f90d",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fdea67503-2166-441e-8505-08256cb10910",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jj4fw638fg7venwgwn83e2vn",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fdea67503-2166-441e-8505-08256cb10910"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "3/2025",
           "title": "Åpen post - RFF møte 20. januar 2025",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F4658f9ac-d650-4db2-a538-d4497c171465",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fedd0effd-f505-4f2f-8963-769e6dc2329c",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jj4fw64bfx7re1kz5s39dvpf",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fedd0effd-f505-4f2f-8963-769e6dc2329c"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         }
       ],
       "attendance": {
@@ -237,14 +479,52 @@
           "title": "Suppleringsvalg - oppnevning av nytt medlem til Buskerud eldreråd",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F598a1746-939d-4c89-a3ad-a03e84d2614d",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F755a7ba4-f2fa-435c-9300-735b681d8212",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Buskerud Eldreråds vedtak den 20.01.2025:",
+              "text": "Innstilling fra Buskerud eldreråd til fylkestinget: Fylkestinget oppnevner nytt medlem og varamedlem til Buskerud eldreråd: 1.Svein Markussen, medlem 2.Bjørn Syvertsen, varamedlem Buskerud Eldreråds behandling i møte den 20.01.2025: Fylkeskommunedirektørens innstilling til vedtak: Fylkestinget oppnevner nytt medlem og varamedlem til Buskerud eldreråd: 1.Svein Markussen, medlem 2.Bjørn Syvertsen, varamedlem"
+            },
+            "document": {
+              "objectId": "do_01jqxc9shmftebws591fase9vq",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F755a7ba4-f2fa-435c-9300-735b681d8212"
+            },
+            "error": null
+          }
         },
         {
           "number": "2/2025",
           "title": "Åpen post - Eldrerådet 20. januar 2025",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F782d3a83-b968-45bb-9699-c2b85bd65434",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F256753ce-e929-4440-be37-43ad001cea95",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "Anna-Brita Bakken",
+                "proposerParty": "",
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Buskerud Eldreråds vedtak den 20.01.2025:",
+              "text": "1. Regionale planer - innspill fra medvirkningsrådene Innspill til regionale planer ble gjennomført i felleskap med de andre medvirkningsrådene. 2. Rådets budsjett for 2025 Leder orienterte om budsjettsaken. Det blir laget en egen sak om rådets budsjett for 2025 til neste rådsmøte 17. mars. 3. Innspill til NOU 2024:18 En universell tannhelsetjeneste- Harmonisering, styring og utvidet offentlig ansvar Anna-Brita Bakken fremmet følgende forslag: Eldrerådet i Buskerud fylkeskommune mener det bør innføres eget frikort for tannhelsetjenester i offentlig og i privat sektor. Det må være samme regler for tannhelsefrikortet som for frikortet som til enhver tid gjelder for øvrige helsetjenester. Forslaget ble enstemmig vedtatt, og høringsfristen er 15. mars 2025. 4. Innspill til handlingsprogrammet for samferdsel Eldrerådet ønsker å kunne sende inn et innspill til handlingsprogram for samferdsel før saken behandles i hovedutvalg for samferdsel 12. februar. Rådet vil gjennomføre skriftlig saksbehandling på saken. Buskerud Eldreråds behandling i møte den 20.01.2025:"
+            },
+            "document": {
+              "objectId": "do_01jqxc9spdekwrykg1qzbw8f85",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F256753ce-e929-4440-be37-43ad001cea95"
+            },
+            "error": null
+          }
         }
       ],
       "attendance": {
@@ -322,28 +602,116 @@
           "title": "Godkjenning av innkalling og protokoll",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F1272eee7-94af-420c-8fa5-f19dff5e943d",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F924c4bf7-42a9-4b47-a67a-ae4964d5e7c7",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jj79k8acf9gvf6e6ny9gjxz2",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F924c4bf7-42a9-4b47-a67a-ae4964d5e7c7"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "2/2025",
           "title": "Skolevalget 2025 - Gjennomføring av debatter, valgtorg og stemmegivning",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fa3c3b1ef-0ae6-4000-9718-2a464f7cc4a5",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F61695310-d0df-46bc-85fa-ee29d6a54099",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jj79k8cge21r5nmnc64tzsff",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F61695310-d0df-46bc-85fa-ee29d6a54099"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "3/2025",
           "title": "Åpen post 20. januar 2025",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F0252ee0b-512a-46a4-aa0e-f48098f0a3d5",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3d2e79b5-596a-4667-8cb1-c7cf0a12e849",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jj79k89ne4jv1ctnbs63btek",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3d2e79b5-596a-4667-8cb1-c7cf0a12e849"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "4/2025",
           "title": "Omvalg av flerkulturelt utvalg 2025 - 2027",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F3b5b89ea-1203-4f1a-b984-b4aeedbe8e5a",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc815179e-a782-473f-a4cf-58445cfba2a9",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jj79k8b5fg3t2chvdzk0xerf",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc815179e-a782-473f-a4cf-58445cfba2a9"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         }
       ],
       "attendance": {
@@ -421,28 +789,116 @@
           "title": "Omvalg av flerkulturelt utvalg 2025 - 2027",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F32889b78-414f-4a6b-bc02-784921d35799",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fbe0bbffe-3d2b-4615-8898-0a5d737ae450",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jj6vjhfqeaqv30vcd823t45t",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fbe0bbffe-3d2b-4615-8898-0a5d737ae450"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "2/2025",
           "title": "Suppleringsvalg - oppnevning av nytt medlem til Buskerud eldreråd",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fddf0239e-1cdc-4768-8013-16d0738de94f",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fcc4a14a6-22c1-4734-9a02-f6bda55ecf61",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jj6vjhk7f13vkmywv38xb488",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fcc4a14a6-22c1-4734-9a02-f6bda55ecf61"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "3/2025",
           "title": "Suppleringsvalg - oppnevning av nytt medlem til råd for mennesker med funksjonsnedsettelser i Buskerud",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fafe2fd88-a647-4cea-926a-9f6235b82eac",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F050e8ba1-bd0c-4997-b952-098abd792403",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jj6vjhjkfj4tv6rf14gzes1k",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F050e8ba1-bd0c-4997-b952-098abd792403"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "4/2025",
           "title": "Uttreden fra verv - Camilla Bjørnbakken-Langen (MdG)",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F247abcd3-1631-4f35-826c-0c83c6720852",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F87f5df2c-abbc-4d4c-83bf-8e093b86a6c2",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jj6vjhegfv9bch844ackwnq1",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F87f5df2c-abbc-4d4c-83bf-8e093b86a6c2"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         }
       ],
       "attendance": {
@@ -499,14 +955,58 @@
           "title": "Godkjenning av innkalling og protokoll",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fdac83568-d212-4648-8fa3-2b146402b543",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff341b4c1-e2ca-484d-9f53-619e3e1e75d4",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jjnxzxh0fthagdhjgqr7adjb",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff341b4c1-e2ca-484d-9f53-619e3e1e75d4"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "2/2025",
           "title": "Godkjenning av kriterier for kvalitet i opplæringen av samarbeidsorganer",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F3f16714e-300b-4025-a4fc-751424a552ad",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F191a23e1-d0a7-4eda-9242-a87b99f4410b",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jjnxzxftfrrbd02f84ye34ek",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F191a23e1-d0a7-4eda-9242-a87b99f4410b"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         }
       ],
       "attendance": {
@@ -589,14 +1089,58 @@
           "title": "Godkjenning av innkalling og protokoll",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe9698620-d097-4792-b5e3-e6eae9d7dbd3",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff484d2a0-6b85-4412-9d7d-5f6288d00403",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jjbyz7tkfzs8t55jyctksrwp",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff484d2a0-6b85-4412-9d7d-5f6288d00403"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "2/2025",
           "title": "Orienteringer",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fbacf6eb8-dc6c-411e-a656-3630ab3d4177",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3c80a3e1-ce1d-4306-9563-54fa6982c837",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jjbyz7swfr89ra3ngt3g0s8j",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3c80a3e1-ce1d-4306-9563-54fa6982c837"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         }
       ],
       "attendance": {
@@ -664,77 +1208,319 @@
           "title": "Godkjenning av innkalling og protokoll",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fcbe5847e-5f47-4026-ac38-08f15e87efdc",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0c0d5bc9-8b35-432d-9770-cb8a0569f2c3",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jjnya2fce2tbmvvgqv5gazrx",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0c0d5bc9-8b35-432d-9770-cb8a0569f2c3"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "2/2025",
           "title": "Orienteringer",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F44bfe173-a141-41dd-961e-392158454c64",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4ab0c4d9-d623-4080-bf07-29a455781c9f",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jjnya29kf4ws7rz9wmq77ad1",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4ab0c4d9-d623-4080-bf07-29a455781c9f"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "3/2025",
           "title": "Støtteordninger for næringsutvikling i Buskerud 2025",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fff93bf50-af90-45b9-9730-31b51a53cffd",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe5aed9c5-6754-4fa8-9771-11101b180cfd",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jjnya2hjf5591xfnsnvya2sv",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe5aed9c5-6754-4fa8-9771-11101b180cfd"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "4/2025",
           "title": "Oppdragsbrev 2025 til Innovasjon Norge Øst og Siva",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F2aaba354-1b90-482b-8603-00f32899c14f",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5f1d761e-528f-4934-8383-1a9d54d08cf9",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jjnya292fmvvnz5x7rwc1jke",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5f1d761e-528f-4934-8383-1a9d54d08cf9"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "5/2025",
           "title": "Fylkeskommunal tilleggsfinansiering til Siva-operatørene 2025",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F7689a332-a5b9-4645-9be1-7f0dc8372557",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb2e1eeff-54b3-4d67-97a6-e9d09f0b85e6",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jjnya2d3ehbtbx71xanft1q7",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb2e1eeff-54b3-4d67-97a6-e9d09f0b85e6"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "6/2025",
           "title": "Tiltaksbudsjett næring og klima 2025",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F669db00b-ceae-42c4-93af-d0e61135dfb6",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F7efe9edc-0e48-4e80-b8dd-aa3f040fae2a",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jjnya2cfej4tb6dsqd6kdye5",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F7efe9edc-0e48-4e80-b8dd-aa3f040fae2a"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "7/2025",
           "title": "Innspill til jordbruksforhandlingene 2025",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Ff7233081-2c02-4ca9-ad52-17ddb3520b58",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Faffaea25-4ded-446c-818c-28f917c4ae3a",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jjnya2ggf8yt8z0rkxda7sqy",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Faffaea25-4ded-446c-818c-28f917c4ae3a"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "8/2025",
           "title": "Behandling av innkommet søknad til BIO-ordningen januar 2025",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fb55d4170-baa8-4de1-8549-21008d108c3c",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9e30872f-f4cf-4726-85d4-06a062c71a39",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jjnya2epe3tvwvg1579tjsxr",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9e30872f-f4cf-4726-85d4-06a062c71a39"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "9/2025",
           "title": "Høring - forskrifter under lakse- og innlandsfiskeloven.",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F223e08f6-e1e7-4a54-9375-909b66d6a17b",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa4923edd-9936-4141-aeb9-4b51027e88b7",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jjnya28ge46tfzr6n63qq750",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa4923edd-9936-4141-aeb9-4b51027e88b7"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "10/2025",
           "title": "Høring - Ny bestemmelse i naturmangfoldloven: Forbud mot næringsmessig uttak av myr til torvprodukt",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F4979e8c5-1e24-4498-838c-157414aeb741",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff968f95f-b169-4dc6-8f5a-b203b53c66b8",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jjnya2a8e1ks8bsqn7atzkfz",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff968f95f-b169-4dc6-8f5a-b203b53c66b8"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "11/2025",
           "title": "Høringsuttalelse - Forslag til endringer i tannhelsetjenesteloven",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F83a0456c-2020-430a-81b2-bdca35e79a17",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fae6c19f0-8f59-486a-82bf-216b00071216",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jjnya2dtetwabfw9dsqecx42",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fae6c19f0-8f59-486a-82bf-216b00071216"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         }
       ],
       "attendance": {
@@ -888,56 +1674,232 @@
           "title": "Godkjenning av innkalling og protokoll",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F695f9b1d-d06d-4ace-aa62-2289ff3232b1",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc25be9b0-7d7f-4b94-83ba-2c6c6811c42e",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jjrhgf56e539dxxph33kkpzw",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc25be9b0-7d7f-4b94-83ba-2c6c6811c42e"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "2/2025",
           "title": "Orienteringer",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F2800db9c-74a5-42e6-9095-d1bc02e48d4a",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff4e43cb9-2169-44fa-baac-665433e0a069",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jjrhgf0de4v81jrsfr6jnnsy",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff4e43cb9-2169-44fa-baac-665433e0a069"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "3/2025",
           "title": "Initiativ Brakerøya 2035 - Status og veien videre",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F6451ad77-9f62-4fd3-8342-694f4e8a777c",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Feb4687ad-fd1d-481b-a146-0c0c695c439b",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jjrhgf41e8gr3761rb3cywvc",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Feb4687ad-fd1d-481b-a146-0c0c695c439b"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "4/2025",
           "title": "Lier kommune - Høringsuttalelse til kommunedelplan for Gullaug",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fc847b42c-0c6d-4285-87a0-4e445d44e39b",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2f930fe7-2744-41d1-a745-771717234287",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jjrhgf77f5mvgj0gtmp7rga0",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2f930fe7-2744-41d1-a745-771717234287"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "5/2025",
           "title": "Lier kommune - Kommunedelplan for samferdselsinfrastruktur og kollektivknutepunkt - Fjordbyen - Anmodning om behandling av innsigelse",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F9793c9b1-1572-4c28-8394-dcf7f9686091",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2e89ac29-2312-4adf-9adc-c30798d12a21",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jjrhgf68fs98xwz2sg7axcjr",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2e89ac29-2312-4adf-9adc-c30798d12a21"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "6/2025",
           "title": "Høringssvar fra Buskerud fylkeskommune til om forslag til lov om besøksbidrag",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe8dbca1b-f21d-4b6d-a2e2-c5c1fc1b3d05",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2e8835c1-c878-49a9-a04c-8cee8c23e999",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jjrhgf98epftq7hxtpx96wkh",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2e8835c1-c878-49a9-a04c-8cee8c23e999"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "7/2025",
           "title": "Høyskolen for yrkesfag AS - uttreden og veien videre",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F1913fc8e-5d88-468d-8ed3-795a57cc749b",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F7894bdd8-2c86-4340-9159-9717b478fa51",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jjrhgezmfctsbd70v3zjqkyd",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F7894bdd8-2c86-4340-9159-9717b478fa51"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "8/2025",
           "title": "Ombudet for barn og unge i Akershus, Buskerud og Østfold kommunalt oppgavefellesskap - endring av samarbeidsavtalen",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F176c5945-96ee-46e7-8d7e-b40de8fa1e94",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F07b3d901-b6a8-4232-b55a-a5180e25987e",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jjrhgeymf51sxfrysn83xmfb",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F07b3d901-b6a8-4232-b55a-a5180e25987e"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         }
       ],
       "attendance": {
@@ -1133,28 +2095,116 @@
           "title": "Godkjenning av innkalling og protokoll",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F7fdc2e99-729e-4606-9811-627540e9b12f",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F129707f3-b30b-4a5f-b195-c93035ebb90d",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jkwjcr1setm89p7yzxzhpv0k",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F129707f3-b30b-4a5f-b195-c93035ebb90d"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "2/2025",
           "title": "Orienteringer",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F01dc3743-cf03-4411-9a22-4b8ebc491772",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9288b9df-7fc8-4138-a69b-102f4f2fc62d",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jkwjcqz5f0aa5bdt31dmpq4w",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9288b9df-7fc8-4138-a69b-102f4f2fc62d"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "3/2025",
           "title": "Godkjenning av budsjett 2025 og økonomiplan 2025-2028: Fylkesbiblioteket i Akershus, Buskerud og Østfold kommunalt oppgavefellesskap",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F98467aa0-d6d2-488b-be19-08ec0ea940d7",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2eda91a2-4af0-4490-9c5b-d828676d8329",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jkwjcr2mecd88h0t7bkfr82k",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2eda91a2-4af0-4490-9c5b-d828676d8329"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "4/2025",
           "title": "Endring av møteplan 2025 Fylkesbiblioteket i Akershus, Buskerud og Østfold kommunalt oppgavefellesskap",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F5f2abb2a-d25f-4572-a18b-7b773765af1b",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F97b4bf2a-24da-4d79-a9aa-e61a656996d8",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jkwjcr0qenprxa66x46ekrkw",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F97b4bf2a-24da-4d79-a9aa-e61a656996d8"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         }
       ],
       "attendance": {

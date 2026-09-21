@@ -2,6 +2,7 @@
  * The app reads the public meeting projection and RSS feed at runtime.
  * The private integration state is never copied to the public webapp.
  */
+const INDEX_URL = './einnsyn-meetings-index.json';
 const DATA_URL = ['localhost', '127.0.0.1'].includes(window.location.hostname)
   ? '/einnsyn-meetings-catalog.json'
   : './meetings.json';
@@ -42,11 +43,8 @@ function bindControls() {
 
 async function loadData() {
   try {
-    const [stateResponse, feedResponse] = await Promise.all([fetch(DATA_URL, { cache: 'no-store' }), fetch(FEED_URL, { cache: 'no-store' })]);
-    if (!stateResponse.ok) throw new Error(`State kunne ikke hentes (${stateResponse.status})`);
-    const stateJson = await stateResponse.json();
+    const [rawMeetings, feedResponse] = await Promise.all([loadMeetings(), fetch(FEED_URL, { cache: 'no-store' })]);
     const feedText = feedResponse.ok ? await feedResponse.text() : '';
-    const rawMeetings = Array.isArray(stateJson) ? stateJson : (Array.isArray(stateJson.meetings) ? stateJson.meetings : []);
     state.meetings = normalizeMeetings(rawMeetings, parseFeed(feedText));
     populateCommittees();
     els.loading.hidden = true;
@@ -60,17 +58,66 @@ async function loadData() {
   }
 }
 
+async function loadMeetings() {
+  try {
+    const indexResponse = await fetch(INDEX_URL, { cache: 'no-store' });
+    if (!indexResponse.ok) throw new Error(`Indeks kunne ikke hentes (${indexResponse.status})`);
+    const index = await indexResponse.json();
+    if (index.catalogType !== 'meeting-index' || Number(index.schemaVersion) !== 1 || !Array.isArray(index.shards)) {
+      throw new Error('Møteindeksen har uventet format');
+    }
+
+    const shards = await Promise.all(index.shards.map(async shard => {
+      const path = String(shard.path || '');
+      if (!/^einnsyn-meetings-shards\/\d{4}-(0[1-9]|1[0-2])\.json$/.test(path)) {
+        throw new Error(`Ugyldig shard-bane: ${path}`);
+      }
+      const response = await fetch(`./${path}`, { cache: 'no-store' });
+      if (!response.ok) throw new Error(`Shard kunne ikke hentes (${response.status}): ${path}`);
+      const payload = await response.json();
+      if (Number(payload.schemaVersion) !== 1 || payload.shardType !== 'meetings' || !Array.isArray(payload.meetings)) {
+        throw new Error(`Shard har uventet format: ${path}`);
+      }
+      if (payload.shardKey !== shard.key || Number(payload.meetingCount) !== payload.meetings.length || Number(shard.meetingCount) !== payload.meetings.length) {
+        throw new Error(`Shard-antall stemmer ikke: ${path}`);
+      }
+      return payload.meetings;
+    }));
+
+    const meetings = shards.flat();
+    if (Number(index.meetingCount) !== meetings.length) throw new Error('Møteindeksen summerer ikke til riktig møteantall');
+    return meetings;
+  } catch (indexError) {
+    const legacyResponse = await fetch(DATA_URL, { cache: 'no-store' });
+    if (!legacyResponse.ok) throw new Error(`${indexError.message}. Fallback-data kunne ikke hentes (${legacyResponse.status})`);
+    const legacy = await legacyResponse.json();
+    const meetings = Array.isArray(legacy) ? legacy : legacy.meetings;
+    if (!Array.isArray(meetings)) throw new Error('Fallback-data har uventet format');
+    return meetings;
+  }
+}
+
 function normalizeMeetings(rawMeetings, feedByMeeting) {
   const now = new Date();
   return rawMeetings.map(raw => {
     const meetingId = raw.meetingId || raw.id || decodeMeetingId(raw.meetingUrl) || '';
     const meetingUrlFromState = safeUrl(raw.meetingUrl);
     const feed = feedByMeeting.get(meetingId) || feedByMeeting.get(meetingUrlFromState) || feedByMeeting.get(publicMeetingUrl(raw.meetingId)) || {};
-    const cases = mergeCases(raw.agendaCases, feed.cases, feed.decisions);
+    const catalogDecisions = Array.isArray(raw.caseDecisions) ? raw.caseDecisions : [];
+    const rawCases = Array.isArray(raw.agendaCases) ? raw.agendaCases.map(item => {
+      const decision = catalogDecisions.find(candidate => candidate.caseId === item.id);
+      return {
+        ...item,
+        caseUrl: safeUrl(item.caseUrl) || publicCaseUrl(item.id),
+        decisionUrl: safeUrl(item.decisionUrl) || safeUrl(decision?.publicUrl)
+      };
+    }) : [];
+    const cases = mergeCases(rawCases, feed.cases, feed.decisions);
     const date = new Date(raw.meetingDateUtc || raw.meetingDate || feed.date);
     const meetingUrl = safeUrl(raw.meetingUrl) || publicMeetingUrl(meetingId) || safeUrl(feed.meetingUrl);
-    const agendaUrl = safeUrl(raw.agendaUrl) || safeUrl(feed.agendaUrl) || documentUrl(raw.agendaDocumentObjectId);
-    return { id: meetingId, title: raw.title || feed.title || 'Møte', committee: raw.committee || feed.committee || 'Politisk organ', date, place: raw.meetingPlace || feed.place || '', agendaAvailable: Boolean(raw.agendaAvailable || cases.length || feed.agendaAvailable), agendaUrl, meetingUrl, cases, protocolAvailable: Boolean(raw.protocolAvailable || feed.protocol), protocolUrl: safeUrl(feed.protocolUrl) || safeUrl(raw.protocolUrl), past: date < now };
+    const agendaUrl = safeUrl(raw.agendaUrl) || safeUrl(feed.agendaUrl) || agendaDocumentUrl(raw.agendaDocumentObjectId);
+    const protocolUrl = safeUrl(feed.protocolUrl) || safeUrl(raw.protocolUrl) || protocolDocumentUrl(raw.protocolDocumentIds);
+    return { id: meetingId, title: raw.title || feed.title || 'Møte', committee: raw.committee || feed.committee || 'Politisk organ', date, place: raw.meetingPlace || feed.place || '', agendaAvailable: Boolean(raw.agendaAvailable || cases.length || feed.agendaAvailable), agendaUrl, meetingUrl, cases, protocolAvailable: Boolean(protocolUrl), protocolUrl, past: date < now };
   }).filter(meeting => meeting.id && !Number.isNaN(meeting.date.getTime())).sort((a, b) => a.date - b.date);
 }
 
@@ -184,6 +231,8 @@ function cleanTitle(title) { return title.replace(/^Møte i\s+/i, ''); }
 function publicId(value) { return value ? value.split('/').pop() : ''; }
 function publicMeetingUrl(id) { return id ? (safeUrl(id) && id.includes('/moetemappe?id=') ? id : `https://einnsyn.no/moetemappe?id=${encodeURIComponent(id)}`) : ''; }
 function publicCaseUrl(id) { return id ? `https://einnsyn.no/moeteregistrering?id=${encodeURIComponent(id)}` : ''; }
+function agendaDocumentUrl(id) { return id && /^do_[a-z0-9]+$/i.test(String(id)) ? `https://api.einnsyn.no/dokumentobjekt/${encodeURIComponent(id)}/download` : ''; }
+function protocolDocumentUrl(value) { const id = Array.isArray(value) ? value[0] : value; return safeUrl(id) ? `https://einnsyn.no/api/v2/fil?iri=${encodeURIComponent(id)}` : ''; }
 function documentUrl(id) { return id && !String(id).startsWith('db_') && !String(id).startsWith('do_') ? safeUrl(id) : ''; }
 function safeUrl(value) { return typeof value === 'string' && /^https:\/\//i.test(value) ? value : ''; }
 function attrUrl(value) { return escapeHtml(safeUrl(value)); }

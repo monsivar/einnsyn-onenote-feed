@@ -1,9 +1,9 @@
-const CACHE_NAME = 'einnsyn-buskerud-shell-v1.1.0';
+const CACHE_NAME = 'einnsyn-buskerud-shell-v1.2.0';
 const APP_SHELL = [
   './',
   './index.html',
   './styles.css',
-  './app.js?v=1.1.0',
+  './app.js?v=1.2.0',
   './arbeiderpartiet-rose.png',
   './manifest.json',
   './icon-180.png',
@@ -30,7 +30,9 @@ self.addEventListener('fetch', event => {
 
   const isLiveData = url.pathname.endsWith('/meetings.json')
     || url.pathname.endsWith('/feedV2.xml')
-    || url.pathname.endsWith('/einnsyn-kommune-tv.json');
+    || url.pathname.endsWith('/einnsyn-kommune-tv.json')
+    || url.pathname.endsWith('/bfk-representatives.json')
+    || url.pathname.endsWith('/bfk-representative-display-rules.json');
   if (isLiveData) {
     event.respondWith(
       fetch(event.request, { cache: 'no-store' })

@@ -8,8 +8,10 @@ const DATA_URL = ['localhost', '127.0.0.1'].includes(window.location.hostname)
   : './meetings.json';
 const FEED_URL = './feedV2.xml';
 const KOMMUNE_TV_URL = './einnsyn-kommune-tv.json';
+const REPRESENTATIVE_REGISTRY_URLS = ['./bfk-representatives.json', '../config/bfk-representatives.json'];
+const REPRESENTATIVE_DISPLAY_RULES_URLS = ['./bfk-representative-display-rules.json', '../config/bfk-representative-alias-candidates.json'];
 
-const state = { meetings: [], representatives: [], view: 'upcoming', filters: { search: '', committee: '', agenda: 'all', range: 'all', representative: '', roles: [] } };
+const state = { meetings: [], representatives: [], representativeLookup: emptyRepresentativeLookup(), view: 'upcoming', filters: { search: '', committee: '', agenda: 'all', range: 'all', representative: '', representativeId: '', roles: [] } };
 const els = {};
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -38,6 +40,7 @@ function bindControls() {
   els.range.addEventListener('change', event => { state.filters.range = event.target.value; render(); });
   els.representative.addEventListener('input', event => {
     state.filters.representative = event.target.value.trim().toLocaleLowerCase('nb-NO');
+    state.filters.representativeId = '';
     renderRepresentativeSuggestions(event.target.value);
     render();
   });
@@ -46,6 +49,7 @@ function bindControls() {
     if (!option) return;
     els.representative.value = option.dataset.representative;
     state.filters.representative = option.dataset.representative.toLocaleLowerCase('nb-NO');
+    state.filters.representativeId = option.dataset.representativeId || '';
     hideRepresentativeSuggestions();
     render();
   });
@@ -57,7 +61,7 @@ function bindControls() {
     if (!event.target.closest('.representative-picker')) hideRepresentativeSuggestions();
   });
   els.reset.addEventListener('click', () => {
-    state.filters = { search: '', committee: '', agenda: 'all', range: 'all', representative: '', roles: [] };
+    state.filters = { search: '', committee: '', agenda: 'all', range: 'all', representative: '', representativeId: '', roles: [] };
     els.search.value = ''; els.committee.value = ''; els.agenda.value = 'all'; els.range.value = state.filters.range; render();
     els.representative.value = ''; els.speakerRole.checked = false; els.proposerRole.checked = false; hideRepresentativeSuggestions();
   });
@@ -65,9 +69,10 @@ function bindControls() {
 
 async function loadData() {
   try {
-    const [rawMeetings, feedResponse, kommuneTvByMeeting] = await Promise.all([loadMeetings(), fetch(FEED_URL, { cache: 'no-store' }), loadKommuneTv()]);
+    const [rawMeetings, feedResponse, kommuneTvByMeeting, representativeRegistry, representativeDisplayRules] = await Promise.all([loadMeetings(), fetch(FEED_URL, { cache: 'no-store' }), loadKommuneTv(), loadRepresentativeRegistry(), loadRepresentativeDisplayRules()]);
     const feedText = feedResponse.ok ? await feedResponse.text() : '';
-    state.meetings = normalizeMeetings(rawMeetings, parseFeed(feedText), kommuneTvByMeeting);
+    state.representativeLookup = buildRepresentativeLookup(representativeRegistry, representativeDisplayRules);
+    state.meetings = normalizeMeetings(rawMeetings, parseFeed(feedText), kommuneTvByMeeting, state.representativeLookup);
     populateCommittees();
     populateRepresentatives();
     els.loading.hidden = true;
@@ -120,7 +125,7 @@ async function loadMeetings() {
   }
 }
 
-function normalizeMeetings(rawMeetings, feedByMeeting, kommuneTvByMeeting) {
+function normalizeMeetings(rawMeetings, feedByMeeting, kommuneTvByMeeting, representativeLookup) {
   const now = new Date();
   return rawMeetings.map(raw => {
     const meetingId = raw.meetingId || raw.id || decodeMeetingId(raw.meetingUrl) || '';
@@ -133,18 +138,98 @@ function normalizeMeetings(rawMeetings, feedByMeeting, kommuneTvByMeeting) {
         ...item,
         caseUrl: safeUrl(item.caseUrl) || publicCaseUrl(item.id),
         decisionUrl: safeUrl(item.decisionUrl) || safeUrl(decision?.publicUrl),
-        metadata: normalizeCaseMetadata(item.metadata || item.caseMetadata)
+        metadata: normalizeCaseMetadata(item.metadata || item.caseMetadata, representativeLookup)
       };
     }) : [];
-    const cases = mergeCases(rawCases, feed.cases, feed.decisions);
+    const cases = mergeCases(rawCases, feed.cases, feed.decisions, representativeLookup);
     const date = new Date(raw.meetingDateUtc || raw.meetingDate || feed.date);
     const meetingUrl = safeUrl(raw.meetingUrl) || publicMeetingUrl(meetingId) || safeUrl(feed.meetingUrl);
     const agendaUrl = safeUrl(raw.agendaUrl) || safeUrl(feed.agendaUrl) || agendaDocumentUrl(raw.agendaDocumentObjectId);
     const protocolUrl = safeUrl(feed.protocolUrl) || safeUrl(raw.protocolUrl) || protocolDocumentUrl(raw.protocolDocumentIds);
     const kommuneTv = kommuneTvByMeeting.get(meetingId) || kommuneTvByMeeting.get(`${dateKey(date)}|${raw.committee || feed.committee || ''}`) || {};
     const enrichedCases = cases.map(item => ({ ...item, kommuneTvUrl: findKommuneTvCaseUrl(item, kommuneTv.cases) }));
-    return { id: meetingId, title: raw.title || feed.title || 'Møte', committee: raw.committee || feed.committee || 'Politisk organ', date, place: raw.meetingPlace || feed.place || '', agendaAvailable: Boolean(raw.agendaAvailable || enrichedCases.length || feed.agendaAvailable), agendaUrl, meetingUrl, kommuneTvUrl: safeUrl(kommuneTv.meetingUrl), cases: enrichedCases, attendance: normalizeAttendance(raw.attendance || raw.attendanceMetadata), metadataStatus: raw.metadataStatus || 'not_present', protocolAvailable: Boolean(protocolUrl), protocolUrl, past: date < now };
+    return { id: meetingId, title: raw.title || feed.title || 'Møte', committee: raw.committee || feed.committee || 'Politisk organ', date, place: raw.meetingPlace || feed.place || '', agendaAvailable: Boolean(raw.agendaAvailable || enrichedCases.length || feed.agendaAvailable), agendaUrl, meetingUrl, kommuneTvUrl: safeUrl(kommuneTv.meetingUrl), cases: enrichedCases, attendance: normalizeAttendance(raw.attendance || raw.attendanceMetadata, representativeLookup), metadataStatus: raw.metadataStatus || 'not_present', protocolAvailable: Boolean(protocolUrl), protocolUrl, past: date < now };
   }).filter(meeting => meeting.id && !Number.isNaN(meeting.date.getTime())).sort((a, b) => a.date - b.date);
+}
+
+async function loadRepresentativeRegistry() {
+  for (const url of REPRESENTATIVE_REGISTRY_URLS) {
+    try {
+      const response = await fetch(url, { cache: 'no-store' });
+      if (!response.ok) continue;
+      const payload = await response.json();
+      if (payload && Array.isArray(payload.parties)) return payload;
+    } catch { /* The raw metadata remains usable if the optional registry is unavailable. */ }
+  }
+  return null;
+}
+
+async function loadRepresentativeDisplayRules() {
+  for (const url of REPRESENTATIVE_DISPLAY_RULES_URLS) {
+    try {
+      const response = await fetch(url, { cache: 'no-store' });
+      if (!response.ok) continue;
+      const payload = await response.json();
+      if (payload && (Array.isArray(payload.ignoredObservedNames) || Array.isArray(payload.candidates))) return payload;
+    } catch { /* Display rules are optional; unmatched names remain visible as raw values. */ }
+  }
+  return null;
+}
+
+function emptyRepresentativeLookup() {
+  return { byName: new Map(), byId: new Map(), records: [], ignoredNames: new Set() };
+}
+
+function buildRepresentativeLookup(payload, displayRules) {
+  const lookup = emptyRepresentativeLookup();
+  const ignoredObservedNames = Array.isArray(displayRules?.ignoredObservedNames)
+    ? displayRules.ignoredObservedNames
+    : Array.isArray(displayRules?.candidates)
+      ? displayRules.candidates.filter(candidate => candidate.ignored && candidate.suggestionReason === 'manual-ignored-composite-name').map(candidate => candidate.observedName)
+      : [];
+  lookup.ignoredNames = new Set(ignoredObservedNames.map(normalizeRepresentativeName).filter(Boolean));
+  if (!payload || !Array.isArray(payload.parties)) return lookup;
+  payload.parties.forEach(party => {
+    (Array.isArray(party.members) ? party.members : []).forEach(member => {
+      const record = {
+        id: String(member.id || ''),
+        displayName: String(member.displayName || '').trim(),
+        aliases: Array.isArray(member.aliases) ? member.aliases.map(String).map(value => value.trim()).filter(Boolean) : [],
+        party: String(party.id || '').trim(),
+        partyName: String(party.name || '').trim(),
+        membershipType: member.membershipType || '',
+      };
+      if (!record.id || !record.displayName) return;
+      record.searchNames = [record.displayName, ...record.aliases];
+      lookup.records.push(record);
+      lookup.byId.set(record.id, record);
+      record.searchNames.forEach(name => {
+        const key = normalizeRepresentativeName(name);
+        if (key) lookup.byName.set(key, record);
+      });
+    });
+  });
+  return lookup;
+}
+
+function normalizeRepresentativeName(value) {
+  return String(value || '')
+    .normalize('NFKC')
+    .replace(/[–—−]/g, '-')
+    .replace(/[.,]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .toLocaleLowerCase('nb-NO')
+    .replace(/\s+(?:a|ap|h|frp|inp|krf|sp|mdg|sv|v|r|pp)\.?$/, '')
+    .trim();
+}
+
+function resolveRepresentative(name, lookup) {
+  return lookup?.byName?.get(normalizeRepresentativeName(name)) || null;
+}
+
+function isIgnoredRepresentativeName(name, lookup) {
+  return Boolean(name && lookup?.ignoredNames?.has(normalizeRepresentativeName(name)));
 }
 
 function dateKey(date) {
@@ -194,35 +279,73 @@ function parseFeed(xmlText) {
   return result;
 }
 
-function mergeCases(...caseLists) {
+function mergeCases(...args) {
+  const representativeLookup = args.pop();
+  const caseLists = args;
   const byNumber = new Map();
   caseLists.flatMap(list => Array.isArray(list) ? list : []).forEach(item => {
     const number = item.number || item.caseNumber || '';
     if (!number) return;
     const previous = byNumber.get(number) || {};
-    byNumber.set(number, { ...previous, ...item, caseUrl: safeUrl(item.caseUrl) || publicCaseUrl(item.id || item.caseId) || previous.caseUrl, decisionUrl: safeUrl(item.decisionUrl) || previous.decisionUrl || '', documents: item.documents || previous.documents || [], recommendation: item.recommendation || previous.recommendation, metadata: normalizeCaseMetadata(item.metadata || item.caseMetadata || previous.metadata) });
+    byNumber.set(number, { ...previous, ...item, caseUrl: safeUrl(item.caseUrl) || publicCaseUrl(item.id || item.caseId) || previous.caseUrl, decisionUrl: safeUrl(item.decisionUrl) || previous.decisionUrl || '', documents: item.documents || previous.documents || [], recommendation: item.recommendation || previous.recommendation, metadata: normalizeCaseMetadata(item.metadata || item.caseMetadata || previous.metadata, representativeLookup) });
   });
   return [...byNumber.values()].sort((a, b) => String(a.number).localeCompare(String(b.number), 'nb-NO', { numeric: true }));
 }
 
-function normalizeCaseMetadata(metadata) {
+function normalizeCaseMetadata(metadata, representativeLookup) {
   if (!metadata) return null;
   const speakerSource = Array.isArray(metadata.speakers) ? metadata.speakers : metadata.speakers?.speakers;
   const proposalSource = Array.isArray(metadata.proposals) ? metadata.proposals : metadata.proposals?.proposals;
   return {
     ...metadata,
-    speakers: Array.isArray(speakerSource) ? speakerSource.map(person => ({ name: person.name || person.displayName || '', party: person.party || person.partyAtStatementRaw || '' })).filter(person => person.name) : [],
-    proposals: Array.isArray(proposalSource) ? proposalSource.map(proposal => ({ proposerName: proposal.proposerName || '', proposerParty: proposal.proposerParty || proposal.proposerPartyRaw || '', onBehalfOf: proposal.onBehalfOf || proposal.onBehalfOfRaw || '' })).filter(proposal => proposal.proposerName) : []
+    speakers: Array.isArray(speakerSource) ? speakerSource.map(person => normalizeSpeaker(person, representativeLookup)).filter(person => person?.name) : [],
+    proposals: Array.isArray(proposalSource) ? proposalSource.map(proposal => normalizeProposal(proposal, representativeLookup)).filter(proposal => proposal?.proposerName) : []
   };
 }
 
-function normalizeAttendance(attendance) {
-  if (!attendance) return null;
-  const normalizePeople = people => (Array.isArray(people) ? people : []).map(person => ({
+function normalizeSpeaker(person, representativeLookup) {
+  const rawName = person.observedName || person.name || person.displayName || '';
+  if (isIgnoredRepresentativeName(rawName, representativeLookup)) return null;
+  const representative = resolveRepresentative(rawName, representativeLookup);
+  return {
     ...person,
-    name: person.name || person.displayName || '',
-    representedBy: person.representedBy || person.representedByRaw || person.partyName || person.party || ''
-  })).filter(person => person.name);
+    observedName: rawName,
+    name: representative?.displayName || rawName,
+    party: person.party || person.partyAtStatementRaw || representative?.party || '',
+    representativeId: representative?.id || '',
+    representativeAliases: representative?.searchNames || []
+  };
+}
+
+function normalizeProposal(proposal, representativeLookup) {
+  const rawName = proposal.observedProposerName || proposal.proposerName || '';
+  if (isIgnoredRepresentativeName(rawName, representativeLookup)) return null;
+  const representative = resolveRepresentative(rawName, representativeLookup);
+  return {
+    ...proposal,
+    observedProposerName: rawName,
+    proposerName: representative?.displayName || rawName,
+    proposerParty: proposal.proposerParty || proposal.proposerPartyRaw || representative?.party || '',
+    representativeId: representative?.id || '',
+    representativeAliases: representative?.searchNames || []
+  };
+}
+
+function normalizeAttendance(attendance, representativeLookup) {
+  if (!attendance) return null;
+  const normalizePeople = people => (Array.isArray(people) ? people : []).map(person => {
+    const rawName = person.name || person.displayName || '';
+    if (isIgnoredRepresentativeName(rawName, representativeLookup)) return null;
+    const representative = resolveRepresentative(rawName, representativeLookup);
+    return {
+      ...person,
+      observedName: rawName,
+      name: representative?.displayName || rawName,
+      representativeId: representative?.id || '',
+      representativeAliases: representative?.searchNames || [],
+      representedBy: person.representedBy || person.representedByRaw || person.partyName || person.party || representative?.party || ''
+    };
+  }).filter(person => person?.name);
   return { ...attendance, fixedMembers: normalizePeople(attendance.fixedMembers), deputies: normalizePeople(attendance.deputies) };
 }
 
@@ -278,9 +401,15 @@ function caseMatchesAdvanced(item) {
   const speakers = Array.isArray(metadata.speakers) ? metadata.speakers : [];
   const proposals = Array.isArray(metadata.proposals) ? metadata.proposals : [];
   const query = state.filters.representative;
-  const personMatches = !query || [...speakers.map(person => person.name), ...proposals.map(proposal => proposal.proposerName)].some(name => String(name || '').toLocaleLowerCase('nb-NO').startsWith(query));
-  const roleMatches = !state.filters.roles.length || state.filters.roles.some(role => role === 'speaker' ? speakers.some(person => !query || person.name.toLocaleLowerCase('nb-NO').startsWith(query)) : proposals.some(proposal => !query || proposal.proposerName.toLocaleLowerCase('nb-NO').startsWith(query)));
+  const personMatches = !query || speakers.some(person => representativeMatches(person, query, state.filters.representativeId)) || proposals.some(proposal => representativeMatches(proposal, query, state.filters.representativeId));
+  const roleMatches = !state.filters.roles.length || state.filters.roles.some(role => role === 'speaker' ? speakers.some(person => !query || representativeMatches(person, query, state.filters.representativeId)) : proposals.some(proposal => !query || representativeMatches(proposal, query, state.filters.representativeId)));
   return personMatches && roleMatches;
+}
+
+function representativeMatches(person, query, representativeId) {
+  if (representativeId) return person.representativeId === representativeId;
+  const names = [person.name, person.proposerName, person.observedName, person.observedProposerName, ...(person.representativeAliases || [])];
+  return names.filter(Boolean).some(name => String(name).toLocaleLowerCase('nb-NO').startsWith(query));
 }
 
 function renderMeeting(meeting) {
@@ -376,22 +505,33 @@ function populateCommittees() {
 }
 
 function populateRepresentatives() {
-  const names = new Set();
+  const representatives = new Map();
+  const addPerson = person => {
+    const displayName = person?.name || person?.proposerName || '';
+    if (!displayName) return;
+    if (person.representativeId && state.representativeLookup.byId.has(person.representativeId)) {
+      const record = state.representativeLookup.byId.get(person.representativeId);
+      representatives.set(record.id, record);
+      return;
+    }
+    const key = normalizeRepresentativeName(displayName);
+    if (key && !representatives.has(`raw:${key}`)) representatives.set(`raw:${key}`, { id: '', displayName, aliases: [displayName], searchNames: [displayName], party: '' });
+  };
   state.meetings.forEach(meeting => {
-    [...(meeting.attendance?.fixedMembers || []), ...(meeting.attendance?.deputies || [])].forEach(person => names.add(person.name));
+    [...(meeting.attendance?.fixedMembers || []), ...(meeting.attendance?.deputies || [])].forEach(addPerson);
     meeting.cases.forEach(item => {
-      (item.metadata?.speakers || []).forEach(person => names.add(person.name));
-      (item.metadata?.proposals || []).forEach(proposal => names.add(proposal.proposerName));
+      (item.metadata?.speakers || []).forEach(addPerson);
+      (item.metadata?.proposals || []).forEach(addPerson);
     });
   });
-  state.representatives = [...names].filter(Boolean).sort((a, b) => a.localeCompare(b, 'nb-NO'));
+  state.representatives = [...representatives.values()].sort((a, b) => a.displayName.localeCompare(b.displayName, 'nb-NO'));
 }
 
 function renderRepresentativeSuggestions(value) {
   const query = value.trim().toLocaleLowerCase('nb-NO');
   if (!query) return hideRepresentativeSuggestions();
-  const matches = state.representatives.filter(name => name.toLocaleLowerCase('nb-NO').startsWith(query));
-  els.representativeSuggestions.innerHTML = matches.map(name => `<button type="button" role="option" data-representative="${escapeHtml(name)}">${escapeHtml(name)}</button>`).join('');
+  const matches = state.representatives.filter(representative => representative.searchNames.some(name => String(name).toLocaleLowerCase('nb-NO').startsWith(query)));
+  els.representativeSuggestions.innerHTML = matches.map(representative => `<button type="button" role="option" data-representative="${escapeHtml(representative.displayName)}" data-representative-id="${escapeHtml(representative.id)}">${escapeHtml(representative.displayName)}</button>`).join('');
   els.representativeSuggestions.hidden = matches.length === 0;
 }
 

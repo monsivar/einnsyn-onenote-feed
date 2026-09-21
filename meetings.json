@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-21T12:17:01.2121231+00:00",
+  "generatedAtUtc": "2026-09-21T13:20:30.7429035+00:00",
   "source": "eInnsyn",
   "meetings": [
     {
       "title": "Møte i Fylkestinget 19.10.2023",
       "committee": "Fylkestinget",
-      "meetingDateUtc": "10/19/2023 06:00:00",
+      "meetingDateUtc": "2023-10-19T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F42a79600-ca69-4357-b983-60d3d952b06e",
       "agendaAvailable": true,
@@ -169,7 +169,7 @@
     {
       "title": "Møte i Fylkesutvalget 26.10.2023",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "10/26/2023 06:00:00",
+      "meetingDateUtc": "2023-10-26T08:00:00.000Z",
       "meetingPlace": "Union Scene, Grønland 60, 3045 Drammen, Multisal 2",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F44efde33-d325-4d0d-b63c-6859c93d3363",
       "agendaAvailable": true,
@@ -212,7 +212,7 @@
     {
       "title": "Møte i Fylkestinget 02.11.2023",
       "committee": "Fylkestinget",
-      "meetingDateUtc": "11/02/2023 14:00:00",
+      "meetingDateUtc": "2023-11-02T15:00:00.000Z",
       "meetingPlace": "Klækken hotell, Hadelandsveien 386, 3514 Hønefoss",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe2497099-c1aa-4e6d-a53f-871dcfb1540b",
       "agendaAvailable": true,
@@ -249,7 +249,7 @@
     {
       "title": "Møte i Yrkesopplæringsnemnda 13.11.2023",
       "committee": "Yrkesopplæringsnemnda",
-      "meetingDateUtc": "11/13/2023 07:00:00",
+      "meetingDateUtc": "2023-11-13T08:00:00.000Z",
       "meetingPlace": "Union Scene, Grønland 60, Drammen, Union Scene, Grønland 60, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fce19e139-0514-4026-ac69-558001ff9ef7",
       "agendaAvailable": true,
@@ -310,7 +310,7 @@
     {
       "title": "Møte i Buskerud Eldreråd 20.11.2023",
       "committee": "Buskerud Eldreråd",
-      "meetingDateUtc": "11/20/2023 08:00:00",
+      "meetingDateUtc": "2023-11-20T09:00:00.000Z",
       "meetingPlace": "Union Scene, Grønland 60, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F5c7ae9f1-891b-42d2-9183-eeb801de417f",
       "agendaAvailable": true,
@@ -341,7 +341,7 @@
     {
       "title": "Møte i Ungdommens fylkesråd 20.11.2023",
       "committee": "Ungdommens fylkesråd",
-      "meetingDateUtc": "11/20/2023 08:00:00",
+      "meetingDateUtc": "2023-11-20T09:00:00.000Z",
       "meetingPlace": "Scandic Ambassadeur Drammen, Strømsø Torg 7, 3044 Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F5c915573-87da-4e49-8fb7-e612f3b60ae1",
       "agendaAvailable": true,
@@ -384,7 +384,7 @@
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 21.11.2023",
       "committee": "Råd for mennesker med funksjonsnedsettelse",
-      "meetingDateUtc": "11/21/2023 08:00:00",
+      "meetingDateUtc": "2023-11-21T09:00:00.000Z",
       "meetingPlace": "Union Scene, Grønland 60, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F2baa446f-fa59-456e-8bd6-eed5437b01ea",
       "agendaAvailable": true,
@@ -415,7 +415,7 @@
     {
       "title": "Møte i Flerkulturelt utvalg 21.11.2023",
       "committee": "Flerkulturelt utvalg",
-      "meetingDateUtc": "11/21/2023 08:00:00",
+      "meetingDateUtc": "2023-11-21T09:00:00.000Z",
       "meetingPlace": "Multisal 2, Union Scene, Grønland 60, Drammen.,",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F2efd3f35-3cc6-4343-a32b-d1e3521afa68",
       "agendaAvailable": true,
@@ -458,7 +458,7 @@
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 22.11.2023",
       "committee": "Hovedutvalg for næring og innovasjon",
-      "meetingDateUtc": "11/22/2023 08:00:00",
+      "meetingDateUtc": "2023-11-22T09:00:00.000Z",
       "meetingPlace": "Union Scene, Grønland 60, 3045 Drammen, Multisal 1",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F6d643826-fa1b-4f3b-9fce-8bc1da5f0b8f",
       "agendaAvailable": true,
@@ -489,7 +489,7 @@
     {
       "title": "Møte i Hovedutvalg for samferdsel 22.11.2023",
       "committee": "Hovedutvalg for samferdsel",
-      "meetingDateUtc": "11/22/2023 08:00:00",
+      "meetingDateUtc": "2023-11-22T09:00:00.000Z",
       "meetingPlace": "Union Scene, multisal 2 ,Grønland 60, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fddae51f1-46ea-4d90-802f-364989539067",
       "agendaAvailable": true,
@@ -514,7 +514,7 @@
     {
       "title": "Møte i Hovedutvalg for opplæring 24.11.2023",
       "committee": "Hovedutvalg for opplæring",
-      "meetingDateUtc": "11/24/2023 08:00:00",
+      "meetingDateUtc": "2023-11-24T09:00:00.000Z",
       "meetingPlace": "Union scene, Grønland 60, Drammen, Union scene, Grønland 60, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F7a0a2d99-b9f7-4045-8ac1-2b245edc5db8",
       "agendaAvailable": true,
@@ -551,7 +551,7 @@
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 24.11.2023",
       "committee": "Hovedutvalg for kultur, idrett og folkehelse",
-      "meetingDateUtc": "11/24/2023 08:00:00",
+      "meetingDateUtc": "2023-11-24T09:00:00.000Z",
       "meetingPlace": "Union Scene, Grønland 60, 3045 Drammen, Multisal 2",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fc1e7c74a-23bf-434b-9e48-4449f4f2b729",
       "agendaAvailable": true,
@@ -576,7 +576,7 @@
     {
       "title": "Møte i Fylkesutvalget 27.11.2023",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "11/27/2023 08:00:00",
+      "meetingDateUtc": "2023-11-27T09:00:00.000Z",
       "meetingPlace": "Multisal 2, Union Scene, Grønland 60, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F23eae5c9-1422-4cb6-84e9-f929fb6880ac",
       "agendaAvailable": true,
@@ -619,7 +619,7 @@
     {
       "title": "Møte i Partssammensatt utvalg 30.11.2023",
       "committee": "Partssammensatt utvalg",
-      "meetingDateUtc": "11/30/2023 13:00:00",
+      "meetingDateUtc": "2023-11-30T14:00:00.000Z",
       "meetingPlace": "Digitalt møte på teams",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F18c7385f-5eca-4323-8725-2946be90915c",
       "agendaAvailable": true,
@@ -656,7 +656,7 @@
     {
       "title": "Møte i Fylkesutvalget 05.12.2023",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "12/05/2023 08:00:00",
+      "meetingDateUtc": "2023-12-05T09:00:00.000Z",
       "meetingPlace": "Union Scene, Grønland 60, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fb1bab0e5-f67b-4341-a3ea-903150970cd9",
       "agendaAvailable": true,
@@ -795,7 +795,7 @@
     {
       "title": "Møte i Fylkestinget 13.12.2023",
       "committee": "Fylkestinget",
-      "meetingDateUtc": "12/13/2023 09:45:00",
+      "meetingDateUtc": "2023-12-13T10:45:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89. Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F6450e642-361f-4ebd-814d-5354481e7146",
       "agendaAvailable": true,
@@ -1078,7 +1078,7 @@
     {
       "title": "Møte i Fylkestinget 14.12.2023",
       "committee": "Fylkestinget",
-      "meetingDateUtc": "12/14/2023 07:00:00",
+      "meetingDateUtc": "2023-12-14T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F6057521b-a260-46f0-b5be-6d841bc7caaa",
       "agendaAvailable": false,
@@ -1090,7 +1090,7 @@
     {
       "title": "Møte i Buskerud Eldreråd 01/15/2024",
       "committee": "Buskerud Eldreråd",
-      "meetingDateUtc": "01/15/2024 08:00:00",
+      "meetingDateUtc": "2024-01-15T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89 Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F5d5ffcb6-a280-4294-9b9c-2c30776091f3",
       "agendaAvailable": true,
@@ -1157,7 +1157,7 @@
     {
       "title": "Møte i Flerkulturelt utvalg 16.01.2024",
       "committee": "Flerkulturelt utvalg",
-      "meetingDateUtc": "01/16/2024 08:00:00",
+      "meetingDateUtc": "2024-01-16T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset i Drammen, Hauges gate 89, 3019 Drammen. Lokale Biskopsrud, Biskopsrud",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F2001ce9c-dbce-4acb-a8c8-d95f29535db5",
       "agendaAvailable": true,
@@ -1194,7 +1194,7 @@
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 01/17/2024",
       "committee": "Råd for mennesker med funksjonsnedsettelse",
-      "meetingDateUtc": "01/17/2024 08:00:00",
+      "meetingDateUtc": "2024-01-17T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89 Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F98741439-6357-4ea5-9b71-7be7d745062e",
       "agendaAvailable": true,
@@ -1243,7 +1243,7 @@
     {
       "title": "Møte i Yrkesopplæringsnemnda 18.01.2024",
       "committee": "Yrkesopplæringsnemnda",
-      "meetingDateUtc": "01/18/2024 07:00:00",
+      "meetingDateUtc": "2024-01-18T08:00:00.000Z",
       "meetingPlace": "",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F9b157c92-a7cb-425d-9f13-f28fe80cc2bd",
       "agendaAvailable": false,
@@ -1255,7 +1255,7 @@
     {
       "title": "Møte i Ungdommens fylkesråd 01/18/2024",
       "committee": "Ungdommens fylkesråd",
-      "meetingDateUtc": "01/18/2024 08:00:00",
+      "meetingDateUtc": "2024-01-18T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Drammen, Biskopsrud",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F564ff9f3-cf31-4272-9623-b96dce006108",
       "agendaAvailable": true,
@@ -1328,7 +1328,7 @@
     {
       "title": "Møte i Hovedutvalg for samferdsel 22.01.2024",
       "committee": "Hovedutvalg for samferdsel",
-      "meetingDateUtc": "01/22/2024 08:00:00",
+      "meetingDateUtc": "2024-01-22T09:00:00.000Z",
       "meetingPlace": "Kleivstua, Dronningveien 500, Krokkleiva",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe223deca-f91d-49f7-9fb9-17c3b7f67a75",
       "agendaAvailable": false,
@@ -1340,7 +1340,7 @@
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 23.01.2024",
       "committee": "Hovedutvalg for næring og innovasjon",
-      "meetingDateUtc": "01/23/2024 07:30:00",
+      "meetingDateUtc": "2024-01-23T08:30:00.000Z",
       "meetingPlace": "Kongsberg",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Feb265670-7b61-4cf7-83ac-bbabe172dac3",
       "agendaAvailable": false,
@@ -1352,7 +1352,7 @@
     {
       "title": "Møte i Hovedutvalg for samferdsel 23.01.2024",
       "committee": "Hovedutvalg for samferdsel",
-      "meetingDateUtc": "01/23/2024 09:45:00",
+      "meetingDateUtc": "2024-01-23T10:45:00.000Z",
       "meetingPlace": "Program 22.1 avlyst.- Møte holdes digitalt  på teams 23.1.",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F88872ddf-d13f-4c3b-b80e-a9c497f64319",
       "agendaAvailable": true,
@@ -1413,7 +1413,7 @@
     {
       "title": "Møte i Valgkomiteen 23.01.2024",
       "committee": "Valgkomiteen",
-      "meetingDateUtc": "01/23/2024 10:00:00",
+      "meetingDateUtc": "2024-01-23T11:00:00.000Z",
       "meetingPlace": "Teams møte",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F31f831cf-5617-4ce7-a2a4-0df387eab92e",
       "agendaAvailable": true,
@@ -1462,7 +1462,7 @@
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 24.01.2024",
       "committee": "Hovedutvalg for næring og innovasjon",
-      "meetingDateUtc": "01/24/2024 06:30:00",
+      "meetingDateUtc": "2024-01-24T07:30:00.000Z",
       "meetingPlace": "Quality Hotel Grand Kongsberg, Chr. Augustsgate 2, Kongsberg",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F0ca4aaf5-748e-4d55-8c56-09cc10a9a25f",
       "agendaAvailable": true,
@@ -1517,7 +1517,7 @@
     {
       "title": "Møte i Hovedutvalg for opplæring 01/24/2024",
       "committee": "Hovedutvalg for opplæring",
-      "meetingDateUtc": "01/24/2024 08:00:00",
+      "meetingDateUtc": "2024-01-24T09:00:00.000Z",
       "meetingPlace": "Hønefoss videregående skole, Osloveien 17, Hønefoss,",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd5a356dd-9474-46d6-be65-020cf0f7c3c6",
       "agendaAvailable": true,
@@ -1566,7 +1566,7 @@
     {
       "title": "Møte i Hovedutvalg for opplæring 25.01.2024",
       "committee": "Hovedutvalg for opplæring",
-      "meetingDateUtc": "01/25/2024 07:00:00",
+      "meetingDateUtc": "2024-01-25T08:00:00.000Z",
       "meetingPlace": "Klækken hotell, Hadelandsveien 366, Hønefoss",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F4f4c7fb7-d03d-4d0e-8ab3-67bf8d2e25d6",
       "agendaAvailable": false,
@@ -1578,7 +1578,7 @@
     {
       "title": "Møte i Hovedutvalget for kultur, idrett og folkehelse 25.01.2024",
       "committee": "Buskerud fylkeskommune",
-      "meetingDateUtc": "01/25/2024 07:30:00",
+      "meetingDateUtc": "2024-01-25T08:30:00.000Z",
       "meetingPlace": "Kongsberg",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F4cc02357-948b-46ea-ab86-ce5a31eee6fa",
       "agendaAvailable": false,
@@ -1590,7 +1590,7 @@
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 26.01.2024",
       "committee": "Hovedutvalg for kultur, idrett og folkehelse",
-      "meetingDateUtc": "01/26/2024 06:30:00",
+      "meetingDateUtc": "2024-01-26T07:30:00.000Z",
       "meetingPlace": "Best Western Plus Gyldenløve Hotell, Hermann Fossgate 1, Kongsberg",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F9d48e759-a344-46c4-9e4c-78e6098d3cf0",
       "agendaAvailable": true,
@@ -1699,7 +1699,7 @@
     {
       "title": "Møte i Fylkesutvalget 30.01.2024",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "01/30/2024 08:00:00",
+      "meetingDateUtc": "2024-01-30T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89 Drammen, Fylkestingsalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F75b21f58-d1f5-4ab0-86ba-31b44901ead5",
       "agendaAvailable": true,
@@ -1760,7 +1760,7 @@
     {
       "title": "Møte i Valgkomiteen 14.02.2024",
       "committee": "Valgkomiteen",
-      "meetingDateUtc": "02/14/2024 07:00:00",
+      "meetingDateUtc": "2024-02-14T08:00:00.000Z",
       "meetingPlace": "Digitalt møte",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fdbc7e8a9-ffee-452c-894f-f570701e8391",
       "agendaAvailable": true,
@@ -1779,7 +1779,7 @@
     {
       "title": "Møte i Fylkestinget 15.02.2024",
       "committee": "Fylkestinget",
-      "meetingDateUtc": "02/15/2024 07:00:00",
+      "meetingDateUtc": "2024-02-15T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset i Drammen, Hauges gate, Fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F2b0f4710-dd5b-44cf-a9b1-51845451cb09",
       "agendaAvailable": true,
@@ -1864,7 +1864,7 @@
     {
       "title": "Møte i Hovedutvalg for opplæring 15.02.2024",
       "committee": "Hovedutvalg for opplæring",
-      "meetingDateUtc": "02/15/2024 15:15:00",
+      "meetingDateUtc": "2024-02-15T16:15:00.000Z",
       "meetingPlace": "Fylkeshuset i Drammen, Gule huset",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F54889490-9925-4912-a1f9-02a5fae1f562",
       "agendaAvailable": true,
@@ -1895,7 +1895,7 @@
     {
       "title": "Møte i Fylkestinget 16.02.2024",
       "committee": "Fylkestinget",
-      "meetingDateUtc": "02/16/2024 07:00:00",
+      "meetingDateUtc": "2024-02-16T08:00:00.000Z",
       "meetingPlace": "Drammen, Fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F9d73016f-c691-4083-8b20-60fc4edc7f86",
       "agendaAvailable": false,
@@ -1907,7 +1907,7 @@
     {
       "title": "Møte i Fylkesutvalget 20.02.2024",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "02/20/2024 08:00:00",
+      "meetingDateUtc": "2024-02-20T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen, Biskopsrud",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F58fdd6f9-abf0-42a3-8e8b-f7015551c572",
       "agendaAvailable": true,
@@ -1950,7 +1950,7 @@
     {
       "title": "Møte i Hovedutvalg for samferdsel 22.02.2024",
       "committee": "Hovedutvalg for samferdsel",
-      "meetingDateUtc": "02/22/2024 08:00:00",
+      "meetingDateUtc": "2024-02-22T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F89fd54c4-5405-47d4-928e-de42b3cfc114",
       "agendaAvailable": true,
@@ -2005,7 +2005,7 @@
     {
       "title": "Møte i Fylkesutvalget 18.03.2024",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "03/18/2024 08:00:00",
+      "meetingDateUtc": "2024-03-18T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Ffdc90712-7442-490d-8361-bdc2ece49eac",
       "agendaAvailable": true,
@@ -2060,7 +2060,7 @@
     {
       "title": "Møte i Oppgavefellesskap anskaffelser 22.03.2024",
       "committee": "Oppgavefellesskap anskaffelser",
-      "meetingDateUtc": "03/22/2024 08:00:00",
+      "meetingDateUtc": "2024-03-22T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F5a6949ea-f447-4966-947b-db82fad780df",
       "agendaAvailable": true,
@@ -2103,7 +2103,7 @@
     {
       "title": "Møte i Oppgavefellesskap ombud for barn og unge 22.03.2024",
       "committee": "Buskerud fylkeskommune",
-      "meetingDateUtc": "03/22/2024 08:00:00",
+      "meetingDateUtc": "2024-03-22T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F8651accb-9b92-4332-a15a-8094dcbc2413",
       "agendaAvailable": true,
@@ -2152,7 +2152,7 @@
     {
       "title": "Møte i Oppgavefellesskap fylkesbiblioteket 22.03.2024",
       "committee": "Buskerud fylkeskommune",
-      "meetingDateUtc": "03/22/2024 08:00:00",
+      "meetingDateUtc": "2024-03-22T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fb6e30f51-6558-4afa-a7a6-017995cb1bcb",
       "agendaAvailable": false,
@@ -2164,7 +2164,7 @@
     {
       "title": "Møte i Yrkesopplæringsnemnda 03.04.2024",
       "committee": "Yrkesopplæringsnemnda",
-      "meetingDateUtc": "04/03/2024 06:00:00",
+      "meetingDateUtc": "2024-04-03T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset fylkestingssalen, Fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F903e791a-76fa-46f8-8643-8752babd264e",
       "agendaAvailable": true,
@@ -2219,7 +2219,7 @@
     {
       "title": "Møte i Valgkomiteen 03.04.2024",
       "committee": "Valgkomiteen",
-      "meetingDateUtc": "04/03/2024 06:00:00",
+      "meetingDateUtc": "2024-04-03T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe3767152-9a65-43ac-9e60-984b0527a09f",
       "agendaAvailable": true,
@@ -2262,7 +2262,7 @@
     {
       "title": "Møte i Buskerud Eldreråd 04/03/2024",
       "committee": "Buskerud Eldreråd",
-      "meetingDateUtc": "04/03/2024 06:00:00",
+      "meetingDateUtc": "2024-04-03T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Ff5c6f265-e988-4c69-a2c6-b58d8c324cba",
       "agendaAvailable": true,
@@ -2311,7 +2311,7 @@
     {
       "title": "Møte i Flerkulturelt utvalg 04.04.2024",
       "committee": "Flerkulturelt utvalg",
-      "meetingDateUtc": "04/04/2024 06:00:00",
+      "meetingDateUtc": "2024-04-04T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset i Drammen, Hauges gate 89, Biskopsrud",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F0f7c39db-7fdc-4918-b7a7-a07699bb6841",
       "agendaAvailable": true,
@@ -2354,7 +2354,7 @@
     {
       "title": "Møte i Partssammensatt utvalg 04.04.2024",
       "committee": "Partssammensatt utvalg",
-      "meetingDateUtc": "04/04/2024 06:00:00",
+      "meetingDateUtc": "2024-04-04T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset i Drammen, Hauges gate 89, Fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F8a0b4640-a80c-42d2-a648-b14a1bbe3f6e",
       "agendaAvailable": true,
@@ -2373,7 +2373,7 @@
     {
       "title": "Møte i Ungdommens fylkesråd 05.04.2024",
       "committee": "Ungdommens fylkesråd",
-      "meetingDateUtc": "04/05/2024 05:00:00",
+      "meetingDateUtc": "2024-04-05T07:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89, Drammen, Møterom 211",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F4a7e271f-b1fb-4861-b997-ddf802595132",
       "agendaAvailable": true,
@@ -2428,7 +2428,7 @@
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 04/05/2024",
       "committee": "Råd for mennesker med funksjonsnedsettelse",
-      "meetingDateUtc": "04/05/2024 06:00:00",
+      "meetingDateUtc": "2024-04-05T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89 i Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fed333f2a-23bc-420c-aaff-c585d845ce9e",
       "agendaAvailable": true,
@@ -2483,7 +2483,7 @@
     {
       "title": "Møte i Hovedutvalg for samferdsel 08.04.2024",
       "committee": "Hovedutvalg for samferdsel",
-      "meetingDateUtc": "04/08/2024 06:00:00",
+      "meetingDateUtc": "2024-04-08T08:00:00.000Z",
       "meetingPlace": "Kleivstua, Dronningveien 500, Krokkleiva",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F6234c1a8-8eed-4e86-adb6-5dae92c7bcd2",
       "agendaAvailable": false,
@@ -2495,7 +2495,7 @@
     {
       "title": "Møte i Hovedutvalg for samferdsel 09.04.2024",
       "committee": "Hovedutvalg for samferdsel",
-      "meetingDateUtc": "04/09/2024 04:00:00",
+      "meetingDateUtc": "2024-04-09T06:00:00.000Z",
       "meetingPlace": "Kleivstua, Dronningveien 500, Krokkleiva",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F66372861-0cf1-45b0-bfa1-4b00652b3993",
       "agendaAvailable": true,
@@ -2562,7 +2562,7 @@
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 09.04.2024",
       "committee": "Hovedutvalg for næring og innovasjon",
-      "meetingDateUtc": "04/09/2024 05:30:00",
+      "meetingDateUtc": "2024-04-09T07:30:00.000Z",
       "meetingPlace": "Kongsberg Teknologipark, Kirkegårdsveien 45, Kongsberg",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F6e11cbad-971b-4ec1-9b7f-789fa0c8fd0f",
       "agendaAvailable": true,
@@ -2574,7 +2574,7 @@
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 10.04.2024",
       "committee": "Hovedutvalg for næring og innovasjon",
-      "meetingDateUtc": "04/10/2024 06:00:00",
+      "meetingDateUtc": "2024-04-10T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F6c0847ff-35bd-4d86-9316-765592f62034",
       "agendaAvailable": true,
@@ -2659,7 +2659,7 @@
     {
       "title": "Møte i Hovedutvalg for opplæring 11.04.2024",
       "committee": "Hovedutvalg for opplæring",
-      "meetingDateUtc": "04/11/2024 06:00:00",
+      "meetingDateUtc": "2024-04-11T08:00:00.000Z",
       "meetingPlace": "Fylkestingshuset, Drammen, Fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F62dcc300-03b7-42b8-8fad-f618157be9ff",
       "agendaAvailable": true,
@@ -2732,7 +2732,7 @@
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 12.04.2024",
       "committee": "Hovedutvalg for kultur, idrett og folkehelse",
-      "meetingDateUtc": "04/12/2024 05:30:00",
+      "meetingDateUtc": "2024-04-12T07:30:00.000Z",
       "meetingPlace": "Vikersund hoppsenter, Flyvingen, Heggenåsen 60, Vikersund",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F9dc8493e-1169-4ed6-be3f-088348e89cdf",
       "agendaAvailable": true,
@@ -2877,7 +2877,7 @@
     {
       "title": "Møte i Fylkesutvalget 16.04.2024",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "04/16/2024 06:00:00",
+      "meetingDateUtc": "2024-04-16T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fc0de5726-4cc8-47a3-88f5-722b39f80c87",
       "agendaAvailable": true,
@@ -2944,7 +2944,7 @@
     {
       "title": "Møte i Valgkomiteen 23.04.2024",
       "committee": "Valgkomiteen",
-      "meetingDateUtc": "04/23/2024 06:30:00",
+      "meetingDateUtc": "2024-04-23T08:30:00.000Z",
       "meetingPlace": "Teams",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F9f78790c-0abe-4e51-a7d8-7fc778589d80",
       "agendaAvailable": true,
@@ -2963,7 +2963,7 @@
     {
       "title": "Møte i Oppgavefellesskap ombud for barn og unge 23.04.2024",
       "committee": "Buskerud fylkeskommune",
-      "meetingDateUtc": "04/23/2024 07:30:00",
+      "meetingDateUtc": "2024-04-23T09:30:00.000Z",
       "meetingPlace": "Akershus fylkeskommune, Schweigaardsgate 4, Oslo",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F8e365546-4232-4e3c-b72d-c33ee18baefb",
       "agendaAvailable": true,
@@ -2994,7 +2994,7 @@
     {
       "title": "Møte i Fylkestinget 24.04.2024",
       "committee": "Fylkestinget",
-      "meetingDateUtc": "04/24/2024 08:00:00",
+      "meetingDateUtc": "2024-04-24T10:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen, Fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F19978c49-acdc-431d-bace-adf1e36d90ca",
       "agendaAvailable": true,
@@ -3079,7 +3079,7 @@
     {
       "title": "Møte i Fylkesutvalget 07.05.2024",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "05/07/2024 06:00:00",
+      "meetingDateUtc": "2024-05-07T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F93f954f4-8bea-4077-81b2-df2d66161d0e",
       "agendaAvailable": true,
@@ -3122,7 +3122,7 @@
     {
       "title": "Møte i Politisk utvalg for gruppeledere, fylkesordfører og fylkesvaraordfører 21.05.2024",
       "committee": "Politisk utvalg for gruppeledere, fylkesordfører og fylkesvaraordfører",
-      "meetingDateUtc": "05/21/2024 11:00:00",
+      "meetingDateUtc": "2024-05-21T13:00:00.000Z",
       "meetingPlace": "Møte holdes digitalt  på teams",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F2c7b98c8-af80-4909-9364-4a5068348492",
       "agendaAvailable": true,
@@ -3165,7 +3165,7 @@
     {
       "title": "Møte i Yrkesopplæringsnemnda 30.05.2024",
       "committee": "Yrkesopplæringsnemnda",
-      "meetingDateUtc": "05/30/2024 05:30:00",
+      "meetingDateUtc": "2024-05-30T07:30:00.000Z",
       "meetingPlace": "Fylkeshuset, Biskopsrud,",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F9e35ffa5-261b-4659-bc03-06feba326b22",
       "agendaAvailable": true,
@@ -3196,7 +3196,7 @@
     {
       "title": "Møte i Ungdommens fylkesråd 06/03/2024",
       "committee": "Ungdommens fylkesråd",
-      "meetingDateUtc": "06/03/2024 05:00:00",
+      "meetingDateUtc": "2024-06-03T07:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Drammen, Fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F77a1f560-e672-475b-a1d4-1de44eba85b1",
       "agendaAvailable": true,
@@ -3257,7 +3257,7 @@
     {
       "title": "Møte i Buskerud Eldreråd 06/03/2024",
       "committee": "Buskerud Eldreråd",
-      "meetingDateUtc": "06/03/2024 06:00:00",
+      "meetingDateUtc": "2024-06-03T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89 i Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F0c1d6f1e-5c37-43a8-a114-109ee03c2361",
       "agendaAvailable": true,
@@ -3300,7 +3300,7 @@
     {
       "title": "Møte i Flerkulturelt utvalg 04.06.2024",
       "committee": "Flerkulturelt utvalg",
-      "meetingDateUtc": "06/04/2024 06:00:00",
+      "meetingDateUtc": "2024-06-04T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset i Drammen, Haugesgate 89, Biskopsrud",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fa633dbf5-4750-419d-95e4-9b690416d943",
       "agendaAvailable": true,
@@ -3343,7 +3343,7 @@
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 06/05/2024",
       "committee": "Råd for mennesker med funksjonsnedsettelse",
-      "meetingDateUtc": "06/05/2024 06:00:00",
+      "meetingDateUtc": "2024-06-05T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89 i Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F8e99a1c2-4111-4cba-94a4-e99ee04e0eb9",
       "agendaAvailable": true,
@@ -3398,7 +3398,7 @@
     {
       "title": "Møte i Oppgavefellesskap fylkesbiblioteket 07.06.2024",
       "committee": "Buskerud fylkeskommune",
-      "meetingDateUtc": "06/07/2024 06:00:00",
+      "meetingDateUtc": "2024-06-07T08:00:00.000Z",
       "meetingPlace": "digitalt",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F57e5c2b5-c1a8-4450-8c7e-c8d8afffa37f",
       "agendaAvailable": false,
@@ -3410,7 +3410,7 @@
     {
       "title": "Møte i Oppgavefellesskap fylkesbiblioteket 07.06.2024",
       "committee": "Buskerud fylkeskommune",
-      "meetingDateUtc": "06/07/2024 06:00:00",
+      "meetingDateUtc": "2024-06-07T08:00:00.000Z",
       "meetingPlace": "Teams/ digitalt",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F802ddfe8-fa18-4b6a-91f8-8a8fa21e0956",
       "agendaAvailable": true,
@@ -3471,7 +3471,7 @@
     {
       "title": "Møte i Hovedutvalg for samferdsel 11.06.2024",
       "committee": "Hovedutvalg for samferdsel",
-      "meetingDateUtc": "06/11/2024 05:00:00",
+      "meetingDateUtc": "2024-06-11T07:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89 Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F9b750e4e-2480-47aa-9f9b-7e2a61529853",
       "agendaAvailable": true,
@@ -3508,7 +3508,7 @@
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 12.06.2024",
       "committee": "Hovedutvalg for næring og innovasjon",
-      "meetingDateUtc": "06/12/2024 05:00:00",
+      "meetingDateUtc": "2024-06-12T07:00:00.000Z",
       "meetingPlace": "Eggemoen Aviation og Technology park",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F30086cb5-a7a5-48ca-973f-b5b0badd6a6c",
       "agendaAvailable": true,
@@ -3587,7 +3587,7 @@
     {
       "title": "Møte i Valgkomiteen 12.06.2024",
       "committee": "Valgkomiteen",
-      "meetingDateUtc": "06/12/2024 10:00:00",
+      "meetingDateUtc": "2024-06-12T12:00:00.000Z",
       "meetingPlace": "På teams",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F0463c062-1c13-416c-8e5f-aeb5a6605b7a",
       "agendaAvailable": true,
@@ -3648,7 +3648,7 @@
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 13.06.2024",
       "committee": "Hovedutvalg for kultur, idrett og folkehelse",
-      "meetingDateUtc": "06/13/2024 05:00:00",
+      "meetingDateUtc": "2024-06-13T07:00:00.000Z",
       "meetingPlace": "Galleri Klevjer, Haardraade Vikingskipforening & Veien kulturminnepark",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F8afb99e9-8f15-4c0d-b14e-d2c0754a8e3f",
       "agendaAvailable": true,
@@ -3739,7 +3739,7 @@
     {
       "title": "Møte i Hovedutvalg for opplæring 13.06.2024",
       "committee": "Hovedutvalg for opplæring",
-      "meetingDateUtc": "06/13/2024 06:00:00",
+      "meetingDateUtc": "2024-06-13T08:00:00.000Z",
       "meetingPlace": "Ung Invest, avdeling Drammen, Svelvikveien 63",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd5eaff5f-a2f0-4d78-bfc8-02caaa304aec",
       "agendaAvailable": true,
@@ -3830,7 +3830,7 @@
     {
       "title": "Møte i Fylkesutvalget 14.06.2024",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "06/14/2024 05:00:00",
+      "meetingDateUtc": "2024-06-14T07:00:00.000Z",
       "meetingPlace": "Fylkeshuset i Drammen, Fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd359238f-b2ce-4ed7-a923-177f66470d43",
       "agendaAvailable": true,
@@ -4029,7 +4029,7 @@
     {
       "title": "Møte i Partssammensatt utvalg 17.06.2024",
       "committee": "Partssammensatt utvalg",
-      "meetingDateUtc": "06/17/2024 07:30:00",
+      "meetingDateUtc": "2024-06-17T09:30:00.000Z",
       "meetingPlace": "Fylkestingssalen Fylkeshuset Drammen. Hauges gate 89, Fylkestingssalen, fylkeshuset Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F09e69aa3-5399-49d8-8b38-112fdaaf0a3d",
       "agendaAvailable": true,
@@ -4066,7 +4066,7 @@
     {
       "title": "Møte i Fylkestinget 19.06.2024",
       "committee": "Fylkestinget",
-      "meetingDateUtc": "06/19/2024 08:00:00",
+      "meetingDateUtc": "2024-06-19T10:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F6664a4e1-167f-41db-bc22-5fc5688d4a7d",
       "agendaAvailable": true,
@@ -4253,7 +4253,7 @@
     {
       "title": "Møte i Fylkestinget 20.06.2024",
       "committee": "Fylkestinget",
-      "meetingDateUtc": "06/20/2024 05:00:00",
+      "meetingDateUtc": "2024-06-20T07:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd50aaa96-d134-4679-9c18-c556a85f85e5",
       "agendaAvailable": false,
@@ -4265,7 +4265,7 @@
     {
       "title": "Møte i Valgkomiteen 19.08.2024",
       "committee": "Valgkomiteen",
-      "meetingDateUtc": "08/19/2024 06:00:00",
+      "meetingDateUtc": "2024-08-19T08:00:00.000Z",
       "meetingPlace": "Teams",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F079b00c7-f070-44d2-8d77-1056140cd2ad",
       "agendaAvailable": true,
@@ -4296,7 +4296,7 @@
     {
       "title": "Møte i Distriktsvalgstyret 19.08.2024",
       "committee": "Distriktsvalgstyret",
-      "meetingDateUtc": "08/19/2024 07:00:00",
+      "meetingDateUtc": "2024-08-19T09:00:00.000Z",
       "meetingPlace": "Teams",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Ff2f2396c-ad21-42cc-b515-1d8ca5b185e6",
       "agendaAvailable": true,
@@ -4327,7 +4327,7 @@
     {
       "title": "Møte i Fylkesutvalget 20.08.2024",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "08/20/2024 06:00:00",
+      "meetingDateUtc": "2024-08-20T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F15ee06e0-bcd2-4600-9dac-417671fa8503",
       "agendaAvailable": true,
@@ -4436,7 +4436,7 @@
     {
       "title": "Møte i Klagenemnd 20.08.2024",
       "committee": "Klagenemnd",
-      "meetingDateUtc": "08/20/2024 10:00:00",
+      "meetingDateUtc": "2024-08-20T12:00:00.000Z",
       "meetingPlace": "Fylkeshuset, møterom 211, Møterom 211",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F865b0c9f-54fb-4aa2-96b9-90ef41f87a6b",
       "agendaAvailable": true,
@@ -4461,7 +4461,7 @@
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 08/22/2024",
       "committee": "Hovedutvalg for næring og innovasjon",
-      "meetingDateUtc": "08/22/2024 11:00:00",
+      "meetingDateUtc": "2024-08-22T13:00:00.000Z",
       "meetingPlace": "Digitalt møte",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fa9f6a8bb-898f-4fcd-965f-4871c7ba2ffe",
       "agendaAvailable": true,
@@ -4486,7 +4486,7 @@
     {
       "title": "Møte i Klagenemnd 08/27/2024",
       "committee": "Klagenemnd",
-      "meetingDateUtc": "08/27/2024 05:00:00",
+      "meetingDateUtc": "2024-08-27T07:00:00.000Z",
       "meetingPlace": "Fylkestingssalen, Fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fa1c05cfa-d01d-4b88-82e0-02b116460781",
       "agendaAvailable": true,
@@ -4529,7 +4529,7 @@
     {
       "title": "Møte i Fylkestinget 28.08.2024",
       "committee": "Fylkestinget",
-      "meetingDateUtc": "08/28/2024 05:00:00",
+      "meetingDateUtc": "2024-08-28T07:00:00.000Z",
       "meetingPlace": "Tyrifjord hotell, Sundveien 22, Vikersund",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd974ee20-583d-447d-a0ff-10ff797e3379",
       "agendaAvailable": false,
@@ -4541,7 +4541,7 @@
     {
       "title": "Møte i Valgkomiteen 28.08.2024",
       "committee": "Valgkomiteen",
-      "meetingDateUtc": "08/28/2024 07:45:00",
+      "meetingDateUtc": "2024-08-28T09:45:00.000Z",
       "meetingPlace": "Tyrifjord Hotel, Sundveien 22, Vikersund",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F5f995c50-2802-4ba1-b2da-f31c17157580",
       "agendaAvailable": true,
@@ -4560,7 +4560,7 @@
     {
       "title": "Møte i Fylkestinget 29.08.2024",
       "committee": "Fylkestinget",
-      "meetingDateUtc": "08/29/2024 05:00:00",
+      "meetingDateUtc": "2024-08-29T07:00:00.000Z",
       "meetingPlace": "Tyrifjord hotel, Sundveien 22, Vikersund",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F55569714-1aed-4bbe-9114-c1b8ee75d9cc",
       "agendaAvailable": true,
@@ -4645,7 +4645,7 @@
     {
       "title": "Møte i Yrkesopplæringsnemnda 09/03/2024",
       "committee": "Yrkesopplæringsnemnda",
-      "meetingDateUtc": "09/03/2024 06:00:00",
+      "meetingDateUtc": "2024-09-03T08:00:00.000Z",
       "meetingPlace": "Biskopsrud, Biskopsrud",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fcd9e0efd-9859-46c0-b099-fea82c4fba4f",
       "agendaAvailable": true,
@@ -4676,7 +4676,7 @@
     {
       "title": "Møte i Fylkesutvalget 04.09.2024",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "09/04/2024 05:00:00",
+      "meetingDateUtc": "2024-09-04T07:00:00.000Z",
       "meetingPlace": "Fylkeshuset Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F0b179989-b27a-4f3c-a0ff-27ebfec69422",
       "agendaAvailable": true,
@@ -4713,7 +4713,7 @@
     {
       "title": "Møte i Buskerud Eldreråd 09/09/2024",
       "committee": "Buskerud Eldreråd",
-      "meetingDateUtc": "09/09/2024 06:00:00",
+      "meetingDateUtc": "2024-09-09T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89 i Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fa4989ea7-bbc3-4cf0-8570-e4a47d4e28bc",
       "agendaAvailable": true,
@@ -4756,7 +4756,7 @@
     {
       "title": "Møte i Flerkulturelt utvalg 09.09.2024",
       "committee": "Flerkulturelt utvalg",
-      "meetingDateUtc": "09/09/2024 09:00:00",
+      "meetingDateUtc": "2024-09-09T11:00:00.000Z",
       "meetingPlace": "Ringerike kommune",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fca4e523f-5f8c-48c1-8a19-f7a5fe0c1e53",
       "agendaAvailable": true,
@@ -4787,7 +4787,7 @@
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 09/11/2024",
       "committee": "Råd for mennesker med funksjonsnedsettelse",
-      "meetingDateUtc": "09/11/2024 05:00:00",
+      "meetingDateUtc": "2024-09-11T07:00:00.000Z",
       "meetingPlace": "Eiker Vekst, Ryghgata 6, Mjøndalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fbe8dabb7-ad5e-4305-a10c-57167cae2fbc",
       "agendaAvailable": true,
@@ -4824,7 +4824,7 @@
     {
       "title": "Møte i Oppgavefellesskap anskaffelser 11.09.2024",
       "committee": "Oppgavefellesskap anskaffelser",
-      "meetingDateUtc": "09/11/2024 06:00:00",
+      "meetingDateUtc": "2024-09-11T08:00:00.000Z",
       "meetingPlace": "Galleriet i Oslo., Møterom 493A (4. etasje – S4)",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fc4c46d27-1c37-4036-b7ba-ea970cfc4a95",
       "agendaAvailable": true,
@@ -4867,7 +4867,7 @@
     {
       "title": "Møte i Ungdommens fylkesråd 09/12/2024",
       "committee": "Ungdommens fylkesråd",
-      "meetingDateUtc": "09/12/2024 05:00:00",
+      "meetingDateUtc": "2024-09-12T07:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89, Drammen, Biskopsrud",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F8f12f307-d304-4145-9fe8-ab6f3d2c1b88",
       "agendaAvailable": true,
@@ -4916,7 +4916,7 @@
     {
       "title": "Møte i Oppgavefellesskap fylkesbiblioteket 09/13/2024",
       "committee": "Buskerud fylkeskommune",
-      "meetingDateUtc": "09/13/2024 06:00:00",
+      "meetingDateUtc": "2024-09-13T08:00:00.000Z",
       "meetingPlace": "Kjeller, i Akershus fylke., Fylkesbibliotekets lokaler på",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F7bd588a2-605b-4ab1-96c0-0903fb1bbd77",
       "agendaAvailable": true,
@@ -4959,7 +4959,7 @@
     {
       "title": "Møte i Arbeidsutvalg for godtgjøringsreglement 16.09.2024",
       "committee": "Arbeidsutvalg for godtgjøringsreglement",
-      "meetingDateUtc": "09/16/2024 08:00:00",
+      "meetingDateUtc": "2024-09-16T10:00:00.000Z",
       "meetingPlace": "Digitalt møte på teams",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Ffac04d03-7b59-4c3e-830c-59861cf357ed",
       "agendaAvailable": true,
@@ -5002,7 +5002,7 @@
     {
       "title": "Møte i Fylkesutvalget 17.09.2024",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "09/17/2024 06:00:00",
+      "meetingDateUtc": "2024-09-17T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F7e3e6782-d3b2-4ca7-a0a3-85026e4d8aa3",
       "agendaAvailable": true,
@@ -5075,7 +5075,7 @@
     {
       "title": "Møte i Politisk utvalg for gruppeledere, fylkesordfører og fylkesvaraordfører 23.09.2024",
       "committee": "Politisk utvalg for gruppeledere, fylkesordfører og fylkesvaraordfører",
-      "meetingDateUtc": "09/23/2024 09:00:00",
+      "meetingDateUtc": "2024-09-23T11:00:00.000Z",
       "meetingPlace": "Teams",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F285b1f3a-fb8b-4799-b03e-ff37ebc865d6",
       "agendaAvailable": true,
@@ -5118,7 +5118,7 @@
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 24.09.2024",
       "committee": "Hovedutvalg for næring og innovasjon",
-      "meetingDateUtc": "09/24/2024 05:00:00",
+      "meetingDateUtc": "2024-09-24T07:00:00.000Z",
       "meetingPlace": "Befaring",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F77087ffc-bc87-44b0-ae63-767648eaa988",
       "agendaAvailable": false,
@@ -5130,7 +5130,7 @@
     {
       "title": "Møte i Hovedutvalg for samferdsel 24.09.2024",
       "committee": "Hovedutvalg for samferdsel",
-      "meetingDateUtc": "09/24/2024 06:30:00",
+      "meetingDateUtc": "2024-09-24T08:30:00.000Z",
       "meetingPlace": "Kongsberg videregående skole, Tinius Olsens gate 1, Kongsberg",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F520093a7-1e4c-4b13-8ef1-86282d44f0eb",
       "agendaAvailable": true,
@@ -5191,7 +5191,7 @@
     {
       "title": "Møte i Hovedutvalg for opplæring 25.09.2024",
       "committee": "Hovedutvalg for opplæring",
-      "meetingDateUtc": "09/25/2024 06:00:00",
+      "meetingDateUtc": "2024-09-25T08:00:00.000Z",
       "meetingPlace": "Ål videregående skole, Klokkarbakken 7, Ål, Ål videregående skole, Klokkarbakken 7, Ål",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe24f3b1a-c66b-491f-baad-b2be5eb802d0",
       "agendaAvailable": true,
@@ -5222,7 +5222,7 @@
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 25.09.2024",
       "committee": "Hovedutvalg for næring og innovasjon",
-      "meetingDateUtc": "09/25/2024 10:00:00",
+      "meetingDateUtc": "2024-09-25T12:00:00.000Z",
       "meetingPlace": "Fyri Resort, Totteskogen 55, Hemsedal",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F62d92751-4f72-498b-b0f7-e055be5e49d8",
       "agendaAvailable": true,
@@ -5277,7 +5277,7 @@
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 26.09.2024",
       "committee": "Hovedutvalg for kultur, idrett og folkehelse",
-      "meetingDateUtc": "09/26/2024 05:00:00",
+      "meetingDateUtc": "2024-09-26T07:00:00.000Z",
       "meetingPlace": "Befaring",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F5d061bfb-1f8c-4470-82a9-c15038c059bf",
       "agendaAvailable": false,
@@ -5289,7 +5289,7 @@
     {
       "title": "Møte i Yrkesopplæringsnemnda 09/26/2024",
       "committee": "Yrkesopplæringsnemnda",
-      "meetingDateUtc": "09/26/2024 06:00:00",
+      "meetingDateUtc": "2024-09-26T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset i Buskerud, møterom Biskopsrud, Fylkeshuset i Buskerud, Møterom Biskopsrud",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F508c2767-4d18-4bb7-86f0-0eb46eef987a",
       "agendaAvailable": true,
@@ -5320,7 +5320,7 @@
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 09/27/2024",
       "committee": "Hovedutvalg for kultur, idrett og folkehelse",
-      "meetingDateUtc": "09/27/2024 10:00:00",
+      "meetingDateUtc": "2024-09-27T12:00:00.000Z",
       "meetingPlace": "Gamlevegen 4, Gol",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F9fb57b67-9e5b-4550-bbed-2ef8e351ebf1",
       "agendaAvailable": true,
@@ -5387,7 +5387,7 @@
     {
       "title": "Møte i Hovedutvalg for samferdsel 07.10.2024",
       "committee": "Hovedutvalg for samferdsel",
-      "meetingDateUtc": "10/07/2024 06:00:00",
+      "meetingDateUtc": "2024-10-07T08:00:00.000Z",
       "meetingPlace": "",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F8efceda8-4864-42fe-9428-2b770bf5c16b",
       "agendaAvailable": false,
@@ -5399,7 +5399,7 @@
     {
       "title": "Møte i Hovedutvalg for samferdsel 08.10.2024",
       "committee": "Hovedutvalg for samferdsel",
-      "meetingDateUtc": "10/08/2024 05:00:00",
+      "meetingDateUtc": "2024-10-08T07:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89 i Drammen, fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fa94a5e23-81a9-40c8-b642-e1effb2aae43",
       "agendaAvailable": true,
@@ -5454,7 +5454,7 @@
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 08.10.2024",
       "committee": "Hovedutvalg for næring og innovasjon",
-      "meetingDateUtc": "10/08/2024 05:00:00",
+      "meetingDateUtc": "2024-10-08T07:00:00.000Z",
       "meetingPlace": "",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fc804fc2b-f41f-4a16-a05b-432cbe8b88d1",
       "agendaAvailable": false,
@@ -5466,7 +5466,7 @@
     {
       "title": "Møte i Valgkomiteen 08.10.2024",
       "committee": "Valgkomiteen",
-      "meetingDateUtc": "10/08/2024 10:00:00",
+      "meetingDateUtc": "2024-10-08T12:00:00.000Z",
       "meetingPlace": "Teams, Teams/ digitalt",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F58e8e081-3a61-4370-b1e4-cb8255a9c59a",
       "agendaAvailable": true,
@@ -5491,7 +5491,7 @@
     {
       "title": "Møte i Forhandlingsutvalget 10/08/2024",
       "committee": "Forhandlingsutvalget",
-      "meetingDateUtc": "10/08/2024 11:00:00",
+      "meetingDateUtc": "2024-10-08T13:00:00.000Z",
       "meetingPlace": "Fylkeshuset i Drammen, Fylkesordførers møterom",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fbc82e200-dc2e-49d2-bd30-f83c055b9a6c",
       "agendaAvailable": true,
@@ -5503,7 +5503,7 @@
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 09.10.2024",
       "committee": "Hovedutvalg for næring og innovasjon",
-      "meetingDateUtc": "10/09/2024 05:00:00",
+      "meetingDateUtc": "2024-10-09T07:00:00.000Z",
       "meetingPlace": "",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F53fd727f-053d-46bc-8136-4d97f5801ee8",
       "agendaAvailable": false,
@@ -5515,7 +5515,7 @@
     {
       "title": "Møte i Hovedutvalg for opplæring 09.10.2024",
       "committee": "Hovedutvalg for opplæring",
-      "meetingDateUtc": "10/09/2024 05:00:00",
+      "meetingDateUtc": "2024-10-09T07:00:00.000Z",
       "meetingPlace": "",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Ff7254769-c8a0-4e66-9719-b8ba6febae4e",
       "agendaAvailable": false,
@@ -5527,7 +5527,7 @@
     {
       "title": "Møte i Hovedutvalg for opplæring 10/09/2024",
       "committee": "Hovedutvalg for opplæring",
-      "meetingDateUtc": "10/09/2024 06:00:00",
+      "meetingDateUtc": "2024-10-09T08:00:00.000Z",
       "meetingPlace": "Buskerud videregående skole, Buskerudveien 134, Åmot,",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fc1ed577f-477c-4b71-8192-26103ce601ef",
       "agendaAvailable": true,
@@ -5600,7 +5600,7 @@
     {
       "title": "Møte i Hovedutvalget for kultur, idrett og folkehelse 10.10.2024",
       "committee": "Buskerud fylkeskommune",
-      "meetingDateUtc": "10/10/2024 05:00:00",
+      "meetingDateUtc": "2024-10-10T07:00:00.000Z",
       "meetingPlace": "",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F963dcd62-505c-46d4-8a04-e3971a412f89",
       "agendaAvailable": false,
@@ -5612,7 +5612,7 @@
     {
       "title": "Møte i Oppgavefellesskap ombud for barn og unge 10.10.2024",
       "committee": "Buskerud fylkeskommune",
-      "meetingDateUtc": "10/10/2024 06:00:00",
+      "meetingDateUtc": "2024-10-10T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset til Akershus fylkeskommune, Oslo, Fylkeshuset til Akershus fylkeskommune, Oslo",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F8cfca208-2eb3-46a8-87ac-5ae40f73899a",
       "agendaAvailable": true,
@@ -5667,7 +5667,7 @@
     {
       "title": "Møte i Partssammensatt utvalg 14.10.2024",
       "committee": "Partssammensatt utvalg",
-      "meetingDateUtc": "10/14/2024 09:00:00",
+      "meetingDateUtc": "2024-10-14T11:00:00.000Z",
       "meetingPlace": "Fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Ffd5a09ea-85b4-4ef6-97eb-a91cfb70c19f",
       "agendaAvailable": true,
@@ -5704,7 +5704,7 @@
     {
       "title": "Møte i Klagenemnd 14.10.2024",
       "committee": "Klagenemnd",
-      "meetingDateUtc": "10/14/2024 10:00:00",
+      "meetingDateUtc": "2024-10-14T12:00:00.000Z",
       "meetingPlace": "Fylkeshuset Drammen, møterom 217, Møterom 217",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F8376d1aa-106c-4707-a76d-5a07074e946b",
       "agendaAvailable": true,
@@ -5735,7 +5735,7 @@
     {
       "title": "Møte i Fylkesutvalget 15.10.2024",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "10/15/2024 06:00:00",
+      "meetingDateUtc": "2024-10-15T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F04808845-b084-497f-9f6e-54a652b43ff8",
       "agendaAvailable": true,
@@ -5862,7 +5862,7 @@
     {
       "title": "Møte i Arbeidsutvalg for godtgjøringsreglement 10/23/2024",
       "committee": "Arbeidsutvalg for godtgjøringsreglement",
-      "meetingDateUtc": "10/23/2024 06:00:00",
+      "meetingDateUtc": "2024-10-23T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen, Biskopsrud",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F1ab31785-7ad6-424b-87ef-3ce62cf477bb",
       "agendaAvailable": true,
@@ -5893,7 +5893,7 @@
     {
       "title": "Møte i Fylkestinget 10/23/2024",
       "committee": "Fylkestinget",
-      "meetingDateUtc": "10/23/2024 08:00:00",
+      "meetingDateUtc": "2024-10-23T10:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F589babf2-86ef-45f5-bc05-560f7d699987",
       "agendaAvailable": true,
@@ -6020,7 +6020,7 @@
     {
       "title": "Møte i Arbeidsutvalg for godtgjøringsreglement 11/04/2024",
       "committee": "Arbeidsutvalg for godtgjøringsreglement",
-      "meetingDateUtc": "11/04/2024 08:00:00",
+      "meetingDateUtc": "2024-11-04T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89, Drammen, Møterom 211",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Febe942c8-737e-4fe1-a940-4a5c04ccb374",
       "agendaAvailable": true,
@@ -6051,7 +6051,7 @@
     {
       "title": "Møte i Oppgavefellesskap fylkesbiblioteket 11/08/2024",
       "committee": "Buskerud fylkeskommune",
-      "meetingDateUtc": "11/08/2024 08:00:00",
+      "meetingDateUtc": "2024-11-08T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset i Drammen, Hauges gate 89, møterom 215., Fylkeshuset i Drammen, Hauges gate 89, møterom 215.",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fa62aa584-ef9d-486f-81ef-02eb96f0eac8",
       "agendaAvailable": true,
@@ -6088,7 +6088,7 @@
     {
       "title": "Møte i Buskerud Eldreråd 11/11/2024",
       "committee": "Buskerud Eldreråd",
-      "meetingDateUtc": "11/11/2024 08:00:00",
+      "meetingDateUtc": "2024-11-11T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89 i Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F99f149b8-d570-4ad8-a29b-983474011ee8",
       "agendaAvailable": true,
@@ -6119,7 +6119,7 @@
     {
       "title": "Møte i Flerkulturelt utvalg 11/12/2024",
       "committee": "Flerkulturelt utvalg",
-      "meetingDateUtc": "11/12/2024 08:00:00",
+      "meetingDateUtc": "2024-11-12T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset i Drammen, Haugesgate 89, Drammen, Biskopsrud",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F3ed03e2b-86b8-445a-bada-e9c51a0bb429",
       "agendaAvailable": true,
@@ -6168,7 +6168,7 @@
     {
       "title": "Møte i Arbeidsutvalg for godtgjøringsreglement 11/12/2024",
       "committee": "Arbeidsutvalg for godtgjøringsreglement",
-      "meetingDateUtc": "11/12/2024 12:00:00",
+      "meetingDateUtc": "2024-11-12T13:00:00.000Z",
       "meetingPlace": "Digitalt møte på teams,",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F138b14ed-739d-4591-bc19-72982fd09dbd",
       "agendaAvailable": true,
@@ -6199,7 +6199,7 @@
     {
       "title": "Møte i Klagenemnd 11/12/2024",
       "committee": "Klagenemnd",
-      "meetingDateUtc": "11/12/2024 12:40:00",
+      "meetingDateUtc": "2024-11-12T13:40:00.000Z",
       "meetingPlace": "Fylkeshuset, møterom 216",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F38787f43-8d7c-479a-9ec5-d2fc8fc49173",
       "agendaAvailable": true,
@@ -6224,7 +6224,7 @@
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 11/13/2024",
       "committee": "Råd for mennesker med funksjonsnedsettelse",
-      "meetingDateUtc": "11/13/2024 08:00:00",
+      "meetingDateUtc": "2024-11-13T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89 i Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F5eeefdf8-ca9d-4aaa-9a35-bbfecee7bbbd",
       "agendaAvailable": true,
@@ -6261,7 +6261,7 @@
     {
       "title": "Møte i Ungdommens fylkesråd 11/14/2024",
       "committee": "Ungdommens fylkesråd",
-      "meetingDateUtc": "11/14/2024 07:00:00",
+      "meetingDateUtc": "2024-11-14T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Drammen, Møterom 210",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe99a7938-18e6-4c44-86ec-ba6ec9d006c7",
       "agendaAvailable": true,
@@ -6352,7 +6352,7 @@
     {
       "title": "Møte i Yrkesopplæringsnemnda 11/14/2024",
       "committee": "Yrkesopplæringsnemnda",
-      "meetingDateUtc": "11/14/2024 08:00:00",
+      "meetingDateUtc": "2024-11-14T09:00:00.000Z",
       "meetingPlace": "Biskopsrud",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F433aac84-5bb2-47b1-a8e1-2899318cead7",
       "agendaAvailable": true,
@@ -6383,7 +6383,7 @@
     {
       "title": "Møte i Fylkesutvalget 11/19/2024",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "11/19/2024 10:00:00",
+      "meetingDateUtc": "2024-11-19T11:00:00.000Z",
       "meetingPlace": "Fylkeshuset Drammen, Fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe0556510-e57c-494f-983a-399218dcc6cb",
       "agendaAvailable": false,
@@ -6395,7 +6395,7 @@
     {
       "title": "Møte i Fylkesutvalget 11/20/2024",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "11/20/2024 08:00:00",
+      "meetingDateUtc": "2024-11-20T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F7187ff23-641b-4aa6-909e-b5621f65cb9f",
       "agendaAvailable": true,
@@ -6438,7 +6438,7 @@
     {
       "title": "Møte i Arbeidsutvalg for godtgjøringsreglement 11/20/2024",
       "committee": "Arbeidsutvalg for godtgjøringsreglement",
-      "meetingDateUtc": "11/20/2024 10:00:00",
+      "meetingDateUtc": "2024-11-20T11:00:00.000Z",
       "meetingPlace": "Fylkeshuset i Drammen, Møterom 216",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F0104ad80-7238-4eaa-9b73-a803ddb0d833",
       "agendaAvailable": true,
@@ -6469,7 +6469,7 @@
     {
       "title": "Møte i Hovedutvalg for samferdsel 11/26/2024",
       "committee": "Hovedutvalg for samferdsel",
-      "meetingDateUtc": "11/26/2024 07:00:00",
+      "meetingDateUtc": "2024-11-26T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89 i Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fb6f98c2b-a8b8-4399-be44-c29990d48266",
       "agendaAvailable": true,
@@ -6530,7 +6530,7 @@
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 11/27/2024",
       "committee": "Hovedutvalg for næring og innovasjon",
-      "meetingDateUtc": "11/27/2024 07:30:00",
+      "meetingDateUtc": "2024-11-27T08:30:00.000Z",
       "meetingPlace": "Lindum, Lerpeveien 155, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd3e663ba-8c74-40e1-8406-432af2bba589",
       "agendaAvailable": true,
@@ -6639,7 +6639,7 @@
     {
       "title": "Møte i Hovedutvalg for opplæring 11/28/2024",
       "committee": "Hovedutvalg for opplæring",
-      "meetingDateUtc": "11/28/2024 08:00:00",
+      "meetingDateUtc": "2024-11-28T09:00:00.000Z",
       "meetingPlace": "Fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fec979af5-2a95-482e-992a-878d3c3788c3",
       "agendaAvailable": true,
@@ -6730,7 +6730,7 @@
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 11/29/2024",
       "committee": "Buskerud fylkeskommune",
-      "meetingDateUtc": "11/29/2024 08:00:00",
+      "meetingDateUtc": "2024-11-29T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fa377c7f0-0b0a-4dbe-994e-67d5a41c0620",
       "agendaAvailable": true,
@@ -6827,7 +6827,7 @@
     {
       "title": "Møte i Partssammensatt utvalg 12/02/2024",
       "committee": "Partssammensatt utvalg",
-      "meetingDateUtc": "12/02/2024 11:00:00",
+      "meetingDateUtc": "2024-12-02T12:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen, Fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F201ff1a7-b2ce-4262-9790-ebe5648b74e0",
       "agendaAvailable": true,
@@ -6864,7 +6864,7 @@
     {
       "title": "Møte i Fylkesutvalget 12/03/2024",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "12/03/2024 08:00:00",
+      "meetingDateUtc": "2024-12-03T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fa97a781f-ca6d-42f6-9969-db8e32a0c270",
       "agendaAvailable": true,
@@ -7015,7 +7015,7 @@
     {
       "title": "Møte i Klagenemnd 12/10/2024",
       "committee": "Klagenemnd",
-      "meetingDateUtc": "12/10/2024 06:30:00",
+      "meetingDateUtc": "2024-12-10T07:30:00.000Z",
       "meetingPlace": "Buskerud fylkeskommune, møterom 141,",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Ffa1309d5-a185-435d-92d8-1919bacf7868",
       "agendaAvailable": true,
@@ -7040,7 +7040,7 @@
     {
       "title": "Møte i Fylkestinget 12/16/2024",
       "committee": "Fylkestinget",
-      "meetingDateUtc": "12/16/2024 10:00:00",
+      "meetingDateUtc": "2024-12-16T11:00:00.000Z",
       "meetingPlace": "Fylkestingssalen, Haugesgate 89",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd02d1d5e-c2ff-481f-b9fc-f8213ea1de67",
       "agendaAvailable": true,
@@ -7215,7 +7215,7 @@
     {
       "title": "Møte i Fylkestinget 17.12.2024",
       "committee": "Fylkestinget",
-      "meetingDateUtc": "12/17/2024 07:00:00",
+      "meetingDateUtc": "2024-12-17T08:00:00.000Z",
       "meetingPlace": "",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F458a0c63-91d2-4145-b282-5c0c7e0eb253",
       "agendaAvailable": false,
@@ -7227,7 +7227,7 @@
     {
       "title": "Møte i Ungdommens fylkesråd 01/20/2025",
       "committee": "Ungdommens fylkesråd",
-      "meetingDateUtc": "01/20/2025 07:00:00",
+      "meetingDateUtc": "2025-01-20T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89., Fylkestingsalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F5aace630-adb1-4191-9965-9c8f702e9eae",
       "agendaAvailable": true,
@@ -7288,7 +7288,7 @@
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 01/20/2025",
       "committee": "Råd for mennesker med funksjonsnedsettelse",
-      "meetingDateUtc": "01/20/2025 08:00:00",
+      "meetingDateUtc": "2025-01-20T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89, Drammen, Biskopsrud",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F357229bb-768c-4ceb-9fc6-240b317ee16b",
       "agendaAvailable": true,
@@ -7319,7 +7319,7 @@
     {
       "title": "Møte i Buskerud Eldreråd 01/20/2025",
       "committee": "Buskerud Eldreråd",
-      "meetingDateUtc": "01/20/2025 08:00:00",
+      "meetingDateUtc": "2025-01-20T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89, Drammen, Møterom 141",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F69bf2d99-67d8-4608-8d6e-9f041441dda2",
       "agendaAvailable": true,
@@ -7344,7 +7344,7 @@
     {
       "title": "Møte i Flerkulturelt utvalg 01/20/2025",
       "committee": "Flerkulturelt utvalg",
-      "meetingDateUtc": "01/20/2025 08:00:00",
+      "meetingDateUtc": "2025-01-20T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, møterom 142",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fa2340376-f5c1-4f1d-9a60-44a04b49a98e",
       "agendaAvailable": true,
@@ -7381,7 +7381,7 @@
     {
       "title": "Møte i Valgkomiteen 01/21/2025",
       "committee": "Valgkomiteen",
-      "meetingDateUtc": "01/21/2025 09:00:00",
+      "meetingDateUtc": "2025-01-21T10:00:00.000Z",
       "meetingPlace": "Digitalt, Digitalt",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F1ca2894b-ef41-4ba1-a35a-3f37ee99a78e",
       "agendaAvailable": true,
@@ -7418,7 +7418,7 @@
     {
       "title": "Møte i Yrkesopplæringsnemnda 01/23/2025",
       "committee": "Yrkesopplæringsnemnda",
-      "meetingDateUtc": "01/23/2025 08:00:00",
+      "meetingDateUtc": "2025-01-23T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89, Drammen, Møterom Biskopsrud",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F9ef9de9c-e448-47c6-b216-2c7996a7fe8e",
       "agendaAvailable": true,
@@ -7443,7 +7443,7 @@
     {
       "title": "Møte i Partssammensatt utvalg 01/24/2025",
       "committee": "Partssammensatt utvalg",
-      "meetingDateUtc": "01/24/2025 07:00:00",
+      "meetingDateUtc": "2025-01-24T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F292c33e7-d80f-45c0-b578-14e433364a0e",
       "agendaAvailable": true,
@@ -7468,7 +7468,7 @@
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 01/27/2025",
       "committee": "Hovedutvalg for næring og innovasjon",
-      "meetingDateUtc": "01/27/2025 08:00:00",
+      "meetingDateUtc": "2025-01-27T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Ff2a09724-c51b-4ab1-af96-17f66f602d5b",
       "agendaAvailable": true,
@@ -7547,7 +7547,7 @@
     {
       "title": "Møte i Klagenemnd 01/27/2025",
       "committee": "Klagenemnd",
-      "meetingDateUtc": "01/27/2025 12:30:00",
+      "meetingDateUtc": "2025-01-27T13:30:00.000Z",
       "meetingPlace": "Fylkeshuset, møterom 210",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Ff5799208-377e-413b-b1b9-4bebae5a5b8c",
       "agendaAvailable": true,
@@ -7578,7 +7578,7 @@
     {
       "title": "Møte i Fylkesutvalget 01/28/2025",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "01/28/2025 08:00:00",
+      "meetingDateUtc": "2025-01-28T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F544cdce6-b196-41a5-8dde-45b2ceb081a8",
       "agendaAvailable": true,
@@ -7639,7 +7639,7 @@
     {
       "title": "Møte i Hovedutvalg for opplæring 01/29/2025",
       "committee": "Hovedutvalg for opplæring",
-      "meetingDateUtc": "01/29/2025 08:00:00",
+      "meetingDateUtc": "2025-01-29T09:00:00.000Z",
       "meetingPlace": "Åssiden videregående skole, Bygg D 2.etg. rom D253",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fadc59a6c-37e3-4025-b45d-a42c9eb9bad4",
       "agendaAvailable": true,
@@ -7706,7 +7706,7 @@
     {
       "title": "Møte i Oppgavefellesskap fylkesbiblioteket 01/31/2025",
       "committee": "Buskerud fylkeskommune",
-      "meetingDateUtc": "01/31/2025 08:00:00",
+      "meetingDateUtc": "2025-01-31T09:00:00.000Z",
       "meetingPlace": "Digitalt, Digitalt",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F38918e24-c766-44bf-be95-61b347b4f525",
       "agendaAvailable": true,
@@ -7743,7 +7743,7 @@
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 02/04/2025",
       "committee": "Hovedutvalg for kultur, idrett og folkehelse",
-      "meetingDateUtc": "02/04/2025 08:00:00",
+      "meetingDateUtc": "2025-02-04T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd8023fbc-37dc-4992-97bf-afc775e569b5",
       "agendaAvailable": true,
@@ -7846,7 +7846,7 @@
     {
       "title": "Møte i Hovedutvalg for samferdsel 02/12/2025",
       "committee": "Hovedutvalg for samferdsel",
-      "meetingDateUtc": "02/12/2025 07:00:00",
+      "meetingDateUtc": "2025-02-12T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fad447170-a544-4664-b956-cd444a631a4b",
       "agendaAvailable": true,
@@ -7883,7 +7883,7 @@
     {
       "title": "Møte i Valgkomiteen 02/18/2025",
       "committee": "Valgkomiteen",
-      "meetingDateUtc": "02/18/2025 10:00:00",
+      "meetingDateUtc": "2025-02-18T11:00:00.000Z",
       "meetingPlace": "Digitalt, Digitalt",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F92b93c05-91b9-42c6-acaa-21f93d6a6903",
       "agendaAvailable": true,
@@ -7914,7 +7914,7 @@
     {
       "title": "Møte i Fylkestinget 02/19/2025",
       "committee": "Fylkestinget",
-      "meetingDateUtc": "02/19/2025 10:00:00",
+      "meetingDateUtc": "2025-02-19T11:00:00.000Z",
       "meetingPlace": "Fylkestingssalen, Fylkeshuset Hauges 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd464ee2d-41e7-474e-bc7c-2743efa500ed",
       "agendaAvailable": true,
@@ -8035,7 +8035,7 @@
     {
       "title": "Møte i Fylkesutvalget 03/04/2025",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "03/04/2025 08:00:00",
+      "meetingDateUtc": "2025-03-04T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen, Fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F1bffa1de-6a51-4292-8ea8-e534b5c10f98",
       "agendaAvailable": true,
@@ -8090,7 +8090,7 @@
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 03/11/2025",
       "committee": "Hovedutvalg for næring og innovasjon",
-      "meetingDateUtc": "03/11/2025 17:30:00",
+      "meetingDateUtc": "2025-03-11T18:30:00.000Z",
       "meetingPlace": "Digitalt møte",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fc6317cc2-6987-44b1-ba73-337d6c7aad8c",
       "agendaAvailable": true,
@@ -8115,7 +8115,7 @@
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 03/11/2025",
       "committee": "Hovedutvalg for kultur, idrett og folkehelse",
-      "meetingDateUtc": "03/11/2025 17:30:00",
+      "meetingDateUtc": "2025-03-11T18:30:00.000Z",
       "meetingPlace": "Digitalt møte",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd3ca3a32-9d00-4022-be72-5a647f88c1c2",
       "agendaAvailable": true,
@@ -8140,7 +8140,7 @@
     {
       "title": "Møte i Ungdommens fylkesråd 03/17/2025",
       "committee": "Ungdommens fylkesråd",
-      "meetingDateUtc": "03/17/2025 07:00:00",
+      "meetingDateUtc": "2025-03-17T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89, Drammen, Fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F32b0e6bc-44a3-4e1b-84a6-979290edca47",
       "agendaAvailable": true,
@@ -8201,7 +8201,7 @@
     {
       "title": "Møte i Buskerud Eldreråd 03/17/2025",
       "committee": "Buskerud Eldreråd",
-      "meetingDateUtc": "03/17/2025 08:00:00",
+      "meetingDateUtc": "2025-03-17T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen, Møterom Biskopsrud",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F3a3396ee-4e76-4c9e-a441-46f4687e4b4d",
       "agendaAvailable": true,
@@ -8244,7 +8244,7 @@
     {
       "title": "Møte i Flerkulturelt utvalg 03/17/2025",
       "committee": "Flerkulturelt utvalg",
-      "meetingDateUtc": "03/17/2025 08:00:00",
+      "meetingDateUtc": "2025-03-17T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, møterom 211",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F474be66b-793d-4d66-9954-93b9e88b727b",
       "agendaAvailable": false,
@@ -8256,7 +8256,7 @@
     {
       "title": "Møte i Klagenemnd 03/18/2025",
       "committee": "Klagenemnd",
-      "meetingDateUtc": "03/18/2025 06:30:00",
+      "meetingDateUtc": "2025-03-18T07:30:00.000Z",
       "meetingPlace": "Fylkeshuset, møterom 211, Fylkeshuset, møterom 211",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F5ea083a5-22fa-4fc8-bdac-34f39ba1c973",
       "agendaAvailable": true,
@@ -8287,7 +8287,7 @@
     {
       "title": "Møte i Distriktsvalgstyret 03/18/2025",
       "committee": "Distriktsvalgstyret",
-      "meetingDateUtc": "03/18/2025 07:30:00",
+      "meetingDateUtc": "2025-03-18T08:30:00.000Z",
       "meetingPlace": "Digitalt møte",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F97d73441-b827-4c96-a9d2-0338c1205855",
       "agendaAvailable": true,
@@ -8306,7 +8306,7 @@
     {
       "title": "Møte i Oppgavefellesskap ombud for barn og unge 03/18/2025",
       "committee": "Buskerud fylkeskommune",
-      "meetingDateUtc": "03/18/2025 08:30:00",
+      "meetingDateUtc": "2025-03-18T09:30:00.000Z",
       "meetingPlace": "Sarpsborg, Fylkeshuset i Østfold, Møterom Basmo.",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F9891ead3-42c5-4e88-b434-0cd5d8f1b179",
       "agendaAvailable": true,
@@ -8343,7 +8343,7 @@
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 03/19/2025",
       "committee": "Råd for mennesker med funksjonsnedsettelse",
-      "meetingDateUtc": "03/19/2025 08:00:00",
+      "meetingDateUtc": "2025-03-19T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen, Møterom Biskopsrud",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F5071ded4-7159-4483-909b-e56f5839ef77",
       "agendaAvailable": true,
@@ -8380,7 +8380,7 @@
     {
       "title": "Møte i Yrkesopplæringsnemnda 03/20/2025",
       "committee": "Yrkesopplæringsnemnda",
-      "meetingDateUtc": "03/20/2025 08:00:00",
+      "meetingDateUtc": "2025-03-20T09:00:00.000Z",
       "meetingPlace": "Kongsberg Teknologipark (K-Tech).,",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F79688b48-1a03-44c6-ad06-4d713a32d1e0",
       "agendaAvailable": true,
@@ -8411,7 +8411,7 @@
     {
       "title": "Møte i Flerkulturelt utvalg 03/20/2025",
       "committee": "Flerkulturelt utvalg",
-      "meetingDateUtc": "03/20/2025 08:00:00",
+      "meetingDateUtc": "2025-03-20T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen. Møterom 141.",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fcda9325c-4fdb-4650-a46a-317a8d5a8cbe",
       "agendaAvailable": true,
@@ -8466,7 +8466,7 @@
     {
       "title": "Møte i Partssammensatt utvalg 03/21/2025",
       "committee": "Partssammensatt utvalg",
-      "meetingDateUtc": "03/21/2025 07:00:00",
+      "meetingDateUtc": "2025-03-21T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd8ee45e5-75f9-4eaf-a3af-34616fcf822f",
       "agendaAvailable": true,
@@ -8503,7 +8503,7 @@
     {
       "title": "Møte i Fylkesutvalget 03/24/2025",
       "committee": "Buskerud fylkeskommune",
-      "meetingDateUtc": "03/24/2025 08:30:00",
+      "meetingDateUtc": "2025-03-24T09:30:00.000Z",
       "meetingPlace": "Fylkeshuset i Drammen- Fylkestingssalen, Fylkeshuset i Drammen- Fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F93e42ea9-f164-4af9-8883-e85a69a7ba94",
       "agendaAvailable": true,
@@ -8522,7 +8522,7 @@
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 03/24/2025",
       "committee": "Hovedutvalg for næring og innovasjon",
-      "meetingDateUtc": "03/24/2025 10:00:00",
+      "meetingDateUtc": "2025-03-24T11:00:00.000Z",
       "meetingPlace": "Fylkeshuset Drammen, Biskopsrud",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F09c68057-295c-4fc6-8bfc-7b2bbbd39497",
       "agendaAvailable": true,
@@ -8619,7 +8619,7 @@
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 03/25/2025",
       "committee": "Hovedutvalg for kultur, idrett og folkehelse",
-      "meetingDateUtc": "03/25/2025 08:00:00",
+      "meetingDateUtc": "2025-03-25T09:00:00.000Z",
       "meetingPlace": "Gateway studios, Havnegata 33, Gateway studios, Havnegata 33",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd146d6fc-49b2-48f4-931f-cbe99a94ed8c",
       "agendaAvailable": true,
@@ -8722,7 +8722,7 @@
     {
       "title": "Møte i Hovedutvalg for samferdsel 03/26/2025",
       "committee": "Hovedutvalg for samferdsel",
-      "meetingDateUtc": "03/26/2025 07:00:00",
+      "meetingDateUtc": "2025-03-26T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F5d139da1-906a-46fa-a645-bd718088bcb4",
       "agendaAvailable": true,
@@ -8765,7 +8765,7 @@
     {
       "title": "Møte i Valgkomiteen 03/27/2025",
       "committee": "Valgkomiteen",
-      "meetingDateUtc": "03/27/2025 08:00:00",
+      "meetingDateUtc": "2025-03-27T09:00:00.000Z",
       "meetingPlace": "Digitalt, Digitalt",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F372bc659-d7e9-4b71-b2bf-63e279387fca",
       "agendaAvailable": true,
@@ -8808,7 +8808,7 @@
     {
       "title": "Møte i Hovedutvalg for opplæring 03/27/2025",
       "committee": "Hovedutvalg for opplæring",
-      "meetingDateUtc": "03/27/2025 08:00:00",
+      "meetingDateUtc": "2025-03-27T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F4acb55f7-6619-4ab4-9748-c4dc15b301ad",
       "agendaAvailable": true,
@@ -8845,7 +8845,7 @@
     {
       "title": "Møte i Fylkesutvalget 04/02/2025",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "04/02/2025 06:00:00",
+      "meetingDateUtc": "2025-04-02T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F06f4d08c-ec79-48d8-a953-99c4b78de5c5",
       "agendaAvailable": true,
@@ -8960,7 +8960,7 @@
     {
       "title": "Møte i Valgkomiteen 04/04/2025",
       "committee": "Valgkomiteen",
-      "meetingDateUtc": "04/04/2025 08:00:00",
+      "meetingDateUtc": "2025-04-04T10:00:00.000Z",
       "meetingPlace": "Skriftlig saksbehandling på e-post",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F33e35099-7aa3-4188-915c-97311a568e8a",
       "agendaAvailable": true,
@@ -8979,7 +8979,7 @@
     {
       "title": "Møte i Representantskapet Fagskolen i Viken - Kommunalt oppgavefellesskap 04/07/2025",
       "committee": "Representantskapet Fagskolen i Viken - Kommunalt oppgavefellesskap",
-      "meetingDateUtc": "04/07/2025 10:00:00",
+      "meetingDateUtc": "2025-04-07T12:00:00.000Z",
       "meetingPlace": "Teams",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F44f90a48-587a-4ea2-8e9e-f0e1875bc5b9",
       "agendaAvailable": true,
@@ -9016,7 +9016,7 @@
     {
       "title": "Møte i Distriktsvalgstyret 04/09/2025",
       "committee": "Distriktsvalgstyret",
-      "meetingDateUtc": "04/09/2025 05:00:00",
+      "meetingDateUtc": "2025-04-09T07:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Faf899fcd-845e-4fd3-a0d9-181434750aba",
       "agendaAvailable": true,
@@ -9041,7 +9041,7 @@
     {
       "title": "Møte i Fylkestinget 04/09/2025",
       "committee": "Fylkestinget",
-      "meetingDateUtc": "04/09/2025 08:00:00",
+      "meetingDateUtc": "2025-04-09T10:00:00.000Z",
       "meetingPlace": "Fylkeshuset, fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F759d2799-c872-40fe-920c-0de16a10588b",
       "agendaAvailable": true,
@@ -9168,7 +9168,7 @@
     {
       "title": "Møte i Yrkesopplæringsnemnda 04/23/2025",
       "committee": "Yrkesopplæringsnemnda",
-      "meetingDateUtc": "04/23/2025 06:00:00",
+      "meetingDateUtc": "2025-04-23T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89, Drammen, Møterom Biskopsrud",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe3b0abe6-f325-4a85-86fd-a3e30637bbfd",
       "agendaAvailable": true,
@@ -9199,7 +9199,7 @@
     {
       "title": "Møte i Hovedutvalg for samferdsel 04/30/2025",
       "committee": "Hovedutvalg for samferdsel",
-      "meetingDateUtc": "04/30/2025 05:00:00",
+      "meetingDateUtc": "2025-04-30T07:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen, møterom fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F0c3dc1d8-4455-4715-8812-89f01f89cd74",
       "agendaAvailable": true,
@@ -9224,7 +9224,7 @@
     {
       "title": "Møte i Hovedutvalg for opplæring 04/30/2025",
       "committee": "Hovedutvalg for opplæring",
-      "meetingDateUtc": "04/30/2025 06:00:00",
+      "meetingDateUtc": "2025-04-30T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Biskopsrud",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fed09d195-3ad4-4ed5-a2e7-081ad3b4c1d8",
       "agendaAvailable": true,
@@ -9267,7 +9267,7 @@
     {
       "title": "Møte i Fylkesutvalget 05/13/2025",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "05/13/2025 06:00:00",
+      "meetingDateUtc": "2025-05-13T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen, Fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F71f3f964-c2ce-485f-9ba8-cd09c0fafc97",
       "agendaAvailable": true,
@@ -9310,7 +9310,7 @@
     {
       "title": "Møte i Oppgavefellesskap anskaffelser 05/15/2025",
       "committee": "Oppgavefellesskap anskaffelser",
-      "meetingDateUtc": "05/15/2025 06:00:00",
+      "meetingDateUtc": "2025-05-15T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset Sarpsborg, Sarpsborg",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F061ef432-c1a7-446a-91f1-9a5a0efe80d0",
       "agendaAvailable": true,
@@ -9347,7 +9347,7 @@
     {
       "title": "Møte i Representantskapet Fagskolen i Viken - Kommunalt oppgavefellesskap 05/15/2025",
       "committee": "Representantskapet Fagskolen i Viken - Kommunalt oppgavefellesskap",
-      "meetingDateUtc": "05/15/2025 06:00:00",
+      "meetingDateUtc": "2025-05-15T08:00:00.000Z",
       "meetingPlace": "Fagskolen Viken, Kongsberg, Krona, Hasbergsvei 36. 3616 Kongsberg",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F5c3c0022-7c12-43ba-b22b-b9ee1dc02a2d",
       "agendaAvailable": true,
@@ -9396,7 +9396,7 @@
     {
       "title": "Møte i Klagenemnd 05/19/2025",
       "committee": "Klagenemnd",
-      "meetingDateUtc": "05/19/2025 04:30:00",
+      "meetingDateUtc": "2025-05-19T06:30:00.000Z",
       "meetingPlace": "Fylkeshuset, møterom 214",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F0bf96147-345a-49d3-86d8-8891f14c5078",
       "agendaAvailable": true,
@@ -9427,7 +9427,7 @@
     {
       "title": "Møte i Oppgavefellesskap fylkesbiblioteket 05/23/2025",
       "committee": "Buskerud fylkeskommune",
-      "meetingDateUtc": "05/23/2025 10:25:00",
+      "meetingDateUtc": "2025-05-23T12:25:00.000Z",
       "meetingPlace": "Møterom Hykkelen, Sarpsborg bibliotek, Møterom Hykkelen, Sarpsborg bibliotek",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fc2a5b624-395b-4df5-89f3-486dc69f6ed6",
       "agendaAvailable": true,
@@ -9470,7 +9470,7 @@
     {
       "title": "Møte i Ungdommens fylkesråd 05/26/2025",
       "committee": "Ungdommens fylkesråd",
-      "meetingDateUtc": "05/26/2025 05:00:00",
+      "meetingDateUtc": "2025-05-26T07:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F9e57e64d-49b1-440d-bdb6-81d751731fa3",
       "agendaAvailable": false,
@@ -9482,7 +9482,7 @@
     {
       "title": "Møte i Ungdommens fylkesråd 05/26/2025",
       "committee": "Ungdommens fylkesråd",
-      "meetingDateUtc": "05/26/2025 05:00:00",
+      "meetingDateUtc": "2025-05-26T07:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen, Fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe0396d23-23d5-47da-adfe-9e42ad9a03c2",
       "agendaAvailable": true,
@@ -9579,7 +9579,7 @@
     {
       "title": "Møte i Buskerud Eldreråd 05/26/2025",
       "committee": "Buskerud Eldreråd",
-      "meetingDateUtc": "05/26/2025 06:00:00",
+      "meetingDateUtc": "2025-05-26T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89, Drammen, Møterom Biskopsrud",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F8fe15160-cf5d-4316-adb8-c4e4399bb77b",
       "agendaAvailable": true,
@@ -9616,7 +9616,7 @@
     {
       "title": "Møte i Distriktsvalgstyret 05/27/2025",
       "committee": "Distriktsvalgstyret",
-      "meetingDateUtc": "05/27/2025 08:00:00",
+      "meetingDateUtc": "2025-05-27T10:00:00.000Z",
       "meetingPlace": "Digitalt møte",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F0b085929-6d79-4f5a-8fb0-5a063192be52",
       "agendaAvailable": true,
@@ -9641,7 +9641,7 @@
     {
       "title": "Møte i Oppgavefellesskap ombud for barn og unge 05/27/2025",
       "committee": "Buskerud fylkeskommune",
-      "meetingDateUtc": "05/27/2025 09:00:00",
+      "meetingDateUtc": "2025-05-27T11:00:00.000Z",
       "meetingPlace": "Fylkeshuset i Drammen, møterom 216),, Fylkeshuset i Drammen, møterom 216),",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F40590639-a27c-4a14-9f90-9e661bdc7a6e",
       "agendaAvailable": true,
@@ -9678,7 +9678,7 @@
     {
       "title": "Møte i Samarbeidsutvalget 05/27/2025",
       "committee": "Samarbeidsutvalget",
-      "meetingDateUtc": "05/27/2025 09:30:00",
+      "meetingDateUtc": "2025-05-27T11:30:00.000Z",
       "meetingPlace": "Digitalt.",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F85aec802-cee4-451d-a010-b4aedb99fcf5",
       "agendaAvailable": true,
@@ -9727,7 +9727,7 @@
     {
       "title": "Møte i Yrkesopplæringsnemnda 05/28/2025",
       "committee": "Yrkesopplæringsnemnda",
-      "meetingDateUtc": "05/28/2025 06:00:00",
+      "meetingDateUtc": "2025-05-28T08:00:00.000Z",
       "meetingPlace": "Union Scene, Multisal 1, Grønland 60, Union Scene, Multisal 1, Grønland 60",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F7c4f7719-82a5-4f61-8366-ba8d3db52450",
       "agendaAvailable": true,
@@ -9788,7 +9788,7 @@
     {
       "title": "Møte i Flerkulturelt utvalg 05/28/2025",
       "committee": "Flerkulturelt utvalg",
-      "meetingDateUtc": "05/28/2025 06:00:00",
+      "meetingDateUtc": "2025-05-28T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, møterom 211",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fdd2dfa59-1605-4217-9ea2-ca39fca8b875",
       "agendaAvailable": true,
@@ -9855,7 +9855,7 @@
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 05/28/2025",
       "committee": "Råd for mennesker med funksjonsnedsettelse",
-      "meetingDateUtc": "05/28/2025 06:00:00",
+      "meetingDateUtc": "2025-05-28T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89, Drammen, Møterom Biskopsrud",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe5405039-173c-4afa-885a-98df7a1b6f28",
       "agendaAvailable": true,
@@ -9892,7 +9892,7 @@
     {
       "title": "Møte i Partssammensatt utvalg 05/28/2025",
       "committee": "Partssammensatt utvalg",
-      "meetingDateUtc": "05/28/2025 07:00:00",
+      "meetingDateUtc": "2025-05-28T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F24530e2d-2ca7-4747-b14f-8cd2a6e8bf98",
       "agendaAvailable": true,
@@ -9929,7 +9929,7 @@
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 06/02/2025",
       "committee": "Hovedutvalg for kultur, idrett og folkehelse",
-      "meetingDateUtc": "06/02/2025 12:15:00",
+      "meetingDateUtc": "2025-06-02T14:15:00.000Z",
       "meetingPlace": "Klubbhus Hokksund Turnforening, Hokksundhallen, Hokksundhallen, Loesmoen, Lyngveien 48, 3300 Hokksund",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fbcea74cf-29c4-48f1-9481-2963fd35c1e8",
       "agendaAvailable": true,
@@ -10044,7 +10044,7 @@
     {
       "title": "Møte i Hovedutvalg for samferdsel 03.06.2025",
       "committee": "Hovedutvalg for samferdsel",
-      "meetingDateUtc": "06/03/2025 05:30:00",
+      "meetingDateUtc": "2025-06-03T07:30:00.000Z",
       "meetingPlace": "Fossesholm Herregård, Fossgata, Vestfossen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Ff3d33f12-4285-4ada-9e77-be9f82cc7abd",
       "agendaAvailable": true,
@@ -10105,7 +10105,7 @@
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 06/03/2025",
       "committee": "Hovedutvalg for næring og innovasjon",
-      "meetingDateUtc": "06/03/2025 10:45:00",
+      "meetingDateUtc": "2025-06-03T12:45:00.000Z",
       "meetingPlace": "Splitkon, Splitkon, Industriveien 3, 3340 Åmot",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F13df6a56-f898-4e76-a5b5-fef1f2f9f545",
       "agendaAvailable": true,
@@ -10238,7 +10238,7 @@
     {
       "title": "Møte i Partssammensatt utvalg 06/04/2025",
       "committee": "Partssammensatt utvalg",
-      "meetingDateUtc": "06/04/2025 05:00:00",
+      "meetingDateUtc": "2025-06-04T07:00:00.000Z",
       "meetingPlace": "Digitalt møte. Lenke fås ved forespørsel",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F482e6323-ca6b-484a-a044-2ce81718f70f",
       "agendaAvailable": true,
@@ -10263,7 +10263,7 @@
     {
       "title": "Møte i Hovedutvalg for opplæring 06/04/2025",
       "committee": "Hovedutvalg for opplæring",
-      "meetingDateUtc": "06/04/2025 06:00:00",
+      "meetingDateUtc": "2025-06-04T08:00:00.000Z",
       "meetingPlace": "Ikke avklart",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F1bef980c-5260-4df7-a572-3363e8de825a",
       "agendaAvailable": false,
@@ -10275,7 +10275,7 @@
     {
       "title": "Møte i Hovedutvalg for opplæring 06/05/2025",
       "committee": "Hovedutvalg for opplæring",
-      "meetingDateUtc": "06/05/2025 05:00:00",
+      "meetingDateUtc": "2025-06-05T07:00:00.000Z",
       "meetingPlace": "Kongsberg videregående skole, Kongsberg videregående skole",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F6a23e7d4-85f7-4883-9ae2-903e38053471",
       "agendaAvailable": true,
@@ -10372,7 +10372,7 @@
     {
       "title": "Møte i Fylkesutvalget 06/11/2025",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "06/11/2025 06:00:00",
+      "meetingDateUtc": "2025-06-11T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd13e6c29-74dd-4c11-8367-30741c74b0bb",
       "agendaAvailable": true,
@@ -10529,7 +10529,7 @@
     {
       "title": "Møte i Valgkomiteen 06/11/2025",
       "committee": "Valgkomiteen",
-      "meetingDateUtc": "06/11/2025 11:00:00",
+      "meetingDateUtc": "2025-06-11T13:00:00.000Z",
       "meetingPlace": "Teams., Teams",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fc9d3c8e6-1100-4b66-8156-45eb4aba22ea",
       "agendaAvailable": true,
@@ -10560,7 +10560,7 @@
     {
       "title": "Møte i Distriktsvalgstyret 06/17/2025",
       "committee": "Distriktsvalgstyret",
-      "meetingDateUtc": "06/17/2025 04:30:00",
+      "meetingDateUtc": "2025-06-17T06:30:00.000Z",
       "meetingPlace": "Fylkeshuset, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F4d347d9b-3ae4-4cb6-b1f4-d914075b757b",
       "agendaAvailable": true,
@@ -10585,7 +10585,7 @@
     {
       "title": "Møte i Fylkestinget 06/17/2025",
       "committee": "Fylkestinget",
-      "meetingDateUtc": "06/17/2025 06:00:00",
+      "meetingDateUtc": "2025-06-17T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F33e306e8-ca9c-4c9f-83d2-e5ccc5d9499c",
       "agendaAvailable": true,
@@ -10766,7 +10766,7 @@
     {
       "title": "Møte i Klagenemnd 06/24/2025",
       "committee": "Klagenemnd",
-      "meetingDateUtc": "06/24/2025 05:30:00",
+      "meetingDateUtc": "2025-06-24T07:30:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen, møterom 216, Møterom 216",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fc625cd3d-6295-4e0c-ae68-4dca607341f7",
       "agendaAvailable": true,
@@ -10797,7 +10797,7 @@
     {
       "title": "Møte i Klagenemnd 12.08.2025",
       "committee": "Klagenemnd",
-      "meetingDateUtc": "08/12/2025 04:30:00",
+      "meetingDateUtc": "2025-08-12T06:30:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen, Møterom 210",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fbdf5b5f4-6bf4-4413-ae99-ee2ae02a7149",
       "agendaAvailable": true,
@@ -10840,7 +10840,7 @@
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 14.08.2025",
       "committee": "Hovedutvalg for kultur, idrett og folkehelse",
-      "meetingDateUtc": "08/14/2025 11:00:00",
+      "meetingDateUtc": "2025-08-14T13:00:00.000Z",
       "meetingPlace": "Digitalt - skriftlig saksbehandling",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F357ff503-99bf-4b5f-81c5-4368f3d1f6f8",
       "agendaAvailable": true,
@@ -10859,7 +10859,7 @@
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 14.08.2025",
       "committee": "Hovedutvalg for næring og innovasjon",
-      "meetingDateUtc": "08/14/2025 11:00:00",
+      "meetingDateUtc": "2025-08-14T13:00:00.000Z",
       "meetingPlace": "Digitalt - skriftlig saksbehandling",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd209ed53-4f97-4388-b3da-472c0c005e03",
       "agendaAvailable": true,
@@ -10878,7 +10878,7 @@
     {
       "title": "Møte i Ungdommens fylkesråd 25.08.2025",
       "committee": "Ungdommens fylkesråd",
-      "meetingDateUtc": "08/25/2025 05:00:00",
+      "meetingDateUtc": "2025-08-25T07:00:00.000Z",
       "meetingPlace": "UngInvest, Svelvikveien 6, 3039 Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Ff288a160-65a2-4240-9393-9d93c05af343",
       "agendaAvailable": true,
@@ -10915,7 +10915,7 @@
     {
       "title": "Møte i Buskerud Eldreråd 25.08.2025",
       "committee": "Buskerud Eldreråd",
-      "meetingDateUtc": "08/25/2025 06:00:00",
+      "meetingDateUtc": "2025-08-25T08:00:00.000Z",
       "meetingPlace": "Drammensbiblioteket, Grønland 58, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fbb93da4e-c196-4f7e-8625-ab38bed150c0",
       "agendaAvailable": true,
@@ -10940,7 +10940,7 @@
     {
       "title": "Møte i Klagenemnd 26.08.2025",
       "committee": "Klagenemnd",
-      "meetingDateUtc": "08/26/2025 04:30:00",
+      "meetingDateUtc": "2025-08-26T06:30:00.000Z",
       "meetingPlace": "Fylkeshuset, møterom 215",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F22fb9b3d-4378-4223-9dd1-d8e90b41221f",
       "agendaAvailable": true,
@@ -10977,7 +10977,7 @@
     {
       "title": "Møte i Flerkulturelt utvalg 27.08.2025",
       "committee": "Flerkulturelt utvalg",
-      "meetingDateUtc": "08/27/2025 06:00:00",
+      "meetingDateUtc": "2025-08-27T08:00:00.000Z",
       "meetingPlace": "UngInvest, Svelvikveien 63, 3039 Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F8ed12685-22d1-49cf-9160-c15c5d61fb8b",
       "agendaAvailable": true,
@@ -11014,7 +11014,7 @@
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 28.08.2025",
       "committee": "Råd for mennesker med funksjonsnedsettelse",
-      "meetingDateUtc": "08/28/2025 06:00:00",
+      "meetingDateUtc": "2025-08-28T08:00:00.000Z",
       "meetingPlace": "Eiker Vekst, Ryghgata 6, Mjøndalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Ffbc63d76-009e-41d3-9e20-da1306266df3",
       "agendaAvailable": true,
@@ -11039,7 +11039,7 @@
     {
       "title": "Møte i Partssammensatt utvalg 08/29/2025",
       "committee": "Partssammensatt utvalg",
-      "meetingDateUtc": "08/29/2025 09:00:00",
+      "meetingDateUtc": "2025-08-29T11:00:00.000Z",
       "meetingPlace": "Union scene, multisal 2",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fc7b7765e-0972-4151-b1c9-9bd7d351b38a",
       "agendaAvailable": false,
@@ -11051,7 +11051,7 @@
     {
       "title": "Møte i Fylkesutvalget 01.09.2025",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "09/01/2025 05:00:00",
+      "meetingDateUtc": "2025-09-01T07:00:00.000Z",
       "meetingPlace": "Union Scene",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fafe3dcf4-1189-4862-ba12-baffbaecf685",
       "agendaAvailable": true,
@@ -11082,7 +11082,7 @@
     {
       "title": "Møte i Representantskapet Fagskolen i Viken - Kommunalt oppgavefellesskap 11.09.2025",
       "committee": "Representantskapet Fagskolen i Viken - Kommunalt oppgavefellesskap",
-      "meetingDateUtc": "09/11/2025 06:00:00",
+      "meetingDateUtc": "2025-09-11T08:00:00.000Z",
       "meetingPlace": "Fagskolen Viken Østfold, Jens Wilhelmsensgate 3, 1671 Kråkerøy, FSOST Klasserom H2-5150",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F06af6700-12d8-4de6-b3eb-62ea910b4d47",
       "agendaAvailable": true,
@@ -11119,7 +11119,7 @@
     {
       "title": "Møte i Oppgavefellesskap anskaffelser 11.09.2025",
       "committee": "Oppgavefellesskap anskaffelser",
-      "meetingDateUtc": "09/11/2025 06:00:00",
+      "meetingDateUtc": "2025-09-11T08:00:00.000Z",
       "meetingPlace": "fylkeshuset Drammen, fylkeshuset Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fefb5b1e4-7404-44a1-a4e4-b72210d03c2b",
       "agendaAvailable": true,
@@ -11162,7 +11162,7 @@
     {
       "title": "Møte i Oppgavefellesskap fylkesbiblioteket 12.09.2025",
       "committee": "Buskerud fylkeskommune",
-      "meetingDateUtc": "09/12/2025 06:00:00",
+      "meetingDateUtc": "2025-09-12T08:00:00.000Z",
       "meetingPlace": "Digitalt, Digitalt",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe441989a-ab51-4538-9975-771021ebd9b5",
       "agendaAvailable": true,
@@ -11199,7 +11199,7 @@
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 15.09.2025",
       "committee": "Hovedutvalg for kultur, idrett og folkehelse",
-      "meetingDateUtc": "09/15/2025 06:00:00",
+      "meetingDateUtc": "2025-09-15T08:00:00.000Z",
       "meetingPlace": "Befaringer i Numedal",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F385fb542-01d4-4f83-8a78-cb504959de69",
       "agendaAvailable": false,
@@ -11211,7 +11211,7 @@
     {
       "title": "Møte i Valgkomiteen 16.09.2025",
       "committee": "Valgkomiteen",
-      "meetingDateUtc": "09/16/2025 08:00:00",
+      "meetingDateUtc": "2025-09-16T10:00:00.000Z",
       "meetingPlace": "Digitalt, Digitalt",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F8e630597-2383-4392-8b7a-bbecd4fe94e7",
       "agendaAvailable": true,
@@ -11236,7 +11236,7 @@
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 16.09.2025",
       "committee": "Hovedutvalg for kultur, idrett og folkehelse",
-      "meetingDateUtc": "09/16/2025 10:00:00",
+      "meetingDateUtc": "2025-09-16T12:00:00.000Z",
       "meetingPlace": "Hol kommunehus",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F82633a95-569c-4f25-bb35-7885ff7ee093",
       "agendaAvailable": true,
@@ -11315,7 +11315,7 @@
     {
       "title": "Møte i Distriktsvalgstyret 16.09.2025",
       "committee": "Distriktsvalgstyret",
-      "meetingDateUtc": "09/16/2025 14:30:00",
+      "meetingDateUtc": "2025-09-16T16:30:00.000Z",
       "meetingPlace": "Fylkeshuset, møterom 216",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F7bddc7f3-a892-402a-92a6-4e38db4162a1",
       "agendaAvailable": true,
@@ -11352,7 +11352,7 @@
     {
       "title": "Møte i Fylkesvalgstyret 16.09.2025",
       "committee": "Fylkesvalgstyret",
-      "meetingDateUtc": "09/16/2025 15:00:00",
+      "meetingDateUtc": "2025-09-16T17:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89. Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F4cb2508e-d6e5-4509-9899-7c96ea4c75f7",
       "agendaAvailable": true,
@@ -11371,7 +11371,7 @@
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 17.09.2025",
       "committee": "Hovedutvalg for næring og innovasjon",
-      "meetingDateUtc": "09/17/2025 06:30:00",
+      "meetingDateUtc": "2025-09-17T08:30:00.000Z",
       "meetingPlace": "Rollag - befaringer, Rollag",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F96d865c9-7fbb-450f-84e5-5e21d8428b7c",
       "agendaAvailable": true,
@@ -11390,7 +11390,7 @@
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 18.09.2025",
       "committee": "Hovedutvalg for næring og innovasjon",
-      "meetingDateUtc": "09/18/2025 04:30:00",
+      "meetingDateUtc": "2025-09-18T06:30:00.000Z",
       "meetingPlace": "Søstrene Storaas,",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F548a9bbc-2040-47dd-8c0b-b03b3f98f4fb",
       "agendaAvailable": true,
@@ -11481,7 +11481,7 @@
     {
       "title": "Møte i Hovedutvalg for samferdsel 18.09.2025",
       "committee": "Hovedutvalg for samferdsel",
-      "meetingDateUtc": "09/18/2025 04:45:00",
+      "meetingDateUtc": "2025-09-18T06:45:00.000Z",
       "meetingPlace": "Befaringer, Oppmøte på fylkeshuset i Drammen for felles transport.",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F84359a03-dcef-4354-b916-0169037ed0c6",
       "agendaAvailable": true,
@@ -11500,7 +11500,7 @@
     {
       "title": "Møte i Hovedutvalg for samferdsel 19.09.2025",
       "committee": "Hovedutvalg for samferdsel",
-      "meetingDateUtc": "09/19/2025 05:00:00",
+      "meetingDateUtc": "2025-09-19T07:00:00.000Z",
       "meetingPlace": "Lampeland hotell, Stasjonsvegen 4, Lampeland",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fbdfe183b-e7f6-407b-9b88-3cd3b63054f4",
       "agendaAvailable": true,
@@ -11537,7 +11537,7 @@
     {
       "title": "Møte i Distriktsvalgstyret 23.09.2025",
       "committee": "Distriktsvalgstyret",
-      "meetingDateUtc": "09/23/2025 05:00:00",
+      "meetingDateUtc": "2025-09-23T07:00:00.000Z",
       "meetingPlace": "Fylkeshuset",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fbaca1cd5-b3c5-447c-9e56-967da6773263",
       "agendaAvailable": true,
@@ -11562,7 +11562,7 @@
     {
       "title": "Møte i Fylkesutvalget 23.09.2025",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "09/23/2025 06:00:00",
+      "meetingDateUtc": "2025-09-23T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F8cd2f9a3-02d9-45ac-8094-ac61c688c5a7",
       "agendaAvailable": true,
@@ -11689,7 +11689,7 @@
     {
       "title": "Møte i Fylkesvalgstyret 29.09.2025",
       "committee": "Fylkesvalgstyret",
-      "meetingDateUtc": "09/29/2025 06:00:00",
+      "meetingDateUtc": "2025-09-29T08:00:00.000Z",
       "meetingPlace": "Digitalt møte",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F61e32354-d7b0-41be-9b0b-fcd2fd59531a",
       "agendaAvailable": true,
@@ -11720,7 +11720,7 @@
     {
       "title": "Møte i Valgkomiteen 06.10.2025",
       "committee": "Valgkomiteen",
-      "meetingDateUtc": "10/06/2025 05:00:00",
+      "meetingDateUtc": "2025-10-06T07:00:00.000Z",
       "meetingPlace": "Teams",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F26b001e8-e9e1-485f-87ab-3b8626c355a1",
       "agendaAvailable": true,
@@ -11739,7 +11739,7 @@
     {
       "title": "Møte i Fylkestinget 10/07/2025",
       "committee": "Fylkestinget",
-      "meetingDateUtc": "10/07/2025 08:00:00",
+      "meetingDateUtc": "2025-10-07T10:00:00.000Z",
       "meetingPlace": "Fylkeshuset, fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F96c3111d-4345-4da3-835c-92c0e30b4460",
       "agendaAvailable": false,
@@ -11751,7 +11751,7 @@
     {
       "title": "Møte i Fylkestinget 08.10.2025",
       "committee": "Fylkestinget",
-      "meetingDateUtc": "10/08/2025 05:00:00",
+      "meetingDateUtc": "2025-10-08T07:00:00.000Z",
       "meetingPlace": "Sundvolden Hotell",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F37f57936-8cf5-424a-83e3-4c3bdbb11796",
       "agendaAvailable": true,
@@ -11884,7 +11884,7 @@
     {
       "title": "Møte i Yrkesopplæringsnemnda 09.10.2025",
       "committee": "Yrkesopplæringsnemnda",
-      "meetingDateUtc": "10/09/2025 06:00:00",
+      "meetingDateUtc": "2025-10-09T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89, Drammen - Møterom Biskopsrud, Møterom Biskopsrud",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F2406a6b8-ee2a-4e80-8846-cea53debe5cb",
       "agendaAvailable": true,
@@ -11951,7 +11951,7 @@
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 09.10.2025",
       "committee": "Råd for mennesker med funksjonsnedsettelse",
-      "meetingDateUtc": "10/09/2025 06:00:00",
+      "meetingDateUtc": "2025-10-09T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F856ba15a-8b90-40ac-afd4-6cafda8a4f6e",
       "agendaAvailable": true,
@@ -11988,7 +11988,7 @@
     {
       "title": "Møte i Partssammensatt utvalg 10.10.2025",
       "committee": "Partssammensatt utvalg",
-      "meetingDateUtc": "10/10/2025 05:00:00",
+      "meetingDateUtc": "2025-10-10T07:00:00.000Z",
       "meetingPlace": "Fylkeshuset, fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Ffceaa8f2-0ca7-42f5-8774-a6aca15e31da",
       "agendaAvailable": true,
@@ -12007,7 +12007,7 @@
     {
       "title": "Møte i Ungdommens fylkesråd 13.10.2025",
       "committee": "Ungdommens fylkesråd",
-      "meetingDateUtc": "10/13/2025 05:00:00",
+      "meetingDateUtc": "2025-10-13T07:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen, Fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F988747da-24f5-4817-9b27-7be361f2f052",
       "agendaAvailable": true,
@@ -12062,7 +12062,7 @@
     {
       "title": "Møte i Buskerud Eldreråd 13.10.2025",
       "committee": "Buskerud Eldreråd",
-      "meetingDateUtc": "10/13/2025 06:00:00",
+      "meetingDateUtc": "2025-10-13T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89, Drammen - Møterom Biskopsrud",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F5ef6ccce-ceb7-41ba-9294-06eaa3f92dee",
       "agendaAvailable": true,
@@ -12099,7 +12099,7 @@
     {
       "title": "Møte i Samarbeidsutvalget 13.10.2025",
       "committee": "Samarbeidsutvalget",
-      "meetingDateUtc": "10/13/2025 06:00:00",
+      "meetingDateUtc": "2025-10-13T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset og digitalt - Kontakt politisksekretariat@bfk.no for lenke,",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fa1cb81b7-c9af-408d-bc34-ac405d8571bd",
       "agendaAvailable": true,
@@ -12136,7 +12136,7 @@
     {
       "title": "Møte i Klagenemnd 14.10.2025",
       "committee": "Klagenemnd",
-      "meetingDateUtc": "10/14/2025 04:30:00",
+      "meetingDateUtc": "2025-10-14T06:30:00.000Z",
       "meetingPlace": "Fylkeshuset, møterom 210",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F2eddcef6-8d76-47e4-9fb5-dc1687c4eb01",
       "agendaAvailable": true,
@@ -12161,7 +12161,7 @@
     {
       "title": "Møte i Flerkulturelt utvalg 14.10.2025",
       "committee": "Flerkulturelt utvalg",
-      "meetingDateUtc": "10/14/2025 06:00:00",
+      "meetingDateUtc": "2025-10-14T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, møterom 211",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F48d60d9a-779d-49ec-87c1-a5b1181adbc2",
       "agendaAvailable": true,
@@ -12204,7 +12204,7 @@
     {
       "title": "Møte i Hovedutvalg for samferdsel 15.10.2025",
       "committee": "Hovedutvalg for samferdsel",
-      "meetingDateUtc": "10/15/2025 06:00:00",
+      "meetingDateUtc": "2025-10-15T08:00:00.000Z",
       "meetingPlace": "Gol videregående skole, Gymnasvegen 27",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fea8e5998-c706-4536-98bb-5b8a13be52ad",
       "agendaAvailable": true,
@@ -12235,7 +12235,7 @@
     {
       "title": "Møte i Hovedutvalg for opplæring 16.10.2025",
       "committee": "Hovedutvalg for opplæring",
-      "meetingDateUtc": "10/16/2025 09:00:00",
+      "meetingDateUtc": "2025-10-16T11:00:00.000Z",
       "meetingPlace": "Fylkeshuset, fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F66bad220-d637-4e03-9969-542aa7aa018a",
       "agendaAvailable": true,
@@ -12278,7 +12278,7 @@
     {
       "title": "Møte i Valgkomiteen 21.10.2025",
       "committee": "Valgkomiteen",
-      "meetingDateUtc": "10/21/2025 08:00:00",
+      "meetingDateUtc": "2025-10-21T10:00:00.000Z",
       "meetingPlace": "Digitalt, Digitalt",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F9abfa516-bcc1-4333-bc94-e830d48b71ef",
       "agendaAvailable": true,
@@ -12303,7 +12303,7 @@
     {
       "title": "Møte i Fylkesutvalget 10/28/2025",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "10/28/2025 08:00:00",
+      "meetingDateUtc": "2025-10-28T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F6fafaeb3-d9fe-46b6-a49d-1886c453ec6a",
       "agendaAvailable": false,
@@ -12315,7 +12315,7 @@
     {
       "title": "Møte i Fylkesutvalget 29.10.2025",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "10/29/2025 07:00:00",
+      "meetingDateUtc": "2025-10-29T08:00:00.000Z",
       "meetingPlace": "Søstrene Storaas",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F199c012f-daa5-4abe-9ab4-f9821d2be3e1",
       "agendaAvailable": true,
@@ -12394,7 +12394,7 @@
     {
       "title": "Møte i Arbeidsutvalg revisjon av reglementer 04.11.2025",
       "committee": "Arbeidsutvalg revisjon av reglementer",
-      "meetingDateUtc": "11/04/2025 12:00:00",
+      "meetingDateUtc": "2025-11-04T13:00:00.000Z",
       "meetingPlace": "Digitalt møte, Fylkesordførers møterom",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe8164a09-8c17-4269-9b34-fd5b7eb48257",
       "agendaAvailable": true,
@@ -12413,7 +12413,7 @@
     {
       "title": "Møte i Fylkestinget 05.11.2025",
       "committee": "Fylkestinget",
-      "meetingDateUtc": "11/05/2025 10:00:00",
+      "meetingDateUtc": "2025-11-05T11:00:00.000Z",
       "meetingPlace": "Fylkeshuset, fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F2e644037-8de7-4500-b319-c4f3ecf7acbc",
       "agendaAvailable": true,
@@ -12462,7 +12462,7 @@
     {
       "title": "Møte i Klagenemnd 10.11.2025",
       "committee": "Klagenemnd",
-      "meetingDateUtc": "11/10/2025 06:30:00",
+      "meetingDateUtc": "2025-11-10T07:30:00.000Z",
       "meetingPlace": "Fylkeshuset, møterom 216",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F3361d4fd-2345-4725-8f39-477914a2e39c",
       "agendaAvailable": true,
@@ -12505,7 +12505,7 @@
     {
       "title": "Møte i Representantskapet Fagskolen i Viken - Kommunalt oppgavefellesskap 13.11.2025",
       "committee": "Representantskapet Fagskolen i Viken - Kommunalt oppgavefellesskap",
-      "meetingDateUtc": "11/13/2025 08:00:00",
+      "meetingDateUtc": "2025-11-13T09:00:00.000Z",
       "meetingPlace": "Galleriet Schweigaardsgate 4, Oslo, Møtersom 803",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fbdaf8893-c3c6-4017-b91b-729552ec66ac",
       "agendaAvailable": true,
@@ -12554,7 +12554,7 @@
     {
       "title": "Møte i Oppgavefellesskap ombud for barn og unge 13.11.2025",
       "committee": "Buskerud fylkeskommune",
-      "meetingDateUtc": "11/13/2025 10:30:00",
+      "meetingDateUtc": "2025-11-13T11:30:00.000Z",
       "meetingPlace": "Fylkeshuset i Akershus, Schweigaards gate 4, 0185, Oslo, møterom 803, Fylkeshuset i Akershus, Schweigaards gate 4, 0185, Oslo, møterom 803",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F49c6876a-4bbd-42a1-958f-20920dac3594",
       "agendaAvailable": true,
@@ -12603,7 +12603,7 @@
     {
       "title": "Møte i Flerkulturelt utvalg 17.11.2025",
       "committee": "Flerkulturelt utvalg",
-      "meetingDateUtc": "11/17/2025 07:00:00",
+      "meetingDateUtc": "2025-11-17T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, fylkestingssalen og møterom 211",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F2441f5f3-a460-4218-a9d9-6a745aec95d0",
       "agendaAvailable": true,
@@ -12670,7 +12670,7 @@
     {
       "title": "Møte i Ungdommens fylkesråd 17.11.2025",
       "committee": "Ungdommens fylkesråd",
-      "meetingDateUtc": "11/17/2025 07:00:00",
+      "meetingDateUtc": "2025-11-17T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fdc66857a-6b09-4aba-8ed7-c81f9e9748d1",
       "agendaAvailable": true,
@@ -12773,7 +12773,7 @@
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 17.11.2025",
       "committee": "Råd for mennesker med funksjonsnedsettelse",
-      "meetingDateUtc": "11/17/2025 10:00:00",
+      "meetingDateUtc": "2025-11-17T11:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89, Drammen, fylkestingssalen og Biskopsrud",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F0625e5fd-a63f-4a96-bbf9-d09c6cc0652e",
       "agendaAvailable": true,
@@ -12834,7 +12834,7 @@
     {
       "title": "Møte i Buskerud Eldreråd 17.11.2025",
       "committee": "Buskerud Eldreråd",
-      "meetingDateUtc": "11/17/2025 10:00:00",
+      "meetingDateUtc": "2025-11-17T11:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89, Drammen. Fylkestingssalen og møterom 141",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F92c8bd83-565c-42b6-a3bd-ee5838c48d79",
       "agendaAvailable": true,
@@ -12877,7 +12877,7 @@
     {
       "title": "Møte i Fylkesutvalget 18.11.2025",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "11/18/2025 10:00:00",
+      "meetingDateUtc": "2025-11-18T11:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fc57bd433-3b26-4776-93c7-8836103a6ca3",
       "agendaAvailable": true,
@@ -12950,7 +12950,7 @@
     {
       "title": "Møte i Yrkesopplæringsnemnda 20.11.2025",
       "committee": "Yrkesopplæringsnemnda",
-      "meetingDateUtc": "11/20/2025 08:00:00",
+      "meetingDateUtc": "2025-11-20T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89, Drammen, Møterom Biskopsrud",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F068fe1ce-30af-4fff-876c-83aeadb3f6ee",
       "agendaAvailable": true,
@@ -12999,7 +12999,7 @@
     {
       "title": "Møte i Partssammensatt utvalg 21.11.2025",
       "committee": "Partssammensatt utvalg",
-      "meetingDateUtc": "11/21/2025 08:00:00",
+      "meetingDateUtc": "2025-11-21T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F2e3978b5-fd7d-4386-8ae5-2968142188aa",
       "agendaAvailable": true,
@@ -13054,7 +13054,7 @@
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 24.11.2025",
       "committee": "Hovedutvalg for næring og innovasjon",
-      "meetingDateUtc": "11/24/2025 08:00:00",
+      "meetingDateUtc": "2025-11-24T09:00:00.000Z",
       "meetingPlace": "Tannhelsetjenestens kompetansesenter Øst, Sørkedalsveien 10A, Oslo",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fb9123cd5-a063-4381-ab3c-f794355642cd",
       "agendaAvailable": true,
@@ -13151,7 +13151,7 @@
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 25.11.2025",
       "committee": "Hovedutvalg for kultur, idrett og folkehelse",
-      "meetingDateUtc": "11/25/2025 08:00:00",
+      "meetingDateUtc": "2025-11-25T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89. Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F66199ea2-e439-49d5-9ef9-ff64f8b41a22",
       "agendaAvailable": true,
@@ -13266,7 +13266,7 @@
     {
       "title": "Møte i Hovedutvalg for samferdsel 26.11.2025",
       "committee": "Hovedutvalg for samferdsel",
-      "meetingDateUtc": "11/26/2025 08:00:00",
+      "meetingDateUtc": "2025-11-26T09:00:00.000Z",
       "meetingPlace": "Digitalt møte på teams",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fa6098533-60ef-468c-9935-0ae9e6fdd1d2",
       "agendaAvailable": true,
@@ -13321,7 +13321,7 @@
     {
       "title": "Møte i Hovedutvalg for opplæring 27.11.2025",
       "committee": "Hovedutvalg for opplæring",
-      "meetingDateUtc": "11/27/2025 07:00:00",
+      "meetingDateUtc": "2025-11-27T08:00:00.000Z",
       "meetingPlace": "Åssiden videregående skole",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Ff9ffdf98-b7fe-461e-9e64-7b5783be46aa",
       "agendaAvailable": true,
@@ -13424,7 +13424,7 @@
     {
       "title": "Møte i Fylkesutvalget 01.12.2025",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "12/01/2025 08:00:00",
+      "meetingDateUtc": "2025-12-01T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen, Fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F059d9b78-9ea2-4c3e-bea2-082a19fdd77a",
       "agendaAvailable": true,
@@ -13545,7 +13545,7 @@
     {
       "title": "Møte i Arbeidsutvalg revisjon av reglementer 01.12.2025",
       "committee": "Arbeidsutvalg revisjon av reglementer",
-      "meetingDateUtc": "12/01/2025 13:30:00",
+      "meetingDateUtc": "2025-12-01T14:30:00.000Z",
       "meetingPlace": "Digitalt møte på teams, Fylkesordførers møterom, fylkeshuset",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Ffb80d5d0-7d05-4de0-a6d1-a73d84b8f70e",
       "agendaAvailable": true,
@@ -13570,7 +13570,7 @@
     {
       "title": "Møte i Oppgavefellesskap fylkesbiblioteket 05.12.2025",
       "committee": "Buskerud fylkeskommune",
-      "meetingDateUtc": "12/05/2025 08:00:00",
+      "meetingDateUtc": "2025-12-05T09:00:00.000Z",
       "meetingPlace": "Akershus fylkeskommunes lokaler, Galleri Oslo, Schweigaardsgate 4, møterom 275.",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F13c15f0d-3d90-48de-a200-c9fb61ca1be3",
       "agendaAvailable": true,
@@ -13613,7 +13613,7 @@
     {
       "title": "Møte i Klagenemnd 09.12.2025",
       "committee": "Klagenemnd",
-      "meetingDateUtc": "12/09/2025 06:30:00",
+      "meetingDateUtc": "2025-12-09T07:30:00.000Z",
       "meetingPlace": "Fylkeshuset, møterom 211",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F28d9daff-b160-409e-aebc-e2b08c3b11b7",
       "agendaAvailable": true,
@@ -13638,7 +13638,7 @@
     {
       "title": "Møte i Fylkestinget 16.12.2025",
       "committee": "Fylkestinget",
-      "meetingDateUtc": "12/16/2025 10:00:00",
+      "meetingDateUtc": "2025-12-16T11:00:00.000Z",
       "meetingPlace": "Fylkeshuset, fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F8cdcbf18-d8b9-4e6c-977d-3c025c90cad7",
       "agendaAvailable": true,
@@ -13867,7 +13867,7 @@
     {
       "title": "Møte i Fylkestinget 12/17/2025",
       "committee": "Fylkestinget",
-      "meetingDateUtc": "12/17/2025 07:00:00",
+      "meetingDateUtc": "2025-12-17T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F02ef9f1b-720c-455c-a2c2-f801bebd9bb5",
       "agendaAvailable": false,
@@ -13879,7 +13879,7 @@
     {
       "title": "Møte i Fylkesutvalget 13.01.2026",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "01/13/2026 10:00:00",
+      "meetingDateUtc": "2026-01-13T11:00:00.000Z",
       "meetingPlace": "Digitalt møte - For publikum: Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fc619b50b-70ae-4604-a273-d1fd9bc9a7a1",
       "agendaAvailable": true,
@@ -13910,7 +13910,7 @@
     {
       "title": "Møte i Arbeidsutvalg revisjon av reglementer 13.01.2026",
       "committee": "Arbeidsutvalg revisjon av reglementer",
-      "meetingDateUtc": "01/13/2026 10:30:00",
+      "meetingDateUtc": "2026-01-13T11:30:00.000Z",
       "meetingPlace": "Digitalt møte",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F96bc2a96-f46c-48db-a325-782757b61004",
       "agendaAvailable": true,
@@ -13929,7 +13929,7 @@
     {
       "title": "Møte i Ungdommens fylkesråd 19.01.2026",
       "committee": "Ungdommens fylkesråd",
-      "meetingDateUtc": "01/19/2026 07:00:00",
+      "meetingDateUtc": "2026-01-19T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Drammen, Fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F07f7dc7b-aad4-4dc0-8132-6114d56dcc44",
       "agendaAvailable": true,
@@ -14002,7 +14002,7 @@
     {
       "title": "Møte i Representantskapet Fagskolen i Viken - Kommunalt oppgavefellesskap 20.01.2026",
       "committee": "Representantskapet Fagskolen i Viken - Kommunalt oppgavefellesskap",
-      "meetingDateUtc": "01/20/2026 08:00:00",
+      "meetingDateUtc": "2026-01-20T09:00:00.000Z",
       "meetingPlace": "Teams,",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F4e289057-2d9f-4b8d-afb0-b6bb859e304a",
       "agendaAvailable": true,
@@ -14045,7 +14045,7 @@
     {
       "title": "Møte i Buskerud Eldreråd 20.01.2026",
       "committee": "Buskerud Eldreråd",
-      "meetingDateUtc": "01/20/2026 08:00:00",
+      "meetingDateUtc": "2026-01-20T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F642cfb4e-51be-45fc-924f-24dee83e8f21",
       "agendaAvailable": true,
@@ -14076,7 +14076,7 @@
     {
       "title": "Møte i Oppgavefellesskap ombud for barn og unge 20.01.2026",
       "committee": "Buskerud fylkeskommune",
-      "meetingDateUtc": "01/20/2026 11:00:00",
+      "meetingDateUtc": "2026-01-20T12:00:00.000Z",
       "meetingPlace": "fylkeshuset i Buskerud, Hauges gate 38, 3019 Drammen, møterom 215",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F143d938e-6060-4da6-afaa-93ea350bf31a",
       "agendaAvailable": false,
@@ -14088,7 +14088,7 @@
     {
       "title": "Møte i Flerkulturelt utvalg 21.01.2026",
       "committee": "Flerkulturelt utvalg",
-      "meetingDateUtc": "01/21/2026 08:00:00",
+      "meetingDateUtc": "2026-01-21T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, møterom 210",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F815ad82a-3105-4053-aa1e-ee8f68144e49",
       "agendaAvailable": true,
@@ -14125,7 +14125,7 @@
     {
       "title": "Møte i Yrkesopplæringsnemnda 22.01.2026",
       "committee": "Yrkesopplæringsnemnda",
-      "meetingDateUtc": "01/22/2026 07:30:00",
+      "meetingDateUtc": "2026-01-22T08:30:00.000Z",
       "meetingPlace": "Buskerud videregående skole, Buskerudveien 134, 3340 Åmot",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F9d359050-53d4-4736-9d28-f4baadf14ad0",
       "agendaAvailable": true,
@@ -14162,7 +14162,7 @@
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 22.01.2026",
       "committee": "Råd for mennesker med funksjonsnedsettelse",
-      "meetingDateUtc": "01/22/2026 08:00:00",
+      "meetingDateUtc": "2026-01-22T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fc1af01f4-60d3-46e9-99c7-94a93deef57b",
       "agendaAvailable": true,
@@ -14193,7 +14193,7 @@
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 26.01.2026",
       "committee": "Hovedutvalg for næring og innovasjon",
-      "meetingDateUtc": "01/26/2026 07:30:00",
+      "meetingDateUtc": "2026-01-26T08:30:00.000Z",
       "meetingPlace": "Fylkeshuset Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F93340387-3876-4b2e-a761-88e7315ea935",
       "agendaAvailable": true,
@@ -14260,7 +14260,7 @@
     {
       "title": "Møte i Klagenemnd 27.01.2026",
       "committee": "Klagenemnd",
-      "meetingDateUtc": "01/27/2026 06:30:00",
+      "meetingDateUtc": "2026-01-27T07:30:00.000Z",
       "meetingPlace": "Fylkeshuset, møterom 210",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F5b631c06-faab-4f50-876d-05aeeaba34de",
       "agendaAvailable": true,
@@ -14333,7 +14333,7 @@
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 27.01.2026",
       "committee": "Hovedutvalg for kultur, idrett og folkehelse",
-      "meetingDateUtc": "01/27/2026 09:00:00",
+      "meetingDateUtc": "2026-01-27T10:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F94e2edca-d6b6-4efc-a034-5c6fc9582ad9",
       "agendaAvailable": true,
@@ -14448,7 +14448,7 @@
     {
       "title": "Møte i Valgkomiteen 27.01.2026",
       "committee": "Valgkomiteen",
-      "meetingDateUtc": "01/27/2026 10:00:00",
+      "meetingDateUtc": "2026-01-27T11:00:00.000Z",
       "meetingPlace": "Teams, Teams",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd5b652f3-9116-4603-9b72-30d33a319649",
       "agendaAvailable": true,
@@ -14479,7 +14479,7 @@
     {
       "title": "Møte i Hovedutvalg for samferdsel 28.01.2026",
       "committee": "Hovedutvalg for samferdsel",
-      "meetingDateUtc": "01/28/2026 08:00:00",
+      "meetingDateUtc": "2026-01-28T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F30b74619-5f5c-477f-9462-7d375656ebcd",
       "agendaAvailable": true,
@@ -14528,7 +14528,7 @@
     {
       "title": "Møte i Hovedutvalg for opplæring 29.01.2026",
       "committee": "Hovedutvalg for opplæring",
-      "meetingDateUtc": "01/29/2026 08:00:00",
+      "meetingDateUtc": "2026-01-29T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fb4648a13-221d-4d93-957e-a7320f61843c",
       "agendaAvailable": true,
@@ -14589,7 +14589,7 @@
     {
       "title": "Møte i Distriktsvalgstyret 30.01.2026",
       "committee": "Distriktsvalgstyret",
-      "meetingDateUtc": "01/30/2026 10:00:00",
+      "meetingDateUtc": "2026-01-30T11:00:00.000Z",
       "meetingPlace": "Teamsmøte",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F1557dbe2-dff2-4ab2-a6bd-51b56064fffb",
       "agendaAvailable": true,
@@ -14608,7 +14608,7 @@
     {
       "title": "Møte i Fylkesvalgstyret 30.01.2026",
       "committee": "Fylkesvalgstyret",
-      "meetingDateUtc": "01/30/2026 10:00:00",
+      "meetingDateUtc": "2026-01-30T11:00:00.000Z",
       "meetingPlace": "Teamsmøte",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F3325ce9d-399a-47f6-9785-14f5297f4af4",
       "agendaAvailable": true,
@@ -14627,7 +14627,7 @@
     {
       "title": "Møte i Fylkesutvalget 03.02.2026",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "02/03/2026 08:00:00",
+      "meetingDateUtc": "2026-02-03T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F6f68b2a2-b48c-4d3e-a22b-a75cbff2349c",
       "agendaAvailable": true,
@@ -14724,7 +14724,7 @@
     {
       "title": "Møte i Valgkomiteen 17.02.2026",
       "committee": "Valgkomiteen",
-      "meetingDateUtc": "02/17/2026 10:00:00",
+      "meetingDateUtc": "2026-02-17T11:00:00.000Z",
       "meetingPlace": "Teams, Teams",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F3e378047-dc39-47f9-b5a8-49f108b96918",
       "agendaAvailable": true,
@@ -14755,7 +14755,7 @@
     {
       "title": "Møte i Fylkestinget 18.02.2026",
       "committee": "Fylkestinget",
-      "meetingDateUtc": "02/18/2026 10:00:00",
+      "meetingDateUtc": "2026-02-18T11:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F7f291d6d-2faa-4d18-bcad-2830dc89b3b4",
       "agendaAvailable": true,
@@ -14894,7 +14894,7 @@
     {
       "title": "Møte i Fylkesutvalget 03.03.2026",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "03/03/2026 08:00:00",
+      "meetingDateUtc": "2026-03-03T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F90ddaf60-f39b-413d-af1b-295db590be2a",
       "agendaAvailable": true,
@@ -14955,7 +14955,7 @@
     {
       "title": "Møte i Hovedutvalg for samferdsel 04.03.2026",
       "committee": "Hovedutvalg for samferdsel",
-      "meetingDateUtc": "03/04/2026 08:00:00",
+      "meetingDateUtc": "2026-03-04T09:00:00.000Z",
       "meetingPlace": "Digitalt på teams - Politisk arbeidsverksted NTP 2029-2040",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F5f7f7034-60a0-4f72-bee9-3b42bfd78d39",
       "agendaAvailable": true,
@@ -14980,7 +14980,7 @@
     {
       "title": "Møte i Oppgavefellesskap ombud for barn og unge 04.03.2026",
       "committee": "Buskerud fylkeskommune",
-      "meetingDateUtc": "03/04/2026 08:00:00",
+      "meetingDateUtc": "2026-03-04T09:00:00.000Z",
       "meetingPlace": "Teams, Teams",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F889d738f-c518-4648-a519-118766fbea67",
       "agendaAvailable": true,
@@ -15005,7 +15005,7 @@
     {
       "title": "Møte i Klagenemnd 10.03.2026",
       "committee": "Klagenemnd",
-      "meetingDateUtc": "03/10/2026 06:30:00",
+      "meetingDateUtc": "2026-03-10T07:30:00.000Z",
       "meetingPlace": "Fylkeshuset, møterom 210",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F5aeb56c6-4af7-4eec-b0cb-b32f9d901aec",
       "agendaAvailable": true,
@@ -15036,7 +15036,7 @@
     {
       "title": "Møte i Ungdommens fylkesråd 16.03.2026",
       "committee": "Ungdommens fylkesråd",
-      "meetingDateUtc": "03/16/2026 07:00:00",
+      "meetingDateUtc": "2026-03-16T08:00:00.000Z",
       "meetingPlace": "",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F732e12e0-9f5b-4093-88dc-65c372d4dfb2",
       "agendaAvailable": true,
@@ -15109,7 +15109,7 @@
     {
       "title": "Møte i Buskerud Eldreråd 17.03.2026",
       "committee": "Buskerud Eldreråd",
-      "meetingDateUtc": "03/17/2026 08:00:00",
+      "meetingDateUtc": "2026-03-17T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, møterom Biskopsrud",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F0a8b6994-b56b-4350-be59-c81057ed8bf0",
       "agendaAvailable": true,
@@ -15170,7 +15170,7 @@
     {
       "title": "Møte i Flerkulturelt utvalg 18.03.2026",
       "committee": "Flerkulturelt utvalg",
-      "meetingDateUtc": "03/18/2026 09:00:00",
+      "meetingDateUtc": "2026-03-18T10:00:00.000Z",
       "meetingPlace": "Fylkeshuset, møterom 210",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F243b009c-eeb4-4f8d-b3b1-7a24e6ce1e17",
       "agendaAvailable": true,
@@ -15255,7 +15255,7 @@
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 19.03.2026",
       "committee": "Råd for mennesker med funksjonsnedsettelse",
-      "meetingDateUtc": "03/19/2026 07:00:00",
+      "meetingDateUtc": "2026-03-19T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, møterom Biskopsrud",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F7b01ad2a-f4d2-49c8-a341-0f3d37ed18de",
       "agendaAvailable": true,
@@ -15316,7 +15316,7 @@
     {
       "title": "Møte i Valgkomiteen 19.03.2026",
       "committee": "Valgkomiteen",
-      "meetingDateUtc": "03/19/2026 07:00:00",
+      "meetingDateUtc": "2026-03-19T08:00:00.000Z",
       "meetingPlace": "Teams, Teams",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd08f9d48-4195-4122-8f54-41b4b67bbb4b",
       "agendaAvailable": true,
@@ -15359,7 +15359,7 @@
     {
       "title": "Møte i Yrkesopplæringsnemnda 19.03.2026",
       "committee": "Yrkesopplæringsnemnda",
-      "meetingDateUtc": "03/19/2026 08:00:00",
+      "meetingDateUtc": "2026-03-19T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F7f3e1e49-5d2e-497e-b554-06b68653a0fb",
       "agendaAvailable": true,
@@ -15390,7 +15390,7 @@
     {
       "title": "Møte i Partssammensatt utvalg 20.03.2026",
       "committee": "Partssammensatt utvalg",
-      "meetingDateUtc": "03/20/2026 07:00:00",
+      "meetingDateUtc": "2026-03-20T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset Drammen, Fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F3f71d531-9cbe-46cf-8c9e-0afa96b7e9a4",
       "agendaAvailable": true,
@@ -15445,7 +15445,7 @@
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 23.03.2026",
       "committee": "Hovedutvalg for næring og innovasjon",
-      "meetingDateUtc": "03/23/2026 07:00:00",
+      "meetingDateUtc": "2026-03-23T08:00:00.000Z",
       "meetingPlace": "Befaring se program. Møtet avholdes hos Viken Skog,  Hønefoss",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F54380dbf-55a1-4e47-90ab-bfc84de784c2",
       "agendaAvailable": true,
@@ -15542,7 +15542,7 @@
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 24.03.2026",
       "committee": "Hovedutvalg for kultur, idrett og folkehelse",
-      "meetingDateUtc": "03/24/2026 08:00:00",
+      "meetingDateUtc": "2026-03-24T09:00:00.000Z",
       "meetingPlace": "Befaring se program. Møtet avholdes på Borgerstua, Eggedal",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F9e862489-86d6-47e8-8f6a-300a563369ee",
       "agendaAvailable": true,
@@ -15621,7 +15621,7 @@
     {
       "title": "Møte i Samarbeidsutvalget 24.03.2026",
       "committee": "Samarbeidsutvalget",
-      "meetingDateUtc": "03/24/2026 12:00:00",
+      "meetingDateUtc": "2026-03-24T13:00:00.000Z",
       "meetingPlace": "Digitalt og på fylkeshuset, fylkesordførers møterom",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fdc403363-e90f-4237-911f-0c4fb16312b6",
       "agendaAvailable": true,
@@ -15652,7 +15652,7 @@
     {
       "title": "Møte i Hovedutvalg for samferdsel 25.03.2026",
       "committee": "Hovedutvalg for samferdsel",
-      "meetingDateUtc": "03/25/2026 08:00:00",
+      "meetingDateUtc": "2026-03-25T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, møterom fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd90df9e4-b748-49ef-a30b-1b66a0f00b3f",
       "agendaAvailable": true,
@@ -15719,7 +15719,7 @@
     {
       "title": "Møte i Hovedutvalg for opplæring 26.03.2026",
       "committee": "Hovedutvalg for opplæring",
-      "meetingDateUtc": "03/26/2026 08:00:00",
+      "meetingDateUtc": "2026-03-26T09:00:00.000Z",
       "meetingPlace": "Fagskolen Viken, Kongsberg, Hasbergs vei 36, 3616 Kongsberg",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F909b3b6e-4a0f-4e42-b6e4-cca1598b7645",
       "agendaAvailable": true,
@@ -15768,7 +15768,7 @@
     {
       "title": "Møte i Fylkesutvalget 08.04.2026",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "04/08/2026 06:00:00",
+      "meetingDateUtc": "2026-04-08T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F99a5f5a6-2e49-409d-9fa1-e85d81eac8e6",
       "agendaAvailable": true,
@@ -15847,7 +15847,7 @@
     {
       "title": "Møte i Valgkomiteen 16.04.2026",
       "committee": "Valgkomiteen",
-      "meetingDateUtc": "04/16/2026 07:00:00",
+      "meetingDateUtc": "2026-04-16T09:00:00.000Z",
       "meetingPlace": "Teams",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fb53ea991-21bb-429d-b0f8-56060b3ca9f5",
       "agendaAvailable": true,
@@ -15866,7 +15866,7 @@
     {
       "title": "Møte i Fylkestinget 16.04.2026",
       "committee": "Fylkestinget",
-      "meetingDateUtc": "04/16/2026 08:00:00",
+      "meetingDateUtc": "2026-04-16T10:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F27e2f817-b018-4534-9432-c39dda576efb",
       "agendaAvailable": true,
@@ -16011,7 +16011,7 @@
     {
       "title": "Møte i Yrkesopplæringsnemnda 23.04.2026",
       "committee": "Yrkesopplæringsnemnda",
-      "meetingDateUtc": "04/23/2026 06:00:00",
+      "meetingDateUtc": "2026-04-23T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fa3d0f66f-9229-4dc1-b5f2-fd8afea5226a",
       "agendaAvailable": true,
@@ -16048,7 +16048,7 @@
     {
       "title": "Møte i Hovedutvalg for opplæring 29.04.2026",
       "committee": "Hovedutvalg for opplæring",
-      "meetingDateUtc": "04/29/2026 06:00:00",
+      "meetingDateUtc": "2026-04-29T08:00:00.000Z",
       "meetingPlace": "Fylkestingssalen, Fylkeshuset i Drammen, Fylkeshuset i Drammen, Fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F7ae8a375-e3d6-422d-b626-f41fa705c640",
       "agendaAvailable": true,
@@ -16091,7 +16091,7 @@
     {
       "title": "Møte i Oppgavefellesskap ombud for barn og unge 30.04.2026",
       "committee": "Buskerud fylkeskommune",
-      "meetingDateUtc": "04/30/2026 06:00:00",
+      "meetingDateUtc": "2026-04-30T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset i Østfold, Oscar Pedersens vei 39. Møterom Kongsten, Fylkeshuset i Østfold. Møterom Kongsten",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F4c65e555-af76-4a1f-8b58-c3a7e6a1b483",
       "agendaAvailable": true,
@@ -16140,7 +16140,7 @@
     {
       "title": "Møte i Representantskapet Fagskolen i Viken - Kommunalt oppgavefellesskap 30.04.2026",
       "committee": "Representantskapet Fagskolen i Viken - Kommunalt oppgavefellesskap",
-      "meetingDateUtc": "04/30/2026 08:00:00",
+      "meetingDateUtc": "2026-04-30T10:00:00.000Z",
       "meetingPlace": "Fylkeshuset Østfold, Kongsten, 1. etasje",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F657c86c2-1970-4338-a716-9aa107a2323c",
       "agendaAvailable": true,
@@ -16201,7 +16201,7 @@
     {
       "title": "Møte i Oppgavefellesskap anskaffelser 07.05.2026",
       "committee": "Oppgavefellesskap anskaffelser",
-      "meetingDateUtc": "05/07/2026 06:00:00",
+      "meetingDateUtc": "2026-05-07T08:00:00.000Z",
       "meetingPlace": "Teams, Teams",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F243cbf8a-eb81-44ef-850a-ad06e2167ec2",
       "agendaAvailable": true,
@@ -16232,7 +16232,7 @@
     {
       "title": "Møte i Fylkesutvalget 12.05.2026",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "05/12/2026 06:00:00",
+      "meetingDateUtc": "2026-05-12T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd7d818a5-2b95-4d13-92c8-e22c2d40602e",
       "agendaAvailable": true,
@@ -16275,7 +16275,7 @@
     {
       "title": "Møte i Klagenemnd 19.05.2026",
       "committee": "Klagenemnd",
-      "meetingDateUtc": "05/19/2026 04:30:00",
+      "meetingDateUtc": "2026-05-19T06:30:00.000Z",
       "meetingPlace": "Fylkeshuset, møterom 210",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F87c58d23-55d4-424c-9ad2-5a9b49be2205",
       "agendaAvailable": true,
@@ -16324,7 +16324,7 @@
     {
       "title": "Møte i Fylkesutvalget 22.05.2026",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "05/22/2026 06:00:00",
+      "meetingDateUtc": "2026-05-22T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Ff9b57094-ae75-43e9-afbb-e5d1cedcc96a",
       "agendaAvailable": true,
@@ -16355,7 +16355,7 @@
     {
       "title": "Møte i Buskerud Eldreråd 26.05.2026",
       "committee": "Buskerud Eldreråd",
-      "meetingDateUtc": "05/26/2026 06:00:00",
+      "meetingDateUtc": "2026-05-26T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen. Møterom Biskopsrud",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F7a640baf-ff79-4aff-8ec9-0755d20c398f",
       "agendaAvailable": true,
@@ -16416,7 +16416,7 @@
     {
       "title": "Møte i Ungdommens fylkesråd 27.05.2026",
       "committee": "Ungdommens fylkesråd",
-      "meetingDateUtc": "05/27/2026 05:00:00",
+      "meetingDateUtc": "2026-05-27T07:00:00.000Z",
       "meetingPlace": "",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F424a3e24-e463-4ef3-a3a1-de4f95556ffa",
       "agendaAvailable": true,
@@ -16513,7 +16513,7 @@
     {
       "title": "Møte i Yrkesopplæringsnemnda 28.05.2026",
       "committee": "Yrkesopplæringsnemnda",
-      "meetingDateUtc": "05/28/2026 06:00:00",
+      "meetingDateUtc": "2026-05-28T08:00:00.000Z",
       "meetingPlace": "",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F2c45dab8-9ef0-4729-8b14-5f7a4d6e84fb",
       "agendaAvailable": true,
@@ -16568,7 +16568,7 @@
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 28.05.2026",
       "committee": "Råd for mennesker med funksjonsnedsettelse",
-      "meetingDateUtc": "05/28/2026 06:00:00",
+      "meetingDateUtc": "2026-05-28T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen - møterom Biskopsrud",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Ffbfe4fb2-eba4-4508-b948-7b6c2659c0f0",
       "agendaAvailable": true,
@@ -16629,7 +16629,7 @@
     {
       "title": "Møte i Flerkulturelt utvalg 29.05.2026",
       "committee": "Flerkulturelt utvalg",
-      "meetingDateUtc": "05/29/2026 06:00:00",
+      "meetingDateUtc": "2026-05-29T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, møterom 210",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F4ffea8b1-884d-460b-b759-b56ab611ff11",
       "agendaAvailable": true,
@@ -16696,7 +16696,7 @@
     {
       "title": "Møte i Partssammensatt utvalg 29.05.2026",
       "committee": "Partssammensatt utvalg",
-      "meetingDateUtc": "05/29/2026 06:00:00",
+      "meetingDateUtc": "2026-05-29T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fdc494c2a-75b2-4fd4-99c6-79d6d128195d",
       "agendaAvailable": true,
@@ -16745,7 +16745,7 @@
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 01.06.2026",
       "committee": "Hovedutvalg for kultur, idrett og folkehelse",
-      "meetingDateUtc": "06/01/2026 06:00:00",
+      "meetingDateUtc": "2026-06-01T08:00:00.000Z",
       "meetingPlace": "Fossesholm herregård, Fossgata, Vestfossen, Vestfossen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F44b18f31-8715-4257-92ca-564fe3b65ca1",
       "agendaAvailable": true,
@@ -16830,7 +16830,7 @@
     {
       "title": "Møte i Samarbeidsutvalget 01.06.2026",
       "committee": "Samarbeidsutvalget",
-      "meetingDateUtc": "06/01/2026 08:00:00",
+      "meetingDateUtc": "2026-06-01T10:00:00.000Z",
       "meetingPlace": "Digitalt og på fylkeshuset, fylkesordførers møterom",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fef812ddc-60b9-40b5-989e-bc15971d2205",
       "agendaAvailable": true,
@@ -16867,7 +16867,7 @@
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 02.06.2026",
       "committee": "Hovedutvalg for næring og innovasjon",
-      "meetingDateUtc": "06/02/2026 05:00:00",
+      "meetingDateUtc": "2026-06-02T07:00:00.000Z",
       "meetingPlace": "Hørte Gård, Hørteveien 8, Sylling",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F8c34ebc8-6f94-4c2c-b6a8-9eb49ae0dfba",
       "agendaAvailable": true,
@@ -16940,7 +16940,7 @@
     {
       "title": "Møte i Hovedutvalg for samferdsel 02.06.2026",
       "committee": "Hovedutvalg for samferdsel",
-      "meetingDateUtc": "06/02/2026 06:00:00",
+      "meetingDateUtc": "2026-06-02T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen - møterom fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F9ad39451-8e2f-43ed-b7b9-109779766620",
       "agendaAvailable": true,
@@ -17043,7 +17043,7 @@
     {
       "title": "Møte i Hovedutvalg for opplæring 03.06.2026",
       "committee": "Hovedutvalg for opplæring",
-      "meetingDateUtc": "06/03/2026 06:00:00",
+      "meetingDateUtc": "2026-06-03T08:00:00.000Z",
       "meetingPlace": "To dagers befaringsmøte i Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fceaa50f7-fcb2-4496-a0e2-c984daf6a9ba",
       "agendaAvailable": true,
@@ -17152,7 +17152,7 @@
     {
       "title": "Møte i Hovedutvalg for opplæring 04.06.2026",
       "committee": "Hovedutvalg for opplæring",
-      "meetingDateUtc": "06/04/2026 05:00:00",
+      "meetingDateUtc": "2026-06-04T07:00:00.000Z",
       "meetingPlace": "To dagers befaringsmøte",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F89c5534a-a04f-4519-9d82-5537bd69f1c1",
       "agendaAvailable": false,
@@ -17164,7 +17164,7 @@
     {
       "title": "Møte i Oppgavefellesskap fylkesbiblioteket 05.06.2026",
       "committee": "Buskerud fylkeskommune",
-      "meetingDateUtc": "06/05/2026 08:15:00",
+      "meetingDateUtc": "2026-06-05T10:15:00.000Z",
       "meetingPlace": "Nordre Follo rådhus, Idrettsveien 8, 1400 Ski., Nordre Follo rådhus, Idrettsveien 8, 1400 Ski.",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F644bd867-84f9-4029-b17f-8bf56d19ba01",
       "agendaAvailable": true,
@@ -17219,7 +17219,7 @@
     {
       "title": "Møte i Fylkesvalgstyret 05.06.2026",
       "committee": "Fylkesvalgstyret",
-      "meetingDateUtc": "06/05/2026 09:00:00",
+      "meetingDateUtc": "2026-06-05T11:00:00.000Z",
       "meetingPlace": "Digitalt møte",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F02571b0a-dd9e-4e64-bcb2-433c60f059f0",
       "agendaAvailable": true,
@@ -17244,7 +17244,7 @@
     {
       "title": "Møte i Distriktsvalgstyret 05.06.2026",
       "committee": "Distriktsvalgstyret",
-      "meetingDateUtc": "06/05/2026 09:00:00",
+      "meetingDateUtc": "2026-06-05T11:00:00.000Z",
       "meetingPlace": "Digitalt møte",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fad033c81-cd52-4871-a4d3-3b6703fc55bc",
       "agendaAvailable": true,
@@ -17263,7 +17263,7 @@
     {
       "title": "Møte i Fylkesutvalget 09.06.2026",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "06/09/2026 06:00:00",
+      "meetingDateUtc": "2026-06-09T08:00:00.000Z",
       "meetingPlace": "Fylkestingssalen, Fylkeshuset",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F4ad8402b-1967-466a-a575-e863c4e3a1c1",
       "agendaAvailable": true,
@@ -17456,7 +17456,7 @@
     {
       "title": "Møte i Partssammensatt utvalg 15.06.2026",
       "committee": "Partssammensatt utvalg",
-      "meetingDateUtc": "06/15/2026 06:00:00",
+      "meetingDateUtc": "2026-06-15T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, fylkestingssalen Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd5273f00-7a9e-4d4c-b758-f1400afb9e21",
       "agendaAvailable": true,
@@ -17511,7 +17511,7 @@
     {
       "title": "Møte i Klagenemnd 16.06.2026",
       "committee": "Klagenemnd",
-      "meetingDateUtc": "06/16/2026 04:00:00",
+      "meetingDateUtc": "2026-06-16T06:00:00.000Z",
       "meetingPlace": "Fylkeshuset, møterom 210",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F0638b955-f2c8-4ad0-be57-53d00fc6bc76",
       "agendaAvailable": true,
@@ -17578,7 +17578,7 @@
     {
       "title": "Møte i Representantskapet Fagskolen i Viken - Kommunalt oppgavefellesskap 16.06.2026",
       "committee": "Representantskapet Fagskolen i Viken - Kommunalt oppgavefellesskap",
-      "meetingDateUtc": "06/16/2026 07:00:00",
+      "meetingDateUtc": "2026-06-16T09:00:00.000Z",
       "meetingPlace": "Digitalt møte,",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F0641871b-5270-4eac-b626-35e3a3637391",
       "agendaAvailable": true,
@@ -17621,7 +17621,7 @@
     {
       "title": "Møte i Oppgavefellesskap ombud for barn og unge 16.06.2026",
       "committee": "Buskerud fylkeskommune",
-      "meetingDateUtc": "06/16/2026 08:00:00",
+      "meetingDateUtc": "2026-06-16T10:00:00.000Z",
       "meetingPlace": "Teams, Teams",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F7cd25eda-655c-4f4b-b3ab-45b0e72c76ab",
       "agendaAvailable": true,
@@ -17658,7 +17658,7 @@
     {
       "title": "Møte i Valgkomiteen 16.06.2026",
       "committee": "Valgkomiteen",
-      "meetingDateUtc": "06/16/2026 08:30:00",
+      "meetingDateUtc": "2026-06-16T10:30:00.000Z",
       "meetingPlace": "Teams, Teams",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fbbc0fa74-3326-4fb6-abe8-13bdde252d2a",
       "agendaAvailable": true,
@@ -17695,7 +17695,7 @@
     {
       "title": "Møte i Fylkestinget 18.06.2026",
       "committee": "Fylkestinget",
-      "meetingDateUtc": "06/18/2026 05:00:00",
+      "meetingDateUtc": "2026-06-18T07:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F45a13f09-1bb6-484d-96ce-4c5323af1d76",
       "agendaAvailable": true,
@@ -17930,7 +17930,7 @@
     {
       "title": "Møte i Klagenemnd 25.08.2026",
       "committee": "Klagenemnd",
-      "meetingDateUtc": "08/25/2026 04:30:00",
+      "meetingDateUtc": "2026-08-25T06:30:00.000Z",
       "meetingPlace": "Fylkeshuset, møterom 210",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fda2fca34-6976-4184-ad37-bdce8b36f470",
       "agendaAvailable": true,
@@ -17993,7 +17993,7 @@
     {
       "title": "Møte i Representantskapet Fagskolen i Viken - Kommunalt oppgavefellesskap 26.08.2026",
       "committee": "Representantskapet Fagskolen i Viken - Kommunalt oppgavefellesskap",
-      "meetingDateUtc": "08/26/2026 11:00:00",
+      "meetingDateUtc": "2026-08-26T13:00:00.000Z",
       "meetingPlace": "Teams",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fc801fa98-55de-4c2d-93b3-054859716bde",
       "agendaAvailable": true,
@@ -18012,7 +18012,7 @@
     {
       "title": "Møte i Ungdommens fylkesråd 31.08.2026",
       "committee": "Ungdommens fylkesråd",
-      "meetingDateUtc": "08/31/2026 05:00:00",
+      "meetingDateUtc": "2026-08-31T07:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Drammen, Biskopsrud",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F0070a4d7-8efd-4471-9dec-4d1359624bdb",
       "agendaAvailable": true,
@@ -18075,7 +18075,7 @@
     {
       "title": "Møte i Fylkesutvalget 01.09.2026",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "09/01/2026 05:00:00",
+      "meetingDateUtc": "2026-09-01T07:00:00.000Z",
       "meetingPlace": "Fylkeshuset",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F26179153-c557-473a-9db7-0096a65f8201",
       "agendaAvailable": true,
@@ -18118,7 +18118,7 @@
     {
       "title": "Møte i Buskerud Eldreråd 01.09.2026",
       "committee": "Buskerud Eldreråd",
-      "meetingDateUtc": "09/01/2026 06:00:00",
+      "meetingDateUtc": "2026-09-01T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd622159c-38ae-4dff-a3dd-5a79b91f99db",
       "agendaAvailable": true,
@@ -18161,7 +18161,7 @@
     {
       "title": "Møte i Flerkulturelt utvalg 02.09.2026",
       "committee": "Flerkulturelt utvalg",
-      "meetingDateUtc": "09/02/2026 06:00:00",
+      "meetingDateUtc": "2026-09-02T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, møterom 210",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F0e0cfbef-51e3-4eee-9b22-f39d1fcdc642",
       "agendaAvailable": true,
@@ -18214,7 +18214,7 @@
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 03.09.2026",
       "committee": "Råd for mennesker med funksjonsnedsettelse",
-      "meetingDateUtc": "09/03/2026 06:00:00",
+      "meetingDateUtc": "2026-09-03T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, møterom Biskopsrud",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F56fd2ccc-49c0-43a8-bc55-83e60db43627",
       "agendaAvailable": true,
@@ -18245,7 +18245,7 @@
     {
       "title": "Møte i Yrkesopplæringsnemnda 03.09.2026",
       "committee": "Yrkesopplæringsnemnda",
-      "meetingDateUtc": "09/03/2026 06:00:00",
+      "meetingDateUtc": "2026-09-03T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, fylkestingssalen Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fef9bf34d-f238-4ba2-878e-24304d70199c",
       "agendaAvailable": true,
@@ -18288,7 +18288,7 @@
     {
       "title": "Møte i Valgkomiteen 10.09.2026",
       "committee": "Valgkomiteen",
-      "meetingDateUtc": "09/10/2026 05:00:00",
+      "meetingDateUtc": "2026-09-10T07:00:00.000Z",
       "meetingPlace": "Team, Teams",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe27c354a-765c-4ce1-a1f6-199771ece6c5",
       "agendaAvailable": true,
@@ -18325,7 +18325,7 @@
     {
       "title": "Møte i Oppgavefellesskap fylkesbiblioteket 11.09.2026",
       "committee": "Buskerud fylkeskommune",
-      "meetingDateUtc": "09/11/2026 05:30:00",
+      "meetingDateUtc": "2026-09-11T07:30:00.000Z",
       "meetingPlace": "Teams/digitalt, Digitalt",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fab64f17a-1fd6-4486-aba0-a585cab24028",
       "agendaAvailable": true,
@@ -18378,7 +18378,7 @@
     {
       "title": "Møte i Partssammensatt utvalg 11.09.2026",
       "committee": "Partssammensatt utvalg",
-      "meetingDateUtc": "09/11/2026 06:00:00",
+      "meetingDateUtc": "2026-09-11T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F0baf85d3-9fda-4772-8b28-0e58f723b5ea",
       "agendaAvailable": true,
@@ -18403,7 +18403,7 @@
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 14.09.2026",
       "committee": "Hovedutvalg for kultur, idrett og folkehelse",
-      "meetingDateUtc": "09/14/2026 06:00:00",
+      "meetingDateUtc": "2026-09-14T08:00:00.000Z",
       "meetingPlace": "Befaring",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F27717337-befb-4271-be79-ea53b4bb2884",
       "agendaAvailable": false,
@@ -18415,7 +18415,7 @@
     {
       "title": "Møte i Samarbeidsutvalget 14.09.2026",
       "committee": "Samarbeidsutvalget",
-      "meetingDateUtc": "09/14/2026 08:00:00",
+      "meetingDateUtc": "2026-09-14T10:00:00.000Z",
       "meetingPlace": "Digitalt og på fylkeshuset, fylkesordførers møterom",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fca75f295-d59c-4e54-ba32-af1777a52d2b",
       "agendaAvailable": true,
@@ -18440,7 +18440,7 @@
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 15.09.2026",
       "committee": "Hovedutvalg for kultur, idrett og folkehelse",
-      "meetingDateUtc": "09/15/2026 05:30:00",
+      "meetingDateUtc": "2026-09-15T07:30:00.000Z",
       "meetingPlace": "Berger museum, Bergerveien 2b, Berger",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F2cd37a80-17f0-4a94-81c7-fc5c71ea313f",
       "agendaAvailable": true,
@@ -18543,7 +18543,7 @@
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 16.09.2026",
       "committee": "Hovedutvalg for næring og innovasjon",
-      "meetingDateUtc": "09/16/2026 06:00:00",
+      "meetingDateUtc": "2026-09-16T08:00:00.000Z",
       "meetingPlace": "Befaringsdag",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Ff2ffdbda-9b34-4396-ab95-6e0c0e23b480",
       "agendaAvailable": false,
@@ -18555,7 +18555,7 @@
     {
       "title": "Møte i Hovedutvalg for samferdsel 17.09.2026",
       "committee": "Hovedutvalg for samferdsel",
-      "meetingDateUtc": "09/17/2026 04:30:00",
+      "meetingDateUtc": "2026-09-17T06:30:00.000Z",
       "meetingPlace": "Befaringer 17.9 og hovedutvalgets møte 18.9 på fylkeshuset i Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fbb3511e8-3552-4146-a406-0b3b687db62e",
       "agendaAvailable": true,
@@ -18586,7 +18586,7 @@
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 17.09.2026",
       "committee": "Hovedutvalg for næring og innovasjon",
-      "meetingDateUtc": "09/17/2026 06:00:00",
+      "meetingDateUtc": "2026-09-17T08:00:00.000Z",
       "meetingPlace": "Gol kommunehus, Gamlevegen 4, Gol",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe90a5504-03e7-4d68-b804-d5df81253431",
       "agendaAvailable": true,
@@ -18677,7 +18677,7 @@
     {
       "title": "Møte i Hovedutvalg for samferdsel 18.09.2026",
       "committee": "Hovedutvalg for samferdsel",
-      "meetingDateUtc": "09/18/2026 06:00:00",
+      "meetingDateUtc": "2026-09-18T08:00:00.000Z",
       "meetingPlace": "",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F006887fd-da9f-4a7f-969f-eed8e8b62d16",
       "agendaAvailable": false,
@@ -18689,7 +18689,7 @@
     {
       "title": "Møte i Fylkesutvalget 22.09.2026",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "09/22/2026 08:00:00",
+      "meetingDateUtc": "2026-09-22T08:00:00.000Z",
       "meetingPlace": "",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F9d8919ba-1505-4277-bb15-21c8e5b1ef09",
       "agendaAvailable": true,
@@ -18872,7 +18872,7 @@
     {
       "title": "Møte i Fylkestinget 07.10.2026",
       "committee": "Fylkestinget",
-      "meetingDateUtc": "10/07/2026 07:00:00",
+      "meetingDateUtc": "2026-10-07T07:00:00.000Z",
       "meetingPlace": "",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F38d660c1-3360-45f9-aa4f-8ab014154550",
       "agendaAvailable": false,
@@ -18884,7 +18884,7 @@
     {
       "title": "Møte i Klagenemnd 13.10.2026",
       "committee": "Klagenemnd",
-      "meetingDateUtc": "10/13/2026 06:30:00",
+      "meetingDateUtc": "2026-10-13T06:30:00.000Z",
       "meetingPlace": "Fylkeshuset, møterom 210",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F923d240b-c684-409b-8e06-97e616a15255",
       "agendaAvailable": false,
@@ -18896,7 +18896,7 @@
     {
       "title": "Møte i Buskerud Eldreråd 13.10.2026",
       "committee": "Buskerud Eldreråd",
-      "meetingDateUtc": "10/13/2026 08:00:00",
+      "meetingDateUtc": "2026-10-13T08:00:00.000Z",
       "meetingPlace": "",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F8865625b-0a7f-4d8e-9d86-9bed1805a8bf",
       "agendaAvailable": false,
@@ -18908,7 +18908,7 @@
     {
       "title": "Møte i Flerkulturelt utvalg 14.10.2026",
       "committee": "Flerkulturelt utvalg",
-      "meetingDateUtc": "10/14/2026 08:00:00",
+      "meetingDateUtc": "2026-10-14T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, møterom 210",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F4873188c-b2d0-4e65-9b55-597db7b24626",
       "agendaAvailable": false,
@@ -18920,7 +18920,7 @@
     {
       "title": "Møte i Yrkesopplæringsnemnda 15.10.2026",
       "committee": "Yrkesopplæringsnemnda",
-      "meetingDateUtc": "10/15/2026 08:00:00",
+      "meetingDateUtc": "2026-10-15T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F1b3dae63-b367-443a-88af-69a7f6586930",
       "agendaAvailable": false,
@@ -18932,7 +18932,7 @@
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 15.10.2026",
       "committee": "Råd for mennesker med funksjonsnedsettelse",
-      "meetingDateUtc": "10/15/2026 08:00:00",
+      "meetingDateUtc": "2026-10-15T08:00:00.000Z",
       "meetingPlace": "",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F523d2f41-a952-448c-95da-b32fa24b5af5",
       "agendaAvailable": false,
@@ -18944,7 +18944,7 @@
     {
       "title": "Møte i Partssammensatt utvalg 16.10.2026",
       "committee": "Partssammensatt utvalg",
-      "meetingDateUtc": "10/16/2026 07:00:00",
+      "meetingDateUtc": "2026-10-16T07:00:00.000Z",
       "meetingPlace": "Fylkeshuset Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe4c4e487-bd8a-4a91-b25e-174fcabc8585",
       "agendaAvailable": false,
@@ -18956,7 +18956,7 @@
     {
       "title": "Møte i Hovedutvalg for opplæring 21.10.2026",
       "committee": "Hovedutvalg for opplæring",
-      "meetingDateUtc": "10/21/2026 07:00:00",
+      "meetingDateUtc": "2026-10-21T07:00:00.000Z",
       "meetingPlace": "",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fda9c6125-65aa-48dd-b9ed-961c42e54bad",
       "agendaAvailable": false,
@@ -18968,7 +18968,7 @@
     {
       "title": "Møte i Valgkomiteen 22.10.2026",
       "committee": "Valgkomiteen",
-      "meetingDateUtc": "10/22/2026 07:00:00",
+      "meetingDateUtc": "2026-10-22T07:00:00.000Z",
       "meetingPlace": "Teams, Teams",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Feda18850-2332-4888-a48b-d2350faf7ab4",
       "agendaAvailable": false,
@@ -18980,7 +18980,7 @@
     {
       "title": "Møte i Fylkesutvalget 27.10.2026",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "10/27/2026 09:00:00",
+      "meetingDateUtc": "2026-10-27T09:00:00.000Z",
       "meetingPlace": "",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd931f4b4-9aed-4286-b849-d81fde6ebbfc",
       "agendaAvailable": false,
@@ -18992,7 +18992,7 @@
     {
       "title": "Møte i Fylkestinget 04.11.2026",
       "committee": "Fylkestinget",
-      "meetingDateUtc": "11/04/2026 08:00:00",
+      "meetingDateUtc": "2026-11-04T08:00:00.000Z",
       "meetingPlace": "",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F2168b7e8-08fa-460f-95fd-391f4d23132a",
       "agendaAvailable": false,
@@ -19004,7 +19004,7 @@
     {
       "title": "Møte i Valgkomiteen 11.11.2026",
       "committee": "Valgkomiteen",
-      "meetingDateUtc": "11/11/2026 08:00:00",
+      "meetingDateUtc": "2026-11-11T08:00:00.000Z",
       "meetingPlace": "Teams, Teams",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F63b3ab83-c83c-4a67-a4c2-48ea78c7f655",
       "agendaAvailable": false,
@@ -19016,7 +19016,7 @@
     {
       "title": "Møte i Buskerud Eldreråd 11.11.2026",
       "committee": "Buskerud Eldreråd",
-      "meetingDateUtc": "11/11/2026 09:00:00",
+      "meetingDateUtc": "2026-11-11T09:00:00.000Z",
       "meetingPlace": "",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F8adac890-cae6-4f92-8d90-bfd52622a341",
       "agendaAvailable": false,
@@ -19028,7 +19028,7 @@
     {
       "title": "Møte i Flerkulturelt utvalg 11.11.2026",
       "committee": "Flerkulturelt utvalg",
-      "meetingDateUtc": "11/11/2026 09:00:00",
+      "meetingDateUtc": "2026-11-11T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, møterom 210",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F903533af-b495-4056-a6b2-1b029a6cc380",
       "agendaAvailable": false,
@@ -19040,7 +19040,7 @@
     {
       "title": "Møte i Ungdommens fylkesråd 12.11.2026",
       "committee": "Ungdommens fylkesråd",
-      "meetingDateUtc": "11/12/2026 08:00:00",
+      "meetingDateUtc": "2026-11-12T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset, Drammen, Fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fb86090d9-f0fa-4a2f-822d-cad95cace2f3",
       "agendaAvailable": false,
@@ -19052,7 +19052,7 @@
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 13.11.2026",
       "committee": "Råd for mennesker med funksjonsnedsettelse",
-      "meetingDateUtc": "11/13/2026 09:00:00",
+      "meetingDateUtc": "2026-11-13T09:00:00.000Z",
       "meetingPlace": "",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Ff8311d06-e81a-43c8-b2ce-820ec8ac4bd2",
       "agendaAvailable": false,
@@ -19064,7 +19064,7 @@
     {
       "title": "Møte i Fylkesutvalget 17.11.2026",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "11/17/2026 09:00:00",
+      "meetingDateUtc": "2026-11-17T09:00:00.000Z",
       "meetingPlace": "",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F0d93cdf3-2ece-460a-ab4f-33ce359fd812",
       "agendaAvailable": false,
@@ -19076,7 +19076,7 @@
     {
       "title": "Møte i Yrkesopplæringsnemnda 19.11.2026",
       "committee": "Yrkesopplæringsnemnda",
-      "meetingDateUtc": "11/19/2026 09:00:00",
+      "meetingDateUtc": "2026-11-19T09:00:00.000Z",
       "meetingPlace": "Fylkeshuset, fylkestingssalen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fcf6a8df2-7988-4c52-9fda-80195a6dfd19",
       "agendaAvailable": false,
@@ -19088,7 +19088,7 @@
     {
       "title": "Møte i Partssammensatt utvalg 20.11.2026",
       "committee": "Partssammensatt utvalg",
-      "meetingDateUtc": "11/20/2026 08:00:00",
+      "meetingDateUtc": "2026-11-20T08:00:00.000Z",
       "meetingPlace": "fylkeshuset Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F16450989-d170-4baf-a51d-ed3c2faf56ae",
       "agendaAvailable": false,
@@ -19100,7 +19100,7 @@
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 23.11.2026",
       "committee": "Hovedutvalg for næring og innovasjon",
-      "meetingDateUtc": "11/23/2026 08:00:00",
+      "meetingDateUtc": "2026-11-23T08:00:00.000Z",
       "meetingPlace": "",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F380ece6d-0fa5-439c-920e-547064ccd913",
       "agendaAvailable": false,
@@ -19112,7 +19112,7 @@
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 24.11.2026",
       "committee": "Hovedutvalg for kultur, idrett og folkehelse",
-      "meetingDateUtc": "11/24/2026 08:00:00",
+      "meetingDateUtc": "2026-11-24T08:00:00.000Z",
       "meetingPlace": "",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F10e7f5ad-534a-411f-b661-25e93828816c",
       "agendaAvailable": false,
@@ -19124,7 +19124,7 @@
     {
       "title": "Møte i Hovedutvalg for samferdsel 25.11.2026",
       "committee": "Hovedutvalg for samferdsel",
-      "meetingDateUtc": "11/25/2026 09:00:00",
+      "meetingDateUtc": "2026-11-25T09:00:00.000Z",
       "meetingPlace": "",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F5a8a9344-5ff6-4b78-9e6c-681ac6d99338",
       "agendaAvailable": false,
@@ -19136,7 +19136,7 @@
     {
       "title": "Møte i Hovedutvalg for opplæring 26.11.2026",
       "committee": "Hovedutvalg for opplæring",
-      "meetingDateUtc": "11/26/2026 08:00:00",
+      "meetingDateUtc": "2026-11-26T08:00:00.000Z",
       "meetingPlace": "",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd7163c0c-0dc1-42d6-a78c-545af4fad50b",
       "agendaAvailable": false,
@@ -19148,7 +19148,7 @@
     {
       "title": "Møte i Fylkesutvalget 01.12.2026",
       "committee": "Fylkesutvalget",
-      "meetingDateUtc": "12/01/2026 08:00:00",
+      "meetingDateUtc": "2026-12-01T08:00:00.000Z",
       "meetingPlace": "",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F8490c2ce-88eb-4493-9477-0a8eb8633b2a",
       "agendaAvailable": false,
@@ -19160,7 +19160,7 @@
     {
       "title": "Møte i Partssammensatt utvalg 04.12.2026",
       "committee": "Partssammensatt utvalg",
-      "meetingDateUtc": "12/04/2026 08:00:00",
+      "meetingDateUtc": "2026-12-04T08:00:00.000Z",
       "meetingPlace": "Fylkeshuset Drammen",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F1ead0cc1-a04e-47af-a9d9-75433f7d8272",
       "agendaAvailable": false,
@@ -19172,7 +19172,7 @@
     {
       "title": "Møte i Fylkestinget 15.12.2026",
       "committee": "Fylkestinget",
-      "meetingDateUtc": "12/15/2026 08:00:00",
+      "meetingDateUtc": "2026-12-15T08:00:00.000Z",
       "meetingPlace": "",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Ffe25106f-28e3-4098-ba97-7db7dd581343",
       "agendaAvailable": false,

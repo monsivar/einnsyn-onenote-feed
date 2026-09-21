@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "shardType": "meetings",
   "shardKey": "2025-02",
-  "updatedAtUtc": "2026-09-21T09:40:52.9165598+00:00",
+  "updatedAtUtc": "2026-09-21T12:12:59.7172519+00:00",
   "meetingCount": 4,
   "meetings": [
     {
@@ -13,89 +13,104 @@
       "meetingDate": "02/04/2025 09:00:00",
       "meetingDateUtc": "2025-02-04T08:00:00Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/40a31e43-24cb-4e45-b92f-6c49b01019e7",
       "agendaDocumentObjectId": "",
+      "agendaSignature": "55ee305311b8f6015db32cb830c8908cbe1335b5a4def0d04aaccff7bea80559",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/34f593f7-98fe-4117-a49e-efe880fa2712",
           "number": "1/2025",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/c659f029-a919-463d-8a47-e01b9c7ec579",
           "number": "2/2025",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/378aa366-740c-4e12-9097-3a694a258ca3",
           "number": "3/2025",
-          "title": "Søknad fra Pensjonistforbundet om partnerskapsmidler folkehelse"
+          "title": "Søknad fra Pensjonistforbundet om partnerskapsmidler folkehelse",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/8a2f4c58-bd30-4f9a-8420-f9bf052be8d3",
           "number": "4/2025",
-          "title": "Tiltaksbudsjett inkl. faste tilskuddsmottakere kulturarv 2025"
+          "title": "Tiltaksbudsjett inkl. faste tilskuddsmottakere kulturarv 2025",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/8a384f5d-b798-40a4-b9cf-96ecdb423fd6",
           "number": "5/2025",
-          "title": "Tilskuddsordning KulturArvOpplevelser 2025"
+          "title": "Tilskuddsordning KulturArvOpplevelser 2025",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/a3c4d844-64be-4d90-81c7-7206cdab681b",
           "number": "6/2025",
-          "title": "Tiltaksbudsjett for kultur, idrett og friluftsliv 2025"
+          "title": "Tiltaksbudsjett for kultur, idrett og friluftsliv 2025",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/70783cbd-d7a9-4f1c-bcfb-662656b59579",
           "number": "7/2025",
-          "title": "Fordeling av tilskudd til friluftsaktiviteter 2025"
+          "title": "Fordeling av tilskudd til friluftsaktiviteter 2025",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/3d6cd766-278b-4fe2-84c7-ddc92d631170",
           "number": "8/2025",
-          "title": "Tildeling av tilskudd til ung deltakelse og medvirkning 2025"
+          "title": "Tildeling av tilskudd til ung deltakelse og medvirkning 2025",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/8a1c5279-5a06-4a38-b38d-1897140b028b",
           "number": "9/2025",
-          "title": "Tildeling av tilskudd til kunst og kulturprosjekter i Buskerud 2025"
+          "title": "Tildeling av tilskudd til kunst og kulturprosjekter i Buskerud 2025",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/3c1c9064-0e58-489f-9653-328f45f020c0",
           "number": "10/2025",
-          "title": "Tildeling av tilskudd til bransjeutvikling i kulturell og kreativ næring i Buskerud 2025"
+          "title": "Tildeling av tilskudd til bransjeutvikling i kulturell og kreativ næring i Buskerud 2025",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/09034f48-5f11-427d-b48a-8e1cdc4b8657",
           "number": "11/2025",
-          "title": "Tildeling av tilskudd til festivaler i Buskerud 2025"
+          "title": "Tildeling av tilskudd til festivaler i Buskerud 2025",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/3eae77d9-c93c-40af-a4e2-e970794224e0",
           "number": "12/2025",
-          "title": "Tildeling av tilskudd til Aktiv i Buskerud 2025"
+          "title": "Tildeling av tilskudd til Aktiv i Buskerud 2025",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/61d04743-8064-4ef9-a4d5-4f68a9f131f4",
           "number": "13/2025",
-          "title": "Tilskuddsordning \\\"Store arrangementer for idrett, friluftsliv og fysisk aktivitet\\\""
+          "title": "Tilskuddsordning \\\"Store arrangementer for idrett, friluftsliv og fysisk aktivitet\\\"",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/d7d5954b-ac78-4aa3-8b14-cf6153585bef",
           "number": "14/2025",
-          "title": "Svar på høring om utkast til forskrift om Regionale kulturfond"
+          "title": "Svar på høring om utkast til forskrift om Regionale kulturfond",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/fb12917f-0182-4bb2-a20c-f79ddc9450ce",
           "number": "15/2025",
-          "title": "Innspill til nasjonale prioriteringer på kulturområdet"
+          "title": "Innspill til nasjonale prioriteringer på kulturområdet",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "55ee305311b8f6015db32cb830c8908cbe1335b5a4def0d04aaccff7bea80559",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/40a31e43-24cb-4e45-b92f-6c49b01019e7",
       "protocolDocumentIds": "do_01jkb9cqc8frmvz2767yq2y4z5",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/fb12917f-0182-4bb2-a20c-f79ddc9450ce",
@@ -272,34 +287,38 @@
       "meetingDate": "02/12/2025 08:00:00",
       "meetingDateUtc": "2025-02-12T07:00:00Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89, Drammen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/2cc5095f-5041-442d-a62c-bd5d9bf3e47b",
       "agendaDocumentObjectId": "",
+      "agendaSignature": "f5eb19896a72814d5a40edd9cb431c215719a83fed857f7e23fab2f657d46d16",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/38943d08-61bd-496e-b9fa-8ff14ee302d4",
           "number": "1/2025",
-          "title": "Fornyelse av driftskontrakt vei 33-304 Numedal 2026-2031"
+          "title": "Fornyelse av driftskontrakt vei 33-304 Numedal 2026-2031",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/27338f3b-262c-49ab-a4e4-9adbf4694988",
           "number": "2/2025",
-          "title": "Trafikksikker fylkeskommune. Framdrift og prosess."
+          "title": "Trafikksikker fylkeskommune. Framdrift og prosess.",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/a2c13a72-219a-43ea-814d-52cafcbce491",
           "number": "3/2025",
-          "title": "Høring av utkast til handlingsprogram for samferdsel 2026 -2029"
+          "title": "Høring av utkast til handlingsprogram for samferdsel 2026 -2029",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/fe2f3655-e740-4271-a2f9-20ba624a3a35",
           "number": "4/2025",
-          "title": "Revidert handlingsprogram for Buskerudbyen 2023 - 2025"
+          "title": "Revidert handlingsprogram for Buskerudbyen 2023 - 2025",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "f5eb19896a72814d5a40edd9cb431c215719a83fed857f7e23fab2f657d46d16",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/2cc5095f-5041-442d-a62c-bd5d9bf3e47b",
       "protocolDocumentIds": "do_01jkxcc3jffmtsqa7vpj6x7kc6",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/fe2f3655-e740-4271-a2f9-20ba624a3a35",
@@ -355,29 +374,32 @@
       "meetingDate": "02/18/2025 11:00:00",
       "meetingDateUtc": "2025-02-18T10:00:00Z",
       "meetingPlace": "Digitalt, Digitalt",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/12d9ff29-8ef0-4b69-84ff-8509b23ded5c",
       "agendaDocumentObjectId": "",
+      "agendaSignature": "de6878492c25cd05ceec7a559a8dcdef26295457a65a70ac8075271943e9c850",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/05ec0841-b417-428c-a931-7eca3007cd00",
           "number": "5/2025",
-          "title": "Søknad om permisjon - Sigrid Onsgaard Sagabråten (Sp)"
+          "title": "Søknad om permisjon - Sigrid Onsgaard Sagabråten (Sp)",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/56d42bbf-a1b2-4ef9-959b-e7008dffc16b",
           "number": "6/2025",
-          "title": "Søknad om permisjon - Christina Højer Mørkve (H)"
+          "title": "Søknad om permisjon - Christina Højer Mørkve (H)",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/e89df39c-d16b-4c9d-8c2b-25453184955b",
           "number": "7/2025",
-          "title": "Vegfinans AS - styringsdokumenter og representant til valgkomite"
+          "title": "Vegfinans AS - styringsdokumenter og representant til valgkomite",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "de6878492c25cd05ceec7a559a8dcdef26295457a65a70ac8075271943e9c850",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/12d9ff29-8ef0-4b69-84ff-8509b23ded5c",
       "protocolDocumentIds": "do_01jmcgsdj8erfaech4p9ja9k09",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/e89df39c-d16b-4c9d-8c2b-25453184955b",
@@ -422,104 +444,122 @@
       "meetingDate": "02/19/2025 11:00:00",
       "meetingDateUtc": "2025-02-19T10:00:00Z",
       "meetingPlace": "Fylkestingssalen, Fylkeshuset Hauges 89, Drammen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/3fa6fcf0-66c6-4b66-9e5e-6771b66c088e",
       "agendaDocumentObjectId": "",
+      "agendaSignature": "aa5a6a27f70db7bd03f54a0cde32a7babc7b7f74f898ceb179cf96499b0e5b39",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/3b898215-bc24-4384-9867-3dc011a1da1e",
           "number": "1/2025",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/881a5af2-bae8-4609-9029-4553fa9ffc5d",
           "number": "1/2025",
-          "title": "Interpellasjon fra Kaja Hilleren (SV) om ulovlig hogst i Buskerud"
+          "title": "Interpellasjon fra Kaja Hilleren (SV) om ulovlig hogst i Buskerud",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/5fadf9d0-86a7-409c-8948-35cc6954491a",
           "number": "2/2025",
-          "title": "Interpellasjon fra Simon Sebastian Nordanger (Sp) om oppfølging av ungdom som faller utenfor"
+          "title": "Interpellasjon fra Simon Sebastian Nordanger (Sp) om oppfølging av ungdom som faller utenfor",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/660a2cdd-0438-4bee-94bb-45771bba1b4e",
           "number": "2/2025",
-          "title": "Søknad om permisjon - Christina Højer Mørkve (H)"
+          "title": "Søknad om permisjon - Christina Højer Mørkve (H)",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/cbd2e3fd-1e30-4416-90fd-f7bad5aa13d1",
           "number": "3/2025",
-          "title": "Søknad om permisjon - Sigrid Onsgaard Sagabråten (Sp)"
+          "title": "Søknad om permisjon - Sigrid Onsgaard Sagabråten (Sp)",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/67e86f27-bdfd-481e-8a0a-628335852323",
           "number": "4/2025",
-          "title": "Ombudet for barn og unge i Akershus, Buskerud og Østfold kommunalt oppgavefellesskap - endring av samarbeidsavtalen"
+          "title": "Ombudet for barn og unge i Akershus, Buskerud og Østfold kommunalt oppgavefellesskap - endring av samarbeidsavtalen",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/e1728606-4b35-415a-bf8f-99a61554f248",
           "number": "5/2025",
-          "title": "Høringssvar fra Buskerud fylkeskommune til om forslag til lov om besøksbidrag"
+          "title": "Høringssvar fra Buskerud fylkeskommune til om forslag til lov om besøksbidrag",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/ff7c993e-1be6-413e-b791-80da3833df3d",
           "number": "6/2025",
-          "title": "Høring - forskrifter under lakse- og innlandsfiskeloven."
+          "title": "Høring - forskrifter under lakse- og innlandsfiskeloven.",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/7f9f3f86-9ce1-4473-bb9b-43468704a1cf",
           "number": "7/2025",
-          "title": "Høringsuttalelse - Forslag til endringer i tannhelsetjenesteloven"
+          "title": "Høringsuttalelse - Forslag til endringer i tannhelsetjenesteloven",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/3cda1a3f-af05-4e68-884b-5067a7cf5595",
           "number": "8/2025",
-          "title": "Lovlighetskontroll - oppheving av vedtak i sak 22/2024"
+          "title": "Lovlighetskontroll - oppheving av vedtak i sak 22/2024",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/c26d2acc-f6bd-483e-b998-3f3d3273a624",
           "number": "9/2025",
-          "title": "Skolevalget 2025 - Gjennomføring av debatter, valgtorg og stemmegivning"
+          "title": "Skolevalget 2025 - Gjennomføring av debatter, valgtorg og stemmegivning",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/92e96975-e67e-4199-905e-a70a080ddb50",
           "number": "10/2025",
-          "title": "Høyskolen for yrkesfag AS - uttreden og veien videre"
+          "title": "Høyskolen for yrkesfag AS - uttreden og veien videre",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/822a9f9a-bbfe-4e67-83da-3e993efe5969",
           "number": "11/2025",
-          "title": "Informasjon til fylkestinget om læringsmiljøet, læringsresultatene og gjennomføringen til elevene i opplæringen - skoleåret 2023-24 - Utsatt sak"
+          "title": "Informasjon til fylkestinget om læringsmiljøet, læringsresultatene og gjennomføringen til elevene i opplæringen - skoleåret 2023-24 - Utsatt sak",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/26eb143d-427d-49ee-a33f-cc5a11d6b562",
           "number": "12/2025",
-          "title": "Årsrapport for kontrollarbeidet 2024"
+          "title": "Årsrapport for kontrollarbeidet 2024",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/103c6bd4-30ed-4ba4-a2c8-412b157a3e2e",
           "number": "13/2025",
-          "title": "Omvalg av flerkulturelt utvalg 2025 - 2027"
+          "title": "Omvalg av flerkulturelt utvalg 2025 - 2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/4d5b6e5c-36a8-4f10-a3b1-78488e9d4c70",
           "number": "14/2025",
-          "title": "Uttreden fra verv - Camilla Bjørnbakken-Langen (MdG)"
+          "title": "Uttreden fra verv - Camilla Bjørnbakken-Langen (MdG)",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/c8e55fd3-af3d-417b-a2ee-34643f1da74e",
           "number": "15/2025",
-          "title": "Suppleringsvalg - oppnevning av nytt medlem til råd for mennesker med funksjonsnedsettelser i Buskerud"
+          "title": "Suppleringsvalg - oppnevning av nytt medlem til råd for mennesker med funksjonsnedsettelser i Buskerud",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/d967e93f-1ce6-46a8-a132-b22e605ce26e",
           "number": "16/2025",
-          "title": "Suppleringsvalg - oppnevning av nytt medlem til Buskerud eldreråd"
+          "title": "Suppleringsvalg - oppnevning av nytt medlem til Buskerud eldreråd",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "aa5a6a27f70db7bd03f54a0cde32a7babc7b7f74f898ceb179cf96499b0e5b39",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/3fa6fcf0-66c6-4b66-9e5e-6771b66c088e",
       "protocolDocumentIds": "do_01jmky1v77fb496yhb3fxr3grd",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/5fadf9d0-86a7-409c-8948-35cc6954491a",

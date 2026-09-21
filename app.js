@@ -232,7 +232,11 @@ function publicId(value) { return value ? value.split('/').pop() : ''; }
 function publicMeetingUrl(id) { return id ? (safeUrl(id) && id.includes('/moetemappe?id=') ? id : `https://einnsyn.no/moetemappe?id=${encodeURIComponent(id)}`) : ''; }
 function publicCaseUrl(id) { return id ? `https://einnsyn.no/moeteregistrering?id=${encodeURIComponent(id)}` : ''; }
 function agendaDocumentUrl(id) { return id && /^do_[a-z0-9]+$/i.test(String(id)) ? `https://api.einnsyn.no/dokumentobjekt/${encodeURIComponent(id)}/download` : ''; }
-function protocolDocumentUrl(value) { const id = Array.isArray(value) ? value[0] : value; return safeUrl(id) ? `https://einnsyn.no/api/v2/fil?iri=${encodeURIComponent(id)}` : ''; }
+function protocolDocumentUrl(value) {
+  const id = Array.isArray(value) ? value[0] : value;
+  if (typeof id === 'string' && /^do_[a-z0-9]+$/i.test(id)) return `https://api.einnsyn.no/dokumentobjekt/${encodeURIComponent(id)}/download`;
+  return safeUrl(id) ? `https://einnsyn.no/api/v2/fil?iri=${encodeURIComponent(id)}` : '';
+}
 function documentUrl(id) { return id && !String(id).startsWith('db_') && !String(id).startsWith('do_') ? safeUrl(id) : ''; }
 function safeUrl(value) { return typeof value === 'string' && /^https:\/\//i.test(value) ? value : ''; }
 function attrUrl(value) { return escapeHtml(safeUrl(value)); }

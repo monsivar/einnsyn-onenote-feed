@@ -43,18 +43,18 @@
         { "id": "rep-tore-opdal-hansen", "displayName": "Tore Opdal Hansen", "aliases": [] },
         { "id": "rep-iselin-haugo-stavn", "displayName": "Iselin Haugo Stavn", "aliases": ["Iselin Haugo"] },
         { "id": "rep-simen-murud", "displayName": "Simen Murud", "aliases": [] },
-        { "id": "rep-christina-hojer-morkve", "displayName": "Christina Højer Mørkve", "aliases": [] },
-        { "id": "rep-christopher-amundsen-wand", "displayName": "Christopher Amundsen Wand", "aliases": [] },
+        { "id": "rep-christina-hojer-morkve", "displayName": "Christina Højer Mørkve", "aliases": ["Christina Mørkve"] },
+        { "id": "rep-christopher-amundsen-wand", "displayName": "Christopher Amundsen Wand", "aliases": ["Christopher Wand"] },
         { "id": "rep-marianne-werp", "displayName": "Marianne Werp", "aliases": [] },
-        { "id": "rep-soren-falch-zapffe", "displayName": "Søren Falch Zapffe", "aliases": [] },
-        { "id": "rep-inger-synnove-kammerud", "displayName": "Inger Synnøve Kammerud", "aliases": [] },
-        { "id": "rep-glenn-melby", "displayName": "Glenn Melby", "aliases": [] },
+        { "id": "rep-soren-falch-zapffe", "displayName": "Søren Falch Zapffe", "aliases": ["Søren Falch-Zaphe"] },
+        { "id": "rep-inger-synnove-kammerud", "displayName": "Inger Synnøve Kammerud", "aliases": ["Inger Kammerud"] },
+        { "id": "rep-glenn-melby", "displayName": "Glenn Melby", "aliases": ["Glenn Melby (H)"] },
         { "id": "rep-inger-brit-vindegg", "displayName": "Inger-Brit Vindegg", "aliases": [] },
         { "id": "rep-jonas-nikolaisen", "displayName": "Jonas Nikolaisen", "aliases": [] },
         { "id": "rep-hanne-birgitte-lindbak-haatuft", "displayName": "Hanne Birgitte Lindbak Haatuft", "aliases": [] },
         { "id": "rep-egil-ax", "displayName": "Egil Ax", "aliases": [] },
         { "id": "rep-thomas-fosen", "displayName": "Thomas Fosen", "aliases": [] },
-        { "id": "rep-mari-djupvik-brathen", "displayName": "Mari Djupvik Bråthen", "aliases": [] },
+        { "id": "rep-mari-djupvik-brathen", "displayName": "Mari Djupvik Bråthen", "aliases": ["Mari Djubvik Bråthen"] },
         { "id": "rep-dag-oivind-henriksen", "displayName": "Dag Øivind Henriksen", "aliases": [] },
         { "id": "rep-johan-baumann", "displayName": "Johan Baumann", "aliases": ["Johan Bauman"] }
       ]
@@ -81,15 +81,16 @@
         { "id": "rep-thomas-emil-klingen-andersen", "displayName": "Thomas Emil Klingen Andersen", "aliases": ["Thomas Klingen"] },
         { "id": "rep-line-therese-sperrevik-persson", "displayName": "Line Therese Sperrevik Persson", "aliases": [] },
         { "id": "rep-ronny-andersen", "displayName": "Ronny Andersen", "aliases": [] },
-        { "id": "rep-vegard-persvold", "displayName": "Vegard Persvold", "aliases": [] }
+        { "id": "rep-vegard-persvold", "displayName": "Vegard Persvold", "aliases": [] },
+        { "id": "rep-morgan-langfeldt", "displayName": "Morgan Langfeldt", "aliases": [] }
       ]
     },
     {
       "id": "KRF",
       "name": "Kristelig Folkeparti",
       "members": [
-        { "id": "rep-kjell-erland-gronbeck", "displayName": "Kjell Erland Grønbeck", "aliases": [] },
-        { "id": "rep-turid-solberg-thomassen", "displayName": "Turid Solberg Thomassen", "aliases": [] },
+        { "id": "rep-kjell-erland-gronbeck", "displayName": "Kjell Erland Grønbeck", "aliases": ["Kjell Erland Grønbech"] },
+        { "id": "rep-turid-solberg-thomassen", "displayName": "Turid Solberg Thomassen", "aliases": ["Turid Thomassen", "Turid Solberg Thommassen"] },
         { "id": "rep-helge-hafsas", "displayName": "Helge Hafsås", "aliases": [] }
       ]
     },
@@ -101,7 +102,7 @@
         { "id": "rep-cecilie-sovik", "displayName": "Cecilie Søvik", "aliases": [] },
         { "id": "rep-sigve-brouwer", "displayName": "Sigve Brouwer", "aliases": [] },
         { "id": "rep-anita-nesse-roisli", "displayName": "Anita Nesse Røisli", "aliases": [] },
-        { "id": "rep-camilla-bjornbakken-langen", "displayName": "Camilla Bjørnbakken-Langen", "aliases": ["Camilla Langen"] }
+        { "id": "rep-camilla-bjornbakken-langen", "displayName": "Camilla Bjørnbakken-Langen", "aliases": ["Camilla Langen", "Camilla B. Langen"] }
       ]
     },
     {
@@ -150,7 +151,7 @@
         { "id": "rep-anders-wengen", "displayName": "Anders Wengen", "aliases": [] },
         { "id": "rep-tove-hofstad", "displayName": "Tove Hofstad", "aliases": [] },
         { "id": "rep-ana-maria-silva-harper", "displayName": "Ana Maria Silva-Harper", "aliases": [] },
-        { "id": "rep-daniel-heggelid-rugaas", "displayName": "Daniel Heggelid-Rugaas", "aliases": [] },
+        { "id": "rep-daniel-heggelid-rugaas", "displayName": "Daniel Heggelid-Rugaas", "aliases": ["Daniel Rugaas"] },
         { "id": "rep-julie-vaage", "displayName": "Julie Vaage", "aliases": ["Julie Vaage V"] }
       ]
     }

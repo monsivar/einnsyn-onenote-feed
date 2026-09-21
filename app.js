@@ -509,18 +509,9 @@ function populateRepresentatives() {
   const addPerson = person => {
     const displayName = person?.name || person?.proposerName || '';
     if (!displayName) return;
-    if (person.representativeId && state.representativeLookup.byId.has(person.representativeId)) {
-      const record = state.representativeLookup.byId.get(person.representativeId);
-      representatives.set(record.id, record);
-      return;
-    }
-    // OCR can concatenate a representative with the rest of a proposal or
-    // speaker line. These values are useful for diagnostics, but must not be
-    // presented as separate representative choices when a registry name is
-    // already known.
-    if (isLikelyCompositeRepresentativeName(displayName, state.representativeLookup)) return;
-    const key = normalizeRepresentativeName(displayName);
-    if (key && !representatives.has(`raw:${key}`)) representatives.set(`raw:${key}`, { id: '', displayName, aliases: [displayName], searchNames: [displayName], party: '' });
+    if (!person.representativeId || !state.representativeLookup.byId.has(person.representativeId)) return;
+    const record = state.representativeLookup.byId.get(person.representativeId);
+    representatives.set(record.id, record);
   };
   state.meetings.forEach(meeting => {
     [...(meeting.attendance?.fixedMembers || []), ...(meeting.attendance?.deputies || [])].forEach(addPerson);
@@ -530,17 +521,6 @@ function populateRepresentatives() {
     });
   });
   state.representatives = [...representatives.values()].sort((a, b) => a.displayName.localeCompare(b.displayName, 'nb-NO'));
-}
-
-function isLikelyCompositeRepresentativeName(value, lookup) {
-  const normalized = normalizeRepresentativeName(value);
-  if (!normalized || !lookup?.records?.length) return false;
-  return lookup.records.some(record => {
-    const canonical = normalizeRepresentativeName(record.displayName);
-    if (!canonical || normalized === canonical || !normalized.startsWith(`${canonical} `)) return false;
-    const remainder = normalized.slice(canonical.length).trim();
-    return remainder.length >= 24 || /\b(?:forslag|fremmet|på vegne|tilleggsforslag|habil|ba om)\b/i.test(remainder);
-  });
 }
 
 function renderRepresentativeSuggestions(value) {

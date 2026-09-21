@@ -1,0 +1,803 @@
+{
+  "schemaVersion": 1,
+  "shardType": "meetings",
+  "shardKey": "2024-08",
+  "updatedAtUtc": "2026-09-21T09:40:52.8873713+00:00",
+  "meetingCount": 9,
+  "meetings": [
+    {
+      "meetingId": "https://prod02.elementscloud.no/079b00c7-f070-44d2-8d77-1056140cd2ad",
+      "title": "Møte i Valgkomiteen 19.08.2024",
+      "committee": "Valgkomiteen",
+      "committeeId": "http://data.einnsyn.no/virksomhet/3def28ca-d3e3-4a36-a73b-b44e80cf8917",
+      "meetingDate": "08/19/2024 08:00:00",
+      "meetingDateUtc": "2024-08-19T06:00:00Z",
+      "meetingPlace": "Teams",
+      "agendaAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/fd9e2739-e614-4d65-8ee4-f8aeb5e6e490",
+      "agendaDocumentObjectId": "do_01j76y51dqeehvkepm9qwayzcv",
+      "agendaCases": [
+        {
+          "id": "https://prod02.elementscloud.no/920602a9-3a86-4aba-9ad0-2e3d2efb7c1e",
+          "number": "22/2024",
+          "title": "Godkjenning av innkalling og protokoll"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/985a2a09-1135-4605-a7e6-c0a87f1e5c98",
+          "number": "23/2024",
+          "title": "Oppnevning til generalforsamlingen i Euromontana"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/66b0327a-2107-44e2-909e-6153b83b725a",
+          "number": "24/2024",
+          "title": "Partnerskap for landbruk i Buskerud - Politisk representasjon"
+        }
+      ],
+      "agendaSignature": "683cad8a366a859336971edd5b7890fca5bf44d5acfcd6d87f4ff7269d49552e",
+      "protocolAvailable": true,
+      "protocolDocumentIds": "https://prod02.elementscloud.no/2cd6b8fb-c0fe-45a0-9d48-3910002da012",
+      "caseDecisions": [
+        {
+          "caseId": "https://prod02.elementscloud.no/985a2a09-1135-4605-a7e6-c0a87f1e5c98",
+          "documentDescriptionId": "db_01j76y51bmez0rd85x0h1mqdre",
+          "documentObjectId": "do_01j76y51bxez0t762rg1s3717d",
+          "documentObjectIri": "https://prod02.elementscloud.no/1b1b01d1-edea-4720-a90c-8f51308d4692",
+          "documentTitle": "Saksprotokoll VK",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y51bxez0t762rg1s3717d/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1b1b01d1-edea-4720-a90c-8f51308d4692"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/920602a9-3a86-4aba-9ad0-2e3d2efb7c1e",
+          "documentDescriptionId": "db_01j76y51amfd9t55h8f0kmhykg",
+          "documentObjectId": "do_01j76y51asegdssf4arz06yyt4",
+          "documentObjectIri": "https://prod02.elementscloud.no/ddc8168b-19a2-4e3a-9de0-88860e32b229",
+          "documentTitle": "Saksprotokoll VK",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y51asegdssf4arz06yyt4/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fddc8168b-19a2-4e3a-9de0-88860e32b229"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/66b0327a-2107-44e2-909e-6153b83b725a",
+          "documentDescriptionId": "db_01j76y5181f5xvbskhvsp2kgh0",
+          "documentObjectId": "do_01j76y518ff9gbgxbv2rpnj207",
+          "documentObjectIri": "https://prod02.elementscloud.no/2fa3a4f9-3c8e-40e5-997b-15e461106acb",
+          "documentTitle": "Saksprotokoll VK",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y518ff9gbgxbv2rpnj207/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2fa3a4f9-3c8e-40e5-997b-15e461106acb"
+        }
+      ]
+    },
+    {
+      "meetingId": "https://prod02.elementscloud.no/f2f2396c-ad21-42cc-b515-1d8ca5b185e6",
+      "title": "Møte i Distriktsvalgstyret 19.08.2024",
+      "committee": "Distriktsvalgstyret",
+      "committeeId": "http://data.einnsyn.no/virksomhet/9423b79f-ca46-4800-91cb-08500dc44983",
+      "meetingDate": "08/19/2024 09:00:00",
+      "meetingDateUtc": "2024-08-19T07:00:00Z",
+      "meetingPlace": "Teams",
+      "agendaAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/09b1cc55-49fc-4e92-a893-54139db651bb",
+      "agendaDocumentObjectId": "do_01j76y51dqeehvkepm9qwayzcw",
+      "agendaCases": [
+        {
+          "id": "https://prod02.elementscloud.no/d783988f-b5d8-48fe-af3f-5c32e2ba7e4c",
+          "number": "1/2024",
+          "title": "Stortingsvalget 2025 - Delegasjon av myndighet til fylkeskommunedirektør"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/c4179ec1-52e5-48aa-bcc9-f9683480a60a",
+          "number": "2/2024",
+          "title": "Høring - Forslag til ny valgforskrift og endringer i forskrift om valg til Sametinget"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/1d4dc39f-4112-4010-a5b7-c5dfa6d2609b",
+          "number": "3/2024",
+          "title": "Samarbeidsavtale om opptellingssentral for stortingsvalget 2025"
+        }
+      ],
+      "agendaSignature": "bbefecf3d060294c7aa8bffff926a6e9ffdc8336b3f941b06aa28a439d4ab59a",
+      "protocolAvailable": true,
+      "protocolDocumentIds": "https://prod02.elementscloud.no/d9efc6cd-aa59-46eb-a433-ac04ce10ffdf",
+      "caseDecisions": [
+        {
+          "caseId": "https://prod02.elementscloud.no/d783988f-b5d8-48fe-af3f-5c32e2ba7e4c",
+          "documentDescriptionId": "db_01j76y51a4e36v5g63sbdcetc4",
+          "documentObjectId": "do_01j76y51aye0atbjn6a66yrjbx",
+          "documentObjectIri": "https://prod02.elementscloud.no/5c2ceade-a219-4db1-ae54-42b233dbf605",
+          "documentTitle": "Saksprotokoll DUS",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y51aye0atbjn6a66yrjbx/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5c2ceade-a219-4db1-ae54-42b233dbf605"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/c4179ec1-52e5-48aa-bcc9-f9683480a60a",
+          "documentDescriptionId": "db_01j76y5182e52sn4vqe7rxnm9t",
+          "documentObjectId": "do_01j76y5189e14rkfzvajg0tyzc",
+          "documentObjectIri": "https://prod02.elementscloud.no/84450967-b44b-4001-98ed-7a20bc82fbaa",
+          "documentTitle": "Saksprotokoll DUS",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y5189e14rkfzvajg0tyzc/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F84450967-b44b-4001-98ed-7a20bc82fbaa"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/1d4dc39f-4112-4010-a5b7-c5dfa6d2609b",
+          "documentDescriptionId": "db_01j76y516zfjwagm1gmjwdd3me",
+          "documentObjectId": "do_01j76y5173f1ysk3kr1mzvqfvr",
+          "documentObjectIri": "https://prod02.elementscloud.no/7a6da22a-8340-4254-a2e9-d7be738fc6a5",
+          "documentTitle": "Saksprotokoll DUS",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y5173f1ysk3kr1mzvqfvr/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F7a6da22a-8340-4254-a2e9-d7be738fc6a5"
+        }
+      ]
+    },
+    {
+      "meetingId": "https://prod02.elementscloud.no/15ee06e0-bcd2-4600-9dac-417671fa8503",
+      "title": "Møte i Fylkesutvalget 20.08.2024",
+      "committee": "Fylkesutvalget",
+      "committeeId": "http://data.einnsyn.no/virksomhet/7659379c-9851-4e2e-8b31-6eb7cb9b81ee",
+      "meetingDate": "08/20/2024 08:00:00",
+      "meetingDateUtc": "2024-08-20T06:00:00Z",
+      "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
+      "agendaAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/b50b1146-74a2-4ea7-b888-7b7626bcaf1f",
+      "agendaDocumentObjectId": "do_01j76y3tdxfkfs7ww3w02e1681",
+      "agendaCases": [
+        {
+          "id": "https://prod02.elementscloud.no/d39274f6-989b-49af-8159-351f35cbead4",
+          "number": "66/2024",
+          "title": "Godkjenning av innkalling og protokoll"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/26f22de1-aa08-4845-8674-084e8bcb1617",
+          "number": "67/2024",
+          "title": "Orienteringer"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/8f100960-6fd0-4d6b-86dd-cabb0daaa83d",
+          "number": "68/2024",
+          "title": "Status for samarbeidet om regional plan for Norefjell-Reinsjøfjell"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/664a966f-e73f-4a9c-9195-403f9a87ad26",
+          "number": "69/2024",
+          "title": "Status for samarbeid om regional plan for Hardangervidda"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/80dc876e-4eb4-48ef-9359-410336dc3cee",
+          "number": "70/2024",
+          "title": "Status for samarbeid om regional plan for Nordfjella med Raudafjell"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/0d761110-6e61-4471-b8d0-2d24ed2c53ca",
+          "number": "71/2024",
+          "title": "Flesberg kommune - Orientering om høring av kommunal planstrategi 2024 - 2027"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/a6980edc-4636-4fe7-a3dd-8f400305ac3f",
+          "number": "72/2024",
+          "title": "Kongsberg kommune - Orientering om høring av planstrategi 2024 - 2027"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/1a83ee69-21dc-4187-95ac-f61c82c1edf9",
+          "number": "73/2024",
+          "title": "Krødsherad kommune - Kommunal planstrategi 2024 - 2027 - Høringsuttalelse"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/c5f7d39a-98b8-45f4-981c-571ae73134bb",
+          "number": "74/2024",
+          "title": "Flå kommune - Kommunal planstrategi 2024 - 2027 - Høringsuttalelse"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/c268de26-bf63-42b6-bb17-a633d03bb575",
+          "number": "75/2024",
+          "title": "Forslag til endringer i plan - og bygningsloven og kart- og planforskriften - Høringsuttalelse"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/c111ea43-71df-47e5-8d40-ed01992bb74f",
+          "number": "76/2024",
+          "title": "Høringsuttalelse til NOU 2024:10 Ny motorferdsellov"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/47265d5b-39d7-4c03-ac15-1f760d07bc8c",
+          "number": "77/2024",
+          "title": "Høringssvar - Ny lov om offentlige anskaffelser (NOU 2024:9 andre delutredning)"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/36934198-1116-4a64-9460-51436f471575",
+          "number": "78/2024",
+          "title": "Høring - Forslag til ny valgforskrift og endringer i forskrift om valg til Sametinget"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/c382d747-bb2f-4a2b-b1ee-daa404b3cb0a",
+          "number": "79/2024",
+          "title": "Salg av aksjer i Hallingfisk AS"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/d3521ef8-23ca-44df-91aa-d7703c7544fd",
+          "number": "80/2024",
+          "title": "Besøksreglement for politikk og administrasjon"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/f13eae19-89d9-4cc5-a920-935d53275967",
+          "number": "81/2024",
+          "title": "Flaggreglement for Buskerud fylkeskommune"
+        }
+      ],
+      "agendaSignature": "08f5fec6a99b58c0b628af461bac7e8dc440a8e78f9d1d68a14b13ba06acef8c",
+      "protocolAvailable": true,
+      "protocolDocumentIds": "https://prod02.elementscloud.no/d87c8b47-f59e-4e32-8980-9aed52166c45",
+      "caseDecisions": [
+        {
+          "caseId": "https://prod02.elementscloud.no/c111ea43-71df-47e5-8d40-ed01992bb74f",
+          "documentDescriptionId": "db_01j76y3tbzejbt1307dhy86dx0",
+          "documentObjectId": "do_01j76y3tc8eg98pry9n595y49n",
+          "documentObjectIri": "https://prod02.elementscloud.no/91760967-6d32-48ba-9751-a6be1600017d",
+          "documentTitle": "Saksprotokoll FU",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y3tc8eg98pry9n595y49n/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F91760967-6d32-48ba-9751-a6be1600017d"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/a6980edc-4636-4fe7-a3dd-8f400305ac3f",
+          "documentDescriptionId": "db_01j76y3ta1ewgtr6gftdqqav25",
+          "documentObjectId": "do_01j76y3tarf3nvghy3zbkkz2pa",
+          "documentObjectIri": "https://prod02.elementscloud.no/3fd4bba6-0844-4687-971c-15a86600a058",
+          "documentTitle": "Saksprotokoll FU",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y3tarf3nvghy3zbkkz2pa/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3fd4bba6-0844-4687-971c-15a86600a058"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/8f100960-6fd0-4d6b-86dd-cabb0daaa83d",
+          "documentDescriptionId": "db_01j76y3t7kft780s5j9q39247m",
+          "documentObjectId": "do_01j76y3t7sed2adfs6gddanwtf",
+          "documentObjectIri": "https://prod02.elementscloud.no/fff31a47-10c4-4286-a1b6-5d163eeff11b",
+          "documentTitle": "Saksprotokoll FU",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y3t7sed2adfs6gddanwtf/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ffff31a47-10c4-4286-a1b6-5d163eeff11b"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/80dc876e-4eb4-48ef-9359-410336dc3cee",
+          "documentDescriptionId": "db_01j76y3t6afmtvcb1tn0n7zc19",
+          "documentObjectId": "do_01j76y3t6mefc9xpwjfwyt25ry",
+          "documentObjectIri": "https://prod02.elementscloud.no/f8babb7a-6ae1-4045-9703-25942e5cdfe5",
+          "documentTitle": "Saksprotokoll FU",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y3t6mefc9xpwjfwyt25ry/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff8babb7a-6ae1-4045-9703-25942e5cdfe5"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/664a966f-e73f-4a9c-9195-403f9a87ad26",
+          "documentDescriptionId": "db_01j76y3t1we4dv79sw35hd6s3e",
+          "documentObjectId": "do_01j76y3t23f4rrhrsm99wyedgc",
+          "documentObjectIri": "https://prod02.elementscloud.no/798636a8-7a32-4c1f-a419-061a178f738d",
+          "documentTitle": "Saksprotokoll FU",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y3t23f4rrhrsm99wyedgc/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F798636a8-7a32-4c1f-a419-061a178f738d"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/47265d5b-39d7-4c03-ac15-1f760d07bc8c",
+          "documentDescriptionId": "db_01j76y3sznfser5jd79dmfn4tj",
+          "documentObjectId": "do_01j76y3szze5h9y2ajen69vhnw",
+          "documentObjectIri": "https://prod02.elementscloud.no/630e95e9-5b54-496e-855c-43a32b044a5f",
+          "documentTitle": "Saksprotokoll FU",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y3szze5h9y2ajen69vhnw/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F630e95e9-5b54-496e-855c-43a32b044a5f"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/36934198-1116-4a64-9460-51436f471575",
+          "documentDescriptionId": "db_01j76y3sxdey4vn6bmd5p7hmkt",
+          "documentObjectId": "do_01j76y3sxwe9aay445gcsr0496",
+          "documentObjectIri": "https://prod02.elementscloud.no/eb3a03ce-4615-4e68-ad02-4b307ed6e60a",
+          "documentTitle": "Saksprotokoll FU",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y3sxwe9aay445gcsr0496/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Feb3a03ce-4615-4e68-ad02-4b307ed6e60a"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/1a83ee69-21dc-4187-95ac-f61c82c1edf9",
+          "documentDescriptionId": "db_01j76y3sv4edbs8rj359kasw24",
+          "documentObjectId": "do_01j76y3svafbcvc76g9a4xd4k5",
+          "documentObjectIri": "https://prod02.elementscloud.no/cbdd78a2-81c8-4bcb-933e-bc79d2cd27d9",
+          "documentTitle": "Saksprotokoll FU",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y3svafbcvc76g9a4xd4k5/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fcbdd78a2-81c8-4bcb-933e-bc79d2cd27d9"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/0d761110-6e61-4471-b8d0-2d24ed2c53ca",
+          "documentDescriptionId": "db_01j76y3sssf2n87j7r25hdb37a",
+          "documentObjectId": "do_01j76y3sszfc893h0epy2f49yf",
+          "documentObjectIri": "https://prod02.elementscloud.no/4697e2c5-1adc-4593-9e0f-742d39e20562",
+          "documentTitle": "Saksprotokoll FU",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y3sszfc893h0epy2f49yf/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4697e2c5-1adc-4593-9e0f-742d39e20562"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/f13eae19-89d9-4cc5-a920-935d53275967",
+          "documentDescriptionId": "db_01j76y3sqrevq864zm46zmpk64",
+          "documentObjectId": "do_01j76y3sqye2gbgs7e05rty1cd",
+          "documentObjectIri": "https://prod02.elementscloud.no/ef201753-96cd-42fc-8b89-a07204879caa",
+          "documentTitle": "Saksprotokoll FU",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y3sqye2gbgs7e05rty1cd/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fef201753-96cd-42fc-8b89-a07204879caa"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/d39274f6-989b-49af-8159-351f35cbead4",
+          "documentDescriptionId": "db_01j76y3sp9fscts0meaj5p1v9e",
+          "documentObjectId": "do_01j76y3spmfkmt4dnkryn3xqcd",
+          "documentObjectIri": "https://prod02.elementscloud.no/c140895a-08b8-40c7-81e7-af8c73094f17",
+          "documentTitle": "Saksprotokoll FU",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y3spmfkmt4dnkryn3xqcd/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc140895a-08b8-40c7-81e7-af8c73094f17"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/d3521ef8-23ca-44df-91aa-d7703c7544fd",
+          "documentDescriptionId": "db_01j76y3smtf75s83wwnrv6m39a",
+          "documentObjectId": "do_01j76y3sn1ffkr9gnbqq0qybr0",
+          "documentObjectIri": "https://prod02.elementscloud.no/587a006e-3ec5-446d-8528-acb46a139d15",
+          "documentTitle": "Saksprotokoll FU",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y3sn1ffkr9gnbqq0qybr0/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F587a006e-3ec5-446d-8528-acb46a139d15"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/c5f7d39a-98b8-45f4-981c-571ae73134bb",
+          "documentDescriptionId": "db_01j76y3sknfxx8g06ts7a021ck",
+          "documentObjectId": "do_01j76y3skwers8sk16bvn8x530",
+          "documentObjectIri": "https://prod02.elementscloud.no/23795aef-164d-4f10-91b8-8934c936957b",
+          "documentTitle": "Saksprotokoll FU",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y3skwers8sk16bvn8x530/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F23795aef-164d-4f10-91b8-8934c936957b"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/c382d747-bb2f-4a2b-b1ee-daa404b3cb0a",
+          "documentDescriptionId": "db_01j76y3sjaeasbqmy3padeef57",
+          "documentObjectId": "do_01j76y3sjhee4s43mdbzr61x1y",
+          "documentObjectIri": "https://prod02.elementscloud.no/48193237-91eb-4a7a-87c1-997fd723222b",
+          "documentTitle": "Saksprotokoll FU",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y3sjhee4s43mdbzr61x1y/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F48193237-91eb-4a7a-87c1-997fd723222b"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/c268de26-bf63-42b6-bb17-a633d03bb575",
+          "documentDescriptionId": "db_01j76y3sgkf8qsxy93sqgjkg37",
+          "documentObjectId": "do_01j76y3sgtezst0ezk01ryarhz",
+          "documentObjectIri": "https://prod02.elementscloud.no/467de7d4-9d57-4298-8869-ce2595633301",
+          "documentTitle": "Saksprotokoll FU",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y3sgtezst0ezk01ryarhz/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F467de7d4-9d57-4298-8869-ce2595633301"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/26f22de1-aa08-4845-8674-084e8bcb1617",
+          "documentDescriptionId": "db_01j76y3sfaf89t7s7fspn26hqe",
+          "documentObjectId": "do_01j76y3sfjfrzvqmrbbg7px5ec",
+          "documentObjectIri": "https://prod02.elementscloud.no/563ab971-6936-4618-be50-315f503d1b5b",
+          "documentTitle": "Saksprotokoll FU",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y3sfjfrzvqmrbbg7px5ec/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F563ab971-6936-4618-be50-315f503d1b5b"
+        }
+      ]
+    },
+    {
+      "meetingId": "https://prod02.elementscloud.no/865b0c9f-54fb-4aa2-96b9-90ef41f87a6b",
+      "title": "Møte i Klagenemnd 20.08.2024",
+      "committee": "Klagenemnd",
+      "committeeId": "http://data.einnsyn.no/virksomhet/a3f20e9f-a16d-409c-b96d-80f1b51fe701",
+      "meetingDate": "08/20/2024 12:00:00",
+      "meetingDateUtc": "2024-08-20T10:00:00Z",
+      "meetingPlace": "Fylkeshuset, møterom 211, Møterom 211",
+      "agendaAvailable": true,
+      "agendaDocumentIds": null,
+      "agendaDocumentObjectId": "",
+      "agendaCases": [
+        {
+          "id": "https://prod02.elementscloud.no/3cba4cb2-da33-4720-965c-4d1b28699e85",
+          "number": "15/2024",
+          "title": "Godkjenning av innkalling og protokoll"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/bb0ab8f9-7ff7-4ff4-ad0f-9cd0de0ac7cd",
+          "number": "16/2024",
+          "title": "Klage på inntak til videregående opplæring § 6-22 – ***** ***** ***** ***** *****"
+        }
+      ],
+      "agendaSignature": "2a025735d81a156d2bc7ba27c53396c33a05e586c2adce392fd752a729a1dfa1",
+      "protocolAvailable": false,
+      "protocolDocumentIds": null,
+      "caseDecisions": []
+    },
+    {
+      "meetingId": "https://prod02.elementscloud.no/a9f6a8bb-898f-4fcd-965f-4871c7ba2ffe",
+      "title": "Møte i Hovedutvalg for næring og innovasjon 08/22/2024",
+      "committee": "Hovedutvalg for næring og innovasjon",
+      "committeeId": "http://data.einnsyn.no/virksomhet/c7f9c8a7-8b32-4a3b-aa2e-a5bab366048b",
+      "meetingDate": "08/22/2024 13:00:00",
+      "meetingDateUtc": "2024-08-22T11:00:00Z",
+      "meetingPlace": "Digitalt møte",
+      "agendaAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/ea6ac854-3c0d-4a3c-9cc9-c2dab85f10a8",
+      "agendaDocumentObjectId": "do_01j76y5ddkfz58kr97p6e0cwre",
+      "agendaCases": [
+        {
+          "id": "https://prod02.elementscloud.no/e16e7d77-d7e1-4bf8-85e1-cda3b4313fcd",
+          "number": "31/2024",
+          "title": "Godkjenning av innkalling og protokoll"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/96b7a744-d62d-4401-9ee5-8606d99e6cb3",
+          "number": "32/2024",
+          "title": "Tilskudd til bredbånd etter 2024 - Innspill til Digitaliserings- og forvaltningsdepartementet"
+        }
+      ],
+      "agendaSignature": "a5621347c221d267dcea7d8582e00037b0d7b550e69d21c76bb2f3fafef1d2e0",
+      "protocolAvailable": false,
+      "protocolDocumentIds": null,
+      "caseDecisions": []
+    },
+    {
+      "meetingId": "https://prod02.elementscloud.no/a1c05cfa-d01d-4b88-82e0-02b116460781",
+      "title": "Møte i Klagenemnd 08/27/2024",
+      "committee": "Klagenemnd",
+      "committeeId": "http://data.einnsyn.no/virksomhet/a3f20e9f-a16d-409c-b96d-80f1b51fe701",
+      "meetingDate": "08/27/2024 07:00:00",
+      "meetingDateUtc": "2024-08-27T05:00:00Z",
+      "meetingPlace": "Fylkestingssalen, Fylkestingssalen",
+      "agendaAvailable": true,
+      "agendaDocumentIds": null,
+      "agendaDocumentObjectId": "",
+      "agendaCases": [
+        {
+          "id": "https://prod02.elementscloud.no/eaed9b3a-964d-41ed-9587-4f8cab7218a5",
+          "number": "17/2024",
+          "title": "Godkjenning av innkalling og protokoll"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/e4a76466-616e-4bce-8896-8da2f3ba5f8e",
+          "number": "18/2024",
+          "title": "Klage på vedtak om avslag på søknad om avkjørsel fra fv. 3254 - gnr. 339/209 i Drammen kommune"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/c951c575-3986-4c3b-a734-d77bd6bd02bf",
+          "number": "19/2024",
+          "title": "Klage på vedtak om heving av lærekontrakt ved uenighet ***** ***** ***** ***** *****"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/c5977c06-30a4-40c8-8269-d248991e00d8",
+          "number": "20/2024",
+          "title": "Klage på vedtak om advarsel - ***** ***** *****"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/93232287-bc92-470a-8fe5-2028a6ed0b3b",
+          "number": "21/2024",
+          "title": "Klage på inntak etter forskrift til opplæringsloven § 6-25 - ***** ***** ***** ***** ***** *****"
+        }
+      ],
+      "agendaSignature": "0982660c8a0014d2adef653bddb41378d6d335f25aecf6c3a672ea0ee534fc49",
+      "protocolAvailable": true,
+      "protocolDocumentIds": "do_01jbbv7v42e5cvah5xtaxwm2cm",
+      "caseDecisions": [
+        {
+          "caseId": "https://prod02.elementscloud.no/e4a76466-616e-4bce-8896-8da2f3ba5f8e",
+          "documentDescriptionId": "db_01j76y5dngexzv8p2ndqkjq41y",
+          "documentObjectId": "do_01j76y5dnnf0hsg2d4vyberdmp",
+          "documentObjectIri": "https://prod02.elementscloud.no/dff802a4-c5bf-4b05-bcc7-49b6dc330d35",
+          "documentTitle": "Saksprotokoll KN",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y5dnnf0hsg2d4vyberdmp/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fdff802a4-c5bf-4b05-bcc7-49b6dc330d35"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/eaed9b3a-964d-41ed-9587-4f8cab7218a5",
+          "documentDescriptionId": "db_01j76y5dk8e2jbgeze5h7q3905",
+          "documentObjectId": "do_01j76y5dkges8s7e9zanwbn49k",
+          "documentObjectIri": "https://prod02.elementscloud.no/22c530a0-b8a3-4596-b836-371bfde888c9",
+          "documentTitle": "Saksprotokoll KN",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y5dkges8s7e9zanwbn49k/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F22c530a0-b8a3-4596-b836-371bfde888c9"
+        }
+      ]
+    },
+    {
+      "meetingId": "https://prod02.elementscloud.no/d974ee20-583d-447d-a0ff-10ff797e3379",
+      "title": "Møte i Fylkestinget 28.08.2024",
+      "committee": "Fylkestinget",
+      "committeeId": "http://data.einnsyn.no/virksomhet/0a3a9baa-adce-4204-81bb-99e4fb8d9c89",
+      "meetingDate": "08/28/2024 07:00:00",
+      "meetingDateUtc": "2024-08-28T05:00:00Z",
+      "meetingPlace": "Tyrifjord hotell, Sundveien 22, Vikersund",
+      "agendaAvailable": false,
+      "agendaDocumentIds": null,
+      "agendaDocumentObjectId": "",
+      "agendaCases": [],
+      "agendaSignature": "ddadb0edefa886b86e7548cc30c6f587f59d4cfbaa8e85deaf7e07bb50e24a18",
+      "protocolAvailable": false,
+      "protocolDocumentIds": null,
+      "caseDecisions": []
+    },
+    {
+      "meetingId": "https://prod02.elementscloud.no/5f995c50-2802-4ba1-b2da-f31c17157580",
+      "title": "Møte i Valgkomiteen 28.08.2024",
+      "committee": "Valgkomiteen",
+      "committeeId": "http://data.einnsyn.no/virksomhet/3def28ca-d3e3-4a36-a73b-b44e80cf8917",
+      "meetingDate": "08/28/2024 09:45:00",
+      "meetingDateUtc": "2024-08-28T07:45:00Z",
+      "meetingPlace": "Tyrifjord Hotel, Sundveien 22, Vikersund",
+      "agendaAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/a18d63ee-28a7-456e-94ae-69e15c189015",
+      "agendaDocumentObjectId": "do_01j76y5drwfjvteeh1yhtf7xnd",
+      "agendaCases": [
+        {
+          "id": "https://prod02.elementscloud.no/e65650c5-fe55-4033-a016-60c34a0b527b",
+          "number": "26/2024",
+          "title": "Fagskolen i Viken - nytt valg av medlem til representantskapet 2024-2027"
+        }
+      ],
+      "agendaSignature": "b209a8a9e01923997e096e14e82d8cc6c7096c5546b4c6e7aeca0fb06ffc9453",
+      "protocolAvailable": true,
+      "protocolDocumentIds": "https://prod02.elementscloud.no/ca6dc95a-2be4-4436-b497-88aceb3f4702",
+      "caseDecisions": [
+        {
+          "caseId": "https://prod02.elementscloud.no/e65650c5-fe55-4033-a016-60c34a0b527b",
+          "documentDescriptionId": "db_01j76y5dm9et7v46zgm15vave7",
+          "documentObjectId": "do_01j76y5dnjfabbzs6bqbvfrts0",
+          "documentObjectIri": "https://prod02.elementscloud.no/1ed9f1c4-052b-4421-afaf-b7e1ffb7bd20",
+          "documentTitle": "Saksprotokoll VK",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y5dnjfabbzs6bqbvfrts0/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1ed9f1c4-052b-4421-afaf-b7e1ffb7bd20"
+        }
+      ]
+    },
+    {
+      "meetingId": "https://prod02.elementscloud.no/55569714-1aed-4bbe-9114-c1b8ee75d9cc",
+      "title": "Møte i Fylkestinget 29.08.2024",
+      "committee": "Fylkestinget",
+      "committeeId": "http://data.einnsyn.no/virksomhet/0a3a9baa-adce-4204-81bb-99e4fb8d9c89",
+      "meetingDate": "08/29/2024 07:00:00",
+      "meetingDateUtc": "2024-08-29T05:00:00Z",
+      "meetingPlace": "Tyrifjord hotel, Sundveien 22, Vikersund",
+      "agendaAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/7f9e7b48-adc7-4029-90af-370616c6ed87",
+      "agendaDocumentObjectId": "do_01j76y3tf1ejqvh076mtmxmnqm",
+      "agendaCases": [
+        {
+          "id": "https://prod02.elementscloud.no/eac7d4ac-96f8-46ca-b69f-ad56d841abbb",
+          "number": "7/2024",
+          "title": "Interpellasjon om reklame rettet mot barn med bruk av fylkeskommunens navn og fylkesvåpen"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/c1cd7a5c-7616-4546-b146-9d064f3aefd7",
+          "number": "48/2024",
+          "title": "Godkjenning av innkalling og protokoll"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/8802ae15-6327-4c05-9a62-24180fbd06d2",
+          "number": "49/2024",
+          "title": "Status for samarbeidet om regional plan for Norefjell-Reinsjøfjell"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/4134230f-327e-45ae-9b1f-98fa8ea1d6cd",
+          "number": "50/2024",
+          "title": "Status for samarbeid om regional plan for Hardangervidda"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/f10dcd74-5086-4261-b943-c7d5c4353174",
+          "number": "51/2024",
+          "title": "Status for samarbeid om regional plan for Nordfjella med Raudafjell"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/a8c385a7-905d-45ab-b71f-607e6bf09385",
+          "number": "52/2024",
+          "title": "Høring - Forslag til ny valgforskrift og endringer i forskrift om valg til Sametinget"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/5fc99b9c-bc68-457b-a456-1967e7ee3562",
+          "number": "53/2024",
+          "title": "Flaggreglement for Buskerud fylkeskommune"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/15b20c0f-700d-436d-855c-43d31be92d8c",
+          "number": "54/2024",
+          "title": "Salg av aksjer i Hallingfisk AS"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/4e6d28ab-6c2e-44e6-a776-7abdbeef1af6",
+          "number": "55/2024",
+          "title": "Partnerskap for landbruk i Buskerud - Politisk representasjon"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/aaa825fe-ea86-463d-80db-dac5ccc73f6c",
+          "number": "56/2024",
+          "title": "Oppnevning til generalforsamlingen i Euromontana"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/b75ab77b-bea7-4d9f-b063-9da7486ac41e",
+          "number": "57/2024",
+          "title": "Søknad om forlenget garant til Vikersund Hoppsenter"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/06fb9b9c-4149-453d-84fe-47393c9b4ba2",
+          "number": "58/2024",
+          "title": "Fagskolen i Viken - nytt valg av medlem til representantskapet 2024-2027"
+        }
+      ],
+      "agendaSignature": "9d56c59a54a790848efe9e21cd569f4be5fc11f786ceccc8447bc6694a37317c",
+      "protocolAvailable": true,
+      "protocolDocumentIds": "https://prod02.elementscloud.no/9261e6fb-2115-4f8d-98c5-e2941388c4e7",
+      "caseDecisions": [
+        {
+          "caseId": "https://prod02.elementscloud.no/eac7d4ac-96f8-46ca-b69f-ad56d841abbb",
+          "documentDescriptionId": "db_01j76y3tb3enprj84vxwgcn459",
+          "documentObjectId": "do_01j76y3tb9f7esnpst9zf3aqz6",
+          "documentObjectIri": "https://prod02.elementscloud.no/5a6cc933-3653-46ec-a1b6-721f1572f8e4",
+          "documentTitle": "Saksprotokoll FT",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y3tb9f7esnpst9zf3aqz6/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5a6cc933-3653-46ec-a1b6-721f1572f8e4"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/c1cd7a5c-7616-4546-b146-9d064f3aefd7",
+          "documentDescriptionId": "db_01j76y3t9tfykv05wfb68et07s",
+          "documentObjectId": "do_01j76y3ta1f69936msy7wjt8qr",
+          "documentObjectIri": "https://prod02.elementscloud.no/eef136cc-dd1e-44d2-83c1-e6751a1237fc",
+          "documentTitle": "Saksprotokoll FT",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y3ta1f69936msy7wjt8qr/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Feef136cc-dd1e-44d2-83c1-e6751a1237fc"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/b75ab77b-bea7-4d9f-b063-9da7486ac41e",
+          "documentDescriptionId": "db_01j76y3t7xfxx8qxzn53rqmgxj",
+          "documentObjectId": "do_01j76y3t8bf0wtrbejbjamgq9s",
+          "documentObjectIri": "https://prod02.elementscloud.no/0d7dd437-f0bd-4fc5-bb3c-8a263f469b13",
+          "documentTitle": "Saksprotokoll FT",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y3t8bf0wtrbejbjamgq9s/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0d7dd437-f0bd-4fc5-bb3c-8a263f469b13"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/aaa825fe-ea86-463d-80db-dac5ccc73f6c",
+          "documentDescriptionId": "db_01j76y3t5wekkt0rkk6d2w6rxv",
+          "documentObjectId": "do_01j76y3t65eqh8nbkzeh3vy60x",
+          "documentObjectIri": "https://prod02.elementscloud.no/a52658fc-cccf-4053-8f32-bf1046612e6e",
+          "documentTitle": "Saksprotokoll FT",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y3t65eqh8nbkzeh3vy60x/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa52658fc-cccf-4053-8f32-bf1046612e6e"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/a8c385a7-905d-45ab-b71f-607e6bf09385",
+          "documentDescriptionId": "db_01j76y3t4deybtndsd9jpxsth7",
+          "documentObjectId": "do_01j76y3t4kfkwaas87bns1hvd2",
+          "documentObjectIri": "https://prod02.elementscloud.no/bebb54e5-b38f-4930-a622-19bb4f23d336",
+          "documentTitle": "Saksprotokoll FT",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y3t4kfkwaas87bns1hvd2/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fbebb54e5-b38f-4930-a622-19bb4f23d336"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/06fb9b9c-4149-453d-84fe-47393c9b4ba2",
+          "documentDescriptionId": "db_01j76y3t33eq08ft6g8s2gdvnr",
+          "documentObjectId": "do_01j76y3t39eqxtrgpk79952z70",
+          "documentObjectIri": "https://prod02.elementscloud.no/5c4ed09d-9f22-45d7-a95e-0a1aa43eafd1",
+          "documentTitle": "Saksprotokoll FT",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y3t39eqxtrgpk79952z70/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5c4ed09d-9f22-45d7-a95e-0a1aa43eafd1"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/8802ae15-6327-4c05-9a62-24180fbd06d2",
+          "documentDescriptionId": "db_01j76y3t1hemqbtfvcx74992fc",
+          "documentObjectId": "do_01j76y3t1tfdmredpehc3zn0f5",
+          "documentObjectIri": "https://prod02.elementscloud.no/97dc55c0-ec39-4664-b7f8-8713dfebb440",
+          "documentTitle": "Saksprotokoll FT",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y3t1tfdmredpehc3zn0f5/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F97dc55c0-ec39-4664-b7f8-8713dfebb440"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/15b20c0f-700d-436d-855c-43d31be92d8c",
+          "documentDescriptionId": "db_01j76y3szce59rbp0zay85t8hk",
+          "documentObjectId": "do_01j76y3t06fzgbxthxrfkwjs7r",
+          "documentObjectIri": "https://prod02.elementscloud.no/6bea3883-eba4-4c60-b22d-1b29fad4b1d0",
+          "documentTitle": "Saksprotokoll FT",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y3t06fzgbxthxrfkwjs7r/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F6bea3883-eba4-4c60-b22d-1b29fad4b1d0"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/5fc99b9c-bc68-457b-a456-1967e7ee3562",
+          "documentDescriptionId": "db_01j76y3swjep4tp29p31qe4kvq",
+          "documentObjectId": "do_01j76y3swpe9qrmty76vs193v8",
+          "documentObjectIri": "https://prod02.elementscloud.no/3a7c13f0-e1b1-47c2-a337-709ecd17d49b",
+          "documentTitle": "Saksprotokoll FT",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y3swpe9qrmty76vs193v8/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3a7c13f0-e1b1-47c2-a337-709ecd17d49b"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/4e6d28ab-6c2e-44e6-a776-7abdbeef1af6",
+          "documentDescriptionId": "db_01j76y3sv3eswbkff05snekc4y",
+          "documentObjectId": "do_01j76y3svbes1t24a1q271n5p8",
+          "documentObjectIri": "https://prod02.elementscloud.no/a1d3afa9-c6bb-4539-812e-03997ab744e4",
+          "documentTitle": "Saksprotokoll FT",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y3svbes1t24a1q271n5p8/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa1d3afa9-c6bb-4539-812e-03997ab744e4"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/4134230f-327e-45ae-9b1f-98fa8ea1d6cd",
+          "documentDescriptionId": "db_01j76y3sszeggay20j6j7ax7cg",
+          "documentObjectId": "do_01j76y3st3ext90ssmw6p6jpm2",
+          "documentObjectIri": "https://prod02.elementscloud.no/d7450daf-d77c-4aa1-91a0-37ed07d39cf0",
+          "documentTitle": "Saksprotokoll FT",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y3st3ext90ssmw6p6jpm2/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd7450daf-d77c-4aa1-91a0-37ed07d39cf0"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/f10dcd74-5086-4261-b943-c7d5c4353174",
+          "documentDescriptionId": "db_01j76y3srjf1kr43k38qtnjbbc",
+          "documentObjectId": "do_01j76y3srsf18vhjhdaf7qtfga",
+          "documentObjectIri": "https://prod02.elementscloud.no/9e1ce657-8e76-47d3-89c0-f1e2d01e490c",
+          "documentTitle": "Saksprotokoll FT",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j76y3srsf18vhjhdaf7qtfga/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9e1ce657-8e76-47d3-89c0-f1e2d01e490c"
+        }
+      ]
+    }
+  ]
+}

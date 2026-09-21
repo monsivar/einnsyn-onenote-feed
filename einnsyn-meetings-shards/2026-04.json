@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "shardType": "meetings",
   "shardKey": "2026-04",
-  "updatedAtUtc": "2026-09-21T09:40:53.0626138+00:00",
-  "meetingCount": 6,
+  "updatedAtUtc": "2026-09-21T12:12:59.9213335+00:00",
+  "meetingCount": 7,
   "meetings": [
     {
       "meetingId": "https://prod02.elementscloud.no/99a5f5a6-2e49-409d-9fa1-e85d81eac8e6",
@@ -11,71 +11,82 @@
       "committee": "Fylkesutvalget",
       "committeeId": "Fylkesutvalget",
       "meetingDate": "04/08/2026 08:00:00",
-      "meetingDateUtc": "2026-04-08T06:00:00Z",
+      "meetingDateUtc": "2026-04-08T08:00:00Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/1abb26a5-adc2-439e-9fce-301fc37da37d",
       "agendaDocumentObjectId": "do_01kmk3hayfe4gsnffs80x9qzns",
+      "agendaSignature": "d7cf1817e44ea08229ec4b49656ee9fd102783252e9e237e093c7f51bdf421a1",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/53c36e70-f34b-4e05-ae20-62f14e05c14a",
           "number": "26/2026",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/5dbcb250-80eb-401f-b2a6-41fb9866c2ea",
           "number": "27/2026",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/965c4b51-a8cc-4f63-a19c-80b4dab1fd07",
           "number": "28/2026",
-          "title": "Orientering om vedtak i Østlandssamarbeidets representantskap - årsrapport og anmodning om oppløsningsvedtak"
+          "title": "Orientering om vedtak i Østlandssamarbeidets representantskap - årsrapport og anmodning om oppløsningsvedtak",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/606511e5-f0bb-41f6-870b-02836bfe5508",
           "number": "29/2026",
-          "title": "Vurdering av tannlegevaktordningen i Buskerud fylkeskommune"
+          "title": "Vurdering av tannlegevaktordningen i Buskerud fylkeskommune",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/0afc616f-1da9-4e31-8d91-3c8a02ef1435",
           "number": "30/2026",
-          "title": "Eiendomsselskapet Veien Kulturminnepark AS - uttreden og veien videre"
+          "title": "Eiendomsselskapet Veien Kulturminnepark AS - uttreden og veien videre",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/956365ab-4021-4582-9d94-898574e78a46",
           "number": "31/2026",
-          "title": "Lokalisering fylkeskommunal tannklinikk i Numedal"
+          "title": "Lokalisering fylkeskommunal tannklinikk i Numedal",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/1baa23cb-7255-441f-af3f-aa8013f40c5f",
           "number": "32/2026",
-          "title": "Kjøp av statusundersøkelser fra private tannleger i kommuner uten offentlig tannklinikk"
+          "title": "Kjøp av statusundersøkelser fra private tannleger i kommuner uten offentlig tannklinikk",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/3a12695f-132b-4026-aa74-afbae4e84e2e",
           "number": "33/2026",
-          "title": "Høringssvar forslag om integreringsstønad for nyankomne flyktninger"
+          "title": "Høringssvar forslag om integreringsstønad for nyankomne flyktninger",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/3a12ef59-6e19-4567-8c54-c39fe1ab5933",
           "number": "34/2026",
-          "title": "Evaluering - vertskommunesamarbeidet om enkelte oppgaver på kulturminnefeltet og Isegran fartøyvernsenter"
+          "title": "Evaluering - vertskommunesamarbeidet om enkelte oppgaver på kulturminnefeltet og Isegran fartøyvernsenter",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/269a69c0-59ed-4812-abce-01247e11e095",
           "number": "35/2026",
-          "title": "Evaluering av Fylkesbiblioteket i Akershus, Buskerud og Østfold – kommunalt oppgavefellesskap"
+          "title": "Evaluering av Fylkesbiblioteket i Akershus, Buskerud og Østfold – kommunalt oppgavefellesskap",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/632ce5c8-b2e3-4711-a1b1-09502e9ab888",
           "number": "36/2026",
-          "title": "Kandidat til styret i Osloregionens Europakontor årsmøte 2026"
+          "title": "Kandidat til styret i Osloregionens Europakontor årsmøte 2026",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "d7cf1817e44ea08229ec4b49656ee9fd102783252e9e237e093c7f51bdf421a1",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/1abb26a5-adc2-439e-9fce-301fc37da37d",
       "protocolDocumentIds": "https://prod02.elementscloud.no/3e62f1dc-2b50-4464-b637-ddf14ee2197f",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/965c4b51-a8cc-4f63-a19c-80b4dab1fd07",
@@ -206,21 +217,22 @@
       "committee": "Valgkomiteen",
       "committeeId": "Valgkomiteen",
       "meetingDate": "04/16/2026 09:00:00",
-      "meetingDateUtc": "2026-04-16T07:00:00Z",
+      "meetingDateUtc": "2026-04-16T09:00:00Z",
       "meetingPlace": "Teams",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/4a3f8d03-863b-4c31-9a53-ac695192d3a3",
       "agendaDocumentObjectId": "do_01kp8ks72ked1rrgxahwym8y7p",
+      "agendaSignature": "a841a3d223c4c9b7b85cbc78525c1a1959a6e6aa1d6940f8aa94f3165f470b75",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/6854934c-4e19-43f1-89d9-eee76e4a3a4a",
           "number": "12/2026",
-          "title": "Søknad fra Kristin Gjerde (Frp) om midlertidig fritak fra verv i hovedutvalg for opplæring"
+          "title": "Søknad fra Kristin Gjerde (Frp) om midlertidig fritak fra verv i hovedutvalg for opplæring",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "a841a3d223c4c9b7b85cbc78525c1a1959a6e6aa1d6940f8aa94f3165f470b75",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/4a3f8d03-863b-4c31-9a53-ac695192d3a3",
       "protocolDocumentIds": "https://prod02.elementscloud.no/d10f1efd-b3c0-40ab-9cef-66ab419fcbc7",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/6854934c-4e19-43f1-89d9-eee76e4a3a4a",
@@ -241,126 +253,148 @@
       "committee": "Fylkestinget",
       "committeeId": "Fylkestinget",
       "meetingDate": "04/16/2026 10:00:00",
-      "meetingDateUtc": "2026-04-16T08:00:00Z",
+      "meetingDateUtc": "2026-04-16T10:00:00Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/a9a660c7-464c-403f-ab52-db7927cb6ca1",
       "agendaDocumentObjectId": "do_01kp1vf1w2e27tfy271ztdxxkv",
+      "agendaSignature": "0d64804c1396f65870206dffa8dd0c3a6bf743884d5659bb0483adc57d2a4632",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/fc5bb55e-f147-41a6-9aad-cffb69cb68a5",
           "number": "2/2026",
-          "title": "Interpellasjon fra Magnus Weggesrud (Sp) - Gjennomføring av et demokratiprosjekt for å øke valgdeltakelsen ved valget i 2027"
+          "title": "Interpellasjon fra Magnus Weggesrud (Sp) - Gjennomføring av et demokratiprosjekt for å øke valgdeltakelsen ved valget i 2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/a2ea7517-6a1b-46b6-8d6a-4dc675e1ec7f",
           "number": "3/2026",
-          "title": "Interpellasjon fra Lirigzona Berisha (Ap) om skolemat"
+          "title": "Interpellasjon fra Lirigzona Berisha (Ap) om skolemat",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/dda961dc-7dcf-4f4a-8406-82c4fe7f6ff9",
           "number": "4/2026",
-          "title": "Interpellasjon fra Iselin Haugo Stavn (H) og Magnus Weggesrud (Sp) - Vinteråpen vei over Imingfjell - Status og videre framdrift"
+          "title": "Interpellasjon fra Iselin Haugo Stavn (H) og Magnus Weggesrud (Sp) - Vinteråpen vei over Imingfjell - Status og videre framdrift",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/6ff38e67-e2fe-41b4-ad59-d6e6b28e3e73",
           "number": "21/2026",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/00f316e7-2a10-4dad-8e4d-7d0eceddb421",
           "number": "22/2026",
-          "title": "Vurdering av tannlegevaktordningen i Buskerud fylkeskommune"
+          "title": "Vurdering av tannlegevaktordningen i Buskerud fylkeskommune",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/7ce9ccfb-58fb-4530-a73f-4ae37aa5b5d1",
           "number": "23/2026",
-          "title": "Lokalisering fylkeskommunal tannklinikk i Numedal"
+          "title": "Lokalisering fylkeskommunal tannklinikk i Numedal",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/0315994c-4c0a-4c5b-b825-860f2bf6af4b",
           "number": "24/2026",
-          "title": "Kjøp av statusundersøkelser fra private tannleger i kommuner uten offentlig tannklinikk"
+          "title": "Kjøp av statusundersøkelser fra private tannleger i kommuner uten offentlig tannklinikk",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/f1bd39a2-dcfd-4ecf-af81-ac2b80b2ef25",
           "number": "25/2026",
-          "title": "Høringssvar forslag til ny helseberedskapslov"
+          "title": "Høringssvar forslag til ny helseberedskapslov",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/b75b4e62-333d-4987-acc5-ed211ddde9d9",
           "number": "26/2026",
-          "title": "Nasjonal transportplan 2029-2040 - Prosess i Buskerud fylkeskommune"
+          "title": "Nasjonal transportplan 2029-2040 - Prosess i Buskerud fylkeskommune",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/caa352b9-2f57-4338-8bb6-44336392fff2",
           "number": "27/2026",
-          "title": "Justering - Overordnet beredskapsplan"
+          "title": "Justering - Overordnet beredskapsplan",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/9ac7a8bb-9081-4b74-9d6b-a50848fba1c7",
           "number": "28/2026",
-          "title": "Støtteerklæring til søknad fra Akademiet om å drive folkehøyskole i Numedal"
+          "title": "Støtteerklæring til søknad fra Akademiet om å drive folkehøyskole i Numedal",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/a0c26a8e-8365-4cc6-9d8d-359f6600ea1d",
           "number": "29/2026",
-          "title": "Valg av digitalt samarbeid for mobilitetstjenester"
+          "title": "Valg av digitalt samarbeid for mobilitetstjenester",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/0e5594c6-0bbf-4161-9dcb-c865f7f03a32",
           "number": "30/2026",
-          "title": "Eiendomsselskapet Veien Kulturminnepark AS - uttreden og veien videre"
+          "title": "Eiendomsselskapet Veien Kulturminnepark AS - uttreden og veien videre",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/c9df7e43-dce3-45f6-ad85-3776bf9b1cfd",
           "number": "31/2026",
-          "title": "Evaluering av Fylkesbiblioteket i Akershus, Buskerud og Østfold – kommunalt oppgavefellesskap"
+          "title": "Evaluering av Fylkesbiblioteket i Akershus, Buskerud og Østfold – kommunalt oppgavefellesskap",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/f259d1d0-4e50-46fe-a644-25e365c5d463",
           "number": "32/2026",
-          "title": "Orientering om vedtak i Østlandssamarbeidets representantskap - årsrapport og anmodning om oppløsningsvedtak"
+          "title": "Orientering om vedtak i Østlandssamarbeidets representantskap - årsrapport og anmodning om oppløsningsvedtak",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/212e2200-bee3-4d7d-beb7-3d76b86256f6",
           "number": "33/2026",
-          "title": "Evaluering - vertskommunesamarbeidet om enkelte oppgaver på kulturminnefeltet og Isegran fartøyvernsenter"
+          "title": "Evaluering - vertskommunesamarbeidet om enkelte oppgaver på kulturminnefeltet og Isegran fartøyvernsenter",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/9a5817ce-c11d-40b4-b6fd-8a7082e36d7c",
           "number": "34/2026",
-          "title": "Kandidat til styret i Osloregionens Europakontor årsmøte 2026"
+          "title": "Kandidat til styret i Osloregionens Europakontor årsmøte 2026",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/5f7d15b3-8f8f-4954-86b3-630a4dc9106a",
           "number": "35/2026",
-          "title": "Søknad om fritak fra vervet som medlem av NRK Buskeruds distriktsprogramråd"
+          "title": "Søknad om fritak fra vervet som medlem av NRK Buskeruds distriktsprogramråd",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/9dc910a7-60dc-4543-87d4-c712aaf5531d",
           "number": "36/2026",
-          "title": "Valg av nye varamedlemmer til hovedutvalg for kultur, idrett og folkehelse og hovedutvalg for næring og innovasjon"
+          "title": "Valg av nye varamedlemmer til hovedutvalg for kultur, idrett og folkehelse og hovedutvalg for næring og innovasjon",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/c9048a51-51de-4a66-80bc-bcd63bfe9e90",
           "number": "37/2026",
-          "title": "Suppleringsvalg - oppnevning av nye representanter til yrkesopplæringsnemnda fra Yrkesorganisasjonenes Sentralforbund (YS)"
+          "title": "Suppleringsvalg - oppnevning av nye representanter til yrkesopplæringsnemnda fra Yrkesorganisasjonenes Sentralforbund (YS)",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/748c00a6-ae34-46d9-b7c9-997416064832",
           "number": "38/2026",
-          "title": "Oppnevning av andre varamedlem for Utdanningsforbundet Buskerud (UDF) til Yrkesopplæringsnemnda 2026-2027"
+          "title": "Oppnevning av andre varamedlem for Utdanningsforbundet Buskerud (UDF) til Yrkesopplæringsnemnda 2026-2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/08b1d722-3f3f-464a-860d-2203a1896370",
           "number": "39/2026",
-          "title": "Søknad fra Kristin Gjerde (Frp) om midlertidig fritak fra verv i hovedutvalg for opplæring"
+          "title": "Søknad fra Kristin Gjerde (Frp) om midlertidig fritak fra verv i hovedutvalg for opplæring",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "0d64804c1396f65870206dffa8dd0c3a6bf743884d5659bb0483adc57d2a4632",
-      "protocolAvailable": false,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/a9a660c7-464c-403f-ab52-db7927cb6ca1",
       "protocolDocumentIds": null,
+      "agendaAvailable": true,
+      "protocolAvailable": false,
       "caseDecisions": []
     },
     {
@@ -369,36 +403,40 @@
       "committee": "Yrkesopplæringsnemnda",
       "committeeId": "Yrkesopplæringsnemnda",
       "meetingDate": "04/23/2026 08:00:00",
-      "meetingDateUtc": "2026-04-23T06:00:00Z",
+      "meetingDateUtc": "2026-04-23T08:00:00Z",
       "meetingPlace": "Fylkeshuset, fylkestingssalen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/6701bba1-0623-41c1-b5a0-eaacf051c6cb",
       "agendaDocumentObjectId": "do_01kpb6wwhcey48bhqb19x4c49j",
+      "agendaSignature": "a07dbad1447ea83cbc7ff322657bd213d86b0121dd7ae01f5d1f2322794ff0df",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/2cae6684-59d5-4c39-80e4-a5f49f4fc3e1",
           "number": "8/2026",
-          "title": "Godkjenning av møteinnkalling og protokoll"
+          "title": "Godkjenning av møteinnkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/bea1e59c-5c9b-48a6-a7a7-6099d072e509",
           "number": "9/2026",
-          "title": "Justering av skoletilbudet 2026/2027"
+          "title": "Justering av skoletilbudet 2026/2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/0349e3c7-867a-4816-98a5-b3d959aa52f1",
           "number": "10/2026",
-          "title": "Høringssvar - ny høring om læreplaner for vg3 landbruk - opplæring i skole og vg3 landbruksfaget - opplæring i bedrift"
+          "title": "Høringssvar - ny høring om læreplaner for vg3 landbruk - opplæring i skole og vg3 landbruksfaget - opplæring i bedrift",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/f658ec9d-3124-489b-ae77-dea49359f59b",
           "number": "11/2026",
-          "title": "Høringssvar - om kryssløp fra Vg1 håndverk, design og produktutvikling til Vg2 treteknikk i utdanningsprogram for bygg- og anleggsteknikk"
+          "title": "Høringssvar - om kryssløp fra Vg1 håndverk, design og produktutvikling til Vg2 treteknikk i utdanningsprogram for bygg- og anleggsteknikk",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "a07dbad1447ea83cbc7ff322657bd213d86b0121dd7ae01f5d1f2322794ff0df",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/6701bba1-0623-41c1-b5a0-eaacf051c6cb",
       "protocolDocumentIds": "https://prod02.elementscloud.no/2e92733f-f28b-4005-aee1-0da7e3c4bcd6",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/f658ec9d-3124-489b-ae77-dea49359f59b",
@@ -452,41 +490,46 @@
       "committee": "Hovedutvalg for opplæring",
       "committeeId": "Hovedutvalg for opplæring",
       "meetingDate": "04/29/2026 08:00:00",
-      "meetingDateUtc": "2026-04-29T06:00:00Z",
+      "meetingDateUtc": "2026-04-29T08:00:00Z",
       "meetingPlace": "Fylkestingssalen, Fylkeshuset i Drammen, Fylkeshuset i Drammen, Fylkestingssalen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/776cb7b9-be26-471b-af5e-6b5e14a29f6a",
       "agendaDocumentObjectId": "do_01kprme9zzeskrjn8p5k4nxvqp",
+      "agendaSignature": "9f4c64e7d7d4aebab012e5b0b793c24b15064d0a400a45b0043a517baea1aa64",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/b9ae73e8-f0bf-4dbd-99a9-a97f6b227d4a",
           "number": "15/2026",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/99cd2ed5-4f34-49b2-8dbc-00c2ccf43eea",
           "number": "16/2026",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/426a51c7-5442-46f1-804c-9e909c199e4d",
           "number": "17/2026",
-          "title": "Justering av skoletilbudet 2026/2027"
+          "title": "Justering av skoletilbudet 2026/2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/1ba321c9-a01b-4065-bd57-229cf0f5d19f",
           "number": "18/2026",
-          "title": "Høringssvar - om kryssløp fra Vg1 håndverk, design og produktutvikling til Vg2 treteknikk i utdanningsprogram for bygg- og anleggsteknikk"
+          "title": "Høringssvar - om kryssløp fra Vg1 håndverk, design og produktutvikling til Vg2 treteknikk i utdanningsprogram for bygg- og anleggsteknikk",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/aa44e1cc-ea4a-4a9b-9eaf-341ad188b679",
           "number": "19/2026",
-          "title": "Høringssvar - ny høring om læreplaner for vg3 landbruk - opplæring i skole og vg3 landbruksfaget - opplæring i bedrift"
+          "title": "Høringssvar - ny høring om læreplaner for vg3 landbruk - opplæring i skole og vg3 landbruksfaget - opplæring i bedrift",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "9f4c64e7d7d4aebab012e5b0b793c24b15064d0a400a45b0043a517baea1aa64",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/776cb7b9-be26-471b-af5e-6b5e14a29f6a",
       "protocolDocumentIds": "https://prod02.elementscloud.no/f21b6cac-a507-4274-8b68-c371733dcd58",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/b9ae73e8-f0bf-4dbd-99a9-a97f6b227d4a",
@@ -551,46 +594,52 @@
       "committee": "Buskerud fylkeskommune",
       "committeeId": "Oppgavefellesskap ombud for barn og unge",
       "meetingDate": "04/30/2026 08:00:00",
-      "meetingDateUtc": "2026-04-30T06:00:00Z",
+      "meetingDateUtc": "2026-04-30T08:00:00Z",
       "meetingPlace": "Fylkeshuset i Østfold, Oscar Pedersens vei 39. Møterom Kongsten, Fylkeshuset i Østfold. Møterom Kongsten",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/ce4fb628-6f81-47df-b97d-d50e36aed7fd",
       "agendaDocumentObjectId": "do_01kpqsq930ejetjcj3v7d14zza",
+      "agendaSignature": "c911d8a40adceedf42294726f48837f230521366c3329d5ac1c2f73e8b3e2d9b",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/1050776d-4596-4f1b-bc74-3102bab05a4f",
           "number": "3/2026",
-          "title": "Godkjenning av innkalling og protokoll fra møte 4. mars 2026"
+          "title": "Godkjenning av innkalling og protokoll fra møte 4. mars 2026",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/c80a4964-9675-45f3-a3ee-e68dd7767444",
           "number": "3/2026",
-          "title": "Godkjenning av innkalling og referat fra 4. mars 2026"
+          "title": "Godkjenning av innkalling og referat fra 4. mars 2026",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/71768e12-cab8-43e0-9405-a5945009b035",
           "number": "4/2026",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/952dbddd-dd41-4a99-9e1a-34ecf6ccbf4b",
           "number": "5/2026",
-          "title": "Årsrapport 2025"
+          "title": "Årsrapport 2025",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/1a20e294-daab-4cf5-9976-2e252e15ccf6",
           "number": "6/2026",
-          "title": "Videre arbeid med evalueringsrapport, samarbeids- og tjenesteavtale"
+          "title": "Videre arbeid med evalueringsrapport, samarbeids- og tjenesteavtale",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/b5c0dd3d-9763-48ac-8fc0-8bfc9c95d7a6",
           "number": "7/2026",
-          "title": "Møteplan 2. halvår 2026"
+          "title": "Møteplan 2. halvår 2026",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "c911d8a40adceedf42294726f48837f230521366c3329d5ac1c2f73e8b3e2d9b",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/ce4fb628-6f81-47df-b97d-d50e36aed7fd",
       "protocolDocumentIds": "https://prod02.elementscloud.no/80b8e42c-6bb6-48d2-8f01-49339b78a78d",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/1050776d-4596-4f1b-bc74-3102bab05a4f",
@@ -646,6 +695,153 @@
           "documentRole": "hoveddokument",
           "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01kqvxm360e0prwayyy4t2hp2s/download",
           "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1381b41d-a194-4a99-b4bf-81a40ec29258"
+        }
+      ]
+    },
+    {
+      "meetingId": "https://prod02.elementscloud.no/657c86c2-1970-4338-a716-9aa107a2323c",
+      "title": "Møte i Representantskapet Fagskolen i Viken - Kommunalt oppgavefellesskap 30.04.2026",
+      "committee": "Representantskapet Fagskolen i Viken - Kommunalt oppgavefellesskap",
+      "committeeId": "Representantskapet Fagskolen i Viken - Kommunalt oppgavefellesskap",
+      "meetingDate": "04/30/2026 10:00:00",
+      "meetingDateUtc": "2026-04-30T10:00:00Z",
+      "meetingPlace": "Fylkeshuset Østfold, Kongsten, 1. etasje",
+      "agendaAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/edaff1c0-7b9f-434e-a9ed-e200902716fd",
+      "agendaDocumentObjectId": "do_01kpqgcacye22bedex4ewt05x6",
+      "agendaCases": [
+        {
+          "id": "https://prod02.elementscloud.no/bbdc5804-e3aa-4881-acbc-7513cb1b5593",
+          "number": "6/2026",
+          "title": "Fagskolen Viken KO - Godkjenning av innkalling og saksliste"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/51f5d352-5ea1-4e76-8367-9d55feec2404",
+          "number": "7/2026",
+          "title": "Fagskolen Viken KO - Godkjenning av protokoll"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/85e69b97-0c3f-43d3-bc05-dea26ed9868b",
+          "number": "8/2026",
+          "title": "Fagskolen Viken KO - årsregnskap 2025"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/11c3bd1a-5e03-4b3d-8cab-d607eb8c5b92",
+          "number": "9/2026",
+          "title": "Fagskolen Viken KO - årsberetning og note 20 2025"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/c5a38918-b5d0-48af-94e7-f2c475070208",
+          "number": "10/2026",
+          "title": "Fagskolen Viken KO - studiestedsstrategi"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/3faaf0a8-b1ae-4be7-a69a-062d6489e1d2",
+          "number": "11/2026",
+          "title": "Fagskolen Viken KO - møteplan 2. halvår 2026"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/309bc811-7b92-4e74-b35b-bc0ea1e16369",
+          "number": "12/2026",
+          "title": "Fagskolen Viken KO - innspill til budsjett og økonomiplan 2027-2030"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/a4c301a8-bbc9-4c77-b28a-59306c5b0faa",
+          "number": "13/2026",
+          "title": "Eventuelt"
+        }
+      ],
+      "agendaSignature": "a476546fc4f6c228f6eaa995a341235a1a64be4f8a05176df9f86131124da7be",
+      "protocolAvailable": true,
+      "protocolDocumentIds": "https://prod02.elementscloud.no/64eaa228-910e-4a39-84c2-436bef0892bb",
+      "caseDecisions": [
+        {
+          "caseId": "https://prod02.elementscloud.no/c5a38918-b5d0-48af-94e7-f2c475070208",
+          "documentDescriptionId": "db_01kt1jjc3vez7sfzsah2ktrgkh",
+          "documentObjectId": "do_01kt1jjc42ey3t68d1krqe957d",
+          "documentObjectIri": "https://prod02.elementscloud.no/99077e77-45e9-4181-8278-6fe9dcf42ace",
+          "documentTitle": "Saksprotokoll FIV",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01kt1jjc42ey3t68d1krqe957d/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F99077e77-45e9-4181-8278-6fe9dcf42ace"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/bbdc5804-e3aa-4881-acbc-7513cb1b5593",
+          "documentDescriptionId": "db_01kt1jjbw2epr9nvt9p00y34rp",
+          "documentObjectId": "do_01kt1jjbw8ezbvaxs0c69m7ynv",
+          "documentObjectIri": "https://prod02.elementscloud.no/2d026769-51c9-4c3f-be67-130e27c8e7ae",
+          "documentTitle": "Saksprotokoll FIV",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01kt1jjbw8ezbvaxs0c69m7ynv/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2d026769-51c9-4c3f-be67-130e27c8e7ae"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/a4c301a8-bbc9-4c77-b28a-59306c5b0faa",
+          "documentDescriptionId": "db_01kt1jjbjfedx9n224tyfwgyg0",
+          "documentObjectId": "do_01kt1jjbjne9yvnw2136nv0vpp",
+          "documentObjectIri": "https://prod02.elementscloud.no/8c40cb63-00df-4613-90f9-ae2562edd570",
+          "documentTitle": "Saksprotokoll FIV",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01kt1jjbjne9yvnw2136nv0vpp/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F8c40cb63-00df-4613-90f9-ae2562edd570"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/85e69b97-0c3f-43d3-bc05-dea26ed9868b",
+          "documentDescriptionId": "db_01kt1jjb7rexnvh56cbrp5wqra",
+          "documentObjectId": "do_01kt1jjb7ye3fbxtnxqwt8hp4y",
+          "documentObjectIri": "https://prod02.elementscloud.no/43cc850a-1155-491a-b7b8-2c7c35717445",
+          "documentTitle": "Saksprotokoll FIV",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01kt1jjb7ye3fbxtnxqwt8hp4y/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F43cc850a-1155-491a-b7b8-2c7c35717445"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/51f5d352-5ea1-4e76-8367-9d55feec2404",
+          "documentDescriptionId": "db_01kt1jjawbeq38zsn5qgj71xfe",
+          "documentObjectId": "do_01kt1jjawkehbt80910a5vyg6e",
+          "documentObjectIri": "https://prod02.elementscloud.no/99459552-3d4f-4764-a830-d5b287c087d4",
+          "documentTitle": "Saksprotokoll FIV",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01kt1jjawkehbt80910a5vyg6e/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F99459552-3d4f-4764-a830-d5b287c087d4"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/3faaf0a8-b1ae-4be7-a69a-062d6489e1d2",
+          "documentDescriptionId": "db_01kt1jjak5ef5t8aq1ksctfp4m",
+          "documentObjectId": "do_01kt1jjakce68s4ywv5xwdtw72",
+          "documentObjectIri": "https://prod02.elementscloud.no/4c0068fc-c661-4606-a443-844dd78014b8",
+          "documentTitle": "Saksprotokoll FIV",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01kt1jjakce68s4ywv5xwdtw72/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4c0068fc-c661-4606-a443-844dd78014b8"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/309bc811-7b92-4e74-b35b-bc0ea1e16369",
+          "documentDescriptionId": "db_01kt1jja8vee1acjd6p79wmwyd",
+          "documentObjectId": "do_01kt1jja91ep8aqe6ptj1ztvc5",
+          "documentObjectIri": "https://prod02.elementscloud.no/eae52d20-ed60-4a71-a2b4-ae4b3988a151",
+          "documentTitle": "Saksprotokoll FIV",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01kt1jja91ep8aqe6ptj1ztvc5/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Feae52d20-ed60-4a71-a2b4-ae4b3988a151"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/11c3bd1a-5e03-4b3d-8cab-d607eb8c5b92",
+          "documentDescriptionId": "db_01kt1jj9z9eedasyv1vr9q44sj",
+          "documentObjectId": "do_01kt4sj90ze2havp4xjnfpwb11",
+          "documentObjectIri": "https://prod02.elementscloud.no/cb948559-3828-4183-8af5-a110fa0b02a2",
+          "documentTitle": "Saksprotokoll FIV",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01kt4sj90ze2havp4xjnfpwb11/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fcb948559-3828-4183-8af5-a110fa0b02a2"
         }
       ]
     }

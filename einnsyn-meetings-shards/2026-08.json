@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "shardType": "meetings",
   "shardKey": "2026-08",
-  "updatedAtUtc": "2026-09-21T09:40:53.0816567+00:00",
-  "meetingCount": 2,
+  "updatedAtUtc": "2026-09-21T12:13:00.0235544+00:00",
+  "meetingCount": 3,
   "meetings": [
     {
       "meetingId": "https://prod02.elementscloud.no/da2fca34-6976-4184-ad37-bdce8b36f470",
@@ -11,11 +11,10 @@
       "committee": "Klagenemnd",
       "committeeId": "Klagenemnd",
       "meetingDate": "08/25/2026 06:30:00",
-      "meetingDateUtc": "2026-08-25T04:30:00Z",
+      "meetingDateUtc": "2026-08-25T06:30:00Z",
       "meetingPlace": "Fylkeshuset, møterom 210",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/8987866b-5b2b-4c73-b766-778f1933cd90",
       "agendaDocumentObjectId": "do_01m0an7e2ve2z8fq64g8p4srhe",
+      "agendaSignature": "9ec1fa6bbfd5673ba1c7853b886a2485f066cf7267f81d1fe7df9de3f1e20790",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/2b9c9037-81f2-44ac-bf5c-89dc9c0e70c8",
@@ -63,9 +62,10 @@
           }
         }
       ],
-      "agendaSignature": "9ec1fa6bbfd5673ba1c7853b886a2485f066cf7267f81d1fe7df9de3f1e20790",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/8987866b-5b2b-4c73-b766-778f1933cd90",
       "protocolDocumentIds": "https://prod02.elementscloud.no/fab39a85-acb1-49fe-b62f-29ebc4fef97a",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/2b9c9037-81f2-44ac-bf5c-89dc9c0e70c8",
@@ -81,16 +81,50 @@
       ]
     },
     {
+      "meetingId": "https://prod02.elementscloud.no/c801fa98-55de-4c2d-93b3-054859716bde",
+      "title": "Møte i Representantskapet Fagskolen i Viken - Kommunalt oppgavefellesskap 26.08.2026",
+      "committee": "Representantskapet Fagskolen i Viken - Kommunalt oppgavefellesskap",
+      "committeeId": "Representantskapet Fagskolen i Viken - Kommunalt oppgavefellesskap",
+      "meetingDate": "08/26/2026 13:00:00",
+      "meetingDateUtc": "2026-08-26T13:00:00Z",
+      "meetingPlace": "Teams",
+      "agendaAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/9c5530b7-236d-4286-b0d7-8183da8276cb",
+      "agendaDocumentObjectId": "do_01m0wajvcxe64agnvtmktffpgr",
+      "agendaCases": [
+        {
+          "id": "https://prod02.elementscloud.no/62319abc-e2cb-482e-99fd-b5d9e359ae2a",
+          "number": "19/2026",
+          "title": "Justert beløp i sak om årsregnskap for Fagskolen Viken KO 2025"
+        }
+      ],
+      "agendaSignature": "9d7bab1ece6266f96443d74962444c7b683a71de1cd14cb2336e35dede9d7c68",
+      "protocolAvailable": true,
+      "protocolDocumentIds": "https://prod02.elementscloud.no/343ec4ce-b99c-468b-b984-4580e21e5cd1",
+      "caseDecisions": [
+        {
+          "caseId": "https://prod02.elementscloud.no/62319abc-e2cb-482e-99fd-b5d9e359ae2a",
+          "documentDescriptionId": "db_01m0z5cq9eedhbvb5fyga0ma6e",
+          "documentObjectId": "do_01m0z5cq9ned4vqnspp7hv59wg",
+          "documentObjectIri": "https://prod02.elementscloud.no/8426cd2c-6cb6-4035-b7a8-f2adbdcef749",
+          "documentTitle": "Saksprotokoll FIV",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01m0z5cq9ned4vqnspp7hv59wg/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F8426cd2c-6cb6-4035-b7a8-f2adbdcef749"
+        }
+      ]
+    },
+    {
       "meetingId": "https://prod02.elementscloud.no/0070a4d7-8efd-4471-9dec-4d1359624bdb",
       "title": "Møte i Ungdommens fylkesråd 31.08.2026",
       "committee": "Ungdommens fylkesråd",
       "committeeId": "Ungdommens fylkesråd",
       "meetingDate": "08/31/2026 07:00:00",
-      "meetingDateUtc": "2026-08-31T05:00:00Z",
+      "meetingDateUtc": "2026-08-31T07:00:00Z",
       "meetingPlace": "Fylkeshuset, Drammen, Biskopsrud",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/caaebb43-7b0e-430f-a5f5-f40cb96d1016",
       "agendaDocumentObjectId": "do_01m0sqxd47ebjv04zx1ntncm3e",
+      "agendaSignature": "7b6b030c371ff856b6a37221e3b15d798848b48fcb3a62dc0e9e3a017ff94394",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/5bb42567-2119-425c-8c37-b96639c7bd58",
@@ -138,9 +172,10 @@
           }
         }
       ],
-      "agendaSignature": "7b6b030c371ff856b6a37221e3b15d798848b48fcb3a62dc0e9e3a017ff94394",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/caaebb43-7b0e-430f-a5f5-f40cb96d1016",
       "protocolDocumentIds": "https://prod02.elementscloud.no/df65cc04-f1ba-47c5-a950-d40fcb4e5d91",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/da04d5c7-911b-46f0-83a7-810863ea555b",

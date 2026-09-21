@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "shardType": "meetings",
   "shardKey": "2023-10",
-  "updatedAtUtc": "2026-09-21T09:40:52.8132097+00:00",
+  "updatedAtUtc": "2026-09-21T12:12:59.4849830+00:00",
   "meetingCount": 2,
   "meetings": [
     {
@@ -11,141 +11,166 @@
       "committee": "Fylkestinget",
       "committeeId": "http://data.einnsyn.no/virksomhet/0a3a9baa-adce-4204-81bb-99e4fb8d9c89",
       "meetingDate": "10/19/2023 08:00:00",
-      "meetingDateUtc": "2023-10-19T06:00:00Z",
+      "meetingDateUtc": "2023-10-19T08:00:00Z",
       "meetingPlace": "Fylkeshuset, Drammen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/35745b56-d2fd-46e4-a576-4594ed1ef3f4",
       "agendaDocumentObjectId": "do_01j76y2qvjfddavxdge1nhjym7",
+      "agendaSignature": "2e78f5d3bd3edd5b4c94928d82cbbcf2e64e6c636bb310842a442ccdd00aff9e",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/de354925-5aaf-45bb-8771-a6e3af741693",
           "number": "1/2023",
-          "title": "Godkjenning av fylkestingsvalget 2023 i Buskerud"
+          "title": "Godkjenning av fylkestingsvalget 2023 i Buskerud",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/c8f92154-06a4-4644-afc6-4e91f648811f",
           "number": "2/2023",
-          "title": "Valg av valgkomite"
+          "title": "Valg av valgkomite",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/8c0faf96-0c65-4cc9-b787-bb05eba9a419",
           "number": "3/2023",
-          "title": "Politisk organisering og sammensetning"
+          "title": "Politisk organisering og sammensetning",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/43aac425-bbc7-492e-aa15-a9a6af3b79ef",
           "number": "4/2023",
-          "title": "Valg av fylkesutvalg for valgperioden 2023 - 2027"
+          "title": "Valg av fylkesutvalg for valgperioden 2023 - 2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/666f3470-b132-4e4b-8c6b-5eaff30cb842",
           "number": "5/2023",
-          "title": "Valg av fylkesordfører og fylkesvaraordfører i Buskerud for perioden 2023 - 2027"
+          "title": "Valg av fylkesordfører og fylkesvaraordfører i Buskerud for perioden 2023 - 2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/8690a380-83af-4ce2-8e91-0b3fcba3edb0",
           "number": "6/2023",
-          "title": "Reglement for fylkesting, fylkesutvalg og hovedutvalg i Buskerud fylkeskommune"
+          "title": "Reglement for fylkesting, fylkesutvalg og hovedutvalg i Buskerud fylkeskommune",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/c75203b5-54de-4b9f-989e-91ebc778feb0",
           "number": "7/2023",
-          "title": "Reglement for delegering av myndighet og tildeling av innstillingsrett fra Buskerud fylkesting"
+          "title": "Reglement for delegering av myndighet og tildeling av innstillingsrett fra Buskerud fylkesting",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/e42e9ceb-5896-436c-92b2-f2b9fc8990dc",
           "number": "8/2023",
-          "title": "Forskrift for folkevalgtes arbeidsvilkår i Buskerud fylkeskommune"
+          "title": "Forskrift for folkevalgtes arbeidsvilkår i Buskerud fylkeskommune",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/0ef5821f-a6d0-46b8-a342-dda64d72bc23",
           "number": "9/2023",
-          "title": "Reglement for medvirkningsorganer"
+          "title": "Reglement for medvirkningsorganer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/6cb73d45-f563-46eb-9c24-89d760584076",
           "number": "10/2023",
-          "title": "Reglement for yrkesopplæringsnemnd i Buskerud fylkeskommune"
+          "title": "Reglement for yrkesopplæringsnemnd i Buskerud fylkeskommune",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/a723e225-6bd4-4254-9cb4-151131afbe33",
           "number": "11/2023",
-          "title": "Reglement for partssammensatt utvalg (PSU)"
+          "title": "Reglement for partssammensatt utvalg (PSU)",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/8d189a51-bbb9-4829-acd4-17f60b481445",
           "number": "12/2023",
-          "title": "Valg av kontrollutvalg for valgperioden 2023 - 2027"
+          "title": "Valg av kontrollutvalg for valgperioden 2023 - 2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/13fbddd2-05d8-4789-8c67-0f286dd3846d",
           "number": "13/2023",
-          "title": "Valg av kontrollutvalgssekretariat for høsten 2023"
+          "title": "Valg av kontrollutvalgssekretariat for høsten 2023",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/7bccec30-ab5d-4143-ab90-c5abc34284b9",
           "number": "14/2023",
-          "title": "Valg av hovedutvalg for valgperioden 2023 - 20272"
+          "title": "Valg av hovedutvalg for valgperioden 2023 - 20272",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/aba4482f-44e2-49e6-9f01-431417e8fba6",
           "number": "15/2023",
-          "title": "Fylkesvalgstyre og distriktsvalgstyre for valgperioden 2023 - 2027"
+          "title": "Fylkesvalgstyre og distriktsvalgstyre for valgperioden 2023 - 2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/a43caf2c-4f54-4779-b608-d2c3a5fa0d63",
           "number": "16/2023",
-          "title": "Valg av klagenemnd for valgperioden 2023 - 2027"
+          "title": "Valg av klagenemnd for valgperioden 2023 - 2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/b4bb75c8-9566-4748-a26f-3f95b305d1d3",
           "number": "17/2023",
-          "title": "Valg av råd for mennesker med funksjonsnedsettelse - RFF Buskerud for valgperioden 2023-2027"
+          "title": "Valg av råd for mennesker med funksjonsnedsettelse - RFF Buskerud for valgperioden 2023-2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/18eb617d-bf02-4552-876a-0aba7ec7300f",
           "number": "18/2023",
-          "title": "Valg av flerkulturelt utvalg i Buskerud for valgperioden 2023 - 2027"
+          "title": "Valg av flerkulturelt utvalg i Buskerud for valgperioden 2023 - 2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/cacf71d4-dfd3-4250-8411-9211c2d0b447",
           "number": "19/2023",
-          "title": "Valg av Buskerud eldreråd for valgperioden 2023-2027"
+          "title": "Valg av Buskerud eldreråd for valgperioden 2023-2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/76874da2-8dbd-4170-b37b-81f8e94dd4a7",
           "number": "20/2023",
-          "title": "Valg av ungdomsråd"
+          "title": "Valg av ungdomsråd",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/3ea95d83-772d-461f-9646-3983f7309b54",
           "number": "21/2023",
-          "title": "Valg av yrkesopplæringsnemnd for valgperioden 2023 - 2027"
+          "title": "Valg av yrkesopplæringsnemnd for valgperioden 2023 - 2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/de3bf0f7-ca82-4ac2-aa66-875885b01e31",
           "number": "22/2023",
-          "title": "Valg av partssammensatt utvalg for valgperioden 2023 - 2027"
+          "title": "Valg av partssammensatt utvalg for valgperioden 2023 - 2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/d2bbb557-1735-4d03-ba74-a181093e5993",
           "number": "23/2023",
-          "title": "Valg av forhandlingsutvalg for valgperioden 2023 - 2027"
+          "title": "Valg av forhandlingsutvalg for valgperioden 2023 - 2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/35fd04cc-974c-4ca5-aa6e-dbe2ac918410",
           "number": "24/2023",
-          "title": "Valg av fylkeskommunens representanter til KS fylkesmøte og KS landsting for valgperioden 2023 - 2027"
+          "title": "Valg av fylkeskommunens representanter til KS fylkesmøte og KS landsting for valgperioden 2023 - 2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/db49bd63-1038-4a62-ab28-94a3097aa821",
           "number": "25/2023",
-          "title": "Politisk møteplan for Buskerud fra høsten 2023 - 2024"
+          "title": "Politisk møteplan for Buskerud fra høsten 2023 - 2024",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "2e78f5d3bd3edd5b4c94928d82cbbcf2e64e6c636bb310842a442ccdd00aff9e",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/35745b56-d2fd-46e4-a576-4594ed1ef3f4",
       "protocolDocumentIds": "https://prod02.elementscloud.no/e0c50f42-b561-4dc9-8b0f-a9aaffe1eb1e",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/d2bbb557-1735-4d03-ba74-a181093e5993",
@@ -430,41 +455,46 @@
       "committee": "Fylkesutvalget",
       "committeeId": "http://data.einnsyn.no/virksomhet/7659379c-9851-4e2e-8b31-6eb7cb9b81ee",
       "meetingDate": "10/26/2023 08:00:00",
-      "meetingDateUtc": "2023-10-26T06:00:00Z",
+      "meetingDateUtc": "2023-10-26T08:00:00Z",
       "meetingPlace": "Union Scene, Grønland 60, 3045 Drammen, Multisal 2",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/c8f9a709-d61a-454e-a5fb-2a62dd2a8b3a",
       "agendaDocumentObjectId": "do_01j76y2vswf8ms19yrdt5j56sa",
+      "agendaSignature": "db3917c2d66b345dabb5fa132b12bea06fbcb5d45a562ed61dbae726a51cd1d4",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/4986fc27-dbbe-475c-a8d0-d059fd214d9b",
           "number": "1/2023",
-          "title": "Godkjenning av innkalling og saksliste"
+          "title": "Godkjenning av innkalling og saksliste",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/902874e1-6d1d-4c2e-a582-8212912e3634",
           "number": "2/2023",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/acd0764b-8d98-4d11-9eec-8431404a259c",
           "number": "3/2023",
-          "title": "Vegfinans AS, Eiendomsselskapet Veien kulturminnepark AS og Stiftelsen Vikersund Hoppsenter - stadfesting av tidligere garantivedtak"
+          "title": "Vegfinans AS, Eiendomsselskapet Veien kulturminnepark AS og Stiftelsen Vikersund Hoppsenter - stadfesting av tidligere garantivedtak",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/f3d818fc-ae2a-48db-8c95-1b22d97ac36b",
           "number": "4/2023",
-          "title": "Ramfoss Kraftlag kommunale oppgavefelleskap - Oppnevning til representantskap"
+          "title": "Ramfoss Kraftlag kommunale oppgavefelleskap - Oppnevning til representantskap",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/56409111-46e4-41f6-b537-92ef7ae7ee98",
           "number": "5/2023",
-          "title": "Deling av hovedutvalg for regional utvikling i to nye utvalg"
+          "title": "Deling av hovedutvalg for regional utvikling i to nye utvalg",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "db3917c2d66b345dabb5fa132b12bea06fbcb5d45a562ed61dbae726a51cd1d4",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/c8f9a709-d61a-454e-a5fb-2a62dd2a8b3a",
       "protocolDocumentIds": "https://prod02.elementscloud.no/a182cd6e-e067-4c8f-976b-9f9bb54c02ff",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/f3d818fc-ae2a-48db-8c95-1b22d97ac36b",

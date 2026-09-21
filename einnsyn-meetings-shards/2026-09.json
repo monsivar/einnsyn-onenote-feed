@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "shardType": "meetings",
   "shardKey": "2026-09",
-  "updatedAtUtc": "2026-09-21T09:40:53.0836525+00:00",
+  "updatedAtUtc": "2026-09-21T12:13:00.0285970+00:00",
   "meetingCount": 16,
   "meetings": [
     {
@@ -11,11 +11,10 @@
       "committee": "Fylkesutvalget",
       "committeeId": "Fylkesutvalget",
       "meetingDate": "09/01/2026 07:00:00",
-      "meetingDateUtc": "2026-09-01T05:00:00Z",
+      "meetingDateUtc": "2026-09-01T07:00:00Z",
       "meetingPlace": "Fylkeshuset",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/84baa5ff-7117-4e3d-aeb2-a0a6edafb883",
       "agendaDocumentObjectId": "do_01m0wfgx51eb0bv40ctkzz57we",
+      "agendaSignature": "16eeb25a96f48191263266a568533ba985f6887da8726b61a8a827013a0eebcc",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/02e6f2e1-8f81-45f7-acd2-c2391f975fb6",
@@ -45,9 +44,10 @@
           }
         }
       ],
-      "agendaSignature": "16eeb25a96f48191263266a568533ba985f6887da8726b61a8a827013a0eebcc",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/84baa5ff-7117-4e3d-aeb2-a0a6edafb883",
       "protocolDocumentIds": "https://prod02.elementscloud.no/8034adb2-f343-4fc1-9de2-5af5c7ba84ff",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/fbcc4a0c-ed62-4ccf-b3b4-f9855991a5d1",
@@ -90,11 +90,10 @@
       "committee": "Buskerud Eldreråd",
       "committeeId": "Buskerud Eldreråd",
       "meetingDate": "09/01/2026 08:00:00",
-      "meetingDateUtc": "2026-09-01T06:00:00Z",
+      "meetingDateUtc": "2026-09-01T08:00:00Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/10d3828e-ac0d-4ff4-849f-5491b1e71374",
       "agendaDocumentObjectId": "do_01m0sbwga3e8v96qa010m8rd4y",
+      "agendaSignature": "8e55dc8818eff3d5cb0551cd61c12a2d0d6e10f6422552f5fa5fb3f123d68bcf",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/7f44d638-1588-4ef1-934f-4df8467c2abb",
@@ -124,9 +123,10 @@
           }
         }
       ],
-      "agendaSignature": "8e55dc8818eff3d5cb0551cd61c12a2d0d6e10f6422552f5fa5fb3f123d68bcf",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/10d3828e-ac0d-4ff4-849f-5491b1e71374",
       "protocolDocumentIds": "https://prod02.elementscloud.no/36be9931-f71c-4486-9e2b-7b4d63266f3a",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/a289dd7e-5aa0-4aea-b3cd-d8acf7fd43ae",
@@ -169,11 +169,10 @@
       "committee": "Flerkulturelt utvalg",
       "committeeId": "Flerkulturelt utvalg",
       "meetingDate": "09/02/2026 08:00:00",
-      "meetingDateUtc": "2026-09-02T06:00:00Z",
+      "meetingDateUtc": "2026-09-02T08:00:00Z",
       "meetingPlace": "Fylkeshuset, møterom 210",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/64065a97-7b5b-4993-aaea-5971108a7a95",
       "agendaDocumentObjectId": "do_01m0wfp6cme7d9fv4jyx22yxvf",
+      "agendaSignature": "4634d5194a3a48a8f19ca7810a29d3e1a54d9e4984d8e9fdde1983ea487dc4ea",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/cb780913-39bf-436d-883e-3173ac7748c8",
@@ -212,9 +211,10 @@
           }
         }
       ],
-      "agendaSignature": "4634d5194a3a48a8f19ca7810a29d3e1a54d9e4984d8e9fdde1983ea487dc4ea",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/64065a97-7b5b-4993-aaea-5971108a7a95",
       "protocolDocumentIds": "https://prod02.elementscloud.no/31444121-339c-47be-838c-34e45f69f6a4",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/cb780913-39bf-436d-883e-3173ac7748c8",
@@ -268,31 +268,34 @@
       "committee": "Råd for mennesker med funksjonsnedsettelse",
       "committeeId": "Råd for mennesker med funksjonsnedsettelse",
       "meetingDate": "09/03/2026 08:00:00",
-      "meetingDateUtc": "2026-09-03T06:00:00Z",
+      "meetingDateUtc": "2026-09-03T08:00:00Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, møterom Biskopsrud",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/919f907c-18e0-4eda-9e85-48a1d5693091",
       "agendaDocumentObjectId": "do_01m0w82cgrerfa3541vh5a8sbb",
+      "agendaSignature": "340c57e5950676d72b48a437edd6c523c134dc29a6b915327ea1b5d39e363507",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/3346b280-8c64-4d2e-863f-ddbe2035574a",
           "number": "20/2026",
-          "title": "UngData 2025 medvirkningsrapport- Ungdom i hjerte av Buskerud"
+          "title": "UngData 2025 medvirkningsrapport- Ungdom i hjerte av Buskerud",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/30bf8ad0-b70d-4f69-8b1e-a5db61b31214",
           "number": "21/2026",
-          "title": "Økt valgdeltakelse ved valget i 2027"
+          "title": "Økt valgdeltakelse ved valget i 2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/888851a3-00df-4a3e-9bb3-f09949d6a7ad",
           "number": "22/2026",
-          "title": "Åpen post - RFF møte 030926"
+          "title": "Åpen post - RFF møte 030926",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "340c57e5950676d72b48a437edd6c523c134dc29a6b915327ea1b5d39e363507",
-      "protocolAvailable": false,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/919f907c-18e0-4eda-9e85-48a1d5693091",
       "protocolDocumentIds": null,
+      "agendaAvailable": true,
+      "protocolAvailable": false,
       "caseDecisions": []
     },
     {
@@ -301,41 +304,46 @@
       "committee": "Yrkesopplæringsnemnda",
       "committeeId": "Yrkesopplæringsnemnda",
       "meetingDate": "09/03/2026 08:00:00",
-      "meetingDateUtc": "2026-09-03T06:00:00Z",
+      "meetingDateUtc": "2026-09-03T08:00:00Z",
       "meetingPlace": "Fylkeshuset, fylkestingssalen Drammen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/8835dadc-610a-4b82-ad80-591b312c7aae",
       "agendaDocumentObjectId": "do_01m11tg3k5es5tvn73v0zs0fer",
+      "agendaSignature": "c3bfe6c7c5a83008a943441d91df1b011799348bb0166669bd8fd1a4251eecc4",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/3fc90c41-fd24-4f6f-a775-609b03dcbff8",
           "number": "19/2026",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/e04a196d-8bff-44a0-8b41-b334267de285",
           "number": "20/2026",
-          "title": "Sammen om fagopplæring i Buskerud 2026"
+          "title": "Sammen om fagopplæring i Buskerud 2026",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/0b2e2bd4-61df-4b9c-b8b5-049bca60ebd8",
           "number": "21/2026",
-          "title": "Orienteringssak - Resultater fra kartlegging av lærebedrifter"
+          "title": "Orienteringssak - Resultater fra kartlegging av lærebedrifter",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/4d2e90be-405b-45e8-9fb6-c2c6db5dc391",
           "number": "22/2026",
-          "title": "Endring i representasjon fra Skolenes Landsforbund (SL) i yrkesopplæringsnemnda"
+          "title": "Endring i representasjon fra Skolenes Landsforbund (SL) i yrkesopplæringsnemnda",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/edc2166c-be9a-4c5e-a106-d442ce00c1c9",
           "number": "23/2026",
-          "title": "Endring i representasjon fra NHO Viken Oslo i yrkesopplæringsnemnda"
+          "title": "Endring i representasjon fra NHO Viken Oslo i yrkesopplæringsnemnda",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "c3bfe6c7c5a83008a943441d91df1b011799348bb0166669bd8fd1a4251eecc4",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/8835dadc-610a-4b82-ad80-591b312c7aae",
       "protocolDocumentIds": "https://prod02.elementscloud.no/0f487c21-07c9-4dc9-bae7-8f8dfa71491b",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/edc2166c-be9a-4c5e-a106-d442ce00c1c9",
@@ -400,36 +408,40 @@
       "committee": "Valgkomiteen",
       "committeeId": "Valgkomiteen",
       "meetingDate": "09/10/2026 07:00:00",
-      "meetingDateUtc": "2026-09-10T05:00:00Z",
+      "meetingDateUtc": "2026-09-10T07:00:00Z",
       "meetingPlace": "Team, Teams",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/1775a452-6bd2-4770-9f04-ae24353b0985",
       "agendaDocumentObjectId": "do_01m1gfgq2ped4t28w9sjzsjdgc",
+      "agendaSignature": "414a1b08c9cdc3b0578beaaac09592f8d4678835f5ccbb62fb6cbbbb73357219",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/db7eff41-aac0-4ab7-9e26-776ff29a933c",
           "number": "17/2026",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/3060067c-5260-4bde-8f57-50915cb0e1ad",
           "number": "18/2026",
-          "title": "Nytt valgoppgjør til fylkestinget og suppleringsvalg til fylkeskommunale utvalg, råd og styrer etter Johan Baumanns (H) bortgang"
+          "title": "Nytt valgoppgjør til fylkestinget og suppleringsvalg til fylkeskommunale utvalg, råd og styrer etter Johan Baumanns (H) bortgang",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/1faf91e8-a85a-4396-9c07-36d5ae0862b7",
           "number": "19/2026",
-          "title": "Endring i representasjon fra Skolenes Landsforbund (SL) i yrkesopplæringsnemnda"
+          "title": "Endring i representasjon fra Skolenes Landsforbund (SL) i yrkesopplæringsnemnda",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/5d3c0c29-cecd-442e-b664-4c234e8c345f",
           "number": "20/2026",
-          "title": "Endring i representasjon fra NHO Viken Oslo i yrkesopplæringsnemnda"
+          "title": "Endring i representasjon fra NHO Viken Oslo i yrkesopplæringsnemnda",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "414a1b08c9cdc3b0578beaaac09592f8d4678835f5ccbb62fb6cbbbb73357219",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/1775a452-6bd2-4770-9f04-ae24353b0985",
       "protocolDocumentIds": "https://prod02.elementscloud.no/4a0c0e01-3fe4-43d2-8e33-d1258a027087",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/db7eff41-aac0-4ab7-9e26-776ff29a933c",
@@ -483,11 +495,10 @@
       "committee": "Buskerud fylkeskommune",
       "committeeId": "Oppgavefellesskap fylkesbiblioteket",
       "meetingDate": "09/11/2026 07:30:00",
-      "meetingDateUtc": "2026-09-11T05:30:00Z",
+      "meetingDateUtc": "2026-09-11T07:30:00Z",
       "meetingPlace": "Teams/digitalt, Digitalt",
-      "agendaAvailable": true,
-      "agendaDocumentIds": null,
       "agendaDocumentObjectId": "",
+      "agendaSignature": "e70a6b5c92dc9f41a9f90d89e226ebb5b50f434f83ab7570d49f799397e1b470",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/eb7854f7-5dcc-467e-9766-12b9c30cc812",
@@ -526,9 +537,10 @@
           }
         }
       ],
-      "agendaSignature": "e70a6b5c92dc9f41a9f90d89e226ebb5b50f434f83ab7570d49f799397e1b470",
-      "protocolAvailable": true,
+      "agendaDocumentIds": null,
       "protocolDocumentIds": "https://prod02.elementscloud.no/7c69d0dd-229b-4356-be4e-8133906d6ebd",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/eb7854f7-5dcc-467e-9766-12b9c30cc812",
@@ -582,26 +594,28 @@
       "committee": "Partssammensatt utvalg",
       "committeeId": "Partssammensatt utvalg",
       "meetingDate": "09/11/2026 08:00:00",
-      "meetingDateUtc": "2026-09-11T06:00:00Z",
+      "meetingDateUtc": "2026-09-11T08:00:00Z",
       "meetingPlace": "Fylkeshuset Drammen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/530d8926-d046-4a54-9bd6-9f62ceaeb9f7",
       "agendaDocumentObjectId": "do_01m1h021j9edxbjzatxcwgg7at",
+      "agendaSignature": "3eab29af0d0cbafdbdbf524f197f9e44874cbe59d4f8dbad4e9829d11e45b048",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/26b2e688-14d7-4db2-a793-ce84a7e2760d",
           "number": "21/2026",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/7a997789-aab0-4aa8-99ce-1941662d29fd",
           "number": "22/2026",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "3eab29af0d0cbafdbdbf524f197f9e44874cbe59d4f8dbad4e9829d11e45b048",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/530d8926-d046-4a54-9bd6-9f62ceaeb9f7",
       "protocolDocumentIds": "https://prod02.elementscloud.no/e03db085-a1aa-4829-98f1-10d57acfc671",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/7a997789-aab0-4aa8-99ce-1941662d29fd",
@@ -633,15 +647,15 @@
       "committee": "Hovedutvalg for kultur, idrett og folkehelse",
       "committeeId": "Hovedutvalg for kultur, idrett og folkehelse",
       "meetingDate": "09/14/2026 08:00:00",
-      "meetingDateUtc": "2026-09-14T06:00:00Z",
+      "meetingDateUtc": "2026-09-14T08:00:00Z",
       "meetingPlace": "Befaring",
-      "agendaAvailable": false,
-      "agendaDocumentIds": null,
       "agendaDocumentObjectId": "",
-      "agendaCases": [],
       "agendaSignature": "ddadb0edefa886b86e7548cc30c6f587f59d4cfbaa8e85deaf7e07bb50e24a18",
-      "protocolAvailable": false,
+      "agendaCases": [],
+      "agendaDocumentIds": null,
       "protocolDocumentIds": null,
+      "agendaAvailable": false,
+      "protocolAvailable": false,
       "caseDecisions": []
     },
     {
@@ -650,26 +664,28 @@
       "committee": "Samarbeidsutvalget",
       "committeeId": "Samarbeidsutvalget",
       "meetingDate": "09/14/2026 10:00:00",
-      "meetingDateUtc": "2026-09-14T08:00:00Z",
+      "meetingDateUtc": "2026-09-14T10:00:00Z",
       "meetingPlace": "Digitalt og på fylkeshuset, fylkesordførers møterom",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/5bb1883f-5dda-45cf-91d7-625a610d22ee",
       "agendaDocumentObjectId": "do_01m1p3xfkgerbt973wacsmea5r",
+      "agendaSignature": "2497d87b3bf290c032cc9746153f413597bc969030590a4960987d62091e3df3",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/7a8a8071-d204-4b8c-b8b2-10d95a7b2df3",
           "number": "8/2026",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/f2890b2a-a45c-4b66-8914-704ec9f8077e",
           "number": "9/2026",
-          "title": "Dialogmøte om forberedelser frem mot nytt fylkesting og neste valgperiode 2027 – 2031"
+          "title": "Dialogmøte om forberedelser frem mot nytt fylkesting og neste valgperiode 2027 – 2031",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "2497d87b3bf290c032cc9746153f413597bc969030590a4960987d62091e3df3",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/5bb1883f-5dda-45cf-91d7-625a610d22ee",
       "protocolDocumentIds": "https://prod02.elementscloud.no/c825dd46-3021-46af-b13f-1f42b4d3e5a9",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/f2890b2a-a45c-4b66-8914-704ec9f8077e",
@@ -701,91 +717,106 @@
       "committee": "Hovedutvalg for kultur, idrett og folkehelse",
       "committeeId": "Hovedutvalg for kultur, idrett og folkehelse",
       "meetingDate": "09/15/2026 07:30:00",
-      "meetingDateUtc": "2026-09-15T05:30:00Z",
+      "meetingDateUtc": "2026-09-15T07:30:00Z",
       "meetingPlace": "Berger museum, Bergerveien 2b, Berger",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/d7391abc-d8b3-4acc-9b5b-86f6b51d824b",
       "agendaDocumentObjectId": "do_01m1payym0ebzbbq6z7yq6ktc8",
+      "agendaSignature": "390776eec7f78da3e2f90f8b312dba25b6c699a99db81e2f479545b001cee37d",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/b17a19c4-9d65-43b0-b0cb-50ae4a050ab7",
           "number": "41/2026",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/3133c2f8-fc2f-44a3-a604-aff43bcd52f7",
           "number": "42/2026",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/74afd2e9-5e53-40e7-9a4b-17450cf5560a",
           "number": "43/2026",
-          "title": "Revidering av retningslinjer for Tilskudd til festivaler, Tilskudd til kunst- og kulturprosjekter og Regionalt kulturfond i Buskerud"
+          "title": "Revidering av retningslinjer for Tilskudd til festivaler, Tilskudd til kunst- og kulturprosjekter og Regionalt kulturfond i Buskerud",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/00f0eda7-1ed9-43e1-9190-7e20c7b652c4",
           "number": "44/2026",
-          "title": "Tilskudd til drift for regionale kunst- og kulturinstitusjoner i Buskerud 2027 - 2029"
+          "title": "Tilskudd til drift for regionale kunst- og kulturinstitusjoner i Buskerud 2027 - 2029",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/e5e06398-3442-456e-927b-aa17932ba8a3",
           "number": "44/2026",
-          "title": "Tilskudd til drift for regionale kunst- og kulturinstitusjoner 2027"
+          "title": "Tilskudd til drift for regionale kunst- og kulturinstitusjoner 2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/87f63fdf-19c1-4b41-88ad-6b83b82c351d",
           "number": "45/2026",
-          "title": "Forslag til reviderte retningslinjer for tilskuddsordningen \"Store arrangementer for idrett og fysisk aktivitet\""
+          "title": "Forslag til reviderte retningslinjer for tilskuddsordningen \"Store arrangementer for idrett og fysisk aktivitet\"",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/abc2dd78-57b0-41eb-b28b-0d7fee056167",
           "number": "46/2026",
-          "title": "Friluftslivets år 2025 - Sluttrapport"
+          "title": "Friluftslivets år 2025 - Sluttrapport",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/fc19cfec-cdde-4c40-aa84-3f7039f965f7",
           "number": "47/2026",
-          "title": "Ny innretning på tilskuddsordning - Aktiv i Buskerud"
+          "title": "Ny innretning på tilskuddsordning - Aktiv i Buskerud",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/80874549-c24f-4a64-aad0-078de4a52ffa",
           "number": "48/2026",
-          "title": "Desentralisert ordning for kulturbygg/kulturarena – status og informasjon om ordningen fremover"
+          "title": "Desentralisert ordning for kulturbygg/kulturarena – status og informasjon om ordningen fremover",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/9e0fb1a5-776e-4bf9-a715-172b603b6384",
           "number": "49/2026",
-          "title": "Tildeling av spillemidler - Den kulturelle skolesekken - skoleåret 2026-2027"
+          "title": "Tildeling av spillemidler - Den kulturelle skolesekken - skoleåret 2026-2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/9311b73f-21b2-4b65-af9d-19d879c4de01",
           "number": "50/2026",
-          "title": "Orientering om ny forskrift for tilskudd til bygging og rehabilitering av anlegg for idrett og fysisk aktivitet"
+          "title": "Orientering om ny forskrift for tilskudd til bygging og rehabilitering av anlegg for idrett og fysisk aktivitet",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/b6b06dbf-bf37-4743-9b3a-a6a15de698ef",
           "number": "51/2026",
-          "title": "Ny idrettsmelding – innspill fra Buskerud fylkeskommune"
+          "title": "Ny idrettsmelding – innspill fra Buskerud fylkeskommune",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/1bbbd47d-95e2-4e99-920b-faa19b3efa6f",
           "number": "52/2026",
-          "title": "Kongsberg og Nore og Uvdal kommune - Numedalsbanen strekning Rollag - Rødberg - Oppfølging av politiske vedtak"
+          "title": "Kongsberg og Nore og Uvdal kommune - Numedalsbanen strekning Rollag - Rødberg - Oppfølging av politiske vedtak",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/9130659d-b2e8-44fc-92bb-e4af423db0e4",
           "number": "53/2026",
-          "title": "Krødsherad kommune - Gbnr. 219/3/1 - Folkets hus - Uttalelse til fredningssak"
+          "title": "Krødsherad kommune - Gbnr. 219/3/1 - Folkets hus - Uttalelse til fredningssak",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/4d546133-96fd-48b3-87c6-fa5f66f101ca",
           "number": "54/2026",
-          "title": "UngData 2025 medvirkningsrapport- Ungdom i hjerte av Buskerud"
+          "title": "UngData 2025 medvirkningsrapport- Ungdom i hjerte av Buskerud",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "390776eec7f78da3e2f90f8b312dba25b6c699a99db81e2f479545b001cee37d",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/d7391abc-d8b3-4acc-9b5b-86f6b51d824b",
       "protocolDocumentIds": "https://prod02.elementscloud.no/13d21c1f-1abd-415f-8d34-5e7d45f43a12",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/00f0eda7-1ed9-43e1-9190-7e20c7b652c4",
@@ -949,15 +980,15 @@
       "committee": "Hovedutvalg for næring og innovasjon",
       "committeeId": "Hovedutvalg for næring og innovasjon",
       "meetingDate": "09/16/2026 08:00:00",
-      "meetingDateUtc": "2026-09-16T06:00:00Z",
+      "meetingDateUtc": "2026-09-16T08:00:00Z",
       "meetingPlace": "Befaringsdag",
-      "agendaAvailable": false,
-      "agendaDocumentIds": null,
       "agendaDocumentObjectId": "",
-      "agendaCases": [],
       "agendaSignature": "ddadb0edefa886b86e7548cc30c6f587f59d4cfbaa8e85deaf7e07bb50e24a18",
-      "protocolAvailable": false,
+      "agendaCases": [],
+      "agendaDocumentIds": null,
       "protocolDocumentIds": null,
+      "agendaAvailable": false,
+      "protocolAvailable": false,
       "caseDecisions": []
     },
     {
@@ -966,31 +997,34 @@
       "committee": "Hovedutvalg for samferdsel",
       "committeeId": "Hovedutvalg for samferdsel",
       "meetingDate": "09/17/2026 06:30:00",
-      "meetingDateUtc": "2026-09-17T04:30:00Z",
+      "meetingDateUtc": "2026-09-17T06:30:00Z",
       "meetingPlace": "Befaringer 17.9 og hovedutvalgets møte 18.9 på fylkeshuset i Drammen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/ac44b4a4-19b7-44ca-b201-56f322e2f031",
       "agendaDocumentObjectId": "do_01m1xs8zpyegktry6gkgbn2x65",
+      "agendaSignature": "41cc51420274ad408c8c5149cd7d2e306b73647282f2f93a6367c9faf3c196a3",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/25dddc13-045f-4240-8611-e04e0ddb2ade",
           "number": "33/2026",
-          "title": "Høringsuttalelse - Sykkelplan for Drammen kommune - 2026 til 2031"
+          "title": "Høringsuttalelse - Sykkelplan for Drammen kommune - 2026 til 2031",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/8832d9a9-139e-46fc-a879-8ac9d96256eb",
           "number": "34/2026",
-          "title": "Oppfølging til vedtak i sak 84/2025 Økonomiplan 2026-2029 verbalpunktene 11, 19 og 20"
+          "title": "Oppfølging til vedtak i sak 84/2025 Økonomiplan 2026-2029 verbalpunktene 11, 19 og 20",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/f3f5d057-663c-413f-aa93-a07707992c1e",
           "number": "35/2026",
-          "title": "Bestilling linje 200"
+          "title": "Bestilling linje 200",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "41cc51420274ad408c8c5149cd7d2e306b73647282f2f93a6367c9faf3c196a3",
-      "protocolAvailable": false,
-      "protocolDocumentIds": null,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/ac44b4a4-19b7-44ca-b201-56f322e2f031",
+      "protocolDocumentIds": "https://prod02.elementscloud.no/0a4edd2d-c3cb-48af-af56-a8725ea611fc",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": []
     },
     {
@@ -999,81 +1033,94 @@
       "committee": "Hovedutvalg for næring og innovasjon",
       "committeeId": "Hovedutvalg for næring og innovasjon",
       "meetingDate": "09/17/2026 08:00:00",
-      "meetingDateUtc": "2026-09-17T06:00:00Z",
+      "meetingDateUtc": "2026-09-17T08:00:00Z",
       "meetingPlace": "Gol kommunehus, Gamlevegen 4, Gol",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/0bc6df17-06ce-4ae9-adec-cc79e8a80939",
       "agendaDocumentObjectId": "do_01m1y2mfhfehtsv0essmpd17yk",
+      "agendaSignature": "f5b4386fe93717794c83e765908b6c6468803cf3684d7b725e17d1b6f0947edd",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/b7b9444f-df73-4eab-90f3-78234ad39f87",
           "number": "34/2026",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/7f8c9039-a89b-4917-bc72-da79f1454cfe",
           "number": "35/2026",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/38273fc6-7857-4199-8e40-b88c4bfc7307",
           "number": "36/2026",
-          "title": "Tildeling av tilskudd til sosiokulturelle stedsanalyser"
+          "title": "Tildeling av tilskudd til sosiokulturelle stedsanalyser",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/d0240c7d-7568-4e28-b97d-716c700c0ffc",
           "number": "37/2026",
-          "title": "Høringsinnspill - Forslag til ny forskrift og endringer i vassdragsreguleringsloven og vannressursloven"
+          "title": "Høringsinnspill - Forslag til ny forskrift og endringer i vassdragsreguleringsloven og vannressursloven",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/c58cd59f-4846-423f-869d-b3528c99872e",
           "number": "38/2026",
-          "title": "Fordeling av fylkeskommunale midler til vannområder i Buskerud - 2026"
+          "title": "Fordeling av fylkeskommunale midler til vannområder i Buskerud - 2026",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/d50edb97-b940-48a8-b089-ede0d72e9660",
           "number": "39/2026",
-          "title": "Etablering av regionalt EU-nettverk Buskerud, Telemark, Vestfold og Universitetet i Sørøst- Norge - Invitasjon til samarbeid"
+          "title": "Etablering av regionalt EU-nettverk Buskerud, Telemark, Vestfold og Universitetet i Sørøst- Norge - Invitasjon til samarbeid",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/c490def9-7dde-489e-b829-97631da6d3e8",
           "number": "40/2026",
-          "title": "Økosystem Ringeriksregionen og søknad om støtte til utviklingsprogram for forsvarsteknologi"
+          "title": "Økosystem Ringeriksregionen og søknad om støtte til utviklingsprogram for forsvarsteknologi",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/36f11fb7-2dc5-4692-a812-118d261945a2",
           "number": "41/2026",
-          "title": "Regional oppdragsgiverrapport Innovasjon Norge - Buskerud 2025"
+          "title": "Regional oppdragsgiverrapport Innovasjon Norge - Buskerud 2025",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/957e49b9-bfc5-4dfa-a98b-3eba7035bfa2",
           "number": "42/2026",
-          "title": "Tilskudd til bredbånd og mobildekning 2026"
+          "title": "Tilskudd til bredbånd og mobildekning 2026",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/da971819-cc5e-40a9-b152-6fe781dcb69f",
           "number": "43/2026",
-          "title": "Orienteringssak om årsrapport fra Siva for 2025"
+          "title": "Orienteringssak om årsrapport fra Siva for 2025",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/94045896-a16c-4313-ac8d-c7bad358c9f1",
           "number": "44/2026",
-          "title": "Fremtidens kompetanse i Buskerud - behandling av innkomne søknader våren 2026"
+          "title": "Fremtidens kompetanse i Buskerud - behandling av innkomne søknader våren 2026",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/ee95fc84-c7b6-41a1-a8eb-616f91f5e532",
           "number": "45/2026",
-          "title": "Tilskudd Bedriftsintern opplæring (BIO) - behandling av innkomne søknader september 2026"
+          "title": "Tilskudd Bedriftsintern opplæring (BIO) - behandling av innkomne søknader september 2026",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/55e2658b-1092-4143-8a9c-5c808cbb97e5",
           "number": "46/2026",
-          "title": "Tilskudd gjennom FORREGION høst 2026 - behandling av mottatt søknad"
+          "title": "Tilskudd gjennom FORREGION høst 2026 - behandling av mottatt søknad",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "f5b4386fe93717794c83e765908b6c6468803cf3684d7b725e17d1b6f0947edd",
-      "protocolAvailable": false,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/0bc6df17-06ce-4ae9-adec-cc79e8a80939",
       "protocolDocumentIds": null,
+      "agendaAvailable": true,
+      "protocolAvailable": false,
       "caseDecisions": []
     },
     {
@@ -1082,15 +1129,15 @@
       "committee": "Hovedutvalg for samferdsel",
       "committeeId": "Hovedutvalg for samferdsel",
       "meetingDate": "09/18/2026 08:00:00",
-      "meetingDateUtc": "2026-09-18T06:00:00Z",
+      "meetingDateUtc": "2026-09-18T08:00:00Z",
       "meetingPlace": "",
-      "agendaAvailable": false,
-      "agendaDocumentIds": null,
       "agendaDocumentObjectId": "",
-      "agendaCases": [],
       "agendaSignature": "ddadb0edefa886b86e7548cc30c6f587f59d4cfbaa8e85deaf7e07bb50e24a18",
-      "protocolAvailable": false,
+      "agendaCases": [],
+      "agendaDocumentIds": null,
       "protocolDocumentIds": null,
+      "agendaAvailable": false,
+      "protocolAvailable": false,
       "caseDecisions": []
     },
     {

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "shardType": "meetings",
   "shardKey": "2024-12",
-  "updatedAtUtc": "2026-09-21T09:40:52.9084096+00:00",
+  "updatedAtUtc": "2026-09-21T12:12:59.6861721+00:00",
   "meetingCount": 5,
   "meetings": [
     {
@@ -11,36 +11,40 @@
       "committee": "Partssammensatt utvalg",
       "committeeId": "http://data.einnsyn.no/virksomhet/cb0c7908-6792-4fac-99e5-721923fe21fa",
       "meetingDate": "12/02/2024 12:00:00",
-      "meetingDateUtc": "2024-12-02T11:00:00Z",
+      "meetingDateUtc": "2024-12-02T12:00:00Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen, Fylkestingssalen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/e5373e1b-52c4-4efd-81f3-3a29c10f5a2b",
       "agendaDocumentObjectId": "",
+      "agendaSignature": "dd738905dd181f47957c828916eaeb5fb8f6226623a848e4667d5d4eabf5e2a8",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/5b947810-9ade-4524-bd38-5b49b4af9951",
           "number": "10/2024",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/a9f1c2fc-b08b-4d03-a833-a183cb81fb1f",
           "number": "11/2024",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/20f74619-7002-48f0-9cce-cfe173e180bd",
           "number": "12/2024",
-          "title": "PSU sak- Økonomiplan 2025-2028 og årsbudsjett 2025"
+          "title": "PSU sak- Økonomiplan 2025-2028 og årsbudsjett 2025",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/c70bf569-a1f8-47ae-a7db-f852ff5fa5c7",
           "number": "13/2024",
-          "title": "Dimensjonering av skoletilbudet i Buskerud fylkeskommune 2025/2026"
+          "title": "Dimensjonering av skoletilbudet i Buskerud fylkeskommune 2025/2026",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "dd738905dd181f47957c828916eaeb5fb8f6226623a848e4667d5d4eabf5e2a8",
-      "protocolAvailable": false,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/e5373e1b-52c4-4efd-81f3-3a29c10f5a2b",
       "protocolDocumentIds": null,
+      "agendaAvailable": true,
+      "protocolAvailable": false,
       "caseDecisions": []
     },
     {
@@ -49,131 +53,154 @@
       "committee": "Fylkesutvalget",
       "committeeId": "http://data.einnsyn.no/virksomhet/7659379c-9851-4e2e-8b31-6eb7cb9b81ee",
       "meetingDate": "12/03/2024 09:00:00",
-      "meetingDateUtc": "2024-12-03T08:00:00Z",
+      "meetingDateUtc": "2024-12-03T09:00:00Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/baa0b1fa-ea4c-4f1d-a3e3-f5e0044e0fac",
       "agendaDocumentObjectId": "",
+      "agendaSignature": "dc32efb00c1480d02649d0ff533f4139e0c77b316d85757486ec480e11425bb6",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/69b6a0bd-e52d-492f-ba99-271774d8952a",
           "number": "120/2024",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/6310051d-9f2c-47e3-a63f-8b8a9157fa42",
           "number": "121/2024",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/d64e41f5-a9ad-46e2-9d6c-3551af82eeee",
           "number": "122/2024",
-          "title": "Høringssvar fra Buskerud fylkeskommune - forslag til Norges nye klimamål 2035"
+          "title": "Høringssvar fra Buskerud fylkeskommune - forslag til Norges nye klimamål 2035",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/4db88250-c398-43fd-9234-3abffd368a41",
           "number": "123/2024",
-          "title": "Tømmerterminal i området Drammensfjorden og Oslofjorden"
+          "title": "Tømmerterminal i området Drammensfjorden og Oslofjorden",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/53bc9893-7bc5-4cea-8e71-079173a1fd40",
           "number": "124/2024",
-          "title": "Regional vannforvaltningsplan for Glomma vannregion 2028-2033 - Høring av planprogram og hovedutfordringer"
+          "title": "Regional vannforvaltningsplan for Glomma vannregion 2028-2033 - Høring av planprogram og hovedutfordringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/1489b4ab-c984-41cf-bb13-ebfe4011b961",
           "number": "125/2024",
-          "title": "Endelig oppgjør av gjeld mellom Akershus og Buskerud fylkeskommuner og visse andre forhold etter deling av Viken fylkeskommune"
+          "title": "Endelig oppgjør av gjeld mellom Akershus og Buskerud fylkeskommuner og visse andre forhold etter deling av Viken fylkeskommune",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/aa350731-52c7-4f81-9604-b66770b4b3af",
           "number": "126/2024",
-          "title": "Riksvei 7 Veipakke Hallingdal. Videreføring av innkrevingen på rv. 7 Sokna - Ørgenvika for å finansiere videre utbedring og utvikling av rv. 7 gjennom Hallingdal"
+          "title": "Riksvei 7 Veipakke Hallingdal. Videreføring av innkrevingen på rv. 7 Sokna - Ørgenvika for å finansiere videre utbedring og utvikling av rv. 7 gjennom Hallingdal",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/029a5bec-da43-4693-b059-fbf1c83615b4",
           "number": "127/2024",
-          "title": "Forskrift om eneretter for drosjetransport i Buskerud"
+          "title": "Forskrift om eneretter for drosjetransport i Buskerud",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/dd9b3dfb-b328-4611-9677-bf50ace906b8",
           "number": "128/2024",
-          "title": "Forskrift om utslippskrav for drosjetransport i Buskerud"
+          "title": "Forskrift om utslippskrav for drosjetransport i Buskerud",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/102da33a-4f5f-4c4b-a1a0-c30cb5579636",
           "number": "129/2024",
-          "title": "Forskrift om gebyr for saksbehandling ved søknader om legging og flytting av ledninger over, under og langs fylkesvei"
+          "title": "Forskrift om gebyr for saksbehandling ved søknader om legging og flytting av ledninger over, under og langs fylkesvei",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/2e2a4ae6-7b2a-4219-ab15-b85dbe654b17",
           "number": "130/2024",
-          "title": "Videre deltagelse i Bærekrafstløftet Viken 2025"
+          "title": "Videre deltagelse i Bærekrafstløftet Viken 2025",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/6c5a56af-db65-4667-ad39-94010e19a6db",
           "number": "131/2024",
-          "title": "Drammen kommune anmodning om trekking av innsigelse- kommuneplanens arealdel"
+          "title": "Drammen kommune anmodning om trekking av innsigelse- kommuneplanens arealdel",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/cd2efe9d-99db-489d-89e8-5e557adc3497",
           "number": "132/2024",
-          "title": "Ål kommune - Orientering om høringsuttalelse til Kommunal planstrategi 2024 - 2027"
+          "title": "Ål kommune - Orientering om høringsuttalelse til Kommunal planstrategi 2024 - 2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/17582a73-307d-436c-9314-1c292da9577b",
           "number": "133/2024",
-          "title": "Om reetablering av villrein sone 1 i Nordfjella"
+          "title": "Om reetablering av villrein sone 1 i Nordfjella",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/473bd59b-cdf9-4651-b445-13737702a3dc",
           "number": "134/2024",
-          "title": "Høring endringer i integreringsloven og tilhørende forskrift om økt arbeidsretting og formell opplæring i introduksjonsprogrammet"
+          "title": "Høring endringer i integreringsloven og tilhørende forskrift om økt arbeidsretting og formell opplæring i introduksjonsprogrammet",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/ca06a5d5-c920-4325-80ee-c80aa03d2984",
           "number": "135/2024",
-          "title": "Regional vannforvaltningsplan for Vest-Viken vannregion 2028-2033 - Høring av planprogram og hovedutfordringer"
+          "title": "Regional vannforvaltningsplan for Vest-Viken vannregion 2028-2033 - Høring av planprogram og hovedutfordringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/253453b8-141c-4f9c-bba4-747e7d9174d9",
           "number": "136/2024",
-          "title": "Regional vannforvaltningsplan for Vestland vannregion 2028-2033 - Høring av planprogram og hovedutfordringer"
+          "title": "Regional vannforvaltningsplan for Vestland vannregion 2028-2033 - Høring av planprogram og hovedutfordringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/a80aec1d-4d34-40b5-a60c-8da4c060f2ed",
           "number": "137/2024",
-          "title": "Høringsinnspill - forslag til endringer i lov om folkehelse - folkehelseloven"
+          "title": "Høringsinnspill - forslag til endringer i lov om folkehelse - folkehelseloven",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/1fb8f91d-b1f5-451c-867d-8b1d30dc3e7d",
           "number": "138/2024",
-          "title": "Revisjon av Forskrift for folkevalgtes arbeidsvilkår"
+          "title": "Revisjon av Forskrift for folkevalgtes arbeidsvilkår",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/1be9c8cd-e1a3-4722-ae38-04b7eb7104de",
           "number": "139/2024",
-          "title": "På vei mot Buskerudkonferansen 2025"
+          "title": "På vei mot Buskerudkonferansen 2025",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/4e547584-61f2-4757-a515-944dc5768c84",
           "number": "140/2024",
-          "title": "Eierskapsrapport 2024"
+          "title": "Eierskapsrapport 2024",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/a6c02078-3a2b-4196-b112-546cd5f8ec4b",
           "number": "141/2024",
-          "title": "Valg av medlemmer og varamedlemmer til Ungdommens fylkesråd i Buskerud 2024/2025"
+          "title": "Valg av medlemmer og varamedlemmer til Ungdommens fylkesråd i Buskerud 2024/2025",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/42fc8418-1eec-4545-a701-77ebcebc6ef3",
           "number": "142/2024",
-          "title": "KS debatthefte 2025"
+          "title": "KS debatthefte 2025",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "dc32efb00c1480d02649d0ff533f4139e0c77b316d85757486ec480e11425bb6",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/baa0b1fa-ea4c-4f1d-a3e3-f5e0044e0fac",
       "protocolDocumentIds": "do_01je8jvchfe98tzrvmqdnvfq3d",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/dd9b3dfb-b328-4611-9677-bf50ace906b8",
@@ -436,26 +463,28 @@
       "committee": "Klagenemnd",
       "committeeId": "http://data.einnsyn.no/virksomhet/a3f20e9f-a16d-409c-b96d-80f1b51fe701",
       "meetingDate": "12/10/2024 07:30:00",
-      "meetingDateUtc": "2024-12-10T06:30:00Z",
+      "meetingDateUtc": "2024-12-10T07:30:00Z",
       "meetingPlace": "Buskerud fylkeskommune, møterom 141,",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/d1ca575c-e188-40fa-addc-127621d611ba",
       "agendaDocumentObjectId": "",
+      "agendaSignature": "b2758361810b1aabf08f7de5ae344c70aed4f3db6720282a4dd87f5cd4fa65cb",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/802637f4-1c44-43df-9772-cc8f6256da59",
           "number": "27/2024",
-          "title": "Evaluering av 2024"
+          "title": "Evaluering av 2024",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/d76c83e7-6c74-4d6a-bf11-525d599faf82",
           "number": "28/2024",
-          "title": "Møteplan 2025 for klagenemnda"
+          "title": "Møteplan 2025 for klagenemnda",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "b2758361810b1aabf08f7de5ae344c70aed4f3db6720282a4dd87f5cd4fa65cb",
-      "protocolAvailable": false,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/d1ca575c-e188-40fa-addc-127621d611ba",
       "protocolDocumentIds": null,
+      "agendaAvailable": true,
+      "protocolAvailable": false,
       "caseDecisions": []
     },
     {
@@ -464,141 +493,176 @@
       "committee": "Fylkestinget",
       "committeeId": "http://data.einnsyn.no/virksomhet/0a3a9baa-adce-4204-81bb-99e4fb8d9c89",
       "meetingDate": "12/16/2024 11:00:00",
-      "meetingDateUtc": "2024-12-16T10:00:00Z",
+      "meetingDateUtc": "2024-12-16T11:00:00Z",
       "meetingPlace": "Fylkestingssalen, Haugesgate 89",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/9b652ba7-2813-4832-9541-84b0edea279a",
       "agendaDocumentObjectId": "",
+      "agendaSignature": "3a72cff5fd4234b7175ca1f546d55b9d195b84fb4a1de374daed301b21dddf58",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/5471ddee-620c-4e5c-8ab2-c321b87bc7c0",
           "number": "9/2024",
-          "title": "Interpellasjon fra Kaja Hilleren (SV) om ulovlig hogst i Buskerud"
+          "title": "Interpellasjon fra Kaja Hilleren (SV) om ulovlig hogst i Buskerud",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/266a5383-cb06-4e28-8ba3-ffd54e1147aa",
           "number": "78/2024",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/e14aceef-63ca-4787-a254-3fb50ca264d5",
           "number": "79/2024",
-          "title": "Revisjon av Forskrift for folkevalgtes arbeidsvilkår"
+          "title": "Revisjon av Forskrift for folkevalgtes arbeidsvilkår",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/6498d21b-8e13-4df1-9936-939271bc63c0",
           "number": "80/2024",
-          "title": "Økonomiplan 2025 - 2028 og årsbudsjett 2025"
+          "title": "Økonomiplan 2025 - 2028 og årsbudsjett 2025",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/79a32131-f3f3-47ab-8334-7c7a220ea4ca",
           "number": "81/2024",
-          "title": "Endelig oppgjør av gjeld mellom Akershus og Buskerud fylkeskommuner og visse andre forhold etter deling av Viken fylkeskommune"
+          "title": "Endelig oppgjør av gjeld mellom Akershus og Buskerud fylkeskommuner og visse andre forhold etter deling av Viken fylkeskommune",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/22acb47e-b4ff-4b0b-a3d6-1f24fc9df248",
           "number": "82/2024",
-          "title": "Dimensjonering av skoletilbudet i Buskerud fylkeskommune 2025/2026"
+          "title": "Dimensjonering av skoletilbudet i Buskerud fylkeskommune 2025/2026",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/111ed650-352e-4eee-b666-9a4133e0cc10",
           "number": "83/2024",
-          "title": "Tømmerterminal i området Drammensfjorden og Oslofjorden"
+          "title": "Tømmerterminal i området Drammensfjorden og Oslofjorden",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/61b12048-f787-4959-81c2-a065d74f4e44",
           "number": "84/2024",
-          "title": "Forskrift om skoleregler for Buskerud fylkeskommune"
+          "title": "Forskrift om skoleregler for Buskerud fylkeskommune",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/44be6213-7516-43cd-90f3-6140d08e16d4",
           "number": "85/2024",
-          "title": "Høringssvar fra Buskerud fylkeskommune - forslag til Norges nye klimamål 2035"
+          "title": "Høringssvar fra Buskerud fylkeskommune - forslag til Norges nye klimamål 2035",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/37cab3a7-ef79-424c-acae-c488f0aa07eb",
           "number": "86/2024",
-          "title": "Videre deltagelse i Bærekrafstløftet Viken 2025"
+          "title": "Videre deltagelse i Bærekrafstløftet Viken 2025",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/70107643-8268-465b-901c-dce7bca0036e",
           "number": "87/2024",
-          "title": "Riksvei 7 Veipakke Hallingdal. Videreføring av innkrevingen på rv. 7 Sokna - Ørgenvika for å finansiere videre utbedring og utvikling av rv. 7 gjennom Hallingdal"
+          "title": "Riksvei 7 Veipakke Hallingdal. Videreføring av innkrevingen på rv. 7 Sokna - Ørgenvika for å finansiere videre utbedring og utvikling av rv. 7 gjennom Hallingdal",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/d663e449-9e88-42ac-ae6a-3f4059f86f1b",
           "number": "88/2024",
-          "title": "Eierskapsrapport 2024"
+          "title": "Eierskapsrapport 2024",
+          "recommendation": null
+        },
+        {
+          "id": "https://prod02.elementscloud.no/005fba98-145f-41ff-a660-4afcd5d4cbd4",
+          "number": "89/2024",
+          "title": "Lokal forskrift om inntak til videregående opplæring og formidling av læreplass for Buskerud fylkeskommune"
         },
         {
           "id": "https://prod02.elementscloud.no/2d1a8556-7f4b-4557-873c-1683222bc0c6",
           "number": "90/2024",
-          "title": "Saksfremlegg - Tverrfaglig satsing på friluftsliv, kulturminner og reiseliv i Friluftlivets år 2025"
+          "title": "Saksfremlegg - Tverrfaglig satsing på friluftsliv, kulturminner og reiseliv i Friluftlivets år 2025",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/4f1e032d-aaf7-4809-be14-7159bc71b25e",
           "number": "91/2024",
-          "title": "Forskrift om eneretter for drosjetransport i Buskerud"
+          "title": "Forskrift om eneretter for drosjetransport i Buskerud",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/f4e0e251-cfa1-446c-9e5a-83b4ee02353b",
           "number": "92/2024",
-          "title": "Forskrift om utslippskrav for drosjetransport i Buskerud"
+          "title": "Forskrift om utslippskrav for drosjetransport i Buskerud",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/eb088af4-b21f-4717-9c66-ae1fca58a205",
           "number": "93/2024",
-          "title": "Fastsettelse av forskrift om forlenget jakttid på kanadagås i kommunene Sigdal, Modum og Lier."
+          "title": "Fastsettelse av forskrift om forlenget jakttid på kanadagås i kommunene Sigdal, Modum og Lier.",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/ca2bf46b-c7d7-4cb6-8363-3a54a8bffb54",
           "number": "94/2024",
-          "title": "Om reetablering av villrein sone 1 i Nordfjella"
+          "title": "Om reetablering av villrein sone 1 i Nordfjella",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/eb5b4c42-36f2-45a4-a2a2-6004578e0987",
           "number": "95/2024",
-          "title": "Gevinster og synliggjøring av verdien ved et medlemskap i Osloregionens Europakontor"
+          "title": "Gevinster og synliggjøring av verdien ved et medlemskap i Osloregionens Europakontor",
+          "recommendation": null
+        },
+        {
+          "id": "https://prod02.elementscloud.no/0e560de4-4641-4173-8432-67c1b7fa84d3",
+          "number": "96/2024",
+          "title": "Forskrift om gebyr for saksbehandling ved søknader om legging og flytting av ledninger over, under og langs fylkesvei"
         },
         {
           "id": "https://prod02.elementscloud.no/3fdee00a-0a04-4c6e-88e4-d15876207a31",
           "number": "97/2024",
-          "title": "KS debatthefte 2025"
+          "title": "KS debatthefte 2025",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/c05fba3b-983e-4ebd-9737-54dacd400ab1",
           "number": "98/2024",
-          "title": "Høring endringer i integreringsloven og tilhørende forskrift om økt arbeidsretting og formell opplæring i introduksjonsprogrammet"
+          "title": "Høring endringer i integreringsloven og tilhørende forskrift om økt arbeidsretting og formell opplæring i introduksjonsprogrammet",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/7b9983be-58c0-446b-9889-397ee18c893d",
           "number": "99/2024",
-          "title": "Høringsinnspill - forslag til endringer i lov om folkehelse - folkehelseloven"
+          "title": "Høringsinnspill - forslag til endringer i lov om folkehelse - folkehelseloven",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/94fdb264-9f3b-4c57-891a-b54669ec159b",
           "number": "100/2024",
-          "title": "Valg av medlemmer og varamedlemmer til Ungdommens fylkesråd i Buskerud 2024/2025"
+          "title": "Valg av medlemmer og varamedlemmer til Ungdommens fylkesråd i Buskerud 2024/2025",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/2a8b39ff-9acf-44f3-a012-daf4c4aa67bb",
           "number": "101/2024",
-          "title": "Plan for kontrollarbeidet 2025"
+          "title": "Plan for kontrollarbeidet 2025",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/e4c38e1f-e5c4-49a5-8689-bf4abb9b8c14",
           "number": "102/2024",
-          "title": "Plan for eierskapskontroll 2024 - 2028"
+          "title": "Plan for eierskapskontroll 2024 - 2028",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/73c862c4-fe6a-4abc-803e-ac54c85804e1",
           "number": "103/2024",
-          "title": "Plan for forvaltningsrevisjon 2024 - 2028"
+          "title": "Plan for forvaltningsrevisjon 2024 - 2028",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "6a17e3aafc0b2056376899ab85a97c2ec713d140006a614b2eff04414ce2fb87",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/9b652ba7-2813-4832-9541-84b0edea279a",
       "protocolDocumentIds": "do_01jfez9pspfh4szsb1r040nmss",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/5471ddee-620c-4e5c-8ab2-c321b87bc7c0",
@@ -905,15 +969,15 @@
       "committee": "Fylkestinget",
       "committeeId": "http://data.einnsyn.no/virksomhet/0a3a9baa-adce-4204-81bb-99e4fb8d9c89",
       "meetingDate": "12/17/2024 08:00:00",
-      "meetingDateUtc": "2024-12-17T07:00:00Z",
+      "meetingDateUtc": "2024-12-17T08:00:00Z",
       "meetingPlace": "",
-      "agendaAvailable": false,
-      "agendaDocumentIds": null,
       "agendaDocumentObjectId": "",
-      "agendaCases": [],
       "agendaSignature": "ddadb0edefa886b86e7548cc30c6f587f59d4cfbaa8e85deaf7e07bb50e24a18",
-      "protocolAvailable": false,
+      "agendaCases": [],
+      "agendaDocumentIds": null,
       "protocolDocumentIds": null,
+      "agendaAvailable": false,
+      "protocolAvailable": false,
       "caseDecisions": []
     }
   ]

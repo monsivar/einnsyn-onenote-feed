@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "shardType": "meetings",
   "shardKey": "2024-05",
-  "updatedAtUtc": "2026-09-21T09:40:52.8697655+00:00",
+  "updatedAtUtc": "2026-09-21T12:12:59.5916583+00:00",
   "meetingCount": 3,
   "meetings": [
     {
@@ -11,41 +11,46 @@
       "committee": "Fylkesutvalget",
       "committeeId": "http://data.einnsyn.no/virksomhet/7659379c-9851-4e2e-8b31-6eb7cb9b81ee",
       "meetingDate": "05/07/2024 08:00:00",
-      "meetingDateUtc": "2024-05-07T06:00:00Z",
+      "meetingDateUtc": "2024-05-07T08:00:00Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/d3434eae-3e46-4c85-b2f0-597990e138c7",
       "agendaDocumentObjectId": "do_01j76y45dyf72a7trj408x35fe",
+      "agendaSignature": "b73fbec3b6548b627a340631ad3be4bf674e5964cf227d113af91ad811f9d2ee",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/d732e2c8-dfdc-405b-a4b5-7e8522098857",
           "number": "30/2024",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/33a406b7-dc33-4d75-83fe-2e425343c2f4",
           "number": "31/2024",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/2599e84c-0d30-4276-b08f-4eec46889ce7",
           "number": "32/2024",
-          "title": "Statussak. Utredning av alternative modeller for eierstyring av Brakar"
+          "title": "Statussak. Utredning av alternative modeller for eierstyring av Brakar",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/d0a09699-d948-4baf-9fa2-361906150cfe",
           "number": "33/2024",
-          "title": "Med hjerte for Buskerud - Regional planstrategi for Buskerud 2024-2027 - høring"
+          "title": "Med hjerte for Buskerud - Regional planstrategi for Buskerud 2024-2027 - høring",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/07c31d25-6568-4d13-bf52-e8542e62227a",
           "number": "34/2024",
-          "title": "Helhetlig tiltaksplan for Oslofjorden - oppfølging og tiltaksrapportering"
+          "title": "Helhetlig tiltaksplan for Oslofjorden - oppfølging og tiltaksrapportering",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "b73fbec3b6548b627a340631ad3be4bf674e5964cf227d113af91ad811f9d2ee",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/d3434eae-3e46-4c85-b2f0-597990e138c7",
       "protocolDocumentIds": "https://prod02.elementscloud.no/3c0a2955-498d-452b-8bcd-097aa5d93d41",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/d732e2c8-dfdc-405b-a4b5-7e8522098857",
@@ -110,41 +115,46 @@
       "committee": "Politisk utvalg for gruppeledere, fylkesordfører og fylkesvaraordfører",
       "committeeId": "http://data.einnsyn.no/virksomhet/216f8fb0-1fce-404c-b2a0-8dcb63d0801f",
       "meetingDate": "05/21/2024 13:00:00",
-      "meetingDateUtc": "2024-05-21T11:00:00Z",
+      "meetingDateUtc": "2024-05-21T13:00:00Z",
       "meetingPlace": "Møte holdes digitalt  på teams",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/b076a7d9-ab15-4972-b37d-376ca2a69562",
       "agendaDocumentObjectId": "do_01j76y4s4nfadt61bsznk7qrp4",
+      "agendaSignature": "5ee929b61e6d2c86a939d77c8c94092158837cfe868fcae877947f9d68a1cb85",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/2bbb0e48-426a-4d39-9555-3d1ed74c06c8",
           "number": "2/2024",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/08f6f767-c25e-4067-974a-98bff9829cb2",
           "number": "3/2024",
-          "title": "Tilrettelegging av folkevalgtes arbeidssituasjon"
+          "title": "Tilrettelegging av folkevalgtes arbeidssituasjon",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/d2635541-4a63-450c-9d34-1d4a6f46901e",
           "number": "4/2024",
-          "title": "Revisjon av forskrift for folkevalgtes arbeidsvilkår i Buskerud fylkeskommune"
+          "title": "Revisjon av forskrift for folkevalgtes arbeidsvilkår i Buskerud fylkeskommune",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/70cfec68-3f34-4498-84e0-e30db4242c32",
           "number": "5/2024",
-          "title": "Rammer rundt fylkestingets junimøte og 2- dagers augustmøte (befaringsmulighet?)"
+          "title": "Rammer rundt fylkestingets junimøte og 2- dagers augustmøte (befaringsmulighet?)",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/2e1ec63b-5730-4a3d-9065-cd56bfd687f4",
           "number": "6/2024",
-          "title": "Eventuelt"
+          "title": "Eventuelt",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "5ee929b61e6d2c86a939d77c8c94092158837cfe868fcae877947f9d68a1cb85",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/b076a7d9-ab15-4972-b37d-376ca2a69562",
       "protocolDocumentIds": "https://prod02.elementscloud.no/59544bce-7416-4cff-bc6a-d5e3185a3a9d",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/2bbb0e48-426a-4d39-9555-3d1ed74c06c8",
@@ -209,31 +219,34 @@
       "committee": "Yrkesopplæringsnemnda",
       "committeeId": "http://data.einnsyn.no/virksomhet/ace2bb44-9f80-4699-9be9-47f6b98f5f20",
       "meetingDate": "05/30/2024 07:30:00",
-      "meetingDateUtc": "2024-05-30T05:30:00Z",
+      "meetingDateUtc": "2024-05-30T07:30:00Z",
       "meetingPlace": "Fylkeshuset, Biskopsrud,",
-      "agendaAvailable": true,
-      "agendaDocumentIds": null,
       "agendaDocumentObjectId": "",
+      "agendaSignature": "ab750eb566fbb93be122fe85e7ccee4f2ff54128aa0be5c88a0e91dc95997519",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/666d086c-47fa-4895-a064-68f28e9326a8",
           "number": "8/2024",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/1b189fec-5fdb-4e49-8ec9-b9d34d303a2a",
           "number": "9/2024",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/01789785-2a9a-4ade-9ed0-cb2a7c0797fd",
           "number": "10/2024",
-          "title": "Forslag til innretting av informasjon til fylkestinget etter ny opplæringslov"
+          "title": "Forslag til innretting av informasjon til fylkestinget etter ny opplæringslov",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "ab750eb566fbb93be122fe85e7ccee4f2ff54128aa0be5c88a0e91dc95997519",
-      "protocolAvailable": true,
+      "agendaDocumentIds": null,
       "protocolDocumentIds": "https://prod02.elementscloud.no/b7c1cb14-9548-493c-b82a-abd882c980a5",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/666d086c-47fa-4895-a064-68f28e9326a8",

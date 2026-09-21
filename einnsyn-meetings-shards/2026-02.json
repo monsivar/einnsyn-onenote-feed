@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "shardType": "meetings",
   "shardKey": "2026-02",
-  "updatedAtUtc": "2026-09-21T09:40:53.0527665+00:00",
+  "updatedAtUtc": "2026-09-21T12:12:59.8856423+00:00",
   "meetingCount": 3,
   "meetings": [
     {
@@ -11,86 +11,100 @@
       "committee": "Fylkesutvalget",
       "committeeId": "Fylkesutvalget",
       "meetingDate": "02/03/2026 09:00:00",
-      "meetingDateUtc": "2026-02-03T08:00:00Z",
+      "meetingDateUtc": "2026-02-03T09:00:00Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/6c4172d8-d222-4158-b849-bd2e809578da",
       "agendaDocumentObjectId": "do_01ktkgfbm6esbsk09cgzwvxpec",
+      "agendaSignature": "167b40495a74ee20b980640c56de1d6663c5ca49ea0984fcfcd5c2816aa06328",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/df72aac1-abb9-4892-b0d0-15ceed3043bf",
           "number": "4/2026",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/83110d01-0bd4-4592-8706-e05f03fa7b48",
           "number": "5/2026",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/1f3a7808-690a-42ea-984d-5975fe9144a8",
           "number": "6/2026",
-          "title": "Buskerudplanen - Med hjerte for Buskerud - forslag til plan på høring"
+          "title": "Buskerudplanen - Med hjerte for Buskerud - forslag til plan på høring",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/1abd988e-e5e6-48d5-b63e-f97aa2aeddfc",
           "number": "7/2026",
-          "title": "Høringssvar - Forslag om videreføring av midlertidige endringer i lovverket som følge av ankomst fra Ukraina"
+          "title": "Høringssvar - Forslag om videreføring av midlertidige endringer i lovverket som følge av ankomst fra Ukraina",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/9eb0d46e-32d0-4e7b-87d0-ef369dbc5b10",
           "number": "8/2026",
-          "title": "KS debatthefte 2026"
+          "title": "KS debatthefte 2026",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/aaaaebfd-a5e9-4708-9bb6-fb1ab297d953",
           "number": "9/2026",
-          "title": "Forskrift for folkevalgtes arbeidsvilkår - forslag til oppdatering"
+          "title": "Forskrift for folkevalgtes arbeidsvilkår - forslag til oppdatering",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/b4a3fea1-67e0-4244-8c56-a682eb4f813a",
           "number": "10/2026",
-          "title": "Delegeringsreglement - Forslag til endringer og oppdateringer"
+          "title": "Delegeringsreglement - Forslag til endringer og oppdateringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/fcbbd6ca-2c31-49fd-bfce-8149598f8929",
           "number": "11/2026",
-          "title": "Reglement for fylkesting, fylkesutvalg, hovedutvalgene, kontrollutvalg og samarbeidsutvalg - Forslag til oppdatering av reglement"
+          "title": "Reglement for fylkesting, fylkesutvalg, hovedutvalgene, kontrollutvalg og samarbeidsutvalg - Forslag til oppdatering av reglement",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/32de291c-11b2-48ce-828c-dc58ff8e382c",
           "number": "12/2026",
-          "title": "Reglement for distriktsvalgstyret og fylkesvalgstyret"
+          "title": "Reglement for distriktsvalgstyret og fylkesvalgstyret",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/6a3f4b5b-bfb0-4fe4-94de-818af2b1e57e",
           "number": "13/2026",
-          "title": "Yrkesopplæringsnemnda - Forslag til oppdatering av reglement"
+          "title": "Yrkesopplæringsnemnda - Forslag til oppdatering av reglement",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/0258b49a-b701-4384-a4bf-ee2a14e17c2b",
           "number": "14/2026",
-          "title": "Årsmelding 2025 - Ungdommens fylkesråd i Buskerud"
+          "title": "Årsmelding 2025 - Ungdommens fylkesråd i Buskerud",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/f98168b9-058f-4eca-bccb-92271c92fa08",
           "number": "15/2026",
-          "title": "Årsmelding 2025 for flerkulturelt utvalg"
+          "title": "Årsmelding 2025 for flerkulturelt utvalg",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/63d40ed1-8237-4d18-ba21-b27d12876ff9",
           "number": "16/2026",
-          "title": "Årsmelding 2025 - Buskerud eldreråd"
+          "title": "Årsmelding 2025 - Buskerud eldreråd",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/d128e0ba-6e0c-4524-a083-2159cf2f4c47",
           "number": "17/2026",
-          "title": "Årsmelding 2025 - Råd for mennesker med funksjonsnedsettelse"
+          "title": "Årsmelding 2025 - Råd for mennesker med funksjonsnedsettelse",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "167b40495a74ee20b980640c56de1d6663c5ca49ea0984fcfcd5c2816aa06328",
-      "protocolAvailable": false,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/6c4172d8-d222-4158-b849-bd2e809578da",
       "protocolDocumentIds": null,
+      "agendaAvailable": true,
+      "protocolAvailable": false,
       "caseDecisions": []
     },
     {
@@ -99,31 +113,34 @@
       "committee": "Valgkomiteen",
       "committeeId": "Valgkomiteen",
       "meetingDate": "02/17/2026 11:00:00",
-      "meetingDateUtc": "2026-02-17T10:00:00Z",
+      "meetingDateUtc": "2026-02-17T11:00:00Z",
       "meetingPlace": "Teams, Teams",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/b5361918-d01e-4c5f-a183-fba5816887c4",
       "agendaDocumentObjectId": "do_01kh45hy2zem4r4ncxbpbzwtzw",
+      "agendaSignature": "8340b263dcf8a07732f6a823ac6b74b5a05c5e94e7478e2f46a2833bfc0d96f3",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/223865c9-e2d7-4c99-8651-a486334b67c7",
           "number": "4/2026",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/355162b1-a4c0-4630-8584-311cc555bf12",
           "number": "5/2026",
-          "title": "Vegfinans AS og Vegfinans Viken AS: styremedlemmer for perioden 2026-2028"
+          "title": "Vegfinans AS og Vegfinans Viken AS: styremedlemmer for perioden 2026-2028",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/54c67b80-592b-4ad2-b235-61dccc92e297",
           "number": "6/2026",
-          "title": "Innovasjon Norge: kandidater til styre"
+          "title": "Innovasjon Norge: kandidater til styre",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "8340b263dcf8a07732f6a823ac6b74b5a05c5e94e7478e2f46a2833bfc0d96f3",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/b5361918-d01e-4c5f-a183-fba5816887c4",
       "protocolDocumentIds": "https://prod02.elementscloud.no/539ef3a2-e158-47b5-960e-9a2030dd9fad",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/54c67b80-592b-4ad2-b235-61dccc92e297",
@@ -166,121 +183,142 @@
       "committee": "Fylkestinget",
       "committeeId": "Fylkestinget",
       "meetingDate": "02/18/2026 11:00:00",
-      "meetingDateUtc": "2026-02-18T10:00:00Z",
+      "meetingDateUtc": "2026-02-18T11:00:00Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/b1a98d5f-4069-4431-9c69-db20b43652b8",
       "agendaDocumentObjectId": "do_01kh1xsc3recatx42kx67mg4s1",
+      "agendaSignature": "ad16f465d21b66a1f8c1ca2cca5d0ce02731cf6732dc72094853fa755de23701",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/8786a394-dbed-4564-8891-05921123ae65",
           "number": "1/2026",
-          "title": "Interpellasjon fra Magnus Weggesrud (Sp) - Gjennomføring av et demokratiprosjekt for å øke valgdeltakelsen ved valget i 2027"
+          "title": "Interpellasjon fra Magnus Weggesrud (Sp) - Gjennomføring av et demokratiprosjekt for å øke valgdeltakelsen ved valget i 2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/f9ae8cfe-2bcf-4621-b1aa-ff415bb27869",
           "number": "1/2026",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/a9ee69e4-7e99-4e77-96ff-4798c52944fd",
           "number": "2/2026",
-          "title": "KS debatthefte 2026"
+          "title": "KS debatthefte 2026",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/481e4a20-4421-4368-b0ae-06dbe5c71e8c",
           "number": "3/2026",
-          "title": "Revidert kulturlov og endringer som følge av denne"
+          "title": "Revidert kulturlov og endringer som følge av denne",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/78ba0a06-b0ae-48e5-a184-93bd36ff978d",
           "number": "4/2026",
-          "title": "Forvaltningsrevisjon om informasjonssikkerhet og personvern"
+          "title": "Forvaltningsrevisjon om informasjonssikkerhet og personvern",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/57443be1-32c0-40d8-9878-703ac62f870d",
           "number": "5/2026",
-          "title": "Årsrapport for kontrollarbeidet 2025"
+          "title": "Årsrapport for kontrollarbeidet 2025",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/e2961049-2b68-44a1-9f2d-6ecb73998d90",
           "number": "6/2026",
-          "title": "Forskrift for folkevalgtes arbeidsvilkår - forslag til oppdatering"
+          "title": "Forskrift for folkevalgtes arbeidsvilkår - forslag til oppdatering",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/9307a23d-3df1-4060-82f6-7d02fdf1b962",
           "number": "7/2026",
-          "title": "Reglement for fylkesting, fylkesutvalg, hovedutvalgene, kontrollutvalg og samarbeidsutvalg - Forslag til oppdatering av reglement"
+          "title": "Reglement for fylkesting, fylkesutvalg, hovedutvalgene, kontrollutvalg og samarbeidsutvalg - Forslag til oppdatering av reglement",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/6af0a609-1565-495a-bdba-9b9e4132396a",
           "number": "8/2026",
-          "title": "Delegeringsreglement - Forslag til endringer og oppdateringer"
+          "title": "Delegeringsreglement - Forslag til endringer og oppdateringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/caac9061-a4f7-4156-b513-7644d8d404c3",
           "number": "9/2026",
-          "title": "Reglement for distriktsvalgstyret og fylkesvalgstyret"
+          "title": "Reglement for distriktsvalgstyret og fylkesvalgstyret",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/77b2dfd4-240e-4fb7-b570-9b56282ef1f1",
           "number": "10/2026",
-          "title": "Yrkesopplæringsnemnda - Forslag til oppdatering av reglement"
+          "title": "Yrkesopplæringsnemnda - Forslag til oppdatering av reglement",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/592ef85f-49ea-40a8-a331-3cc317ecbda7",
           "number": "11/2026",
-          "title": "Oppnevning av varamedlem for elev, lærling eller lærekandidatrepresentant til yrkesopplæringsnemnda 2026-2027"
+          "title": "Oppnevning av varamedlem for elev, lærling eller lærekandidatrepresentant til yrkesopplæringsnemnda 2026-2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/b8504fa2-554a-4025-8bf6-5e9d4674ec97",
           "number": "12/2026",
-          "title": "Innovasjon Norge: kandidater til styre"
+          "title": "Innovasjon Norge: kandidater til styre",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/14a24287-e04d-4328-93da-2838c1c6362a",
           "number": "13/2026",
-          "title": "Vegfinans AS og Vegfinans Viken AS: styremedlemmer for perioden 2026-2028"
+          "title": "Vegfinans AS og Vegfinans Viken AS: styremedlemmer for perioden 2026-2028",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/945973b0-d8a3-4fdf-a61b-fad6f4b7a235",
           "number": "14/2026",
-          "title": "Uttreden fra verv i Buskerud - Tuva Marie Ziolkowski-Nesset (H) - Nytt valgoppgjør"
+          "title": "Uttreden fra verv i Buskerud - Tuva Marie Ziolkowski-Nesset (H) - Nytt valgoppgjør",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/dea587a9-84a1-477e-88f9-a321eabb77dd",
           "number": "15/2026",
-          "title": "Søknad om fritak fra politiske verv - Jørn-Inge Andreassen Frøshaug (Ap) - nytt valgoppgjør"
+          "title": "Søknad om fritak fra politiske verv - Jørn-Inge Andreassen Frøshaug (Ap) - nytt valgoppgjør",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/426eb8e1-4c68-4092-ab3b-06b046bf5972",
           "number": "16/2026",
-          "title": "Suppleringsvalg - valg av nytt representant til Hallingdalsregionen IPR Anders Wengen (V)"
+          "title": "Suppleringsvalg - valg av nytt representant til Hallingdalsregionen IPR Anders Wengen (V)",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/5b9cc3c4-124c-4782-ae79-89563bf2d096",
           "number": "17/2026",
-          "title": "Årsmelding 2025 - Råd for mennesker med funksjonsnedsettelse"
+          "title": "Årsmelding 2025 - Råd for mennesker med funksjonsnedsettelse",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/5dc4b676-efba-4a23-b388-b8adf1b38785",
           "number": "18/2026",
-          "title": "Årsmelding 2025 - Buskerud eldreråd"
+          "title": "Årsmelding 2025 - Buskerud eldreråd",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/074cfc6a-2842-4b04-bb7d-1c2e4c14e59a",
           "number": "19/2026",
-          "title": "Årsmelding 2025 for flerkulturelt utvalg"
+          "title": "Årsmelding 2025 for flerkulturelt utvalg",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/9a501b2c-b0a1-4aa2-8d5e-3ab44bad59d9",
           "number": "20/2026",
-          "title": "Årsmelding 2025 - Ungdommens fylkesråd i Buskerud"
+          "title": "Årsmelding 2025 - Ungdommens fylkesråd i Buskerud",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "ad16f465d21b66a1f8c1ca2cca5d0ce02731cf6732dc72094853fa755de23701",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/b1a98d5f-4069-4431-9c69-db20b43652b8",
       "protocolDocumentIds": "https://prod02.elementscloud.no/55089454-18af-47aa-8bef-3ace9512558f",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/b8504fa2-554a-4025-8bf6-5e9d4674ec97",

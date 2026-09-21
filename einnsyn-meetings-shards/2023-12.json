@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "shardType": "meetings",
   "shardKey": "2023-12",
-  "updatedAtUtc": "2026-09-21T09:40:52.8492995+00:00",
+  "updatedAtUtc": "2026-09-21T12:12:59.5289153+00:00",
   "meetingCount": 3,
   "meetings": [
     {
@@ -11,121 +11,142 @@
       "committee": "Fylkesutvalget",
       "committeeId": "http://data.einnsyn.no/virksomhet/7659379c-9851-4e2e-8b31-6eb7cb9b81ee",
       "meetingDate": "12/05/2023 09:00:00",
-      "meetingDateUtc": "2023-12-05T08:00:00Z",
+      "meetingDateUtc": "2023-12-05T09:00:00Z",
       "meetingPlace": "Union Scene, Grønland 60, Drammen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/6b56ebd5-cff3-443b-b715-d07715150ef7",
       "agendaDocumentObjectId": "do_01j76y2wsxfbxr47eqq326zcp3",
+      "agendaSignature": "75b55d37050f2a7a22867c1cbc8192d9b9f8c5f34fa2272e52bc0f6e32432f33",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/647c7663-e04f-4ac9-a96b-2bc17ec03cd3",
           "number": "11/2023",
-          "title": "Godkjenning av innkalling og saksliste"
+          "title": "Godkjenning av innkalling og saksliste",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/4877e3c5-4557-4307-bea8-dbc0f793fdce",
           "number": "12/2023",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/602cea66-a772-4031-847b-8d8940f6f546",
           "number": "13/2023",
-          "title": "Regional planstrategi for Buskerud"
+          "title": "Regional planstrategi for Buskerud",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/d5ac2567-11ac-493b-bb5f-a2c075ecffff",
           "number": "14/2023",
-          "title": "Eierskapsmelding 2024 for Buskerud fylkeskommune"
+          "title": "Eierskapsmelding 2024 for Buskerud fylkeskommune",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/147c9e7a-0fde-4dc4-a12a-4dd9d1c583ba",
           "number": "15/2023",
-          "title": "Samlesak medlemskap, prosjekter, nettverk og utviklingssamarbeid"
+          "title": "Samlesak medlemskap, prosjekter, nettverk og utviklingssamarbeid",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/95aaf306-3b44-4218-8ff2-9c73f94644ca",
           "number": "16/2023",
-          "title": "Etiske retningslinjer for Buskerud fylkeskommune"
+          "title": "Etiske retningslinjer for Buskerud fylkeskommune",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/5c21f051-69ec-450d-ba15-db1178facb07",
           "number": "17/2023",
-          "title": "Arbeidsreglement for Buskerud fylkeskommune"
+          "title": "Arbeidsreglement for Buskerud fylkeskommune",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/7a9bafc3-1238-4595-b4ae-db636f659826",
           "number": "18/2023",
-          "title": "Revisjon av forskrift for folkevalgtes arbeidsvilkår i Buskerud fylkeskommune"
+          "title": "Revisjon av forskrift for folkevalgtes arbeidsvilkår i Buskerud fylkeskommune",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/4b2e5fff-2879-49b4-90e1-dd25a1cc2061",
           "number": "19/2023",
-          "title": "Buskerud fylkeskommunes reglement - forslag til endringer mv og orientering om oppdatering i tre reglement"
+          "title": "Buskerud fylkeskommunes reglement - forslag til endringer mv og orientering om oppdatering i tre reglement",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/60a7366c-20f7-48aa-9360-ee345c56d5bf",
           "number": "20/2023",
-          "title": "Ringerike kommune - kommuneplanens arealdel 2023 - 2035 høringsuttalelse"
+          "title": "Ringerike kommune - kommuneplanens arealdel 2023 - 2035 høringsuttalelse",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/4e47b946-72d6-420e-9042-2f05b9f9537b",
           "number": "21/2023",
-          "title": "Innspill til endringer i vannforskriften"
+          "title": "Innspill til endringer i vannforskriften",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/a7ae476c-b7f5-4a3e-a78a-7f5c09c5bafe",
           "number": "22/2023",
-          "title": "Ål kommune - 2. gangs høring av arealdelen til kommuneplanen 2023 - 2035"
+          "title": "Ål kommune - 2. gangs høring av arealdelen til kommuneplanen 2023 - 2035",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/af64e0c3-722b-41b1-8590-531ffbdab673",
           "number": "23/2023",
-          "title": "Høring av NOU 2023:23 Helhetlig forvaltning av akvakultur for bærekraftig verdiskaping"
+          "title": "Høring av NOU 2023:23 Helhetlig forvaltning av akvakultur for bærekraftig verdiskaping",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/b317891f-5995-4a67-8202-963607ccd1bd",
           "number": "24/2023",
-          "title": "Forslag til endringer i plan- og bygningsloven om grunneierfinansiering av infrastruktur, utbyggingsavtaler mv. - Høringsuttalelse"
+          "title": "Forslag til endringer i plan- og bygningsloven om grunneierfinansiering av infrastruktur, utbyggingsavtaler mv. - Høringsuttalelse",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/a1872af4-8c54-4624-b536-d90a625bd52e",
           "number": "25/2023",
-          "title": "Opprettelse av vertskommunesamarbeid om fartøyvern mellom Akershus fylkeskommune, Buskerud fylkeskommune, Østfold fylkeskommune og Oslo kommune"
+          "title": "Opprettelse av vertskommunesamarbeid om fartøyvern mellom Akershus fylkeskommune, Buskerud fylkeskommune, Østfold fylkeskommune og Oslo kommune",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/abb10ab8-ed68-4ea6-9d3c-2149c5f6b44c",
           "number": "26/2023",
-          "title": "Valg av representantskap og anbefaling om styrevedtekter for Fagskolen i Viken kommunalt oppgavefellesskap"
+          "title": "Valg av representantskap og anbefaling om styrevedtekter for Fagskolen i Viken kommunalt oppgavefellesskap",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/e7c5d934-a928-4ed2-874d-81e3ce6a663f",
           "number": "27/2023",
-          "title": "Østlandssamarbeidet IPR – ny samarbeidsavtale og valg av representantskapsmedlemmer 2024 - 2027"
+          "title": "Østlandssamarbeidet IPR – ny samarbeidsavtale og valg av representantskapsmedlemmer 2024 - 2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/045cec67-8dfb-4f38-b40e-ae47d3c59deb",
           "number": "28/2023",
-          "title": "Hallingdal pedagogisk-psykologisk tjeneste og oppfølgingstjeneste IKS - Ny selskapsavtale og valg av medlemmer til representantskapet 2024 - 2027"
+          "title": "Hallingdal pedagogisk-psykologisk tjeneste og oppfølgingstjeneste IKS - Ny selskapsavtale og valg av medlemmer til representantskapet 2024 - 2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/e8462e2f-29db-42d2-9f34-dda670fcc315",
           "number": "29/2023",
-          "title": "Tannhelsetjenestens kompetansesenter Øst - Ny samarbeidsavtale og valg av medlemmer til representantskapet for 2024 - 2027"
+          "title": "Tannhelsetjenestens kompetansesenter Øst - Ny samarbeidsavtale og valg av medlemmer til representantskapet for 2024 - 2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/2b9f222f-3598-4667-ba80-9f23acfe8918",
           "number": "30/2023",
-          "title": "Novari IKS (tidligere Vigo IKS) - ny selskapsavtale og valg av medlemmer til representantskapet for perioden 2024 - 2027"
+          "title": "Novari IKS (tidligere Vigo IKS) - ny selskapsavtale og valg av medlemmer til representantskapet for perioden 2024 - 2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/ed73d650-d6e8-4eeb-87d9-332563999a21",
           "number": "31/2023",
-          "title": "Interkommunalt arkiv for Buskerud, Vestfold og Telemark IKS (IKA Kongsberg) - Ny selskapsavtale 2024 og valg av medlemmer til representantskapet 2024 - 2027"
+          "title": "Interkommunalt arkiv for Buskerud, Vestfold og Telemark IKS (IKA Kongsberg) - Ny selskapsavtale 2024 og valg av medlemmer til representantskapet 2024 - 2027",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "75b55d37050f2a7a22867c1cbc8192d9b9f8c5f34fa2272e52bc0f6e32432f33",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/6b56ebd5-cff3-443b-b715-d07715150ef7",
       "protocolDocumentIds": "https://prod02.elementscloud.no/8a97a78e-465f-46c5-8807-3bc4345d35bc",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/ed73d650-d6e8-4eeb-87d9-332563999a21",
@@ -366,141 +387,266 @@
       "committee": "Fylkestinget",
       "committeeId": "http://data.einnsyn.no/virksomhet/0a3a9baa-adce-4204-81bb-99e4fb8d9c89",
       "meetingDate": "12/13/2023 10:45:00",
-      "meetingDateUtc": "2023-12-13T09:45:00Z",
+      "meetingDateUtc": "2023-12-13T10:45:00Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89. Drammen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/e7ea5bad-2285-4fa8-a390-41953c072a66",
       "agendaDocumentObjectId": "do_01j76y2y8xewmb7c0n05k2khm8",
+      "agendaSignature": "9e49afb488c1f9d841ba6ab3203c2c97dd7cf6703c56e6b16ecb0aa87faedb58",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/fd3f71f0-bd92-494c-b3de-087f0c35c5f9",
           "number": "30/2023",
-          "title": "Årsbudsjett 2024 og økonomiplan 2024 - 2027 for Buskerud"
+          "title": "Årsbudsjett 2024 og økonomiplan 2024 - 2027 for Buskerud",
+          "recommendation": null
+        },
+        {
+          "id": "https://prod02.elementscloud.no/ccffabec-958b-48ca-a350-266f03129d49",
+          "number": "31/2023",
+          "title": "Økonomi- og finansreglement"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/5514097b-5877-4eed-8330-64afb8219fc4",
+          "number": "32/2023",
+          "title": "Regional planstrategi for Buskerud"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/ae9c7ec2-6422-4ec6-9f5f-52255f481d69",
+          "number": "33/2023",
+          "title": "Eierskapsmelding 2024 for Buskerud fylkeskommune"
         },
         {
           "id": "https://prod02.elementscloud.no/38c09709-33ff-425c-a3b6-15f763090d14",
           "number": "34/2023",
-          "title": "Inntaksordningen i Buskerud fylkeskommune"
+          "title": "Inntaksordningen i Buskerud fylkeskommune",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/c782e318-9226-4f10-8195-982f8cfa02d7",
           "number": "35/2023",
-          "title": "Opplæringstilbudet i Buskerud fylkeskommune 2024-2025"
+          "title": "Opplæringstilbudet i Buskerud fylkeskommune 2024-2025",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/a94c1e49-8c3a-44f0-a929-5c767a544803",
           "number": "36/2023",
-          "title": "Etiske retningslinjer for Buskerud fylkeskommune"
+          "title": "Etiske retningslinjer for Buskerud fylkeskommune",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/41cbb37b-d104-4ed3-a0c0-f5e9bea3b3a6",
           "number": "37/2023",
-          "title": "Arbeidsreglement for Buskerud fylkeskommune"
+          "title": "Arbeidsreglement for Buskerud fylkeskommune",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/c850ca2a-0870-4569-b0dd-7877e5df0166",
           "number": "38/2023",
-          "title": "Buskerud fylkeskommunes reglement - forslag til endringer mv og orientering om oppdatering i tre reglement"
+          "title": "Buskerud fylkeskommunes reglement - forslag til endringer mv og orientering om oppdatering i tre reglement",
+          "recommendation": null
+        },
+        {
+          "id": "https://prod02.elementscloud.no/5f764b22-3fa9-494d-a811-238e060e3a4f",
+          "number": "39/2023",
+          "title": "Revisjon av forskrift for folkevalgtes arbeidsvilkår i Buskerud fylkeskommune"
         },
         {
           "id": "https://prod02.elementscloud.no/334b82a5-a373-4fa1-bce5-210920247fda",
           "number": "40/2023",
-          "title": "Forslag til endringer i plan- og bygningsloven om grunneierfinansiering av infrastruktur, utbyggingsavtaler mv. - Høringsuttalelse"
+          "title": "Forslag til endringer i plan- og bygningsloven om grunneierfinansiering av infrastruktur, utbyggingsavtaler mv. - Høringsuttalelse",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/a6b99a8f-a92a-4104-82da-568cf5962088",
           "number": "41/2023",
-          "title": "Innspill til endringer i vannforskriften"
+          "title": "Innspill til endringer i vannforskriften",
+          "recommendation": null
+        },
+        {
+          "id": "https://prod02.elementscloud.no/9eaaeaee-5e8e-47f9-bf0a-81822f7e936d",
+          "number": "42/2023",
+          "title": "Høring av NOU 2023:23 Helhetlig forvaltning av akvakultur for bærekraftig verdiskaping"
         },
         {
           "id": "https://prod02.elementscloud.no/0f26d159-b868-47b6-9ba9-d2d72f185dce",
           "number": "43/2023",
-          "title": "Valg av valgkomité for valgperioden 2023 - 2027"
+          "title": "Valg av valgkomité for valgperioden 2023 - 2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/36be6a61-a5dc-4645-bbba-1f90c6927b37",
           "number": "44/2023",
-          "title": "Valg av kontrollutvalgssekretariat - Inntreden i Viken kontrollutvalgssekretariat IKS"
+          "title": "Valg av kontrollutvalgssekretariat - Inntreden i Viken kontrollutvalgssekretariat IKS",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/cb4d0ae5-ac69-43fb-9b11-796564224f28",
           "number": "45/2023",
-          "title": "Viken kontrollutvalgssekretariat IKS - valg til representantskapet 2024 - 2027"
+          "title": "Viken kontrollutvalgssekretariat IKS - valg til representantskapet 2024 - 2027",
+          "recommendation": null
+        },
+        {
+          "id": "https://prod02.elementscloud.no/1be2d0ba-bd49-4b21-9a62-46fc8c418e62",
+          "number": "46/2023",
+          "title": "Opprettelse av vertskommunesamarbeid om fartøyvern mellom Akershus fylkeskommune, Buskerud fylkeskommune, Østfold fylkeskommune og Oslo kommune"
         },
         {
           "id": "https://prod02.elementscloud.no/e98203ed-b482-4451-9368-26fcbd70b300",
           "number": "47/2023",
-          "title": "Valg av revisor - Inntreden i Viken kommunerevisjon IKS"
+          "title": "Valg av revisor - Inntreden i Viken kommunerevisjon IKS",
+          "recommendation": null
+        },
+        {
+          "id": "https://prod02.elementscloud.no/919e4856-b310-4736-9438-b948de1cea7f",
+          "number": "48/2023",
+          "title": "Viken kommunerevisjon IKS - valg til representantskapet 2024 - 2027"
         },
         {
           "id": "https://prod02.elementscloud.no/dd83c347-c584-4c7c-b1c0-02ab50fd945b",
           "number": "49/2023",
-          "title": "Nasjonal digital læringsarena (NDLA) - oppnevning av representantskapet for 2024 - 2027"
+          "title": "Nasjonal digital læringsarena (NDLA) - oppnevning av representantskapet for 2024 - 2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/407324bc-8b4c-4f61-a07f-e81dda48503d",
           "number": "50/2023",
-          "title": "Analyse i Akershus, Buskerud og Østfold kommunale oppgavefelleskap - oppnevning til representantskapet 2024- 2027"
+          "title": "Analyse i Akershus, Buskerud og Østfold kommunale oppgavefelleskap - oppnevning til representantskapet 2024- 2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/54fa2a59-da47-42f3-9996-27be8e0e078d",
           "number": "51/2023",
-          "title": "Valg av representantskap og anbefaling om styrevedtekter for Fagskolen i Viken kommunalt oppgavefellesskap"
+          "title": "Valg av representantskap og anbefaling om styrevedtekter for Fagskolen i Viken kommunalt oppgavefellesskap",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/15f95972-526c-4f7f-8d74-514780a99fbc",
           "number": "52/2023",
-          "title": "Interkommunalt arkiv for Buskerud, Vestfold og Telemark IKS (IKA Kongsberg) - Ny selskapsavtale 2024 og valg av medlemmer til representantskapet 2024 - 2027"
+          "title": "Interkommunalt arkiv for Buskerud, Vestfold og Telemark IKS (IKA Kongsberg) - Ny selskapsavtale 2024 og valg av medlemmer til representantskapet 2024 - 2027",
+          "recommendation": null
+        },
+        {
+          "id": "https://prod02.elementscloud.no/7aec2ab3-1d49-4e3d-abbb-4b7edeb567b0",
+          "number": "53/2023",
+          "title": "Østlandssamarbeidet IPR – ny samarbeidsavtale og valg av representantskapsmedlemmer 2024 - 2027"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/868645de-69bf-4899-8d96-8d71b48efd8a",
+          "number": "54/2023",
+          "title": "Oppnevning til vannområder i Buskerud"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/9a79dec6-75dd-4bfe-9e95-15a5bb751164",
+          "number": "55/2023",
+          "title": "Oppnevning til kommuneregionene i Buskerud"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/77e45d93-7277-48aa-a70f-25d9f8f190cf",
+          "number": "56/2023",
+          "title": "Samlesak medlemskap, prosjekter, nettverk og utviklingssamarbeid"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/e66ed0bc-04da-4aff-895f-6abf1c5e26b9",
+          "number": "57/2023",
+          "title": "Oppnevning til Interreg Øresund-Kattegat-Skagerak fra Buskerud fylkeskommune"
         },
         {
           "id": "https://prod02.elementscloud.no/fe9a469b-6792-4fae-b33e-850bb12befb0",
           "number": "58/2023",
-          "title": "Valg av representanter til nasjonalpark- og verneområdestyrer - Hallingskarvet nasjonalpark"
+          "title": "Valg av representanter til nasjonalpark- og verneområdestyrer - Hallingskarvet nasjonalpark",
+          "recommendation": null
+        },
+        {
+          "id": "https://prod02.elementscloud.no/e2985d67-abbe-4bfa-a030-2e5f155a6e63",
+          "number": "59/2023",
+          "title": "Valg av representant til Nordfjellarådet"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/79550202-e0d0-4570-a9e5-59f1153780c7",
+          "number": "60/2023",
+          "title": "Innstilling av medlemmer til regionale rovviltnemnder etter kommunestyre- og fylkestingsvalget 2023"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/741cea5b-b6a9-45ba-a9e1-09f14f86642e",
+          "number": "61/2023",
+          "title": "Tannhelsetjenestens kompetansesenter Øst - Ny samarbeidsavtale og valg av medlemmer til representantskapet for 2024 - 2027"
         },
         {
           "id": "https://prod02.elementscloud.no/15516023-5b42-4463-b0f2-2c43aef1c45d",
           "number": "62/2023",
-          "title": "Hallingdal pedagogisk-psykologisk tjeneste og oppfølgingstjeneste IKS - Ny selskapsavtale og valg av medlemmer til representantskapet 2024 - 2027"
+          "title": "Hallingdal pedagogisk-psykologisk tjeneste og oppfølgingstjeneste IKS - Ny selskapsavtale og valg av medlemmer til representantskapet 2024 - 2027",
+          "recommendation": null
+        },
+        {
+          "id": "https://prod02.elementscloud.no/91168403-ae37-493a-834e-6d7ca5ac0ae3",
+          "number": "63/2023",
+          "title": "Fylkesbiblioteket i Akershus, Buskerud og Østfold kommunalt oppgavefelleskap - Oppnevning til representantskapet 2024-2027"
         },
         {
           "id": "https://prod02.elementscloud.no/0789eef7-b7df-4a11-b2d0-cf4e229fea5e",
           "number": "64/2023",
-          "title": "Renholdsforvaltning og utvikling i Akershus, Buskerud og Østfold kommunalt oppgavefelleskap - oppnevning til representantskapet 2024 - 2027"
+          "title": "Renholdsforvaltning og utvikling i Akershus, Buskerud og Østfold kommunalt oppgavefelleskap - oppnevning til representantskapet 2024 - 2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/128ee0b8-2c3b-4878-84e7-4c199cab2002",
           "number": "65/2023",
-          "title": "Ombud for barn og unge kommunalt oppgavefelleskap - Oppnevning til representantskapet 2024 - 2027"
+          "title": "Ombud for barn og unge kommunalt oppgavefelleskap - Oppnevning til representantskapet 2024 - 2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/d3e128d1-82f1-40fa-acea-ecf5ab1c49f4",
           "number": "66/2023",
-          "title": "Novari IKS (tidligere Vigo IKS) - ny selskapsavtale og valg av medlemmer til representantskapet for perioden 2024 - 2027"
+          "title": "Novari IKS (tidligere Vigo IKS) - ny selskapsavtale og valg av medlemmer til representantskapet for perioden 2024 - 2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/352b2c40-209c-4f60-8d56-47d94259761b",
           "number": "67/2023",
-          "title": "Oppnevning av representanter til verv i stiftelser og forening 2024 - 2027"
+          "title": "Oppnevning av representanter til verv i stiftelser og forening 2024 - 2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/d9a79280-eee0-416c-9655-145950ef834e",
           "number": "68/2023",
-          "title": "Medlemskap CPMR og Nordsjøkommisjonen"
+          "title": "Medlemskap CPMR og Nordsjøkommisjonen",
+          "recommendation": null
+        },
+        {
+          "id": "https://prod02.elementscloud.no/02d1a69d-3366-44fe-a448-6681d85c5eeb",
+          "number": "69/2023",
+          "title": "Oppnevning til Fjellnettverket"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/cc4d855c-a350-4f54-bc73-4433a847e20c",
+          "number": "70/2023",
+          "title": "Valg av representant til Rådet for Norefjell - Reinsjøfjell"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/6717cbd0-92d5-40ed-9f7c-739e17515bb5",
+          "number": "71/2023",
+          "title": "Hardangerviddarådet - Valg av representanter"
         },
         {
           "id": "https://prod02.elementscloud.no/b5a2facc-afea-404f-bd19-95b7a3ba428c",
           "number": "72/2023",
-          "title": "Valg av representanter til Buskerudbysamarbeidets råd for areal, tranport- og miljø (ATM rådet)"
+          "title": "Valg av representanter til Buskerudbysamarbeidets råd for areal, tranport- og miljø (ATM rådet)",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/c34a7af7-ad12-44f5-880c-49c472ceb3ce",
           "number": "73/2023",
-          "title": "Veiteknologi og geofag i Akershus, Buskerud og Østfold kommunalt oppgavefelleskap - oppnevning til representantskapet 2024 - 2027"
+          "title": "Veiteknologi og geofag i Akershus, Buskerud og Østfold kommunalt oppgavefelleskap - oppnevning til representantskapet 2024 - 2027",
+          "recommendation": null
+        },
+        {
+          "id": "https://prod02.elementscloud.no/89913461-bb62-453f-8f25-a111fd9939c3",
+          "number": "74/2023",
+          "title": "Ringerike kommune - kommuneplanens arealdel 2023-2025 høringsuttalelse - ny behandling i fylkestinget"
         }
       ],
-      "agendaSignature": "15e8a9084cb4b813dc7190dd55c5d5f4725caf6d43497eafc079348dcc00b9ce",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/e7ea5bad-2285-4fa8-a390-41953c072a66",
       "protocolDocumentIds": "https://prod02.elementscloud.no/cfddc3fc-e102-45a7-9031-c9e47fda5fbc",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/c34a7af7-ad12-44f5-880c-49c472ceb3ce",
@@ -1005,15 +1151,15 @@
       "committee": "Fylkestinget",
       "committeeId": "http://data.einnsyn.no/virksomhet/0a3a9baa-adce-4204-81bb-99e4fb8d9c89",
       "meetingDate": "12/14/2023 08:00:00",
-      "meetingDateUtc": "2023-12-14T07:00:00Z",
+      "meetingDateUtc": "2023-12-14T08:00:00Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
-      "agendaAvailable": false,
-      "agendaDocumentIds": null,
       "agendaDocumentObjectId": "",
-      "agendaCases": [],
       "agendaSignature": "ddadb0edefa886b86e7548cc30c6f587f59d4cfbaa8e85deaf7e07bb50e24a18",
-      "protocolAvailable": false,
+      "agendaCases": [],
+      "agendaDocumentIds": null,
       "protocolDocumentIds": null,
+      "agendaAvailable": false,
+      "protocolAvailable": false,
       "caseDecisions": []
     }
   ]

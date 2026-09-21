@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "shardType": "meetings",
   "shardKey": "2024-03",
-  "updatedAtUtc": "2026-09-21T09:40:52.8615072+00:00",
+  "updatedAtUtc": "2026-09-21T12:12:59.5716166+00:00",
   "meetingCount": 4,
   "meetings": [
     {
@@ -11,51 +11,58 @@
       "committee": "Fylkesutvalget",
       "committeeId": "http://data.einnsyn.no/virksomhet/7659379c-9851-4e2e-8b31-6eb7cb9b81ee",
       "meetingDate": "03/18/2024 09:00:00",
-      "meetingDateUtc": "2024-03-18T08:00:00Z",
+      "meetingDateUtc": "2024-03-18T09:00:00Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/7494aaa1-8b3c-4c09-af07-5bb25a48153b",
       "agendaDocumentObjectId": "do_01j76y3s9tf70an9rp6aygf3y5",
+      "agendaSignature": "b19567e4cb528f604d447f6d9cf1577e29e9a2f2b95d728a76f2581b44eecfe5",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/7f4ee5d1-dbb1-424a-92c4-70e92b015e4a",
           "number": "14/2024",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/7e27d823-f3d2-4305-a1cf-0516d85a94f8",
           "number": "15/2024",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/a766e2a0-8301-4ab4-9966-92f02abe13fa",
           "number": "16/2024",
-          "title": "Forslag til endringer i forskrift om kart og stedfestet informasjon, arealformål og kommunalt planregister - Kart- og planforskrift - Høringsuttalelse"
+          "title": "Forslag til endringer i forskrift om kart og stedfestet informasjon, arealformål og kommunalt planregister - Kart- og planforskrift - Høringsuttalelse",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/56d0373c-842b-4de1-a4ab-44920c83579f",
           "number": "17/2024",
-          "title": "Regional planstrategi for Buskerud - forslag til endret fremdrift"
+          "title": "Regional planstrategi for Buskerud - forslag til endret fremdrift",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/e1588c91-2e6f-4490-ba39-c9c5bd458cad",
           "number": "18/2024",
-          "title": "Drammen kommune - innspill til kommunal planstrategi 2024-2027"
+          "title": "Drammen kommune - innspill til kommunal planstrategi 2024-2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/92853fc8-374c-4a40-b9f2-01a611826299",
           "number": "19/2024",
-          "title": "Orientering om Kraftløftet - regionalt kunnskapsgrunnlag om kraftsituasjonen i Buskerud"
+          "title": "Orientering om Kraftløftet - regionalt kunnskapsgrunnlag om kraftsituasjonen i Buskerud",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/d3d5580b-e3bd-45d8-a6d8-d0025a665ab4",
           "number": "20/2024",
-          "title": "Byutviklingspris for Drammen"
+          "title": "Byutviklingspris for Drammen",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "b19567e4cb528f604d447f6d9cf1577e29e9a2f2b95d728a76f2581b44eecfe5",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/7494aaa1-8b3c-4c09-af07-5bb25a48153b",
       "protocolDocumentIds": "https://prod02.elementscloud.no/5b708026-2948-44b5-8edb-8f26f79a86bb",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/e1588c91-2e6f-4490-ba39-c9c5bd458cad",
@@ -142,41 +149,46 @@
       "committee": "Oppgavefellesskap anskaffelser",
       "committeeId": "http://data.einnsyn.no/virksomhet/b89f1785-a752-4e44-9679-db12e3602cf6",
       "meetingDate": "03/22/2024 09:00:00",
-      "meetingDateUtc": "2024-03-22T08:00:00Z",
+      "meetingDateUtc": "2024-03-22T09:00:00Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/1c14abe9-d836-442c-bc34-6eead2849d82",
       "agendaDocumentObjectId": "do_01j76y4a3seh9vfjz79fj2axy5",
+      "agendaSignature": "803cd34646b500346d36b185c504ab5fceaaa690b43c84bda249853e9549cd61",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/fef25052-3233-44c0-8398-55fd8ffd120b",
           "number": "1/2024",
-          "title": "Godkjenning av innkalling"
+          "title": "Godkjenning av innkalling",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/807e5d22-e4b6-4b16-92e6-e86a7ff1d71b",
           "number": "2/2024",
-          "title": "Valg av leder og nestleder for representantskapet i ANSKA KO"
+          "title": "Valg av leder og nestleder for representantskapet i ANSKA KO",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/5b831b6b-3b48-4942-b6f4-ee0565a337e3",
           "number": "3/2024",
-          "title": "Årsbudsjett 2024 og økonomiplan 2025-2027 for ANSKA KO"
+          "title": "Årsbudsjett 2024 og økonomiplan 2025-2027 for ANSKA KO",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/25736e55-3b85-4e14-8379-5caa071bc5fe",
           "number": "4/2024",
-          "title": "Valg av revisor for ANSKA KO"
+          "title": "Valg av revisor for ANSKA KO",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/474c499f-5450-4445-b14d-ad272e48f95e",
           "number": "5/2024",
-          "title": "Møteplan 2024 for ANSKA KO"
+          "title": "Møteplan 2024 for ANSKA KO",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "803cd34646b500346d36b185c504ab5fceaaa690b43c84bda249853e9549cd61",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/1c14abe9-d836-442c-bc34-6eead2849d82",
       "protocolDocumentIds": "https://prod02.elementscloud.no/a1b6a99f-71e9-47e8-a8f9-e8ea5d05d6ed",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/5b831b6b-3b48-4942-b6f4-ee0565a337e3",
@@ -241,46 +253,52 @@
       "committee": "Buskerud fylkeskommune",
       "committeeId": "Oppgavefellesskap ombud for barn og unge",
       "meetingDate": "03/22/2024 09:00:00",
-      "meetingDateUtc": "2024-03-22T08:00:00Z",
+      "meetingDateUtc": "2024-03-22T09:00:00Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/b73e8f0b-e573-4e54-b97a-fc3348c3e0bc",
       "agendaDocumentObjectId": "do_01j76y4a5dfcnva3hwcjdn2429",
+      "agendaSignature": "24ff092b9f47e13123b0b30b90f28ee05ffa6cca488781ee37faaf9352d8dc86",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/1a1ad8e2-0018-444e-b314-2f4c3d1ddfe8",
           "number": "1/2024",
-          "title": "Godkjenning av innkalling"
+          "title": "Godkjenning av innkalling",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/bb076ec0-5694-4e72-918d-13555540a922",
           "number": "2/2024",
-          "title": "Valg av leder for representantskapet"
+          "title": "Valg av leder for representantskapet",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/eb9b0967-f7c8-49e4-8606-0920eba30c9c",
           "number": "3/2024",
-          "title": "Valg av nestleder for representantskapet"
+          "title": "Valg av nestleder for representantskapet",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/cd1e49d5-edda-4018-95bd-84562ca7f0c8",
           "number": "4/2024",
-          "title": "Godkjenning av budsjett 2024 og økonomiplan 2024-2027"
+          "title": "Godkjenning av budsjett 2024 og økonomiplan 2024-2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/21f10c81-f611-4f43-b162-54632883b9f0",
           "number": "5/2024",
-          "title": "Valg av revisor for ombudet for barn og unge i Akershus, Buskerud og Østfold, KO"
+          "title": "Valg av revisor for ombudet for barn og unge i Akershus, Buskerud og Østfold, KO",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/ff765e7a-f96a-4520-a70b-6ae58f9816b6",
           "number": "6/2024",
-          "title": "Møteplan 2024"
+          "title": "Møteplan 2024",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "24ff092b9f47e13123b0b30b90f28ee05ffa6cca488781ee37faaf9352d8dc86",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/b73e8f0b-e573-4e54-b97a-fc3348c3e0bc",
       "protocolDocumentIds": "https://prod02.elementscloud.no/da922092-9068-4849-a3ee-f4effd783a7d",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/bb076ec0-5694-4e72-918d-13555540a922",
@@ -356,15 +374,15 @@
       "committee": "Buskerud fylkeskommune",
       "committeeId": "Oppgavefellesskap fylkesbiblioteket",
       "meetingDate": "03/22/2024 09:00:00",
-      "meetingDateUtc": "2024-03-22T08:00:00Z",
+      "meetingDateUtc": "2024-03-22T09:00:00Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
-      "agendaAvailable": false,
-      "agendaDocumentIds": null,
       "agendaDocumentObjectId": "",
-      "agendaCases": [],
       "agendaSignature": "ddadb0edefa886b86e7548cc30c6f587f59d4cfbaa8e85deaf7e07bb50e24a18",
-      "protocolAvailable": false,
+      "agendaCases": [],
+      "agendaDocumentIds": null,
       "protocolDocumentIds": null,
+      "agendaAvailable": false,
+      "protocolAvailable": false,
       "caseDecisions": []
     }
   ]

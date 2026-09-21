@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "shardType": "meetings",
   "shardKey": "2023-11",
-  "updatedAtUtc": "2026-09-21T09:40:52.8456256+00:00",
+  "updatedAtUtc": "2026-09-21T12:12:59.5213906+00:00",
   "meetingCount": 12,
   "meetings": [
     {
@@ -11,36 +11,40 @@
       "committee": "Fylkestinget",
       "committeeId": "http://data.einnsyn.no/virksomhet/0a3a9baa-adce-4204-81bb-99e4fb8d9c89",
       "meetingDate": "11/02/2023 15:00:00",
-      "meetingDateUtc": "2023-11-02T14:00:00Z",
+      "meetingDateUtc": "2023-11-02T15:00:00Z",
       "meetingPlace": "Klækken hotell, Hadelandsveien 386, 3514 Hønefoss",
-      "agendaAvailable": true,
-      "agendaDocumentIds": null,
       "agendaDocumentObjectId": "",
+      "agendaSignature": "cb68e3ce43d5227aa5a3a5f47b08f1e4cd07b9181db07b4a65ac73178a817400",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/cad6aa87-7fdc-4b5d-9219-b270fcbb41b3",
           "number": "26/2023",
-          "title": "Deling av hovedutvalg for regional utvikling i to nye utvalg"
+          "title": "Deling av hovedutvalg for regional utvikling i to nye utvalg",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/85bfc950-9c87-4238-9e26-bcb151ce201f",
           "number": "27/2023",
-          "title": "Ramfoss Kraftlag kommunale oppgavefelleskap - Oppnevning til representantskap"
+          "title": "Ramfoss Kraftlag kommunale oppgavefelleskap - Oppnevning til representantskap",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/3034abb0-7ea4-4f0f-a9b6-37e2032a69e7",
           "number": "28/2023",
-          "title": "Vegfinans AS, Eiendomsselskapet Veien kulturminnepark AS og Stiftelsen Vikersund Hoppsenter - stadfesting av tidligere garantivedtak"
+          "title": "Vegfinans AS, Eiendomsselskapet Veien kulturminnepark AS og Stiftelsen Vikersund Hoppsenter - stadfesting av tidligere garantivedtak",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/fb72d446-4399-4304-86d9-60fc9eed380b",
           "number": "29/2023",
-          "title": "Søknad om fritak som varamedlem i fylkestinget - suppleringsvalg"
+          "title": "Søknad om fritak som varamedlem i fylkestinget - suppleringsvalg",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "cb68e3ce43d5227aa5a3a5f47b08f1e4cd07b9181db07b4a65ac73178a817400",
-      "protocolAvailable": true,
+      "agendaDocumentIds": null,
       "protocolDocumentIds": "https://prod02.elementscloud.no/b4825159-bcfa-4a68-b718-fcea95a53af2",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/cad6aa87-7fdc-4b5d-9219-b270fcbb41b3",
@@ -83,56 +87,64 @@
       "committee": "Yrkesopplæringsnemnda",
       "committeeId": "http://data.einnsyn.no/virksomhet/ace2bb44-9f80-4699-9be9-47f6b98f5f20",
       "meetingDate": "11/13/2023 08:00:00",
-      "meetingDateUtc": "2023-11-13T07:00:00Z",
+      "meetingDateUtc": "2023-11-13T08:00:00Z",
       "meetingPlace": "Union Scene, Grønland 60, Drammen, Union Scene, Grønland 60, Drammen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": null,
       "agendaDocumentObjectId": "",
+      "agendaSignature": "3cc12b57bbae87afd7b6ab0889977a187e8ef3c3c4ba53168e596c0093fe6b05",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/32bc9e38-6245-4985-901d-da98646e6f86",
           "number": "1/2023",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/10df6c31-9e8b-43ce-8c77-17a6aa667809",
           "number": "2/2023",
-          "title": "Spørsmål til sakene/andre spørsmål"
+          "title": "Spørsmål til sakene/andre spørsmål",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/b5c5f7f4-c199-4987-bb77-e36365b380ba",
           "number": "3/2023",
-          "title": "Valg av representant og vara fra Utdanningsforbundet i Yrkesopplæringsnemnda"
+          "title": "Valg av representant og vara fra Utdanningsforbundet i Yrkesopplæringsnemnda",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/f1127060-b902-48dd-9514-0e6f7add658b",
           "number": "4/2023",
-          "title": "Valg av representant og vara fra Skolenes landsforbund i Yrkesopplæringsnemnda"
+          "title": "Valg av representant og vara fra Skolenes landsforbund i Yrkesopplæringsnemnda",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/22b40c6b-b4a6-46c8-bd2f-dc62ae14e0f1",
           "number": "5/2023",
-          "title": "Konstituering av yrkesopplæringsnemnda i Buskerud - valg av leder og nestleder og valg av Arbeidsutvalg"
+          "title": "Konstituering av yrkesopplæringsnemnda i Buskerud - valg av leder og nestleder og valg av Arbeidsutvalg",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/b628ecd1-3c0a-4fde-a1ff-67129101e20a",
           "number": "6/2023",
-          "title": "Opplæringstilbudet i Buskerud fylkeskommune 2024-2025"
+          "title": "Opplæringstilbudet i Buskerud fylkeskommune 2024-2025",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/a777f09f-8367-4f41-af5b-7546f54dfc69",
           "number": "7/2023",
-          "title": "Oppnevning av prøvenemndsmedlemmer for prøvenemndsperioden 2024 - 2027"
+          "title": "Oppnevning av prøvenemndsmedlemmer for prøvenemndsperioden 2024 - 2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/1a625322-abc3-4531-a9ca-e06141d8b852",
           "number": "8/2023",
-          "title": "Inntaksordningen i Buskerud fylkeskommune"
+          "title": "Inntaksordningen i Buskerud fylkeskommune",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "3cc12b57bbae87afd7b6ab0889977a187e8ef3c3c4ba53168e596c0093fe6b05",
-      "protocolAvailable": false,
+      "agendaDocumentIds": null,
       "protocolDocumentIds": null,
+      "agendaAvailable": true,
+      "protocolAvailable": false,
       "caseDecisions": []
     },
     {
@@ -141,31 +153,34 @@
       "committee": "Buskerud Eldreråd",
       "committeeId": "Buskerud Eldreråd",
       "meetingDate": "11/20/2023 09:00:00",
-      "meetingDateUtc": "2023-11-20T08:00:00Z",
+      "meetingDateUtc": "2023-11-20T09:00:00Z",
       "meetingPlace": "Union Scene, Grønland 60, Drammen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/6c35be06-d2ba-4eb1-9680-9ed72623ebba",
       "agendaDocumentObjectId": "do_01kh8j63p4ea0bcyay9669dm0m",
+      "agendaSignature": "4b3946b3c9dc991382094ea4fdb44b4b31e1fdb39e9d197f886c8985aa4b48e0",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/86b1d6b6-4212-46fb-8503-302fc697726f",
           "number": "1/2023",
-          "title": "Valg av leder og nestleder til Buskerud eldreråd for 2023-2027"
+          "title": "Valg av leder og nestleder til Buskerud eldreråd for 2023-2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/ff0a88aa-f9ea-4fa8-a00d-3eccbd658935",
           "number": "2/2023",
-          "title": "Møteplan for Buskerud eldreråd i 2024"
+          "title": "Møteplan for Buskerud eldreråd i 2024",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/a9688f96-03a8-4d5b-88a6-103c744cbe99",
           "number": "3/2023",
-          "title": "Åpen post - eldrerådets møte 20. november 2023"
+          "title": "Åpen post - eldrerådets møte 20. november 2023",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "4b3946b3c9dc991382094ea4fdb44b4b31e1fdb39e9d197f886c8985aa4b48e0",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/6c35be06-d2ba-4eb1-9680-9ed72623ebba",
       "protocolDocumentIds": "https://prod02.elementscloud.no/ba6f5d25-2f76-450d-af28-22c1772fa352",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/ff0a88aa-f9ea-4fa8-a00d-3eccbd658935",
@@ -208,41 +223,46 @@
       "committee": "Ungdommens fylkesråd",
       "committeeId": "http://data.einnsyn.no/virksomhet/025d44cf-b389-47fc-bb1a-5d9c0c7b2bea",
       "meetingDate": "11/20/2023 09:00:00",
-      "meetingDateUtc": "2023-11-20T08:00:00Z",
+      "meetingDateUtc": "2023-11-20T09:00:00Z",
       "meetingPlace": "Scandic Ambassadeur Drammen, Strømsø Torg 7, 3044 Drammen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/ff52e37a-6071-47dd-bb78-7659ad2e8b49",
       "agendaDocumentObjectId": "do_01j76y2vn6f6fs01yfg5wrz24x",
+      "agendaSignature": "5b271c1d762427404adb927192016a740eb6cfaf5acce6ff526bd1b1ddad4ad9",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/d12fab9f-bd68-4d31-b328-d869cfe32912",
           "number": "1/2023",
-          "title": "Valg av leder og nestleder til Buskerud ungdomsråd"
+          "title": "Valg av leder og nestleder til Buskerud ungdomsråd",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/980e439e-caca-44c4-8c24-1c1f83be8b70",
           "number": "2/2023",
-          "title": "Møteplan for Buskerud Ungdomsråd"
+          "title": "Møteplan for Buskerud Ungdomsråd",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/2322c40a-c51b-4397-8c6a-a6dca5b3c0f1",
           "number": "3/2023",
-          "title": "Opplæringstilbudet i Buskerud fylkeskommune 2024-2025"
+          "title": "Opplæringstilbudet i Buskerud fylkeskommune 2024-2025",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/ebe75ac3-8bde-47c8-9945-fb8d431c2952",
           "number": "4/2023",
-          "title": "Inntaksordningen i Buskerud fylkeskommune"
+          "title": "Inntaksordningen i Buskerud fylkeskommune",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/46c3e8dc-f502-4c68-b650-28df285a7714",
           "number": "5/2023",
-          "title": "Eventuelt"
+          "title": "Eventuelt",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "5b271c1d762427404adb927192016a740eb6cfaf5acce6ff526bd1b1ddad4ad9",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/ff52e37a-6071-47dd-bb78-7659ad2e8b49",
       "protocolDocumentIds": "https://prod02.elementscloud.no/ddcf5e2d-e924-41f6-8d98-ccf4a9fe1cb2",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": []
     },
     {
@@ -251,31 +271,34 @@
       "committee": "Råd for mennesker med funksjonsnedsettelse",
       "committeeId": "Råd for mennesker med funksjonsnedsettelse",
       "meetingDate": "11/21/2023 09:00:00",
-      "meetingDateUtc": "2023-11-21T08:00:00Z",
+      "meetingDateUtc": "2023-11-21T09:00:00Z",
       "meetingPlace": "Union Scene, Grønland 60, Drammen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/de45b529-1bb3-422b-8d8d-af6020a1d341",
       "agendaDocumentObjectId": "do_01kh8jg3ekeapvqe31xpanz9vc",
+      "agendaSignature": "ea1177cfb46c0409bfadde44a8e98f9e2d56cd3300b75a4a5543360974193602",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/90842e41-947c-4179-ad1e-11f6c9ce01eb",
           "number": "1/2023",
-          "title": "Valg av leder og nestleder for råd for mennesker med funksjonsnedsettelse - RFF Buskerud for 2023-2027"
+          "title": "Valg av leder og nestleder for råd for mennesker med funksjonsnedsettelse - RFF Buskerud for 2023-2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/6bddd562-1d49-47a6-a3ce-6728a17c1f19",
           "number": "2/2023",
-          "title": "Møteplan for råd for mennesker med funksjonsnedsettelse - RFF Buskerud i 2024"
+          "title": "Møteplan for råd for mennesker med funksjonsnedsettelse - RFF Buskerud i 2024",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/336888dd-ad8b-4872-b76e-051fda6007e3",
           "number": "3/2023",
-          "title": "Åpen post - RFF Buskerud 21. november 2023"
+          "title": "Åpen post - RFF Buskerud 21. november 2023",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "ea1177cfb46c0409bfadde44a8e98f9e2d56cd3300b75a4a5543360974193602",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/de45b529-1bb3-422b-8d8d-af6020a1d341",
       "protocolDocumentIds": "https://prod02.elementscloud.no/c368a95e-3119-4a65-9862-e669f29a1bc0",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/90842e41-947c-4179-ad1e-11f6c9ce01eb",
@@ -318,41 +341,46 @@
       "committee": "Flerkulturelt utvalg",
       "committeeId": "http://data.einnsyn.no/virksomhet/668ca169-a729-4dd3-b2cb-7f950967cd6c",
       "meetingDate": "11/21/2023 09:00:00",
-      "meetingDateUtc": "2023-11-21T08:00:00Z",
+      "meetingDateUtc": "2023-11-21T09:00:00Z",
       "meetingPlace": "Multisal 2, Union Scene, Grønland 60, Drammen.,",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/02fae980-a077-4c4b-8b06-aec59ca3d80c",
       "agendaDocumentObjectId": "do_01j76y313pfbbsxk94d9fzjcd1",
+      "agendaSignature": "dc64e6beca0bf788440363c362918fa9f607b3de9b790ace107b0ccf147784c6",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/52437a8d-8228-4ced-9eae-08d978c13515",
           "number": "1/2023",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/aec46d6a-08e9-46d7-b72c-182cab1f21c3",
           "number": "2/2023",
-          "title": "Godkjenning av innkalling"
+          "title": "Godkjenning av innkalling",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/ca5ba870-e1c3-4166-ac85-5e2c89c1841a",
           "number": "3/2023",
-          "title": "Valg av leder og nestleder i flerkulturelt utvalg 2023-2027"
+          "title": "Valg av leder og nestleder i flerkulturelt utvalg 2023-2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/bb5bf48a-ab47-4f16-91bf-6fd7264df734",
           "number": "4/2023",
-          "title": "Møteplan for flerkulturelt utvalg for 2024"
+          "title": "Møteplan for flerkulturelt utvalg for 2024",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/bff01210-9922-4df9-868b-e239d263b882",
           "number": "5/2023",
-          "title": "Åpen post/Eventuelt"
+          "title": "Åpen post/Eventuelt",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "dc64e6beca0bf788440363c362918fa9f607b3de9b790ace107b0ccf147784c6",
-      "protocolAvailable": false,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/02fae980-a077-4c4b-8b06-aec59ca3d80c",
       "protocolDocumentIds": null,
+      "agendaAvailable": true,
+      "protocolAvailable": false,
       "caseDecisions": []
     },
     {
@@ -361,31 +389,34 @@
       "committee": "Hovedutvalg for næring og innovasjon",
       "committeeId": "http://data.einnsyn.no/virksomhet/c7f9c8a7-8b32-4a3b-aa2e-a5bab366048b",
       "meetingDate": "11/22/2023 09:00:00",
-      "meetingDateUtc": "2023-11-22T08:00:00Z",
+      "meetingDateUtc": "2023-11-22T09:00:00Z",
       "meetingPlace": "Union Scene, Grønland 60, 3045 Drammen, Multisal 1",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/262f93a2-ec1a-4434-b162-ba3ca249eefb",
       "agendaDocumentObjectId": "do_01j76y2v81eh59xwmarwhz14kf",
+      "agendaSignature": "fee0c18538d37154c18322c9040a0f318875e6ceb093cefef33bc0e704192fbb",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/b23cadce-784a-498a-b021-bf9f4503e4ff",
           "number": "1/2023",
-          "title": "Godkjenning av innkalling og saksliste"
+          "title": "Godkjenning av innkalling og saksliste",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/8387557e-4581-4b53-9ba3-6dd54315ace6",
           "number": "2/2023",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/95c04d10-1c19-4048-b738-e648c527930c",
           "number": "3/2023",
-          "title": "Høring av NOU 2023:23 Helhetlig forvaltning av akvakultur for bærekraftig verdiskaping"
+          "title": "Høring av NOU 2023:23 Helhetlig forvaltning av akvakultur for bærekraftig verdiskaping",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "fee0c18538d37154c18322c9040a0f318875e6ceb093cefef33bc0e704192fbb",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/262f93a2-ec1a-4434-b162-ba3ca249eefb",
       "protocolDocumentIds": "https://prod02.elementscloud.no/2e88056b-70d4-408f-98ea-8b31fbe45ca8",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/b23cadce-784a-498a-b021-bf9f4503e4ff",
@@ -428,26 +459,28 @@
       "committee": "Hovedutvalg for samferdsel",
       "committeeId": "http://data.einnsyn.no/virksomhet/b7db3fe9-12f8-4909-9ee9-50359988493b",
       "meetingDate": "11/22/2023 09:00:00",
-      "meetingDateUtc": "2023-11-22T08:00:00Z",
+      "meetingDateUtc": "2023-11-22T09:00:00Z",
       "meetingPlace": "Union Scene, multisal 2 ,Grønland 60, Drammen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": null,
       "agendaDocumentObjectId": "",
+      "agendaSignature": "08fb2149f1cf71eac8c03d2600b4b7e369905c0e33be8c540290e22fec5fa8dd",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/72872bd7-21c6-4e3d-b487-6041cf815717",
           "number": "1/2023",
-          "title": "Godkjenning av innkalling"
+          "title": "Godkjenning av innkalling",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/b66bd2c8-e18a-4c72-9679-c09ab9243c44",
           "number": "2/2023",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "08fb2149f1cf71eac8c03d2600b4b7e369905c0e33be8c540290e22fec5fa8dd",
-      "protocolAvailable": true,
+      "agendaDocumentIds": null,
       "protocolDocumentIds": "https://prod02.elementscloud.no/5de5e2c4-9dc1-40b1-b6ed-de2a3f0cb5db",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/b66bd2c8-e18a-4c72-9679-c09ab9243c44",
@@ -479,36 +512,40 @@
       "committee": "Hovedutvalg for opplæring",
       "committeeId": "http://data.einnsyn.no/virksomhet/e357fc51-9400-4ef4-8b21-faf3c4ec3b5d",
       "meetingDate": "11/24/2023 09:00:00",
-      "meetingDateUtc": "2023-11-24T08:00:00Z",
+      "meetingDateUtc": "2023-11-24T09:00:00Z",
       "meetingPlace": "Union scene, Grønland 60, Drammen, Union scene, Grønland 60, Drammen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": null,
       "agendaDocumentObjectId": "",
+      "agendaSignature": "838dec3149fb2cea2cd128400bb12d014db8e89bb9b74b1bb4d5554bef917203",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/08742714-5c82-4eca-9da8-b79417ef6a57",
           "number": "1/2023",
-          "title": "Godkjenning av innkalling"
+          "title": "Godkjenning av innkalling",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/d555b9a4-70eb-45ee-9b6e-4b376f939eda",
           "number": "2/2023",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/c496a04e-6fcc-44bb-aeb8-8a9cba79a234",
           "number": "3/2023",
-          "title": "Inntaksordningen i Buskerud fylkeskommune"
+          "title": "Inntaksordningen i Buskerud fylkeskommune",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/6fb505e0-5fc0-4a19-878a-3d6acd6b92d3",
           "number": "4/2023",
-          "title": "Opplæringstilbudet i Buskerud fylkeskommune 2024-2025"
+          "title": "Opplæringstilbudet i Buskerud fylkeskommune 2024-2025",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "838dec3149fb2cea2cd128400bb12d014db8e89bb9b74b1bb4d5554bef917203",
-      "protocolAvailable": false,
+      "agendaDocumentIds": null,
       "protocolDocumentIds": null,
+      "agendaAvailable": true,
+      "protocolAvailable": false,
       "caseDecisions": []
     },
     {
@@ -517,26 +554,28 @@
       "committee": "Hovedutvalg for kultur, idrett og folkehelse",
       "committeeId": "http://data.einnsyn.no/virksomhet/0ab25b88-3382-4c86-8c04-e7e399f0b0a0",
       "meetingDate": "11/24/2023 09:00:00",
-      "meetingDateUtc": "2023-11-24T08:00:00Z",
+      "meetingDateUtc": "2023-11-24T09:00:00Z",
       "meetingPlace": "Union Scene, Grønland 60, 3045 Drammen, Multisal 2",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/47eb6be4-6639-476c-8387-28478e952e2d",
       "agendaDocumentObjectId": "do_01j76y2v6sfg3sr8j1ec26ht1g",
+      "agendaSignature": "cf10e003f5e0a5c0448d3896625fa591783a4cafcbcc0d4637d7ae54a40c0fbf",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/0d1d1bd8-5f3a-4477-9b12-c9da6849f4f9",
           "number": "1/2023",
-          "title": "Godkjenning av innkalling"
+          "title": "Godkjenning av innkalling",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/65fdc668-e766-4bb6-9efe-8b4a843fa313",
           "number": "2/2023",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "cf10e003f5e0a5c0448d3896625fa591783a4cafcbcc0d4637d7ae54a40c0fbf",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/47eb6be4-6639-476c-8387-28478e952e2d",
       "protocolDocumentIds": "https://prod02.elementscloud.no/bb7bb4a3-3187-46be-81ba-680c89023d3a",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/0d1d1bd8-5f3a-4477-9b12-c9da6849f4f9",
@@ -568,41 +607,46 @@
       "committee": "Fylkesutvalget",
       "committeeId": "http://data.einnsyn.no/virksomhet/7659379c-9851-4e2e-8b31-6eb7cb9b81ee",
       "meetingDate": "11/27/2023 09:00:00",
-      "meetingDateUtc": "2023-11-27T08:00:00Z",
+      "meetingDateUtc": "2023-11-27T09:00:00Z",
       "meetingPlace": "Multisal 2, Union Scene, Grønland 60, Drammen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/6b038522-ab8d-4632-b441-1af01cb73769",
       "agendaDocumentObjectId": "do_01j76y2v6hes08vpabhrffay6q",
+      "agendaSignature": "1b59012436dc2edf0d1586242a929ec093a54d220674504956c76d5b35f8e631",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/abf8dd75-da60-4867-9372-efc5f607dd5f",
           "number": "6/2023",
-          "title": "Godkjenning av innkalling og saksliste"
+          "title": "Godkjenning av innkalling og saksliste",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/bdd36310-ca67-4908-8686-c6b7c5628ed0",
           "number": "7/2023",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/990dc51b-356d-4a51-96bb-15a81c638688",
           "number": "8/2023",
-          "title": "Økonomi- og finansreglement"
+          "title": "Økonomi- og finansreglement",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/70734c26-4317-4eba-8293-4063673f03c9",
           "number": "9/2023",
-          "title": "Årsbudsjett 2024 og økonomiplan 2024 - 2027 for Buskerud"
+          "title": "Årsbudsjett 2024 og økonomiplan 2024 - 2027 for Buskerud",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/173eeec4-7b03-491f-81e2-dffea7582309",
           "number": "10/2023",
-          "title": "Spørsmål om flagging for solidaritet med Palestina"
+          "title": "Spørsmål om flagging for solidaritet med Palestina",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "1b59012436dc2edf0d1586242a929ec093a54d220674504956c76d5b35f8e631",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/6b038522-ab8d-4632-b441-1af01cb73769",
       "protocolDocumentIds": "https://prod02.elementscloud.no/d35f693a-1082-4913-807d-e709042dffe1",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/bdd36310-ca67-4908-8686-c6b7c5628ed0",
@@ -667,36 +711,40 @@
       "committee": "Partssammensatt utvalg",
       "committeeId": "http://data.einnsyn.no/virksomhet/cb0c7908-6792-4fac-99e5-721923fe21fa",
       "meetingDate": "11/30/2023 14:00:00",
-      "meetingDateUtc": "2023-11-30T13:00:00Z",
+      "meetingDateUtc": "2023-11-30T14:00:00Z",
       "meetingPlace": "Digitalt møte på teams",
-      "agendaAvailable": true,
-      "agendaDocumentIds": null,
       "agendaDocumentObjectId": "",
+      "agendaSignature": "c0ae33db81362bc7fb774d9fde5a3e1d61c9826a04d97a815646210507e2a51e",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/4291900f-c4e7-4445-86fe-c66523ee08c1",
           "number": "1/2023",
-          "title": "Godkjenning av innkalling"
+          "title": "Godkjenning av innkalling",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/eca5d0c4-4ca3-48d7-98c5-a2a2897c3b55",
           "number": "2/2023",
-          "title": "Partssammensatt utvalg i Buskerud - liste over medlemmer"
+          "title": "Partssammensatt utvalg i Buskerud - liste over medlemmer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/46b6f563-7638-425b-b425-47f9b9b3933d",
           "number": "3/2023",
-          "title": "Etiske retningslinjer for Buskerud fylkeskommune"
+          "title": "Etiske retningslinjer for Buskerud fylkeskommune",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/5fdb541f-1bfe-49ee-a752-f18d2ec2f564",
           "number": "4/2023",
-          "title": "Arbeidsreglement for Buskerud fylkeskommune"
+          "title": "Arbeidsreglement for Buskerud fylkeskommune",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "c0ae33db81362bc7fb774d9fde5a3e1d61c9826a04d97a815646210507e2a51e",
-      "protocolAvailable": true,
+      "agendaDocumentIds": null,
       "protocolDocumentIds": "https://prod02.elementscloud.no/29ee29b6-3182-419c-97a7-50a5acb1509b",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/eca5d0c4-4ca3-48d7-98c5-a2a2897c3b55",

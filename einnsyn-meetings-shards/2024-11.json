@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "shardType": "meetings",
   "shardKey": "2024-11",
-  "updatedAtUtc": "09/21/2026 17:51:51",
+  "updatedAtUtc": "09/21/2026 21:07:26",
   "meetingCount": 16,
   "meetings": [
     {
@@ -3180,42 +3180,174 @@
           "title": "Faste tilskudd til museer og privatarkiv i Buskerud",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F5e1f3521-d035-4ef8-b94f-5adc1f07a414",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb350d430-bb08-4396-93a4-dec6f5c398fb",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01je32km34f0qs8dby5xxac3q0",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb350d430-bb08-4396-93a4-dec6f5c398fb"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "73/2024",
           "title": "Svar på høring - Forslag til justeringer i tilskudd til nasjonalanlegg for internasjonale mesterskap",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F1cb02313-6db3-4fae-be17-f6a7cf762670",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff74529a1-e624-470d-812f-77f3a31832aa",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01je32kkysftds6qdbqc0m82fy",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff74529a1-e624-470d-812f-77f3a31832aa"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "74/2024",
           "title": "Partnerskapsavtale med Viken idrettskrets",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F51e80190-f170-4bb1-85cc-efe5c335abbc",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F412aee12-a8d7-4c0f-a915-871560f0aaf5",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01je32km0qfa1anhha79g607dw",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F412aee12-a8d7-4c0f-a915-871560f0aaf5"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "75/2024",
           "title": "Vurdering av faste tilskudd innen kultur, idrett og friluftsliv",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Ff6ff6816-bfcd-4174-8290-657f513a74af",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb9c9f1d5-a93b-41b8-b5e4-f078f7b1f61d",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01je32kmjce8x8v7x61jfkvb2k",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb9c9f1d5-a93b-41b8-b5e4-f078f7b1f61d"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "76/2024",
           "title": "Tildelinger KulturArvOpplevelser - Høsten 2024",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F0c29e6fc-92aa-4680-b358-a417b451e5c4",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F36295ea1-0410-43f9-9a12-d63809b25a05",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01je32kkvte80bn9n8wgttq64h",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F36295ea1-0410-43f9-9a12-d63809b25a05"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "77/2024",
           "title": "Saksfremlegg - Tverrfaglig satsing på friluftsliv, kulturminner og reiseliv i Friluftlivets år 2025",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F116475e5-af57-4f11-92f5-6d94e34a8aef",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fbc10717b-e1dc-4f41-af8b-c55e5754e612",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01je32kkwnfzery6t2j6x34xta",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fbc10717b-e1dc-4f41-af8b-c55e5754e612"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         }
       ],
       "attendance": {

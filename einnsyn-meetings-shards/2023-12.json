@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "shardType": "meetings",
   "shardKey": "2023-12",
-  "updatedAtUtc": "09/21/2026 12:12:59",
+  "updatedAtUtc": "09/21/2026 15:51:10",
   "meetingCount": 3,
   "meetings": [
     {
@@ -19,151 +19,583 @@
           "title": "Godkjenning av innkalling og saksliste",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F647c7663-e04f-4ac9-a96b-2bc17ec03cd3",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F419ce533-d6b3-4fd4-ba39-9f6dd3212440",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Innkalling og saksliste ble godkjent."
+            },
+            "document": {
+              "objectId": "do_01j76y2w0mecnv6nbeeygh30pb",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F419ce533-d6b3-4fd4-ba39-9f6dd3212440"
+            },
+            "error": null
+          }
         },
         {
           "number": "12/2023",
           "title": "Orienteringer",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F4877e3c5-4557-4307-bea8-dbc0f793fdce",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F6e7b57e8-8364-4dea-9a35-186fcdd526db",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Ingen vedtak under orienteringer."
+            },
+            "document": {
+              "objectId": "do_01j76y2vn4eegv579exkeey402",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F6e7b57e8-8364-4dea-9a35-186fcdd526db"
+            },
+            "error": null
+          }
         },
         {
           "number": "13/2023",
           "title": "Regional planstrategi for Buskerud",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F602cea66-a772-4031-847b-8d8940f6f546",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F30307a0a-e097-402a-a16a-6c948882a9f5",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkeskommunedirektørens forslag til vedtak:",
+              "text": "1. Fylkestinget slutter seg til foreslått fremdriftsplan for arbeidet, og at ny regional planstrategi for Buskerud vedtas av Buskerud fylkesting i juni 2024 2. Fylkestinget mener det er særlig viktig at kommunene kjenner seg igjen i det mulighets- og utfordringsbildet som beskrives i Buskerudregionen 3. Fylkestinget har som forutsetning at arbeidet med regional planstrategi gir et relevant kunnskapsgrunnlag for prioriteringer av særlig viktige samfunnsoppdrag Behandling: Bård Sødal Grasbekk (MDG) fremmet protokolltilførsel på vegne av MDG: Hvordan Buskerud skal se ut i framtiden? ble reist som spørsmål i orienteringen. Norge godkjente europarådets landskapskonvensjon i 2001. Og denne omfatter alle typer landskap; by- og bygdelandskap, kyst- og fjellandskap. Den handler om verdifulle landskap, ordinære landskap og om landskap som kan trenge reparasjon. Landskapet er i stadig endring. Konvensjonen tar ikke sikte på å hindre endringer men å påvirke endringene i en retning som folk ønsker. Konvensjonen legger særlig vekt på medvirkning, landskapet der folk bor og arbeider og der barn vokser opp. Vil administrasjonen se til landskapskonvensjonen i arbeidet med kunnskapsgrunnlaget og arbeidet med å vurdere utfordringer og muligheter for Buskerud? Følgende representanter hadde ordet til saken: Lavrans Kierulf (Frp), Christina Højer Mørkve (H), Tore Opdal Hansen (H) og Bård Sødal Grasbekk (MDG)"
+            },
+            "document": {
+              "objectId": "do_01j76y2vwkfc8vm31tsm7wmmxc",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F30307a0a-e097-402a-a16a-6c948882a9f5"
+            },
+            "error": null
+          }
         },
         {
           "number": "14/2023",
           "title": "Eierskapsmelding 2024 for Buskerud fylkeskommune",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd5ac2567-11ac-493b-bb5f-a2c075ecffff",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F95e9b2a5-d430-4106-b010-148aff2849d1",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkeskommunedirektørens forslag til vedtak:",
+              "text": "a) Fylkestinget vedtar prinsipper for eierstyring slik det fremgår av vedlagte eierskapsmelding for Buskerud fylkeskommune. b) Fylkestinget ber fylkeskommunedirektør legge frem en årlig eierskapsrapport over Buskerud fylkeskommunes eierportefølje"
+            },
+            "document": {
+              "objectId": "do_01j76y2vg9e1q9ggt97zfp18j0",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F95e9b2a5-d430-4106-b010-148aff2849d1"
+            },
+            "error": null
+          }
         },
         {
           "number": "15/2023",
           "title": "Samlesak medlemskap, prosjekter, nettverk og utviklingssamarbeid",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F147c9e7a-0fde-4dc4-a12a-4dd9d1c583ba",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2da26248-7737-453d-a4d1-49e21539bf70",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkeskommunedirektørens forslag til vedtak:",
+              "text": "1. Fylkestinget vedtar at følgende medlemskap, prosjekter, nettverk og utviklingssamarbeid ikke videreføres: • Fagråd om sosial ulikhet • Partnerskapsmidler folkehelse • Partnerskapsavtale Voksenopplæringsforbundet (VOFO) • Prosjekt for inkludering i arbeid og utdanning (PIAU) • Samarbeid med Berlin • Biogass Oslofjord • Klima Viken • Klimapartnere Viken • Partnerskap for næring og kunnskap i Buskerud • Talentsatsinger; UngMusikk og DanseFot • OECD – bærekraftprosjekt • Transparency International 2. Fylkestinget vedtar at følgende medlemskap, prosjekter, nettverk og utviklingssamarbeid videreføres: • Arealregnskap • Fjellnettverket • Fordeling av ansvar for EU-prosjekter til de nye fylkeskommunene • Hardangerviddarådet • Include • Interreg Øresund-Kattegat-Skagerrak (ØKS) • Nordfjellarådet • Råd for Norefjell og Reinsjøfjell • Samarbeidsavtale med Distriktssenteret • Vannområdene i Buskerud (Hallingdal, Numedalslågen, Simoa, Tyrifjorden, Eikeren og Drammenselva) • Kongsberg Kompetansesenter for Yrkesfag • Nasjonal Digital Læringsarena – NDLA • Ungt Entreprenørskap • Buskerudbyen • Haukeliveien AS • Forum for nye Bergensbanen • Avtale med Drammen kommune om Triztan Vindtorn poesipris • Olympiatoppen Østlandet • Oslofjorden friluftsråd • Partnerskapsavtale Viken Idrettskrets • Politisk forum Skagerrak • Skjærgårdstjenesten • Østlandsutstillingen • Kunst Rett Vest • Nasjonalt Bærekraftsnettverk 3. Fylkeskommunedirektøren bes vurdere følgende medlemskap, prosjekter, nettverk og utviklingssamarbeid i løpet av 2024: • Conference of peripheral maritime regions (CPMR), inklusive Nordsjøkommisjonen(NSC) • Euromontana • Osloregionens Europakontor • Bærekraftsløft Viken 4. Fylkeskommunedirektøren bes saldere innsparte midler i revidert budsjettforslag for budsjett og økonomiplan 2024-2027. Behandling: Følgende representanter hadde ordet til saken: Lirigzona Berisha (Ap), Lavrans Kierulf (Frp) og Christina Højer Mørkve (H)."
+            },
+            "document": {
+              "objectId": "do_01j76y2vc9fdpv03snc1kz7wjk",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2da26248-7737-453d-a4d1-49e21539bf70"
+            },
+            "error": null
+          }
         },
         {
           "number": "16/2023",
           "title": "Etiske retningslinjer for Buskerud fylkeskommune",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F95aaf306-3b44-4218-8ff2-9c73f94644ca",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4daedde9-1c45-4a0d-82cf-d1ec4e982a5e",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkeskommunedirektørens forslag til vedtak:",
+              "text": "Etiske retningslinjer for Buskerud fylkeskommune vedtas. Behandling: Tonje Enersen (Ap) fremmet tilleggsforslag på vegne av Ap: Under overskriften Ytringsfrihet og ytringsansvar: Lojalitetsplikten skal ikke legge begrensninger på den ansattes rettigheter. Følgende representanter hadde ordet til saken: Tonje Enersen (Ap) og Lavrans Kierulf (Frp)"
+            },
+            "document": {
+              "objectId": "do_01j76y2w5yf2085zg3w84t2vj7",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4daedde9-1c45-4a0d-82cf-d1ec4e982a5e"
+            },
+            "error": null
+          }
         },
         {
           "number": "17/2023",
           "title": "Arbeidsreglement for Buskerud fylkeskommune",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F5c21f051-69ec-450d-ba15-db1178facb07",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe39f8bb1-942a-440f-b02e-d3407d783307",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkeskommunedirektørens forslag til vedtak:",
+              "text": "Arbeidsreglement for Buskerud fylkeskommune vedtas."
+            },
+            "document": {
+              "objectId": "do_01j76y2vv7e568rv1nmzm3yx9e",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe39f8bb1-942a-440f-b02e-d3407d783307"
+            },
+            "error": null
+          }
         },
         {
           "number": "18/2023",
           "title": "Revisjon av forskrift for folkevalgtes arbeidsvilkår i Buskerud fylkeskommune",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F7a9bafc3-1238-4595-b4ae-db636f659826",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F8a640719-092b-403a-bcbc-0715929c6a08",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkeskommunedirektørens forslag til vedtak:",
+              "text": "Buskerud fylkesting vedtar følgende endringer i forskrift for folkevalgtes arbeidsvilkår i Buskerud: Innholdsfortegnelsen Fylkeskommunedirektøren foreslår følgende endring: Avsnittene Pkt. 3.3 – 3.7 flyttes til avsnitt 4 Pkt. 4.4-4.7 da innholdet i avsnittet anses som hjemmehørende her. 3.1 Fylkeskommunalt tilskudd Fylkeskommunedirektøren foreslår følgende endring: Rammen for ordningen i 2023 er begrenset oppad til kr. 2 033 685 Grunnbeløp per gruppe kr …36 976........, - Grunnbeløp per representant kr ...34 616…,- 4.1 Hva fast årsgodtgjøring dekker Fylkeskommunedirektøren foreslår følgende endring: Forhandlingsutvalget tas ut: Faste representanter i fylkestinget, fylkesutvalget, hovedutvalgene, PSU og kontrollutvalget mottar fast årsgodtgjøring fra fylkeskommunen 4.3 Satser for fast årsgodtgjøring til valgte representanter Fylkeskommunedirektøren foreslår følgende endringer: • Tabellen tas ut av dokumentet, og det henvises til tabell i avsnitt 11. • Dersom antall medlemmer i partigruppen endres i valgperioden, foretas det omregning av gruppeledergodtgjøringen slik at satsen er i korrekt i henhold til forskriften. • Utbetalingstidspunkt for fast årsgodtgjøring Godtgjøringen betales ut med 1/12 hver måned. Avregning vedrørende fraværsdager, jamfør punkt 5.1, skjer regelmessig. 4.4 Fravær Fylkeskommunedirektøren foreslår at følgende avsnitt slettes: For fylkespolitikere som dokumenterer at de fast har redusert sin ordinære stilling, gjelder følgende: Fast godtgjøring utbetales uavkortet ved egen sykdom i inntil ett år og i henhold til arbeidsmiljøloven § 12-9 ved barns eller barnepassers sykdom. Fylkeskommunedirektøren foreslår at følgende avsnitt slettes: I tidsrommet en folkevalgt venter på utbetaling fra NAV kan den folkevalgte og fylkeskommunen inngå avtale av inntil to måneders varighet, om forskuttert utbetaling av godtgjøringen, med etterfølgende trekk. 4.5 Godtgjøring ved leders langtidsfravær Fylkeskommunedirektøren foreslår følgende endring: Dersom fylkesordfører eller leder for et hovedutvalg har langtidsfravær ut over 1 måned, innrømmes nestleder full ledergodtgjøring i funksjonsperioden. Fylkeskommunedirektøren foreslår at følgende avsnitt slettes: Fast godtgjøring utbetales uavkortet ved egen sykdom i inntil ett år og i henhold til arbeidsmiljøloven § 12-9 ved barns eller barnepassers sykdom. 5.Trekk og tillegg i fast årsgodtgjøring Fylkeskommunedirektøren foreslår følgende endring: Representanter med fast godtgjøring som har ugyldig fravær trekkes forholdsvis. Det vil si at dersom medlemmet har ugyldig fravær til et utvalgsmøte, trekkes en måned fast godtgjøringssats for utvalget det gjelder. 6.1 Godtgjøring til valgte representanter i andre utvalg, styrer mv. samt for deltakelse i seminarer Fylkeskommunedirektøren foreslår følgende endring: Dersom leder for et hovedutvalg har langtidsfravær ut over 1 måned, innrømmes nestleder full ledergodtgjøring i funksjonsperioden. Fylkeskommunedirektøren foreslår at følgende avsnitt slettes: Konsultative medlemmer av utvalg som ikke får godtgjøring på annen måte, tilstås møtegodtgjøring dersom dette er medtatt direkte eller indirekte i oppnevningsvedtaket. Unntak gjelder for konsultative medlemmer som er arbeidsgiverrepresentanter. 6.2 Erstatning for tapt arbeidsfortjeneste m.m. Fylkeskommunedirektøren foreslår følgende endringer: Kravet til legitimasjon er bekreftelse fra arbeidsgiver om tapt arbeidsfortjeneste. Det må fremgå av dokumentasjonen timeantallet det søkes om refusjon for, og det forutsettes at timene er innenfor normalarbeidstid 0800-1600. Tapt arbeidsfortjeneste utenfor dette tidsrommet må dokumenteres og godkjennes av fylkeskommunedirektør. For selvstendig næringsdrivende kreves egenerklæring og ligningsattest for faktisk tapt arbeidsfortjeneste. Dokumentasjonen må godkjennes av fylkeskommunedirektøren Fylkeskommunedirektøren foreslår at følgende avsnitt slettes: Arbeidstid forstås som kl 08-16, også for pensjonister, studenter, arbeidsledige m.v. Tapt faktisk arbeidsfortjeneste utenfor dette tidsrommet, må dokumenteres og godkjennes av godtgjøringsutvalget. Antall arbeidstimer Arbeidstid forstås som kl 08-16, også for pensjonister, studenter, arbeidsledige m.v. Tapt faktisk arbeidsfortjeneste utenfor dette tidsrommet må dokumenteres og godkjennes av godtgjøringsutvalget. 7.4 Dekning av utgifter for tilsyn med barn Fylkeskommunedirektøren foreslår følgende endringer: - Utgifter til tilsyn av barn under 12 år, dersom slikt tilsyn er nødvendig for utøvelsen av tillitsvervet, dekkes med inntil kr 970,- pr dag. -I forbindelse med oppdragsreiser for fylkeskommunen kan legitimerte utgifter til skyss og kost for barnepasser til baby dekkes. Fylkeskommunedirektøren foreslår at følgende avsnitt slettes: Ved dokumentert behov tilsyn med barn om natten, eller tap i familieinntekten for å dekke nattilsynet, kan det tilstås nattillegg i henhold til reiseregulativet, dersom det er behov for det. Nattillegget kan gjelde også for barn over 12 år. 9. Ekstra boutgifter for politikere Fylkeskommunedirektøren foreslår følgende endring: Heltidspolitikere som må leie bolig for å utøve sitt verv, kan søke om å få dekket kostnader til ekstrautgifter begrenset oppad til markedsleie. Det må inngås en særskilt avtale som godkjennes av fylkeskommunedirektør, for at fylkeskommunen kan dekke nevnte utgifter. 10. Fortolkninger av reglementet Fylkeskommunedirektøren foreslår følgende endring: Fortolkninger av dette reglementet kan gjøres av fylkesutvalget. Ved uenighet sendes uklarheten til fortolkning i fylkestinget. Fylkeskommunedirektøren at følgende slettes: Godtgjøringsutvalget består av 3 medlemmer valgt blant fylkesutvalgets medlemmer. Det forutsettes enstemmighet i godtgjøringsutvalget, i motsatt fall sendes uklarheten til fylkestinget. 11. Indeksregulering og satser Fylkeskommunedirektøren foreslår følgende endringer: Eksisterende tabell erstattes med ny tabell med oppdaterte satser. Videre er det lagt inn en egen linje for PSU 5%. Administrasjonsutvalget er fjernet da dette utvalget ikke er opprettet i Buskerud fylkeskommune. Forhandlingsutvalget er tatt ut av tabellen Behandling: Mons Ivar Mjelde (Ap) fremmet endringsforslag på vegne av Ap: 6.2 Erstatning for tapt arbeidsfortjeneste m.m. Følgende slettes: Teksten \", og det forutsettes at timene er innenfor normalarbeidstid 0800-1600 \" (slettes gjennomgående i dokumentet, dersom nevnt flere steder) Tore Opdal Hansen (H) fremmet tilleggsforslag på vegne av H: Punkt 6.1 erstatning for tapt arbeidsfortjeneste m.m. Nye første setninger: Faste representanter i fylkestinget, fylkesutvalget, hovedutvalgene, PSU og kontrollutvalget mottar fast årsgodtgjøring fra fylkeskommunen. Den faste årsgodtgjøringen dekker møtegodtgjøring og tapt arbeidsfortjeneste for deltakelse i inntil 15 møter/befaringer, i samsvar med møte- og befaringsprogrammet. Iselin Haugo Stavn (H) fremmet tilleggsforslag på vegne av H, Frp, KrF og INP: Punkt 5.3: Godtgjøring til vararepresentanter Vararepresentanter til fylkesting, hovedutvalg, kontrollutvalg og fylkesutvalg mottar kr. 4000 per møtedag. Vararepresentasjon til øvrige utvalg beløper seg til 2705 kroner per møtedag. Satsen indeksreguleres. Følgende representanter hadde ordet til saken: Tore Opdal Hansen (H), Mons Ivar Mjelde (Ap) og Iselin Haugo Stavn (H)"
+            },
+            "document": {
+              "objectId": "do_01j76y2w2zevqam1egttqx9mgd",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F8a640719-092b-403a-bcbc-0715929c6a08"
+            },
+            "error": null
+          }
         },
         {
           "number": "19/2023",
           "title": "Buskerud fylkeskommunes reglement - forslag til endringer mv og orientering om oppdatering i tre reglement",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F4b2e5fff-2879-49b4-90e1-dd25a1cc2061",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0f4aa455-57d1-46d9-9ecc-5aba8dbf78c5",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkeskommunedirektørens forslag til vedtak:",
+              "text": "1. Buskerud fylkesting vedtar følgende endringer i Reglement for delegering av myndighet og tildeling av innstillingsrett fra Buskerud fylkesting: Pkt 6.1 fjerde avsnitt, om fylkesordførers disposisjonskonto, slettes. Pkt. 11 Plan og bygningsloven andre avsnitt kulepunkt 12 fjernes. Pkt. 11 Delegasjon etter yrkestransportlova av 21.6.2002 nr. 45 andre setning endres til: «Godtgjørelse eller enerett ved tildeling av ruteløyve etter § 8, og anbud ved tildeling etter §§ 6 og 7 (tjenestekonsesjonskontrakter).» Pkt. 11 Lov om vassdrag og grunnvann (vannressursloven) av 24.11.2000 nr. 82 andre avsnitt nest siste kulepunkt slettes. Pkt. 11 Forskrift av 21. januar 2022 om jakt- og fangsttider samt sanking av egg og dun for jaktsesongene fra 1.april 2023 til og med 31. mars 2028 «Hovedutvalget for næring og innovasjon er delegert: • Myndighet til å endre jakttida for elg og/eller hjort på eget initiativ eller etter forslag fra kommunen iht. § 3 nr.2 bokstav a. • Myndighet til å åpne for jakt på kanadagås og stripegås inntil 15 dager i forkant av ordinær jakttid iht. § 3 nr.2 bokstav b.» 2. Buskerud fylkesting vedtar følgende endringer i Reglement for delegering av myndighet og tildeling av innstillingsrett fra Buskerud fylkesting: Overskrift i pkt. 5.2.1 endres til «Myndighet». 3. Reglement for yrkesopplæringsnemnda i Buskerud fylkeskommune pkt. 2 andre avsnitt endres til: «Det oppnevnes inntil to varamedlemmer for hvert medlem.» 4. Fylkeskommunedirektør innarbeider endringene i reglementene. Fylkestinget orienteres i etterkant. 5. Fylkestinget tar fylkeskommunedirektørens oppdateringer i - Reglement for fylkesting, fylkesutvalg og hovedutvalgene 2023-2027, - Reglement for delegering av myndighet og tildeling av innstillingsrett fra Buskerud fylkesting og - Reglement for yrkesopplæringsnemnda i Buskerud fylkeskommune, til orientering."
+            },
+            "document": {
+              "objectId": "do_01j76y2vqgf09tpraexege58d7",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0f4aa455-57d1-46d9-9ecc-5aba8dbf78c5"
+            },
+            "error": null
+          }
         },
         {
           "number": "20/2023",
           "title": "Ringerike kommune - kommuneplanens arealdel 2023 - 2035 høringsuttalelse",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F60a7366c-20f7-48aa-9360-ee345c56d5bf",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F574be759-aa0f-4025-b59d-166e51d308a8",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkeskommunedirektørens forslag til vedtak:",
+              "text": "1. Fylkesutvalget er opptatt av at kommuneplanens arealdel er et godt verktøy for at Ringerike kommune lykkes med å realisere sine overordna samfunnsmål. Fylkesutvalget støtter kommunens strategi om en kompakt by- og tettstedsutvikling. 2. Fylkeskommunen som vegeier er bekymret for at arealutviklingen gir økt trafikk. Dette vil ramme fremkommeligheten på vegnettet, og særlig er dette negativt for kollektivtransporten. For at kommunen skal kunne nå nullvekstmålet de har satt seg, vil fylkesutvalget anbefale at det legges opp til en konsentrert arealbruk i prioriterte utviklingsområder. Fylkesutvalget vil samtidig anerkjenne kommunens behov for også å utvikle bygdene og tettstedene. 3. Fylkesutvalget anbefaler at Ringerike kommune ikke endrer arealformålet for innspill 2 Prestmoen i denne kommuneplanrulleringen. Området anbefales videreført som LNF og råstoffutvinning. Prestmoen legger opp til vekst utenfor kommunens satsningsområde for næring, og de mulige virkningene dette vil ha på byutvikling og trafikkutvikling bør utredes bedre. 4. Fylkesutvalget anbefaler kommunen å se til fylkeskommunens faglige råd i sluttbehandlingen av kommuneplanen. Fylkesutvalget vil spesielt peke på faglige råd knyttet til trafikktrafikkbelastning på våre fylkesveier, trafikksikkerhet, kollektiv, trygge skoleveier, friluftsliv, dyrka mark, kulturminner, vann og vassdrag. Fylkeskommunen vil invitere kommunen til en gjennomgang av våre faglige råd. Behandling: Christopher Amundsen Wand (H) fremmet alternativt forslag på vegne av H, Frp, KrF og INP: 1. Fylkesutvalget er opptatt av at kommuneplanens arealdel er et godt verktøy for at Ringerike kommune lykkes med å realisere sine overordnede samfunnsmål. Fylkesutvalget støtter kommunens strategi om en kompakt by- og tettstedsutvikling. 2. Fylkeskommunen som vegeier viser til at arealutviklingen kan gi økt trafikk. Det er viktig å tenke helhetlig og ta innover seg konsekvensene på vegnettet og kollektivtransporten. Fylkeskommunen har begrensede rammer til å øke kapasiteten utenfor konsentrerte arealområder, og ber kommunen ta hensyn til vei- og kollektivtrafikk. Fylkesutvalget vil anerkjenne kommunens behov for også å utvikle bygdene og tettstedene. 3. Fylkesutvalget er positiv til utvikling på Ringerike. Utvikling i både næring og boligformål vil understøtte målsetningene staten har lagt til grunn i FRE16-prosjektet. Særlig vil økt befolkningsvekst være et godt argument for gjennomføring av planen. Fylkesutvalget viser til at store områder på Ringerike og ved Prestmoen er båndlagt i forbindelse med FRE16. Det er planlagt motorveikryss på Prestmoen, og fylkeskommunen arbeider for motorveikryss på Helgelandsmoen. Fylkeskommunens støtte til prosjektet ses naturlig i sammenheng med fylkeskommunens støtte til FRE16. 4. Fylkesutvalget anbefaler kommunen å se til fylkeskommunens faglige råd i sluttbehandlingen av kommuneplanen. Fylkesutvalget vil spesielt peke på faglige råd knyttet til trafikktrafikkbelastning på våre fylkesveier, trafikksikkerhet, kollektiv, trygge skoleveier, friluftsliv, dyrka mark, kulturminner, vann og vassdrag. Fylkeskommunen inviterer gjerne kommunen til en gjennomgang av våre faglige råd. 5. Fylkesutvalget tar formuleringene om «Parkering» ut av høringsuttalelsen. 6. Fylkesutvalget mener Ringerike kommune vet best selv, hvor de bør legge til rette for eksisterende og nye næringer. 7. Fylkesutvalget mener Ringerike kommune har gjort en god jobb når det kommer til å redusere nedbygging av dyrka mark og har ingen ytterligere behov for at kommunen skal redusere ytterligere. 8. Fylkesutvalget mener Ringerike kommune har god oversikt over sine egne områder som er statlig sikret til friluftsformål, Finsandodden, Grantopp, Heiernstranda, Nakkerud, Ringkollen og Skageneskollen. Formuleringene om friluftsliv kan derfor tas ut av høringsinnspillet. 9. Fylkesutvalget mener formuleringene om innsigelse i tilknytning til Arkeologi kan tas ut av høringsinnspillet. 10. Fylkesutvalget stryker «Innspill 2 – Prestmoen» fra høringsinnspillet. 11. Fylkesutvalget stryker «Innspill A-2 – Hvervenmoen fra høringsinnspillet. 12. Fylkesutvalget stryker siste setning til «Innspill 54 – Haugsbygd, Putten» og gir dermed ikke en anbefaling om at arealet opprettholdes som LNF-område. 13. Fylkesutvalget stryker «Innspill 70 – Sokna, Permobakken Nord» fra høringsinnspillet. 14. Fylkesutvalget stryker «Innspill 74 – Skjærdalen» fra høringsinnspillet 15. Fylkesutvalget stryker siste setning i «Innspill 75 Steinrøysåsen» fra høringsinnspillet og markerer derfor ikke alternativet om innsigelse. 16. Fylkesutvalget stryker siste setning i «Innspill 88, 90 og 91 nye boligområder, og anbefaler dermed ikke å ta områdene i innspill 85, 94, 98 og 99 ut fra kommuneplanen. 17. Fylkesutvalget stryker første setning i siste avsnitt under «Oppsummering og alternative løsninger». Magnus Weggesrud (Sp) fremmet tilleggsforslag på vegne av Sp: Forslag til nytt punkt 5: 5. Fylkesutvalget ber kommunen å redegjøre for trafikken ut på fylkesvei 2882, herunder tilrettelegging for gående og syklende, hvis området på Tyttebærmoen skal endre formål fra LNF til massedeponi og næring. Fylkesutvalget er bekymret for at massedeponi vil resultere i en økning av tungtransport via Sokna sentrum og på skolevei uten tilrettelegging for gående og syklende. Fylkesutvalget ber kommunen vise hvordan tiltaket i større grad skal ivareta miljømessige forhold jmf. kommunens egen konsekvensutredning. Bjørn Tore Ødegården (Ap) fremmet protokolltilførsel på vegne av Ap, Sp, SV og MDG: Representantene Ap, Sp, SV og MDG vil påpeke at punktene 5 – 17 i forslaget fra flertallspartiene berører innholdet i fylkeskommunedirektørens administrative vurderinger, ikke fylkeskommunedirektørens forslag til høringsuttalelse. Det oppleves uryddig og uheldig at det politiske flertallet i Buskerud fylkeskommune gjør vedtak om å redigere fylkeskommunedirektørens saksfremlegg, herunder råd vedrørende forhold fylkeskommunedirektøren ikke har lag inn i forslaget til vedtak/høringsuttalelse. Å stemme i mot punkt 5 – 17 betyr ikke at man har støttet de administrative vurderingene i saksfremlegget, men at man ønsker en ryddig saksbehandling som skiller politikk og administrasjon. De forhold som omtales i punktene 5-17 var ivaretatt i innstillingen, ved at de ikke var innarbeidet som vedtakspunkter. Simon Sebastian Nordanger (Sp) varslet om innsending av lovlighetskontroll av vedtaket. Følgende representanter hadde ordet til saken: Christopher Amundsen Wand (H), Magnus Weggesrud (Sp), Roger Larsen (INP), Mons Ivar Mjelde (Ap), Bjørn Tore Ødegården (Ap) og Simon Sebastian Nordanger (Sp)"
+            },
+            "document": {
+              "objectId": "do_01j76y2vypf6zte98538grd8sj",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F574be759-aa0f-4025-b59d-166e51d308a8"
+            },
+            "error": null
+          }
         },
         {
           "number": "21/2023",
           "title": "Innspill til endringer i vannforskriften",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F4e47b946-72d6-420e-9042-2f05b9f9537b",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5b5e0058-e34d-42fd-ac7c-3842e46f6ae1",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkeskommunedirektørens forslag til vedtak:",
+              "text": "1.Fylkestinget støtter foreslått inndeling av vannregioner, hvor en går tilbake til de tidligere vannregionene Vest-Viken og Glomma. 2.Fylkestinget støtter at Buskerud fylkeskommune blir ny vannregionmyndighet for Vest-Viken vannregion. 3.Fylkestinget støtter øvrige forslag til endringer i vannforskriften. 4.Fylkestinget forventer at staten viderefører og følger opp med statlige bidrag til plan- og prosessarbeid i fylkeskommunene og til det lokale arbeidet i vannområdene i regi av kommunene."
+            },
+            "document": {
+              "objectId": "do_01j76y2vshf44szmjw4k5vy3hh",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5b5e0058-e34d-42fd-ac7c-3842e46f6ae1"
+            },
+            "error": null
+          }
         },
         {
           "number": "22/2023",
           "title": "Ål kommune - 2. gangs høring av arealdelen til kommuneplanen 2023 - 2035",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fa7ae476c-b7f5-4a3e-a78a-7f5c09c5bafe",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F8cd3e171-ea64-42aa-b7dc-e3e1583a8e11",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkeskommunedirektørens forslag til vedtak:",
+              "text": "1. Fylkesutvalet vil gje ros til Ål kommune for arbeidet med arealdelen. Fylkeskommunen meiner det er arbeida godt og systematisk opp mot vedtekne arealstrategiar, prioritering av næring og levande grender i denne kommuneplanrulleringa. 2. Fylkesutvalet meiner kommunen kan sjå motsegna frå Viken fylkeskommune, som vart fremma ved fysste høyring av arealdelen som løyst, med dei grepa som er gjort ved 2. gongs høyring. 3. Fylkesutvalet oppmodar Ål kommune til å prioritere bustadsattraktivitet høgt i det vidare arbeidet. Godt omsyn til nærturterreng, trygg skoleveg, kulturlandskap og naturverdiar er med på auka attraktivitet i bumiljøa, enten det er bustader i grender eller tettstader. 4. Fylkesutvalet oppmodar Ål kommune til å bruke føresegner for kva typar næring som kan etablerast kor. Det gjev moglegheit for lokalisering av næring på rett stad for å bygge oppunder tettstads- og sentrumsområde og avgrense konfliktar mellom næring og omsynet til bu- og sentrumsmiljø. 5. Fylkesutvalet er nøgd med at det no er teke omsyn til automatisk freda kulturminne på ein god måte."
+            },
+            "document": {
+              "objectId": "do_01j76y2wcbegw8tkt806rag7jp",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F8cd3e171-ea64-42aa-b7dc-e3e1583a8e11"
+            },
+            "error": null
+          }
         },
         {
           "number": "23/2023",
           "title": "Høring av NOU 2023:23 Helhetlig forvaltning av akvakultur for bærekraftig verdiskaping",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Faf64e0c3-722b-41b1-8590-531ffbdab673",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fdb0f84b2-1ccb-45ae-8847-3d9e85ad9285",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Fylkesutvalgets innstilling til fylkestinget: Buskerud fylkeskommune gir følgende høringssvar til NOU 2023:23 Helhetlig forvaltning av akvakultur for bærekraftig verdiskaping: Buskerud fylkeskommune slutter seg til og støtter utvalget sine forslag når det gjelder sikring av god biosikkerhet, god fiskevelferd og akseptabel miljøpåvirkning for å legge til rette for vekst innen akvakultur. Buskerud fylkeskommune støtter ikke forslaget om at staten skal overta større deler av ansvaret og myndighet for å utarbeide og vedta arealplaner for sjøområdene. Av hensyn til lokaldemokrati og medvirkning bør dette forbli hos kommuner og fylkeskommuner. Forslagene fra utvalget på dette området er svakt begrunnet, og ikke i tråd med en politikk hvor avgjørelsene skal tas på lavest mulig nivå av folkevalgte organer. Det må være kommunen, som planmyndighet, som avgjør hvilket planbehov de har for å løse sine utfordringer. Tildeling av akvakulturtillatelser bør ikke sentraliseres til statlige myndigheter, men opprettholdes på fylkeskommunalt nivå. Fylkeskommunene har gode tiltak for å sikre tilstrekkelig kompetanse regionalt, mens koordineringen på statlig nivå trekkes frem som svak. Norskekysten er svært variert, med ulike naturgitte forutsetninger, varierende næringsstruktur, demografi og ulike brukerinteresser. Det vil derfor alltid være lokale og regionale hensyn som vil ha betydning i en søknadssammenheng. Det bør utarbeides et nasjonalt program for marine grunnkart for hele landet. Det vil være et viktig verktøy for kommunene, og kan sikre bedre muligheter for bærekraftig utvikling av kystområdene våre."
+            },
+            "document": {
+              "objectId": "do_01j76y2wftej7regmcknyxnf2v",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fdb0f84b2-1ccb-45ae-8847-3d9e85ad9285"
+            },
+            "error": null
+          }
         },
         {
           "number": "24/2023",
           "title": "Forslag til endringer i plan- og bygningsloven om grunneierfinansiering av infrastruktur, utbyggingsavtaler mv. - Høringsuttalelse",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fb317891f-5995-4a67-8202-963607ccd1bd",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa8cdf2d2-d926-45cd-9619-15fc962edf16",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Fylkesutvalgets innstilling til fylkestinget: 1. Buskerud fylkesting vurderer at foreslåtte endringer i plan- og bygningsloven om grunneierfinansiering av infrastruktur og utbyggingsavtaler er et skritt i riktig retning for å legge til rette for mer effektiv planlegging og gjennomføring, samt mer rettferdig kostnadsfordeling. 2. Buskerud fylkesting viser til innspill og merknader utdypet i saksframstillingen, og legger særlig vekt på følgende momenter som departementet bes om å følge opp: a) Det må tydeliggjøres hvordan fylkeskommunen kan ivareta sine interesser som veieier, spesielt knyttet til samtykke og økonomiske konsekvenser dersom fylkesveitiltak tas inn i finansieringsordningen. b) Dersom lovendringene vedtas bør det utarbeides veiledere som nærmere redegjør for den praktiske bruken av det nye virkemiddelet. inkludert hvordan medvirkning i forbindelse med utarbeiding og endringer av områdestrategier bør gjennomføres. Veileder om utbyggingsavtaler bør vurderes oppdatert. c) Det bør ikke åpnes for å foreta mindre endringer i bestemmelsene uten at eierne og festerne av eiendommer, og eventuelle andre berørte får muligheten til å medvirke. Det bør være tydelig hvor vidt «andre berørte» skal tolkes. Dette bør eksemplifiseres i en veileder. d) Det kan være hensiktsmessig at det lages en forsøksordning for å teste ut forslaget til nytt virkemiddel før det eventuelt vedtas lovendringer."
+            },
+            "document": {
+              "objectId": "do_01j76y2ve4f4hr6sqzwzgn7rf5",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa8cdf2d2-d926-45cd-9619-15fc962edf16"
+            },
+            "error": null
+          }
         },
         {
           "number": "25/2023",
           "title": "Opprettelse av vertskommunesamarbeid om fartøyvern mellom Akershus fylkeskommune, Buskerud fylkeskommune, Østfold fylkeskommune og Oslo kommune",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fa1872af4-8c54-4624-b536-d90a625bd52e",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F6b5390e7-1a7b-4cc2-9625-b87f7d27cd23",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkeskommunedirektørens forslag til vedtak:",
+              "text": "1. Det opprettes vertskommunesamarbeid om fartøyvern mellom Akershus fylkeskommune, Buskerud fylkeskommune, Østfold fylkeskommune og Oslo kommune, i henhold til utkast til avtale om slikt samarbeid datert 04.10.2023. 2. Det opprettes vertskommunesamarbeid om tilskuddsordningen for tekniske og industrielle kulturminner mellom Akershus fylkeskommune, Buskerud fylkeskommune og Østfold fylkeskommune, i henhold til utkast til avtale om slikt samarbeid datert 04.10.2023. 3. Samarbeidene organiseres som administrative vertskommunesamarbeid, i henhold til kommuneloven § 20.2. Vertskommune er Akershus fylkeskommune. 4. Vertskommuneavtalene løper fra de er undertegnet av partene, men tidligst fra 1.1.2024. Avtalene løper fram til den sies opp av en av partene. 5. Ordningene skal evalueres av partene innen to år etter avtaleinngåelsen, og etter dette dersom en av partene krever det. Som ledd i evalueringen skal det også anslås hvordan tidsbruken har fordelt seg mellom fylkene, med sikte på eventuelle justeringer av kostnadsfordelingen. 6. Akershus fylkeskommune som vertskommune orienterer Kommunal- og distriktsdepartementet når samarbeidene er opprettet, i henhold til kommuneloven § 20.4."
+            },
+            "document": {
+              "objectId": "do_01j76y2w9mfyqtp5rtdx1wj502",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F6b5390e7-1a7b-4cc2-9625-b87f7d27cd23"
+            },
+            "error": null
+          }
         },
         {
           "number": "26/2023",
           "title": "Valg av representantskap og anbefaling om styrevedtekter for Fagskolen i Viken kommunalt oppgavefellesskap",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fabb10ab8-ed68-4ea6-9d3c-2149c5f6b44c",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0a66f9b7-6e1b-44c8-8361-693ab81144b4",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkeskommunedirektørens forslag til vedtak:",
+              "text": "1. Til representantskapet for Fagskolen i Viken oppgavefellesskap for perioden fra 1. desember 2023 til og med 30. november 2027 oppnevnes følgende: Medlemmer - [navn medlem] - [navn medlem] Varamedlem - [navn medlem] Andre varamedlem - [navn medlem] 2. Fylkestinget anbefaler representantskapet å fastsette vedtektene for styret i Fagskolen i Viken slik de går fram av vedlegget til saken. Dette innebære at fagskolens styre skal bestå av 12 medlemmer og 12 varamedlemmer med følgende sammensetning: - to ansatte - to studenter - to medlemmer fra aktuelt arbeids- og næringsliv, fortrinnsvis LO og NHO. - to medlemmer fra ulike områder innen administrasjonen i hver av eierfylkeskommunene, til sammen seks medlemmer. Behandling: Følgende representanter hadde ordet til saken: Iselin Haugo Stavn (H) og Mons Ivar Mjelde (Ap)"
+            },
+            "document": {
+              "objectId": "do_01j76y2weafrpthmwrsam9vps1",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0a66f9b7-6e1b-44c8-8361-693ab81144b4"
+            },
+            "error": null
+          }
         },
         {
           "number": "27/2023",
           "title": "Østlandssamarbeidet IPR – ny samarbeidsavtale og valg av representantskapsmedlemmer 2024 - 2027",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe7c5d934-a928-4ed2-874d-81e3ce6a663f",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2748b562-cb0f-4219-aeae-b013e42ec95e",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkeskommunedirektørens forslag til vedtak:",
+              "text": "1. Fylkestinget slutter seg til samarbeidsavtale for Østlandssamarbeidet IPR. 2. Til representantskapet i Østlandssamarbeidet IPR for perioden 2024 – 2027 velges: Medlem Personlig varamedlem"
+            },
+            "document": {
+              "objectId": "do_01j76y2vhqe3hvjtrfwkr2yn34",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2748b562-cb0f-4219-aeae-b013e42ec95e"
+            },
+            "error": null
+          }
         },
         {
           "number": "28/2023",
           "title": "Hallingdal pedagogisk-psykologisk tjeneste og oppfølgingstjeneste IKS - Ny selskapsavtale og valg av medlemmer til representantskapet 2024 - 2027",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F045cec67-8dfb-4f38-b40e-ae47d3c59deb",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F35f21d3f-cf63-42e2-983d-fa007d13bf43",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkeskommunedirektørens forslag til vedtak:",
+              "text": "1. Pedagogisk-psykologisk tjeneste og oppfølgingstjenesten i nedre Hallingdal IKS skifter navn til Hallingdal pedagogisk-psykologisk tjeneste og oppfølgingstjeneste IKS fra 1.1.2024. Hol kommune blir medeier i Hallingdal pedagogisk-psykologisk tjeneste og oppfølgingstjeneste IKS fra 1.1.2024. Selskapsavtale for Hallingdal pedagogisk-psykologisk tjeneste og oppfølgingstjeneste IKS gjeldende fra 1.1.2024 vedtas. 2. Til representantskapet i Hallingdal pedagogisk-psykologisk tjeneste og oppfølgingstjeneste IKS for perioden 2024 - 2027 velges: I. __________________ (medlem) II. __________________ (varamedlem 1) III. __________________ (varamedlem 2)"
+            },
+            "document": {
+              "objectId": "do_01j76y2v90f3f8fzazspc6rfwf",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F35f21d3f-cf63-42e2-983d-fa007d13bf43"
+            },
+            "error": null
+          }
         },
         {
           "number": "29/2023",
           "title": "Tannhelsetjenestens kompetansesenter Øst - Ny samarbeidsavtale og valg av medlemmer til representantskapet for 2024 - 2027",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe8462e2f-29db-42d2-9f34-dda670fcc315",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fff501f0d-c01c-4fc9-a631-8ed1fc152af9",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkeskommunedirektørens forslag til vedtak:",
+              "text": "1. Ny samarbeidsavtale for Tannhelsetjenestens kompetansesenter Øst godkjennes. 2. Følgende representanter fra Buskerud fylkeskommune oppnevnes til representantskapet i Tannhelsetjenestens kompetansesenter Øst for perioden 2024 -2027: I. __________________ (medlem) II. __________________ (personlig varamedlem)"
+            },
+            "document": {
+              "objectId": "do_01j76y2wjhef5a3f1pkq2a5n3e",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fff501f0d-c01c-4fc9-a631-8ed1fc152af9"
+            },
+            "error": null
+          }
         },
         {
           "number": "30/2023",
           "title": "Novari IKS (tidligere Vigo IKS) - ny selskapsavtale og valg av medlemmer til representantskapet for perioden 2024 - 2027",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F2b9f222f-3598-4667-ba80-9f23acfe8918",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F38704ee2-ab6e-4440-9ace-6f103708320f",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkeskommunedirektørens forslag til vedtak:",
+              "text": "1. Ny selskapsavtale for Novari IKS godkjennes. 2. Følgende oppnevnes som Buskerud fylkeskommunes representanter til representantskapet i Novari IKS for perioden 2024 - 2027: I. __________________ (medlem) II. __________________ (1. varamedlem) III. __________________ (2. varamedlem)"
+            },
+            "document": {
+              "objectId": "do_01j76y2vknehyb6ejsw5zypc8r",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F38704ee2-ab6e-4440-9ace-6f103708320f"
+            },
+            "error": null
+          }
         },
         {
           "number": "31/2023",
           "title": "Interkommunalt arkiv for Buskerud, Vestfold og Telemark IKS (IKA Kongsberg) - Ny selskapsavtale 2024 og valg av medlemmer til representantskapet 2024 - 2027",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fed73d650-d6e8-4eeb-87d9-332563999a21",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3f33818d-350d-4a10-919a-043dbc831ccc",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkeskommunedirektørens forslag til vedtak:",
+              "text": "1. Fylkestinget godkjenner selskapsavtale for interkommunalt arkiv for Buskerud, Vestfold og Telemark IKS (IKA Kongsberg) 2024. 2. Til representantskapet i interkommunalt arkiv for Buskerud, Vestfold og Telemark (IKA Kongsberg) velges for perioden 2024 - 2027: I. __________________ (medlem) II. __________________ (varamedlem 1) III. __________________ (varamedlem 2)"
+            },
+            "document": {
+              "objectId": "do_01j76y2wn5fhs9raw4031gnkk3",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3f33818d-350d-4a10-919a-043dbc831ccc"
+            },
+            "error": null
+          }
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "complete",
+        "completed": false,
+        "fixedMembers": [
+          {
+            "name": "Tore Opdal Hansen",
+            "attendanceRole": "leder",
+            "representedBy": "H"
+          },
+          {
+            "name": "Lavrans Gabriel Kierulf",
+            "attendanceRole": "nestleder",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Iselin Haugo Stavn",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Christina Højer Mørkve",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Marianne Werp",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Christopher Amundsen Wand",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Kristin Løvaas Gjerde",
+            "attendanceRole": "medlem",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Kjell Erland Grønbeck",
+            "attendanceRole": "medlem",
+            "representedBy": "KRF"
+          },
+          {
+            "name": "Roger Larsen",
+            "attendanceRole": "medlem",
+            "representedBy": "INP"
+          },
+          {
+            "name": "Mons-Ivar Mjelde",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Tonje Enersen",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Bjørn Tore Ødegården",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Lirigzona Berisha",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Magnus Weggesrud",
+            "attendanceRole": "medlem",
+            "representedBy": "SP"
+          },
+          {
+            "name": "Njål Vigleik Grene-Johnsen",
+            "attendanceRole": "medlem",
+            "representedBy": "SV"
+          },
+          {
+            "name": "Bård Sødal Grasbekk",
+            "attendanceRole": "medlem",
+            "representedBy": "MDG"
+          }
+        ],
+        "deputies": [
+          {
+            "name": "Simon Sebastian Nordanger",
+            "attendanceRole": "deputy",
+            "representedBy": "SP"
+          }
+        ],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/8a97a78e-465f-46c5-8807-3bc4345d35bc",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F8a97a78e-465f-46c5-8807-3bc4345d35bc"
+        }
+      },
+      "metadataStatus": "complete",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F8a97a78e-465f-46c5-8807-3bc4345d35bc"
     },
@@ -181,238 +613,813 @@
           "title": "Årsbudsjett 2024 og økonomiplan 2024 - 2027 for Buskerud",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Ffd3f71f0-bd92-494c-b3de-087f0c35c5f9",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ffec80b7f-faa1-429e-a1cc-b44eecad37e2",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "Nr. som",
+                "proposerParty": "",
+                "onBehalfOf": null
+              },
+              {
+                "proposerName": "Nr. som",
+                "proposerParty": "",
+                "onBehalfOf": null
+              },
+              {
+                "proposerName": "Nr. som",
+                "proposerParty": "",
+                "onBehalfOf": null
+              },
+              {
+                "proposerName": "Nr. som",
+                "proposerParty": "",
+                "onBehalfOf": null
+              },
+              {
+                "proposerName": "Nr. som",
+                "proposerParty": "",
+                "onBehalfOf": null
+              },
+              {
+                "proposerName": "Nr. som",
+                "proposerParty": "",
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "1. Ved utskriving av fylkesskatten for 2024 legges til grunn den maksimale skattøren som vedtas av Stortinget i statsbudsjettet for 2024. 2. Inntekter og netto driftsrammer for rådsområder i økonomiplanperioden 2024-2027 vedtas slik det framgår av bevilgningsoversikt drift: Bevilgningsoversikt drift etter § 5-4 første ledd. Beløp i 1000 Øk.plan Øk.plan Øk.plan Øk.plan 2024 2025 2026 2027 Rammetilskudd -1 798 011 -1 787 789 -1 787 698 -1 781 366 Inntekts- og formuesskatt -2 044 090 -2 050 813 -2 057 533 -2 064 222 Andre generelle driftsinntekter -28 000 -22 000 -17 000 -14 000 Sum generelle driftsinntekter -3 870 101 -3 860 602 -3 862 231 -3 859 588 Korrigert sum bevilgninger drift, 3 597 101 3 560 207 3 591 811 3 603 264 netto Avskrivninger 0 0 0 0 Sum netto driftsutgifter 3 597 101 3 560 207 3 591 811 3 603 264 Brutto driftsresultat -273 000 -300 395 -270 420 -256 324 Renteinntekter -105 295 -96 968 -86 288 -86 288 Utbytter 0 0 0 0 Gevinster og tap på finansielle 0 0 0 0 omløpsmidler Renteutgifter 161 496 170 744 160 214 172 969 Avdrag på lån 173 000 176 800 181 440 184 720 Netto finansutgifter 229 201 250 576 255 366 271 401 Motpost avskrivninger 0 0 0 0 Netto driftsresultat -43 799 -49 819 -15 054 15 077 Disponering eller dekning av netto driftsresultat Overføring til investering 57 992 0 0 0 Avsetninger til bundne 0 0 0 0 driftsfond Bruk av bundne driftsfond 0 0 0 0 Avsetninger til disposisjonsfond 117 719 122 739 127 961 133 392 Bruk av disposisjonsfond -131 912 -72 920 -112 907 -148 469 Dekning av tidligere års 0 0 0 0 merforbruk i driftsregnskapet Sum disponeringer eller dekning 43 799 49 819 15 054 -15 077 av netto driftsresultat Fremført til inndekning i senere 0 0 0 0 år (merforbruk) Bevilgningsoversikt drift etter § 5-4 andre ledd. Beløp i 1000 Øk.plan Øk.plan Øk.plan Øk.plan 2024 2025 2026 2027 Politisk område 41 219 43 088 41 219 43 088 Fylkeskommunedirektør 42 115 42 115 42 115 42 115 Finans og organisasjon 296 275 299 336 309 164 309 253 Opplæring og kompetanse 1 817 801 1 790 980 1 779 862 1 762 191 Samferdsel 1 031 242 1 013 527 1 013 527 1 013 527 Samfunn, plan og tannhelse 201 379 201 379 201 379 201 379 Kultur, næring og klima 138 998 138 999 138 998 138 997 Finans og avd.uavhengige 28 072 30 782 65 547 92 713 utgifter og inntekter Oppgavefellesskap 19 980 -4 216 25 301 47 436 Sum bevilgninger drift, netto 3 597 101 3 560 207 3 591 811 3 603 264 Omdisponeringer innenfor den enkelte avdeling av prinsipiell eller vesentlig betydning, skal legges fram for fylkestinget. 3. Investeringsbudsjettet for økonomiplanperioden 2024-2027 vedtas slik det framgår av Bevilgningsoversikt investering etter § 5-5 første ledd og Bevilgningsoversikt investering etter § 5-5 andre ledd (investeringer i varige driftsmidler) under: Bevilgningsoversikt investering etter § 5-5 første ledd. Beløp i 1000 Øk.plan Øk.plan Øk.plan Øk.plan 2024 2025 2026 2027 Investeringer i varige driftsmidler 469 958 428 405 355 755 619 505 Tilskudd til andres investeringer 0 0 0 0 Investeringer i aksjer og andeler i 13 355 13 000 13 000 13 000 selskaper Utlån av egne midler 0 0 0 0 Avdrag på lån 0 0 0 0 Sum investeringsutgifter 483 313 441 405 368 755 632 505 Kompensasjon for merverdiavgift -93 992 -85 681 -71 151 -123 901 Tilskudd fra andre 0 0 0 0 Salg av varige driftsmidler 0 0 0 0 Salg av finansielle anleggsmidler 0 0 0 0 Utdeling fra selskaper 0 0 0 0 Mottatte avdrag på utlån av egne 0 0 0 0 midler Bruk av lån -331 685 -355 724 -297 604 -508 604 Sum investeringsinntekter -425 677 -441 405 -368 755 -632 505 Overføring fra drift -57 637 0 0 0 Avsetninger til bundne 0 0 0 0 investeringsfond Bruk av bundne investeringsfond 0 0 0 0 Avsetninger til ubundet 0 0 0 0 investeringsfond Bruk av ubundet investeringsfond 0 0 0 0 Dekning av tidligere års udekket 0 0 0 0 beløp Sum overføring fra drift og netto -57 637 0 0 0 avsetninger Fremført til inndekning i senere år 0 0 0 0 (udekket) Bevilgningsoversikt investering etter § 5-5 andre ledd. 1. Investeringer i varige Øk.plan driftsmidler. Beløp i Øk.plan Øk.plan Øk.plan Øk.plan Sum 2024- 1000 2024 2025 2026 2027 2027 Finans og organisasjon Finans og organisasjon 8 000 5 000 5 000 0 18 000 Opplæring og kompetanse Opplæring og 241 708 234 155 170 505 460 505 1 106 873 kompetanse Samferdsel Samferdsel 173 750 173 750 173 750 152 500 673 751 Samfunn, plan og tannhelse Samfunn, plan og 46 500 15 500 6 500 6 500 75 000 tannhelse Investeringer i varige 469 958 428 405 355 755 619 505 1 873 624 driftsmidler Bevilgningsoversikt Øk.plan investering etter § 5-5 Øk.plan Øk.plan Øk.plan Øk.plan Sum 2024- andre ledd. 2024 2025 2026 2027 2027 2. Tilskudd til andres investeringer. Beløp i 1000 Tilskudd til andres 0 0 0 0 0 investeringer Bevilgningsoversikt investering etter § 5-5 andre ledd. 3. Investeringer i aksjer Øk.plan og andeler i selskaper. Øk.plan Øk.plan Øk.plan Øk.plan Sum 2024- Beløp i 1000 2024 2025 2026 2027 2027 OKO IB 13 000 13 000 13 000 13 000 52 000 konverteringsprosjekt Egenkapitalinnskudd 355 0 0 0 355 VKR IKS Investeringer i aksjer og 13 355 13 000 13 000 13 000 52 355 andeler i selskaper Bevilgningsoversikt investering etter § 5-5 andre ledd. Øk.plan 4. Utlån av egne midler. Øk.plan Øk.plan Øk.plan Øk.plan Sum 2024- Beløp i 1000 2024 2025 2026 2027 2027 Utlån av egne midler 0 0 0 0 0 Sum del 1-4 483 313 441 405 368 755 632 505 1 925 979 Omdisponeringer av prinsipiell eller vesentlig betydning, skal legges fram for fylkestinget. 4. Det opptas lån til investeringsformål i budsjettet for 2024 på inntil 332 mill. kr, jf. kommuneloven §14-15 første ledd. Gjennomsnittlig avdragstid settes til 25 år. 5. Fylkeskommunens trekkrettighet i bank settes til 600 mill. kr i 2024, jfr. kommuneloven § 14-15 tredje ledd. 6. Styret i Brakar AS fastsetter kollektivsatsene i henhold til gjeldende vedtekter. Prisen på ungdomskort økes til halv pris av periodekort i en sone. 7. Driftsbudsjettet for fylkesrevisjon, kontrollutvalgssekretariat og kontrollutvalg vedtas med en netto driftsutgift på 4,249 mill. kr i 2024. 8. Investeringsbudsjett for egenkapitalinnskudd til Viken kommunerevisjon IKS og Viken kontrollutvalgssekretariat IKS sin egenkapital vedtas med hhv. kr. 300 000 og kr. 55 000. Innskuddene finansieres fra reservefond. 9. Fylkeskommunedirektøren kan inntektsføre bruk av fond i 2024 i samsvar med påløpte utgifter, der fondsbruken er i samsvar med forutsetningene for fondet. 10. Fylkeskommunedirektøren får fullmakt til å avsette til fond fra avdelingenes budsjetter i de tilfeller der det er gitt tilsagn til eksterne om støtte til tiltak/prosjekter, men hvor utbetalinger skjer i et senere budsjettår. 11. Fylkestinget ber fylkeskommunedirektøren utarbeide et forslag til en godt forankret økonomisk omstillingsprosess tidlig i 2024. Plan for omstilling legges frem for fylkesutvalget, og må legge til grunn KS´ anbefalinger knyttet til netto driftsresultat, netto lånegjeld og disposisjonsfond. Prosessen må gjennomføres 1. halvår 2024, slik at nødvendige tilpasninger kan gjøres i økonomiplan for 2025 – 2028. 12. Fylkeskommunedirektøren bes gjennomgå alle investeringsbehov som del av omstillingsprosessen nevnt i forrige punkt. 13. Følgende nivåer for finansielle måltall for Buskerud fylkeskommune i økonomiplanperioden vedtas: • Netto driftsresultat (resultatgrad): 3 prosent • Reservefond: 5 prosent • Gjeldsgrad: 90 prosent I forbindelse med omstillingsprosessen og resultatet av overføring av fond og eventuelle mindreforbruk fra Viken fylkeskommune, bes fylkeskommunedirektøren vurdere disse måltallene nærmere. 14. Fylkeskommunens årlige premieavvik avsettes til premieavviksfond. Fylkeskommunens premieavvik amortiseres over 7 år. 15. Buskeruds regionale planer gjelder inntil de rulleres eller oppheves. Strategier og handlingsplaner vedtatt av Viken fylkesting er ikke forpliktende styringsdokumenter, men kan brukes som kunnskapsgrunnlag frem til eventuelt nye er utarbeidet. Fylkestinget ber fylkeskommunedirektøren om å utarbeide et helhetlig plan- og styringssystem basert på en grundig planrevisjon. Planrevisjonen må ses i lys av det lovpålagte arbeidet med regional planstrategiprosess, og sikre en nødvendig balanse mellom planambisjoner og økonomiske forutsetninger, utledet av budsjett og økonomiplan for 2024 – 2027. Vedtatte verbalforslag: Forvaltning og drift 1. Fylkeskommunedirektøren vil i løpet av 2024 legge frem analyser og faglige vurderinger i forbindelse med pågående omstillingsarbeidet. I dette arbeidet er det viktig med tilstrekkelig kapasitet og kompetanse, og det forutsettes at fylkeskommunedirektøren, når det er nødvendig, trekker veksler på ekstern kompetanse i omstillingsarbeidet. 2. Fylkeskommunedirektøren oppfordres til å utarbeide strukturelle demografianalyser relevant for tjenesteproduksjonen i Buskerud fylkeskommune i en 5-10 årsperiode utover kommende budsjett og økonomiplanperiode for å kvalitetssikre omstillingsarbeidet. 3. Fylkeskommunedirektøren bes vurdere hva slags økonomiske konsekvenser nullutslippsambisjonene i Viken fylkeskommune har fått for kollektivtrafikken i Buskerud, og samtidig vurdere om ambisjonene kan reduseres for å frigjøre et større økonomisk handlingsrom. 4. Fylkeskommunedirektøren bes gå i dialog med administrativ ledelse i Akershus og Østfold for å evaluere tjenesteerfaringer og valgt organisering av oppgavefellesskapene i 2024. Første evaluering bør legges frem for politisk behandling før sommeren 2025. 5. Fylkestinget legger til grunn at alle oppgavefellesskapene må ta sin naturlige del i den økonomiske omstillingen, og at dette hensyntas i analyser og faglige vurderinger som legges frem for politisk behandling i 2024. 6. Fylkeskommunedirektøren bes starte en prosess i 2024 for å vurdere Buskerud fylkeskommunes sentraladministrative kontorarbeidsplasser. I dette arbeidet er det ønskelig at hensynet til økonomi, jobbattraktivitet, arealfunksjonalitet, kapasitet og beliggenhet hensyntas. Fylkesutvalget holdes orientert i prosessen, og får fremlagt saksfremlegg når dette er naturlig. 7. I omstillingsarbeidet Buskerud Fylkeskommune skal i gang med, ber Fylkestinget om at følgende også belyses: a) Om Buskerud Fylkeskommune bør ha et eget eiendomsforetak b) Om man kan bruke anbudsprosesser for renhold/vaktmestertjenester i fylkeskommunale bygg. c) Kriterier for anbud og innkjøp bør belyses i en egen sak. d) Gjennom politiske saker bør man se klimaregnskap opp mot klimagevinst, og at alle saker må inneholde vurdering rundt økonomisk bærekraft. e) Se på finansieringsmodellen for de videregående skolene. 8. Fylkesdirektøren bes komme med en sak der man ser på hvordan vi kan sikre hjertestartere i større fylkeskommunale bygg hvor det ut fra en samfunnsmedisinsk vurdering er tilrådelig. I den grad det finnes hjertestartere i fylkeskommunale bygg bes det om en oversikt over disse og beskrivelse av rutiner for service/vedlikehold. 9. Fylkesdirektøren bes om å legge frem politisk sak før sommeren 2024 med oversikt over hvilke arealer fylkeskommunen leier og hva som er leieprisen. Samferdsel 10. Ungdomskortet i Buskerud reguleres med deflator, foreslått økning i takst dekkes inn ved økning i sats på voksenbillett. 11. Fylkestinget ber om en sak i 2024 om hvordan man kan gjenoppta arbeidet med å sikre vinteråpen veg over Imingfjell. 12. Fylkestinget ønsker å få utredet alternative modeller for eierstyring av Brakar med sikte på tettere oppfølging, dialog og styring. En slik sak legges fram for fylkestinget i løpet av 2024. 13. Fylkestinget anerkjenner den økonomiske situasjonen Buskerud Fylkeskommune nå er i, men har et overordnet mål om å redusere etterslepet på fylkesvegnettet de kommende 4 årene. 14. Fylkestinget ber fylkeskommunedirektøren gå i dialog med Statens Vegvesen, Vestland fylkeskommune og aktuelle kommuner i forbindelse med delvis stenging av E16 Lærdalstunnelen fra 2025, med særlig søkelys på konsekvenser for fylkesvei 50 Hol -Aurland, herunder om det bør iverksettes trafikksikkerhetstiltak. Næring, innovasjon, kultur, idrett og folkehelse 15. Fylkeskommunedirektøren bes legge frem en oversikt over tidligere støtteordninger og søkbare ordninger innenfor hovedutvalgene Kultur, idrett og folkehelse, samt Næring og innovasjon, inkludert mottakere de siste 4 år. Saken legges frem for hovedutvalgene første halvår 2024. 16. Fylkeskommunedirektøren bes legge frem en oversikt over status på magasin og lagringsmuligheter for kunst og arkiv i Buskerud, inkludert museene som mottar støtte fra fylkeskommunen i løpet av første halvår 2024. 17. Fylkeskommunedirektøren bes fremme en sak på hvilke utsmykningsordninger av bygg som gjelder i Buskerud fylkeskommune og regelverket for dette. Saken skal også inneholde en oversikt over hva BFK har av kunstgjenstander og verdien av disse. Saken legges fram for fylkestinget før sommeren 2025. 18. Fylkeskommunedirektøren bes fremme en sak til Hovedutvalg for kultur, idrett og folkehelse om organisering og drift av museene i Buskerud. 19. Fylkeskommunedirektøren bes fremme en sak for Hovedutvalget for kultur, idrett og folkehelse som viser hvordan fylkeskommunen er med og finansierer Brageteateret og Buskerud kunstsenter. Saken skal belyse hvilke handlingsrom BFK har til å redusere den økonomiske støtten, samt hva fylket får igjen for de midlene som brukes. Opplæring 20. Fylkeskommunedirektøren bes om å legge frem en sak om «Rammeverk for læring og ledelse i Buskerudskolen». 21. Fylkeskommunedirektøren bes legge frem en sak for hovedutvalg for opplæring som viser hvordan skolene i samarbeid med andre aktører, kommuner og frivilligheten, kan etableres gode ordninger for leksehjelp for elever som ønsker det. 22. Fylkeskommunedirektøren bes igangsette arbeid med koordinering av sommerskoletilbud, med mål om å kunne gi i et bredt tilbud i samarbeid med kommuner og frivillighet, i tillegg til fylkets egne tilbud. Dette med mål om å sikre gode tilbud og spesielt for å bedre overgangen mellom grunnopplæring og videregående skole. 23. Fylkeskommunedirektøren bes fremme en sak som viser hvordan nettskoletilbudet kan utvikles og organiseres for å sikre flere elever tilbud og bredde i fagvalg, uavhengig av skole. 24. Fylkeskommunedirektøren bes fremme en sak til Hovedutvalg for opplæring som viser muligheten for å gjennomføre muntlig eksamen med lydopptak ved Buskerud sine skoler. Dette for bruk ved eventuelle klager på karakterer. 25. Fylkeskommunedirektøren bes gå i dialog med Kunnskapsdepartementet med sikte på et prøveprosjekt i Buskerud med valgfritt sidemål. Hovedutvalget for opplæring holdes løpende oppdatert. 26. Fylkeskommunedirektøren bes fremme en sak der det utredes om mulighetene for elever som ønsker å forsere til høgskole/universitet kan få muligheten til dette. 27. Videregående opplæring er en fylkeskommunal kjerneoppgave og et offentlig ansvar. Et godt og trygt læringsmiljø for elevene og et godt arbeidsmiljø for de ansatte er en forutsetning for en god skole. Vold, mobbing, trusler og trakassering av elever og ansatte er et økende problem i Buskerud sine videregående skoler. Fylkeskommunedirektøren bes kartlegge omfanget og utviklingen i vold, trakassering og mobbing mot elever og ansatte. I forlengelsen av dette bes han komme tilbake med følgende: a) Fylkeskommunedirektøren bes komme tilbake med forslag til konkrete tiltak rettet mot de elevene som utøver trakassering, vold og mobbing i sin skolehverdag. b) Fylkeskommunedirektøren bes videre om å skolere og kurse skoleledere i hvilke rettigheter og virkemidler de ansatte har i forhold til utagerende elever. Man bør også se på hvordan man kan tilby vergetrening og kursing til de ansatte i møte med vold og utagerende adferd. Buskerud fylkeskommune bør bruke erfaringsutveksling i utdanningssektoren for å etablere en «beste praksis». c) I arbeidet med en slik sak forutsettes kommunaldirektøren å gå i samarbeid med fagforeningene, kommuneregionene og eventuelt andre aktuelle parter. d) Saken bør belyse hvordan man effektivt kan bruke elevveiledere inn i skolehverdagen, og evaluere resultat av bruken av dette frem til nå. 28. Buskerud fylkeskommune skal ha et tett samarbeid rundt faget Utdanningsvalg i grunnskolen sammen med kommunene og partene i arbeidslivet, hvor målsetningen er at flere elver har økt kompetanse om arbeidslivets muligheter og behov når de søker videregående opplæring. Protokolltilførsel fra Ap, Sp, SV og Rødt: Partienes fylkestingsgrupper ser med bekymring på det stramme budsjettet som er lagt frem fra fylkeskommunedirektøren som følge av statsbudsjettet. Vi tar inn over oss at dette er den økonomiske virkeligheten vi er nødt til å forholde oss til, og velger derfor i all hovedsak å støtte opp om det foreslåtte budsjettet på tross av smertefulle kutt. En forutsetning for at vi stiller oss bak dette, er planen fylkeskommunedirektøren har lagt frem for videre arbeid med økonomiplan og budsjettarbeid i 2024. I dette arbeidet mener Partiene at det er viktig å fokusere på tjenesteområdene kollektivtransport, herunder rutetilbud, ungdomskort og prismodell og under tjenesteområdet opplæring sikre et godt utdanningstilbud for ungdom i hele fylket. Vi forventer at konsekvensene av eventuelle forslag til endringer i tjenestetilbudet er godt belyst, og at målsetningene for eventuelle prioriteringer kommer tydelig frem. Partienes fylkestingsgrupper har merket seg at representanter for flertallspartiene i fylkestinget anklager den rødgrønne regjeringen og oppdelingen av Viken for de økonomiske utfordringene vår nye fylkeskommune står ovenfor. De har rett i at budsjettarbeidet for nye Buskerud hadde vært enklere med større overføringer fra staten, men vi mener det er uredelig å anklage regjeringen for å nedprioritere Buskerud, når eksempelvis Høyres budsjettforslag i Stortinget ville gitt Buskerud fylkeskommune om lag 50 millioner mindre enn det rødgrønne budsjettforliket. Partienes fylkestingsgrupper har også merket seg at det blåblå fylkesrådet i Akershus har fremlagt et budsjett med retningsvalg og prioriteringer vi er glade for at Buskerud slipper å være en del av."
+            },
+            "document": {
+              "objectId": "do_01j76y2wffecd9sem1n9kfbks7",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ffec80b7f-faa1-429e-a1cc-b44eecad37e2"
+            },
+            "error": null
+          }
         },
         {
           "number": "31/2023",
           "title": "Økonomi- og finansreglement",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fccffabec-958b-48ca-a350-266f03129d49",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F64397fc0-c349-4baf-a04b-52a5619e20d6",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "1. Økonomi- og finansreglement for Buskerud fylkeskommune vedtas i henhold til vedlegg. 2. For overføring av mer- og mindreforbruk fra virksomhetene i 2023 til 2024 gjelder reglene i Vikens økonomi- og finansreglement om overføring av inntil 3 % av netto driftsrammer til 2024, men innenfor rammene av det totale mindreforbruket som overføres fra Viken fylkeskommune. 3. Fylkestinget ber fylkeskommunedirektøren revidere økonomi- og finansreglementet i 2024"
+            },
+            "document": {
+              "objectId": "do_01j76y2w4ffshrypan8w2m2snt",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F64397fc0-c349-4baf-a04b-52a5619e20d6"
+            },
+            "error": null
+          }
         },
         {
           "number": "32/2023",
           "title": "Regional planstrategi for Buskerud",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F5514097b-5877-4eed-8330-64afb8219fc4",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F10de586a-a680-4ffd-97e8-4e646774f870",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "1. Fylkestinget slutter seg til foreslått fremdriftsplan for arbeidet, og at ny regional planstrategi for Buskerud vedtas av Buskerud fylkesting i juni 2024 2. Fylkestinget mener det er særlig viktig at kommunene kjenner seg igjen i det mulighets- og utfordringsbildet som beskrives i Buskerudregionen 3. Fylkestinget har som forutsetning at arbeidet med regional planstrategi gir et relevant kunnskapsgrunnlag for prioriteringer av særlig viktige samfunnsoppdrag. Protokolltilførsel fra MDG: Hvordan Buskerud skal se ut i framtiden? ble reist som spørsmål i orienteringen. Norge godkjente europarådets landskapskonvensjon i 2001. Og denne omfatter alle typer landskap; by- og bygdelandskap, kyst- og fjellandskap. Den handler om verdifulle landskap, ordinære landskap og om landskap som kan trenge reparasjon. Landskapet er i stadig endring. Konvensjonen tar ikke sikte på å hindre endringer men å påvirke endringene i en retning som folk ønsker. Konvensjonen legger særlig vekt på medvirkning, landskapet der folk bor og arbeider og der barn vokser opp. Vil administrasjonen se til landskapskonvensjonen i arbeidet med kunnskapsgrunnlaget og arbeidet med å vurdere utfordringer og muligheter for Buskerud?"
+            },
+            "document": {
+              "objectId": "do_01j76y2v1af28ast42pkbmj51a",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F10de586a-a680-4ffd-97e8-4e646774f870"
+            },
+            "error": null
+          }
         },
         {
           "number": "33/2023",
           "title": "Eierskapsmelding 2024 for Buskerud fylkeskommune",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fae9c7ec2-6422-4ec6-9f5f-52255f481d69",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3cf71ac4-0f13-4c43-a230-6a1049b61ac2",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "a) Fylkestinget vedtar prinsipper for eierstyring slik det fremgår av vedlagte eierskapsmelding for Buskerud fylkeskommune. b) Fylkestinget ber fylkeskommunedirektør legge frem en årlig eierskapsrapport over Buskerud fylkeskommunes eierportefølje."
+            },
+            "document": {
+              "objectId": "do_01j76y2vvjenp8b39s0kyg0bzn",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3cf71ac4-0f13-4c43-a230-6a1049b61ac2"
+            },
+            "error": null
+          }
         },
         {
           "number": "34/2023",
           "title": "Inntaksordningen i Buskerud fylkeskommune",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F38c09709-33ff-425c-a3b6-15f763090d14",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4bfeca40-9716-44fd-8b21-21acb9fe1bc0",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "1.Fylkestinget vedtar endring av §4.1 i lokal forskrift om inntak til videregående skoler for Buskerud fylkeskommune 2. Fylkestinget gir fylkeskommunedirektøren fullmakt til å konkretisere hva som regnes som for lang reisevei."
+            },
+            "document": {
+              "objectId": "do_01j76y2wkge9892af2bsvwj6gr",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4bfeca40-9716-44fd-8b21-21acb9fe1bc0"
+            },
+            "error": null
+          }
         },
         {
           "number": "35/2023",
           "title": "Opplæringstilbudet i Buskerud fylkeskommune 2024-2025",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fc782e318-9226-4f10-8195-982f8cfa02d7",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F667cb9bb-078d-4648-9e22-58e0a63e6a4b",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "1. Skoleåret 2024–2025 gir Buskerud fylkeskommune tilbud om videregående opplæring i henhold til vedlagte tabell og innenfor den økonomiske rammen. Det tilbys 9017 plasser fordelt på 419 klasser på de 12 videregående skolene. 2. Buskerud fylkeskommune går i dialog med Regionrådet for Hallingdal for å se på muligheten for etablering av «Kunst, arkitektur og design» ved Gol vidaregåande skule, med mål om at denne skal kunne være søkbar fra 2025."
+            },
+            "document": {
+              "objectId": "do_01j76y2ws6e3r95k1ac99jbr40",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F667cb9bb-078d-4648-9e22-58e0a63e6a4b"
+            },
+            "error": null
+          }
         },
         {
           "number": "36/2023",
           "title": "Etiske retningslinjer for Buskerud fylkeskommune",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fa94c1e49-8c3a-44f0-a929-5c767a544803",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd467177f-9e0c-4c6a-8070-5bee94ec7620",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Etiske retningslinjer for Buskerud fylkeskommune vedtas. Tillegg under overskriften Ytringsfrihet og ytringsansvar: Lojalitetsplikten skal ikke legge begrensninger på den ansattes rettigheter."
+            },
+            "document": {
+              "objectId": "do_01j76y2xcyfcebamnfy48apvez",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd467177f-9e0c-4c6a-8070-5bee94ec7620"
+            },
+            "error": null
+          }
         },
         {
           "number": "37/2023",
           "title": "Arbeidsreglement for Buskerud fylkeskommune",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F41cbb37b-d104-4ed3-a0c0-f5e9bea3b3a6",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ffd272a9a-1724-4cc1-a92d-73505e7acd1d",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Arbeidsreglement for Buskerud fylkeskommune vedtas."
+            },
+            "document": {
+              "objectId": "do_01j76y2xqkfn6ar52wj5r7g5wd",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ffd272a9a-1724-4cc1-a92d-73505e7acd1d"
+            },
+            "error": null
+          }
         },
         {
           "number": "38/2023",
           "title": "Buskerud fylkeskommunes reglement - forslag til endringer mv og orientering om oppdatering i tre reglement",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fc850ca2a-0870-4569-b0dd-7877e5df0166",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4c4e89fc-f6f3-4a9d-b325-5e7ac8b9bd47",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "1. Buskerud fylkesting vedtar følgende endringer i Reglement for delegering av myndighet og tildeling av innstillingsrett fra Buskerud fylkesting: Pkt 6.1 fjerde avsnitt, om fylkesordførers disposisjonskonto, slettes. Pkt. 11 Plan og bygningsloven andre avsnitt kulepunkt 12 fjernes. Pkt. 11 Delegasjon etter yrkestransportlova av 21.6.2002 nr. 45 andre setning endres til: «Godtgjørelse eller enerett ved tildeling av ruteløyve etter § 8, og anbud ved tildeling etter §§ 6 og 7 (tjenestekonsesjonskontrakter).» Pkt. 11 Lov om vassdrag og grunnvann (vannressursloven) av 24.11.2000 nr. 82 andre avsnitt nest siste kulepunkt slettes. Pkt. 11 Forskrift av 21. januar 2022 om jakt- og fangsttider samt sanking av egg og dun for jaktsesongene fra 1.april 2023 til og med 31. mars 2028 «Hovedutvalget for næring og innovasjon er delegert: • Myndighet til å endre jakttida for elg og/eller hjort på eget initiativ eller etter forslag fra kommunen iht. § 3 nr.2 bokstav a. • Myndighet til å åpne for jakt på kanadagås og stripegås inntil 15 dager i forkant av ordinær jakttid iht. § 3 nr.2 bokstav b.» 2. Buskerud fylkesting vedtar følgende endringer i Reglement for delegering av myndighet og tildeling av innstillingsrett fra Buskerud fylkesting: Overskrift i pkt. 5.2.1 endres til «Myndighet». 3. Reglement for yrkesopplæringsnemnda i Buskerud fylkeskommune pkt. 2 andre avsnitt endres til: «Det oppnevnes inntil to varamedlemmer for hvert medlem.» 4. Fylkeskommunedirektør innarbeider endringene i reglementene. Fylkestinget orienteres i etterkant. 5. Fylkestinget tar fylkeskommunedirektørens oppdateringer i - Reglement for fylkesting, fylkesutvalg og hovedutvalgene 2023-2027, - Reglement for delegering av myndighet og tildeling av innstillingsrett fra Buskerud fylkesting og - Reglement for yrkesopplæringsnemnda i Buskerud fylkeskommune, til orientering."
+            },
+            "document": {
+              "objectId": "do_01j76y2wwef05acqa79n3ggrhs",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4c4e89fc-f6f3-4a9d-b325-5e7ac8b9bd47"
+            },
+            "error": null
+          }
         },
         {
           "number": "39/2023",
           "title": "Revisjon av forskrift for folkevalgtes arbeidsvilkår i Buskerud fylkeskommune",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F5f764b22-3fa9-494d-a811-238e060e3a4f",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F71344ba6-ee6f-47f8-a453-95c1ed7ca162",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Buskerud fylkesting vedtar følgende endringer i forskrift for folkevalgtes arbeidsvilkår i Buskerud: Innholdsfortegnelsen Følgende endring: Avsnittene Pkt. 3.3 – 3.7 flyttes til avsnitt 4 Pkt. 4.4-4.7 da innholdet i avsnittet anses som hjemmehørende her. 3.1 Fylkeskommunalt tilskudd Følgende endring: Rammen for ordningen i 2023 er begrenset oppad til kr. 2 033 685 Grunnbeløp per gruppe kr …36 976........, - Grunnbeløp per representant kr ...34 616…,- 4.1 Hva fast årsgodtgjøring dekker Følgende endring: Forhandlingsutvalget tas ut: Faste representanter i fylkestinget, fylkesutvalget, hovedutvalgene, PSU og kontrollutvalget mottar fast årsgodtgjøring fra fylkeskommunen 4.3 Satser for fast årsgodtgjøring til valgte representanter Følgende endringer: • Tabellen tas ut av dokumentet, og det henvises til tabell i avsnitt 11. • Dersom antall medlemmer i partigruppen endres i valgperioden, foretas det omregning av gruppeledergodtgjøringen slik at satsen er i korrekt i henhold til forskriften. • Utbetalingstidspunkt for fast årsgodtgjøring Godtgjøringen betales ut med 1/12 hver måned. Avregning vedrørende fraværsdager, jamfør punkt 5.1, skjer regelmessig. 4.4 Fravær Følgende avsnitt slettes: For fylkespolitikere som dokumenterer at de fast har redusert sin ordinære stilling, gjelder følgende: Fast godtgjøring utbetales uavkortet ved egen sykdom i inntil ett år og i henhold til arbeidsmiljøloven § 12-9 ved barns eller barnepassers sykdom. Følgende avsnitt slettes: I tidsrommet en folkevalgt venter på utbetaling fra NAV kan den folkevalgte og fylkeskommunen inngå avtale av inntil to måneders varighet, om forskuttert utbetaling av godtgjøringen, med etterfølgende trekk. 4.5 Godtgjøring ved leders langtidsfravær Følgende endring: Dersom fylkesordfører eller leder for et hovedutvalg har langtidsfravær ut over 1 måned, innrømmes nestleder full ledergodtgjøring i funksjonsperioden. Følgende avsnitt slettes: Fast godtgjøring utbetales uavkortet ved egen sykdom i inntil ett år og i henhold til arbeidsmiljøloven § 12-9 ved barns eller barnepassers sykdom. 5.Trekk og tillegg i fast årsgodtgjøring Følgende endring: Representanter med fast godtgjøring som har ugyldig fravær trekkes forholdsvis. Det vil si at dersom medlemmet har ugyldig fravær til et utvalgsmøte, trekkes en måned fast godtgjøringssats for utvalget det gjelder. Legges til i punkt 5.3: Godtgjøring til vararepresentanter Vararepresentanter til fylkesting, hovedutvalg, kontrollutvalg og fylkesutvalg mottar kr. 4000 per møtedag. Vararepresentasjon til øvrige utvalg beløper seg til 2705 kroner per møtedag. Satsen indeksreguleres. 6.1 Godtgjøring til valgte representanter i andre utvalg, styrer mv. samt for deltakelse i seminarer Følgende legges til innledningsvis i avsnittet: Faste representanter i fylkestinget, fylkesutvalget, hovedutvalgene, PSU og kontrollutvalget mottar fast årsgodtgjøring fra fylkeskommunen. Den faste årsgodtgjøringen dekker møtegodtgjøring og tapt arbeidsfortjeneste for deltakelse i inntil 15 møter/befaringer, i samsvar med møte- og befaringsprogrammet. Og ellers følgende endring: Dersom leder for et hovedutvalg har langtidsfravær ut over 1 måned, innrømmes nestleder full ledergodtgjøring i funksjonsperioden. Følgende avsnitt slettes: Konsultative medlemmer av utvalg som ikke får godtgjøring på annen måte, tilstås møtegodtgjøring dersom dette er medtatt direkte eller indirekte i oppnevningsvedtaket. Unntak gjelder for konsultative medlemmer som er arbeidsgiverrepresentanter. 6.2 Erstatning for tapt arbeidsfortjeneste m.m. Følgende endringer: Kravet til legitimasjon er bekreftelse fra arbeidsgiver om tapt arbeidsfortjeneste. Det må fremgå av dokumentasjonen timeantallet det søkes om refusjon for. For selvstendig næringsdrivende kreves egenerklæring og ligningsattest for faktisk tapt arbeidsfortjeneste. Dokumentasjonen må godkjennes av fylkeskommunedirektøren Følgende avsnitt slettes: Arbeidstid forstås som kl 08-16, også for pensjonister, studenter, arbeidsledige m.v. Tapt faktisk arbeidsfortjeneste utenfor dette tidsrommet, må dokumenteres og godkjennes av godtgjøringsutvalget. Antall arbeidstimer Arbeidstid forstås som kl 08-16, også for pensjonister, studenter, arbeidsledige m.v. Tapt faktisk arbeidsfortjeneste utenfor dette tidsrommet må dokumenteres og godkjennes av godtgjøringsutvalget. 7.4 Dekning av utgifter for tilsyn med barn Følgende endringer: - Utgifter til tilsyn av barn under 12 år, dersom slikt tilsyn er nødvendig for utøvelsen av tillitsvervet, dekkes med inntil kr 970,- pr dag. -I forbindelse med oppdragsreiser for fylkeskommunen kan legitimerte utgifter til skyss og kost for barnepasser til baby dekkes. Følgende avsnitt slettes: Ved dokumentert behov tilsyn med barn om natten, eller tap i familieinntekten for å dekke nattilsynet, kan det tilstås nattillegg i henhold til reiseregulativet, dersom det er behov for det. Nattillegget kan gjelde også for barn over 12 år. 9. Ekstra boutgifter for politikere Følgende endring: Heltidspolitikere som må leie bolig for å utøve sitt verv, kan søke om å få dekket kostnader til ekstrautgifter begrenset oppad til markedsleie. Det må inngås en særskilt avtale som godkjennes av fylkeskommunedirektør, for at fylkeskommunen kan dekke nevnte utgifter. 10. Fortolkninger av reglementet Følgende endring: Fortolkninger av dette reglementet kan gjøres av fylkesutvalget. Ved uenighet sendes uklarheten til fortolkning i fylkestinget. Følgende slettes: Godtgjøringsutvalget består av 3 medlemmer valgt blant fylkesutvalgets medlemmer. Det forutsettes enstemmighet i godtgjøringsutvalget, i motsatt fall sendes uklarheten til fylkestinget. 11. Indeksregulering og satser Følgende endringer: Eksisterende tabell erstattes med ny tabell med oppdaterte satser. Videre er det lagt inn en egen linje for PSU 5%. Administrasjonsutvalget er fjernet da dette utvalget ikke er opprettet i Buskerud fylkeskommune. Forhandlingsutvalget er tatt ut av tabellen"
+            },
+            "document": {
+              "objectId": "do_01j76y2v51f3fv83ntc33wzhyv",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F71344ba6-ee6f-47f8-a453-95c1ed7ca162"
+            },
+            "error": null
+          }
         },
         {
           "number": "40/2023",
           "title": "Forslag til endringer i plan- og bygningsloven om grunneierfinansiering av infrastruktur, utbyggingsavtaler mv. - Høringsuttalelse",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F334b82a5-a373-4fa1-bce5-210920247fda",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F6296fac8-e1ac-4bdc-bee5-a1e85a1a0e50",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "1. Buskerud fylkesting vurderer at foreslåtte endringer i plan- og bygningsloven om grunneierfinansiering av infrastruktur og utbyggingsavtaler er et skritt i riktig retning for å legge til rette for mer effektiv planlegging og gjennomføring, samt mer rettferdig kostnadsfordeling. 2. Buskerud fylkesting viser til innspill og merknader utdypet i saksframstillingen, og legger særlig vekt på følgende momenter som departementet bes om å følge opp: a) Det må tydeliggjøres hvordan fylkeskommunen kan ivareta sine interesser som veieier, spesielt knyttet til samtykke og økonomiske konsekvenser dersom fylkesveitiltak tas inn i finansieringsordningen. b) Dersom lovendringene vedtas bør det utarbeides veiledere som nærmere redegjør for den praktiske bruken av det nye virkemiddelet. inkludert hvordan medvirkning i forbindelse med utarbeiding og endringer av områdestrategier bør gjennomføres. Veileder om utbyggingsavtaler bør vurderes oppdatert. c) Det bør ikke åpnes for å foreta mindre endringer i bestemmelsene uten at eierne og festerne av eiendommer, og eventuelle andre berørte får muligheten til å medvirke. Det bør være tydelig hvor vidt «andre berørte» skal tolkes. Dette bør eksemplifiseres i en veileder. d) Det kan være hensiktsmessig at det lages en forsøksordning for å teste ut forslaget til nytt virkemiddel før det eventuelt vedtas lovendringer."
+            },
+            "document": {
+              "objectId": "do_01j76y2y1ff2hbrh0ch696czh9",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F6296fac8-e1ac-4bdc-bee5-a1e85a1a0e50"
+            },
+            "error": null
+          }
         },
         {
           "number": "41/2023",
           "title": "Innspill til endringer i vannforskriften",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fa6b99a8f-a92a-4104-82da-568cf5962088",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2541ec2b-b80d-41ca-a696-f2c20fe06287",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "1. Fylkestinget støtter foreslått inndeling av vannregioner, hvor en går tilbake til de tidligere vannregionene Vest-Viken og Glomma. 2. Fylkestinget støtter at Buskerud fylkeskommune blir ny vannregionmyndighet for Vest- Viken vannregion. 3. Fylkestinget støtter øvrige forslag til endringer i vannforskriften. 4. Fylkestinget forventer at staten viderefører og følger opp med statlige bidrag til plan- og prosessarbeid i fylkeskommunene og til det lokale arbeidet i vannområdene i regi av kommunene."
+            },
+            "document": {
+              "objectId": "do_01j76y2wp8fywsftmy9cqga1ev",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2541ec2b-b80d-41ca-a696-f2c20fe06287"
+            },
+            "error": null
+          }
         },
         {
           "number": "42/2023",
           "title": "Høring av NOU 2023:23 Helhetlig forvaltning av akvakultur for bærekraftig verdiskaping",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F9eaaeaee-5e8e-47f9-bf0a-81822f7e936d",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fabb82b77-bafe-48aa-b0de-c486da6c2651",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Buskerud fylkeskommune gir følgende høringssvar til NOU 2023:23 Helhetlig forvaltning av akvakultur for bærekraftig verdiskaping: Buskerud fylkeskommune slutter seg til og støtter utvalget sine forslag når det gjelder sikring av god biosikkerhet, god fiskevelferd og akseptabel miljøpåvirkning for å legge til rette for vekst innen akvakultur. Buskerud fylkeskommune støtter ikke forslaget om at staten skal overta større deler av ansvaret og myndighet for å utarbeide og vedta arealplaner for sjøområdene. Av hensyn til lokaldemokrati og medvirkning bør dette forbli hos kommuner og fylkeskommuner. Forslagene fra utvalget på dette området er svakt begrunnet, og ikke i tråd med en politikk hvor avgjørelsene skal tas på lavest mulig nivå av folkevalgte organer. Det må være kommunen, som planmyndighet, som avgjør hvilket planbehov de har for å løse sine utfordringer. Tildeling av akvakulturtillatelser bør ikke sentraliseres til statlige myndigheter, men opprettholdes på fylkeskommunalt nivå. Fylkeskommunene har gode tiltak for å sikre tilstrekkelig kompetanse regionalt, mens koordineringen på statlig nivå trekkes frem som svak. Norskekysten er svært variert, med ulike naturgitte forutsetninger, varierende næringsstruktur, demografi og ulike brukerinteresser. Det vil derfor alltid være lokale og regionale hensyn som vil ha betydning i en søknadssammenheng. Det bør utarbeides et nasjonalt program for marine grunnkart for hele landet. Det vil være et viktig verktøy for kommunene, og kan sikre bedre muligheter for bærekraftig utvikling av kystområdene våre."
+            },
+            "document": {
+              "objectId": "do_01j76y2vshe6darggpgn08w804",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fabb82b77-bafe-48aa-b0de-c486da6c2651"
+            },
+            "error": null
+          }
         },
         {
           "number": "43/2023",
           "title": "Valg av valgkomité for valgperioden 2023 - 2027",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F0f26d159-b868-47b6-9ba9-d2d72f185dce",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3ec722c7-e653-4660-be34-f61ef2bf87db",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Fylkestinget i Buskerud velger følgende medlemmer til valgkomité for perioden 2023 – 2027: Medlemmer: 1. Leder: Tore Opdal Hansen (H) 2. Nestleder: Lavrans Kierulf (Frp) 3. Mons-Ivar Mjelde (Ap) 4. Anne Kristine (Tine) Norman (Sp) 5. Iselin Haugo Stavn (H) Varamedlemmer H og Frp: 1. Christopher Amundsen Wand (H) 4. Lars Stenberg (INP) 5. Kristin Gjerde (Frp) Varamedlemmer Ap og Sp: 1.Tonje Enersen (Ap) 2.Magnus Weggesrud (Sp)"
+            },
+            "document": {
+              "objectId": "do_01j76y2wcdfvd8hgzbqev2rbtw",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3ec722c7-e653-4660-be34-f61ef2bf87db"
+            },
+            "error": null
+          }
         },
         {
           "number": "44/2023",
           "title": "Valg av kontrollutvalgssekretariat - Inntreden i Viken kontrollutvalgssekretariat IKS",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F36be6a61-a5dc-4645-bbba-1f90c6927b37",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fae81a863-c2a0-4474-8c7b-cd83e8385e07",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Fylkestinget slutter seg til fremlagte selskapsavtale for Viken kontrollutvalgssekretariat IKS og trer inn i selskapet, med virkning fra 1. januar 2024. Fylkestinget velger Viken kontrollutvalgssekretariat IKS om kontrollutvalgssekretariat for Buskerud fylkeskommune."
+            },
+            "document": {
+              "objectId": "do_01j76y2xf8fs9akvwvezs7q9z3",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fae81a863-c2a0-4474-8c7b-cd83e8385e07"
+            },
+            "error": null
+          }
         },
         {
           "number": "45/2023",
           "title": "Viken kontrollutvalgssekretariat IKS - valg til representantskapet 2024 - 2027",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fcb4d0ae5-ac69-43fb-9b11-796564224f28",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd4b2fa59-7bfc-4ca9-b154-9f8bd4547b55",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Til representantskapet i Viken kontrollutvalgssekretariat IKS for perioden 2024 - 2027 velges: Medlem: Tore Opdal Hansen (H) Personlig varamedlem: Lavrans Kierulf (Frp)"
+            },
+            "document": {
+              "objectId": "do_01j76y2wynfgmr2fq6e6jkmsdg",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd4b2fa59-7bfc-4ca9-b154-9f8bd4547b55"
+            },
+            "error": null
+          }
         },
         {
           "number": "46/2023",
           "title": "Opprettelse av vertskommunesamarbeid om fartøyvern mellom Akershus fylkeskommune, Buskerud fylkeskommune, Østfold fylkeskommune og Oslo kommune",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F1be2d0ba-bd49-4b21-9a62-46fc8c418e62",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fed1fde1b-48be-4211-b9f4-6edeb59c6062",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "1. Det opprettes vertskommunesamarbeid om fartøyvern mellom Akershus fylkeskommune, Buskerud fylkeskommune, Østfold fylkeskommune og Oslo kommune, i henhold til utkast til avtale om slikt samarbeid datert 04.10.2023. 2. Det opprettes vertskommunesamarbeid om tilskuddsordningen for tekniske og industrielle kulturminner mellom Akershus fylkeskommune, Buskerud fylkeskommune og Østfold fylkeskommune, i henhold til utkast til avtale om slikt samarbeid datert 04.10.2023. 3. Samarbeidene organiseres som administrative vertskommunesamarbeid, i henhold til kommuneloven § 20.2. Vertskommune er Akershus fylkeskommune. 4. Vertskommuneavtalene løper fra de er undertegnet av partene, men tidligst fra 1.1.2024. Avtalene løper fram til den sies opp av en av partene. 5. Ordningene skal evalueres av partene innen to år etter avtaleinngåelsen, og etter dette dersom en av partene krever det. Som ledd i evalueringen skal det også anslås hvordan tidsbruken har fordelt seg mellom fylkene, med sikte på eventuelle justeringer av kostnadsfordelingen. 6. Akershus fylkeskommune som vertskommune orienterer Kommunal- og distriktsdepartementet når samarbeidene er opprettet, i henhold til kommuneloven § 20.4."
+            },
+            "document": {
+              "objectId": "do_01j76y2v2vetfr707mcnb36rmf",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fed1fde1b-48be-4211-b9f4-6edeb59c6062"
+            },
+            "error": null
+          }
         },
         {
           "number": "47/2023",
           "title": "Valg av revisor - Inntreden i Viken kommunerevisjon IKS",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe98203ed-b482-4451-9368-26fcbd70b300",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc5c1d08c-71c5-4d12-8787-92e5779269a1",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Fylkestinget slutter seg til fremlagte selskapsavtale for Viken kommunerevisjon IKS og trer inn i selskapet, med virkning fra 1. januar 2024. Fylkestinget velger Viken kommunerevisjon IKS som revisor for Buskerud fylkeskommune."
+            },
+            "document": {
+              "objectId": "do_01j76y2xhdfpfafa38ngtjf61b",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc5c1d08c-71c5-4d12-8787-92e5779269a1"
+            },
+            "error": null
+          }
         },
         {
           "number": "48/2023",
           "title": "Viken kommunerevisjon IKS - valg til representantskapet 2024 - 2027",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F919e4856-b310-4736-9438-b948de1cea7f",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff0ecbab7-3eb7-47f0-b0c4-1b45a7cc1e7f",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Til representantskapet i Viken kommunerevisjon IKS for perioden 2024 - 2027 velges: 1. Tore Opdal Hansen (H), representant 2. Lavrans Kierulf (Frp), personlig vararepresentant 3. Iselin Haugo Stavn (H), personlig vararepresentant"
+            },
+            "document": {
+              "objectId": "do_01j76y2vpqe9vvwttr8bv601en",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff0ecbab7-3eb7-47f0-b0c4-1b45a7cc1e7f"
+            },
+            "error": null
+          }
         },
         {
           "number": "49/2023",
           "title": "Nasjonal digital læringsarena (NDLA) - oppnevning av representantskapet for 2024 - 2027",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fdd83c347-c584-4c7c-b1c0-02ab50fd945b",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F101bad68-9740-48f7-b6a2-56c921083206",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Følgende oppnevnes som Buskerud fylkeskommunes representanter til representantskapet i Nasjonal digital læringsarena (NDLA) for 2024 - 2027: • Simen Murud (H) (medlem) • Jan Hele Atterås (varamedlem)"
+            },
+            "document": {
+              "objectId": "do_01j76y2x4gf29aveeq1jdwd9p0",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F101bad68-9740-48f7-b6a2-56c921083206"
+            },
+            "error": null
+          }
         },
         {
           "number": "50/2023",
           "title": "Analyse i Akershus, Buskerud og Østfold kommunale oppgavefelleskap - oppnevning til representantskapet 2024- 2027",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F407324bc-8b4c-4f61-a07f-e81dda48503d",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa88228a8-8598-4d9e-bab9-075360faf1de",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "• Randi Julie Haldorsen (medlem) • Per Øystein Bentstuen (medlem) • Kjersti Morseth Hallerud (1. varamedlem) • Anita Horvei (2. varamedlem)"
+            },
+            "document": {
+              "objectId": "do_01j76y2xk8e3bab3hzfedjn4e8",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa88228a8-8598-4d9e-bab9-075360faf1de"
+            },
+            "error": null
+          }
         },
         {
           "number": "51/2023",
           "title": "Valg av representantskap og anbefaling om styrevedtekter for Fagskolen i Viken kommunalt oppgavefellesskap",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F54fa2a59-da47-42f3-9996-27be8e0e078d",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4f95ad35-252d-4867-b84c-6103a3a9a154",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "1. Til representantskapet for Fagskolen i Viken oppgavefellesskap for perioden fra 1. desember 2023 til og med 30. november 2027 oppnevnes følgende: Medlemmer - Lirigzona Berisha (Ap) - Simen Murud (H) Varamedlem - Njål Vigleik Grene-Johnsen Andre varamedlem - Roger Larsen (INP) 2. Fylkestinget anbefaler representantskapet å fastsette vedtektene for styret i Fagskolen i Viken slik de går fram av vedlegget til saken, med unntak av §§ 8, 4.1 og 4.3 som skal lyde: § 4.1 Styresammensetning Representantskapet oppnevner styrets medlemmer og varamedlemmer. Styret består av 15 medlemmer. Hvert medlem skal ha ett varamedlem. Styresammensetning med medlemmer og varamedlemmer skal være slik: Tre (3) medlemmer fra nærings- og arbeidslivet og tre varamedlemmer for disse, der: • ett medlem og ett personlig varamedlem utpekes etter forslag fra NHO • ett medlem og ett personlig varamedlem utpekes etter forslag fra LO • ett medlem og ett personlig varamedlem utpekes etter forslag fra KS Seks (6) medlemmer valgt av eierfylkeskommunene og seks varamedlemmer til disse. • Eierfylkeskommunene fremmer selv sine representanter. Ved politisk valgt representasjon søkes det en representant for posisjon og en for opposisjon. • to medlemmer fra Buskerud, to fra Østfold og to fra Akershus. • hver av disse har varamedlem fra samme eierfylkeskommun Tre (3) medlemmer fra studenter og to varamedlemmer velges av og blant studentene. Det søkes representasjon fra alle eierfylkene. Tre (3) medlemmer fra ansatte og to varamedlemmer velges av og blant de ansatte. Det søkes representasjon fra alle eierfylkene. § 4.3 Leder og nestleder Representantskapet fastsetter at representanter fra nærings- og arbeidslivet skal være styres leder og nestleder og at representantene selv utpeker disse. § 8 Ikrafttreden og endring Vedtektene og instruksen trer i kraft fra vedtaksdato. Bestemmelsene i fagskoleloven med forskrifter gjelder foran bestemmelsene i vedtektene/instruksen ved motstrid, for eksempel som følge av at fagskoleloven eller forskriftene til loven endres. Redaksjonelle endringer uten prinsipiell betydning, og endringer som følge av endringer i lov eller forskrift, kan foretas av rektor og godkjennes av styreleder. Andre endringer vedtas av Representantskapet for Fagskolen i Viken KO."
+            },
+            "document": {
+              "objectId": "do_01j76y2xxne8wbs9qd1fadt7fk",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4f95ad35-252d-4867-b84c-6103a3a9a154"
+            },
+            "error": null
+          }
         },
         {
           "number": "52/2023",
           "title": "Interkommunalt arkiv for Buskerud, Vestfold og Telemark IKS (IKA Kongsberg) - Ny selskapsavtale 2024 og valg av medlemmer til representantskapet 2024 - 2027",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F15f95972-526c-4f7f-8d74-514780a99fbc",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F7ee4f405-7b2a-4837-87e1-9b10b8d0ad9e",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "1. Fylkestinget godkjenner selskapsavtale for interkommunalt arkiv for Buskerud, Vestfold og Telemark IKS (IKA Kongsberg) 2024. 2. Til representantskapet i interkommunalt arkiv for Buskerud, Vestfold og Telemark (IKA Kongsberg) velges for perioden 2024 - 2027: I. Tore Opdal Hansen (H) (medlem) II. Lavrans Kierulf (Frp) (varamedlem 1) III. Iselin Haugo Stavn (H) (varamedlem 2)"
+            },
+            "document": {
+              "objectId": "do_01j76y2x7yfy0rm168fqqw4f4d",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F7ee4f405-7b2a-4837-87e1-9b10b8d0ad9e"
+            },
+            "error": null
+          }
         },
         {
           "number": "53/2023",
           "title": "Østlandssamarbeidet IPR – ny samarbeidsavtale og valg av representantskapsmedlemmer 2024 - 2027",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F7aec2ab3-1d49-4e3d-abbb-4b7edeb567b0",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F47b5a2ae-7f78-46e2-b8cf-f2ca5e10a9e3",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "1. Fylkestinget slutter seg til samarbeidsavtale for Østlandssamarbeidet IPR. 2. Til representantskapet i Østlandssamarbeidet IPR for perioden 2024 – 2027 velges: Medlem Personlig varamedlem Lavrans Kierulf (Frp) Tore Opdal Hansen (H) Iselin Haugo Stavn (H) Simen Murud (H) Magnus Weggesrud (Sp) Mons-Ivar Mjelde (Ap) Bård Sødal Grasbekk (MDG) Tove Hofstad (V)"
+            },
+            "document": {
+              "objectId": "do_01j76y2vg1fnmrpg8bg9pda3tf",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F47b5a2ae-7f78-46e2-b8cf-f2ca5e10a9e3"
+            },
+            "error": null
+          }
         },
         {
           "number": "54/2023",
           "title": "Oppnevning til vannområder i Buskerud",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F868645de-69bf-4899-8d96-8d71b48efd8a",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F20b47970-c776-4a3b-bcd9-6cbd1cb14a78",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "1. God politisk forankring og godt samarbeid mellom regionalt og lokalt nivå er viktig for oppfølging og gjennomføring av de regionale vannforvaltningsplanene. 2. Fylkestinget oppnevner en representant med vara til vannområdene: Drammenselva vannområde: • Representant: Lavrans Kierulf (Frp) • Vara: Lars Stenberg (INP) Vannområde Tyrifjorden: • Representant: Morgan Langfeldt (Frp) • Vara: Christopher Wand (H) Hallingdal vannområde: • Representant: Hanne Haatuft (H) • Vara: Morgan Langfeldt (Frp) Simoa vannområde: • Representant: Lars Stenberg (INP) • Vara: Kjell Erland Grønbeck (KrF) Vannområde Numedalslågen: • Representant: Eilev Bekjorden (Frp) • Vara: Thomas Fosen (H) Eikeren vannområde: • Representant: Marianne Werp (H) • Vara: Kjell Erland Grønbeck (KrF) 3. Fylkestinget ber fylkeskommunedirektøren legge til rette for at representantene, på en egnet måte, får en god innføring i vannforvaltningsarbeidet og fylkeskommunens rolle i vannområdene."
+            },
+            "document": {
+              "objectId": "do_01j76y2vj3feytns39v2cf8sma",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F20b47970-c776-4a3b-bcd9-6cbd1cb14a78"
+            },
+            "error": null
+          }
         },
         {
           "number": "55/2023",
           "title": "Oppnevning til kommuneregionene i Buskerud",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F9a79dec6-75dd-4bfe-9e95-15a5bb751164",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd2d4c22b-851e-4a0d-803c-17662a4b876e",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "1. Buskerud fylkeskommune viderefører samarbeid med de fire interkommunale politiske rådene i Buskerud. 2. Fylkestinget oppnevner to representanter med vara til Drammensregionen: Representanter: • Tonje Enersen (Ap) • Morgan Langfeldt (FRP) Varaer for Enersen (Ap): • Tove Hofstad (V) • Bård Sødal Grasbekk (MDG) • Simon Nordanger (Sp) Varaer for Langfeldt (Frp): • Lavrans Kierulf (Frp) • Egil Ax (H) • Christina Højer Mørkve (H) 3. Fylkestinget oppnevner to representanter med vara til Kongsbergregionen: Representanter: • Magnus Weggesrud (Sp) • Kjell Erland Grønbeck (KrF) Varaer for Weggesrud (Sp): • Tine Norman (Sp) • Njål Vigleik Grene-Johnsen (SV) • Cecilie Søvik (MDG) Varaer for Grønbeck (KrF): • Simen Murud (H) • Mari D. Bråthen (H) • Jonas Nikolaisen (H) 4. Fylkestinget oppnevner to representanter med vara til Ringeriksregionen: Representanter: • Mons-Ivar Mjelde (Ap) • Roger Larsen (INP) Varaer for Mjelde (Ap): • Hans Petter de Fine (Rødt) • Mina Minaie (SV) • Ståle Versland (Ap) Varaer for Larsen (INP): • Christopher Wand (H) • Dag Øivind Henriksen (H) • Kristin Løvaas Gjerde (FrP) 5. Fylkestinget oppnevner to representanter med vara til Hallingdalsregionen: Representanter: • Anders Wengen (V) • Iselin Haugo Stavn (H) Varaer for Wengen (V): • Hans Petter de Fine (Rødt) • Ellen Høie (Ap) • Sigrid Sagabråten (Sp) Varaer for Stavn (H): • Hanne Haatuft (H) • Marianne Werp (H) • Søren Falch Zapffe (H)"
+            },
+            "document": {
+              "objectId": "do_01j76y2vqze4696p8kwwtbj8k6",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd2d4c22b-851e-4a0d-803c-17662a4b876e"
+            },
+            "error": null
+          }
         },
         {
           "number": "56/2023",
           "title": "Samlesak medlemskap, prosjekter, nettverk og utviklingssamarbeid",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F77e45d93-7277-48aa-a70f-25d9f8f190cf",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fed94d4f3-dead-4361-a126-036fde3f7c21",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "1. Fylkestinget vedtar at følgende medlemskap, prosjekter, nettverk og utviklingssamarbeid ikke videreføres: • Fagråd om sosial ulikhet • Partnerskapsmidler folkehelse • Partnerskapsavtale Voksenopplæringsforbundet (VOFO) • Prosjekt for inkludering i arbeid og utdanning (PIAU) • Samarbeid med Berlin • Biogass Oslofjord • Klima Viken • Klimapartnere Viken • Partnerskap for næring og kunnskap i Buskerud • Talentsatsinger; UngMusikk og DanseFot • OECD – bærekraftprosjekt • Transparency International 2. Fylkestinget vedtar at følgende medlemskap, prosjekter, nettverk og utviklingssamarbeid videreføres: • Arealregnskap • Fjellnettverket • Fordeling av ansvar for EU-prosjekter til de nye fylkeskommunene • Hardangerviddarådet • Include • Interreg Øresund-Kattegat-Skagerrak (ØKS) • Nordfjellarådet • Råd for Norefjell og Reinsjøfjell • Samarbeidsavtale med Distriktssenteret • Vannområdene i Buskerud (Hallingdal, Numedalslågen, Simoa, Tyrifjorden, Eikeren og Drammenselva) • Kongsberg Kompetansesenter for Yrkesfag • Nasjonal Digital Læringsarena – NDLA • Ungt Entreprenørskap • Buskerudbyen • Haukeliveien AS • Forum for nye Bergensbanen • Avtale med Drammen kommune om Triztan Vindtorn poesipris • Olympiatoppen Østlandet • Oslofjorden friluftsråd • Partnerskapsavtale Viken Idrettskrets • Politisk forum Skagerrak • Skjærgårdstjenesten • Østlandsutstillingen • Kunst Rett Vest • Nasjonalt Bærekraftsnettverk 3. Fylkeskommunedirektøren bes vurdere følgende medlemskap, prosjekter, nettverk og utviklingssamarbeid i løpet av 2024: • Conference of peripheral maritime regions (CPMR), inklusive Nordsjøkommisjonen(NSC) • Euromontana • Osloregionens Europakontor • Bærekraftsløft Viken 4. Fylkeskommunedirektøren bes saldere innsparte midler i revidert budsjettforslag for budsjett og økonomiplan 2024-2027."
+            },
+            "document": {
+              "objectId": "do_01j76y2vbtfqm92f742r3rbn53",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fed94d4f3-dead-4361-a126-036fde3f7c21"
+            },
+            "error": null
+          }
         },
         {
           "number": "57/2023",
           "title": "Oppnevning til Interreg Øresund-Kattegat-Skagerak fra Buskerud fylkeskommune",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe66ed0bc-04da-4aff-895f-6abf1c5e26b9",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa530df4c-79c2-4b97-b5a1-f176c943f694",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Fylkestinget oppnevner til Interreg Øresund-Kattegat-Skagerak: • Representant til Interreg ØKS Overvåkingskomite: Dag Øivind Henriksen (H) • Vararepresentant til Interreg ØKS Styringskomite KASK: Søren Falch Zapffe (H)"
+            },
+            "document": {
+              "objectId": "do_01j76y2w7vfs8r1gd55cv11ecn",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa530df4c-79c2-4b97-b5a1-f176c943f694"
+            },
+            "error": null
+          }
         },
         {
           "number": "58/2023",
           "title": "Valg av representanter til nasjonalpark- og verneområdestyrer - Hallingskarvet nasjonalpark",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Ffe9a469b-6792-4fae-b33e-850bb12befb0",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd6e09173-fa56-4fa5-8a4c-712520f66bf3",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "1. Fylkestinget tar informasjon om nasjonalpark- og verneområdestyrer i Buskerud til orientering. 2. Fylkestinget foreslår følgende representant og vararepresentant til Hallingskarvet nasjonalpark: • Representant: Dag Øivind Henriksen (H) • Vararepresentant: Inger Kammerud (H)"
+            },
+            "document": {
+              "objectId": "do_01j76y2whsetgawgdhxgk73kkt",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd6e09173-fa56-4fa5-8a4c-712520f66bf3"
+            },
+            "error": null
+          }
         },
         {
           "number": "59/2023",
           "title": "Valg av representant til Nordfjellarådet",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe2985d67-abbe-4bfa-a030-2e5f155a6e63",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc70bbf03-8643-4ce9-98e6-036b1a789c18",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Buskerud fylkeskommune viderefører samarbeidet om Regional plan for Nordfjella med Raudafjell i Nordfjellarådet. Fylkestinget oppnevner to representanter med vara til rådet: • Representant: Inger Kammerud (H) med vararepresentant: Inger Brit Vindegg (H) • Representant: Erik Kaupang (Ap) med vararepresentant: Sigrid Sagabråten (Sp)"
+            },
+            "document": {
+              "objectId": "do_01j76y2w5zewts8ejesk9jfweg",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc70bbf03-8643-4ce9-98e6-036b1a789c18"
+            },
+            "error": null
+          }
         },
         {
           "number": "60/2023",
           "title": "Innstilling av medlemmer til regionale rovviltnemnder etter kommunestyre- og fylkestingsvalget 2023",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F79550202-e0d0-4570-a9e5-59f1153780c7",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff5b9e79b-51a6-4e49-82b5-f6455ff638f0",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Fylkestinget foreslår følgende representanter og vararepresentanter til regional rovviltnemnd region 2: • Representant: Morgan Langfeldt (Frp) • Vararepresentant: Roger Larsen (INP)"
+            },
+            "document": {
+              "objectId": "do_01j76y2ve1eckazvxyp6y9qpbc",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff5b9e79b-51a6-4e49-82b5-f6455ff638f0"
+            },
+            "error": null
+          }
         },
         {
           "number": "61/2023",
           "title": "Tannhelsetjenestens kompetansesenter Øst - Ny samarbeidsavtale og valg av medlemmer til representantskapet for 2024 - 2027",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F741cea5b-b6a9-45ba-a9e1-09f14f86642e",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0f5c8583-60bb-420c-8691-908b04bc78b7",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "1. Ny samarbeidsavtale for Tannhelsetjenestens kompetansesenter Øst godkjennes. 2. Følgende representanter fra Buskerud fylkeskommune oppnevnes til representantskapet i Tannhelsetjenestens kompetansesenter Øst for perioden 2024 -2027: I. Roger Larsen (INP) (medlem) II. Kjell Erland Grønbeck (KrF) (personlig varamedlem)"
+            },
+            "document": {
+              "objectId": "do_01j76y2v9yfxh8df2da9b9xn78",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0f5c8583-60bb-420c-8691-908b04bc78b7"
+            },
+            "error": null
+          }
         },
         {
           "number": "62/2023",
           "title": "Hallingdal pedagogisk-psykologisk tjeneste og oppfølgingstjeneste IKS - Ny selskapsavtale og valg av medlemmer til representantskapet 2024 - 2027",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F15516023-5b42-4463-b0f2-2c43aef1c45d",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Febd6aa95-2d57-45c4-993a-14e6328fe9f8",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "1. Pedagogisk-psykologisk tjeneste og oppfølgingstjenesten i nedre Hallingdal IKS skifter navn til Hallingdal pedagogisk-psykologisk tjeneste og oppfølgingstjeneste IKS fra 1.1.2024. Hol kommune blir medeier i Hallingdal pedagogisk-psykologisk tjeneste og oppfølgingstjeneste IKS fra 1.1.2024. Selskapsavtale for Hallingdal pedagogisk-psykologisk tjeneste og oppfølgingstjeneste IKS gjeldende fra 1.1.2024 vedtas. 2. Til representantskapet i Hallingdal pedagogisk-psykologisk tjeneste og oppfølgingstjeneste IKS for perioden 2024 - 2027 velges: I. Hanne Haatuft (H) (medlem) II. Marianne Werp (H) (varamedlem 1) III. Knut Andre Svensbråten (FRP) (varamedlem 2)"
+            },
+            "document": {
+              "objectId": "do_01j76y2x6aecnt71j0a4stas52",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Febd6aa95-2d57-45c4-993a-14e6328fe9f8"
+            },
+            "error": null
+          }
         },
         {
           "number": "63/2023",
           "title": "Fylkesbiblioteket i Akershus, Buskerud og Østfold kommunalt oppgavefelleskap - Oppnevning til representantskapet 2024-2027",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F91168403-ae37-493a-834e-6d7ca5ac0ae3",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F30cfe63e-9225-485f-afb3-200f53072626",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Følgende oppnevnes som Buskerud fylkeskommunes representanter til representantskapet i Fylkesbiblioteket i Akershus, Buskerud og Østfold kommunalt oppgavefellesskap 2024-2027: Medlemmer: 1. Johan Baumann (H) 2. Njål Vigleik Grene-Johnsen (SV) Numeriske varamedlemmer: 1. Søren Falch Zapffe (H) 2. Kaia Hilleren (SV)"
+            },
+            "document": {
+              "objectId": "do_01j76y2vnfetfvkp2c2d91khww",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F30cfe63e-9225-485f-afb3-200f53072626"
+            },
+            "error": null
+          }
         },
         {
           "number": "64/2023",
@@ -492,8 +1499,253 @@
           "metadata": null
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "complete",
+        "completed": false,
+        "fixedMembers": [
+          {
+            "name": "Tore Opdal Hansen",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Mons-Ivar Mjelde",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Tonje Enersen",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Bjørn Tore Ødegården",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Lirigzona Berisha",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Ståle Versland",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Anne Kristin Hov Hilleren",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Erik Kaupang",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Ellen Ramson Høie",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Odd Terje Svendsen",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Iselin Haugo Stavn",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Simen Murud",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Christina Højer Mørkve",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Christopher Amundsen Wand",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Marianne Werp",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Trine Raknes",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Søren Falch Zapffe",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Inger Synnøve Kammerud",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Jonas Nikolaisen",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Hanne Birgitte Lindbak Haatuft",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Egil Ax",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Ana Maria Silva-Harper",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Thomas Fosen",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Mari Djupvik Bråthen",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Dag Øivind Henriksen",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Lavrans Gabriel Kierulf",
+            "attendanceRole": "medlem",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Morgan Langfeldt",
+            "attendanceRole": "medlem",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Eilev Bekjorden",
+            "attendanceRole": "medlem",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Kristin Løvaas Gjerde",
+            "attendanceRole": "medlem",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Mary-Ann Lokshall Tabrizi",
+            "attendanceRole": "medlem",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Knut Andre Svensbråten",
+            "attendanceRole": "medlem",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Roger Larsen",
+            "attendanceRole": "medlem",
+            "representedBy": "INP"
+          },
+          {
+            "name": "Lars Stenberg",
+            "attendanceRole": "medlem",
+            "representedBy": "INP"
+          },
+          {
+            "name": "Bård Sødal Grasbekk",
+            "attendanceRole": "medlem",
+            "representedBy": "MDG"
+          },
+          {
+            "name": "Magnus Weggesrud",
+            "attendanceRole": "medlem",
+            "representedBy": "SP"
+          },
+          {
+            "name": "Cecilie Søvik",
+            "attendanceRole": "medlem",
+            "representedBy": "MDG"
+          },
+          {
+            "name": "Anne Kristine Norman",
+            "attendanceRole": "medlem",
+            "representedBy": "SP"
+          },
+          {
+            "name": "Simon Sebastian Nordanger",
+            "attendanceRole": "medlem",
+            "representedBy": "SP"
+          },
+          {
+            "name": "Sigrid Onsgaard Sagabråten",
+            "attendanceRole": "medlem",
+            "representedBy": "SP"
+          },
+          {
+            "name": "Stian Bakken",
+            "attendanceRole": "medlem",
+            "representedBy": "SP"
+          },
+          {
+            "name": "Øivind Fjeldheim",
+            "attendanceRole": "medlem",
+            "representedBy": "PP"
+          },
+          {
+            "name": "Njål Vigleik Grene-Johnsen",
+            "attendanceRole": "medlem",
+            "representedBy": "SV"
+          },
+          {
+            "name": "Kaja Yngsdal Hilleren",
+            "attendanceRole": "medlem",
+            "representedBy": "SV"
+          },
+          {
+            "name": "Hans Petter de Fine",
+            "attendanceRole": "medlem",
+            "representedBy": "R"
+          },
+          {
+            "name": "Anders Wengen",
+            "attendanceRole": "medlem",
+            "representedBy": "V"
+          },
+          {
+            "name": "Tove Hofstad",
+            "attendanceRole": "medlem",
+            "representedBy": "V"
+          },
+          {
+            "name": "Kjell Erland Grønbeck",
+            "attendanceRole": "medlem",
+            "representedBy": "KRF"
+          }
+        ],
+        "deputies": [],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/cfddc3fc-e102-45a7-9031-c9e47fda5fbc",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fcfddc3fc-e102-45a7-9031-c9e47fda5fbc"
+        }
+      },
+      "metadataStatus": "complete",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fcfddc3fc-e102-45a7-9031-c9e47fda5fbc"
     },

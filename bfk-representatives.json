@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "registerType": "representative-register",
+  "status": "seed-with-committee-politicians",
+  "description": "Første godkjente grunnregister for politikere i Buskerud fylkesting og politiske utvalg. Utvalgsmedlemskap lagres separat.",
+  "sourceNotice": "Data er hentet fra offentlige medlemslister på bfk.no og må kontrolleres på nytt når kildesidene endres.",
+  "sources": [
+    {
+      "id": "bfk-fylkestingets-medlemmer",
+      "url": "https://bfk.no/politikk/fylkestinget/fylkestingets-medlemmer.186070.aspx",
+      "sourceType": "official-bfk",
+      "scope": "fylkesting",
+      "retrievedAt": "2026-09-21"
+    }
+  ],
+  "parties": [
+    {
+      "id": "AP",
+      "name": "Arbeiderpartiet",
+      "members": [
+        { "id": "rep-mons-ivar-mjelde", "displayName": "Mons-Ivar Mjelde", "aliases": ["Mons Ivar Mjelde", "Mons- Ivar Mjelde"] },
+        { "id": "rep-tonje-enersen", "displayName": "Tonje Enersen", "aliases": [] },
+        { "id": "rep-bjorn-tore-odegarden", "displayName": "Bjørn Tore Ødegården", "aliases": [] },
+        { "id": "rep-lirigzona-berisha", "displayName": "Lirigzona Berisha", "aliases": ["Lirigsona Berisha"] },
+        { "id": "rep-stale-versland", "displayName": "Ståle Versland", "aliases": [] },
+        { "id": "rep-anne-kristin-hov-hilleren", "displayName": "Anne Kristin Hov Hilleren", "aliases": [] },
+        { "id": "rep-erik-kaupang", "displayName": "Erik Kaupang", "aliases": [] },
+        { "id": "rep-ellen-ramson-hoie", "displayName": "Ellen Ramson Høie", "aliases": [] },
+        { "id": "rep-odd-terje-svendsen", "displayName": "Odd Terje Svendsen", "aliases": [] },
+        { "id": "rep-trine-raknes", "displayName": "Trine Raknes", "aliases": [] },
+        { "id": "rep-shoaib-karim-naeem", "displayName": "Shoaib Karim Naeem", "aliases": ["Shoaib Naeem"], "membershipType": "deputy" },
+        { "id": "rep-dler-khurshidi", "displayName": "Dler Khurshidi", "aliases": [] },
+        { "id": "rep-geir-wamstad", "displayName": "Geir Wamstad", "aliases": [] },
+        { "id": "rep-inger-anne-blindheim-madsen", "displayName": "Inger-Anne Blindheim Madsen", "aliases": [] },
+        { "id": "rep-roger-ryberg", "displayName": "Roger Ryberg", "aliases": [] },
+        { "id": "rep-tora-alvilde-hagen-tungesvik", "displayName": "Tora Alvilde Hagen Tungesvik", "aliases": [] }
+      ]
+    },
+    {
+      "id": "H",
+      "name": "Høyre",
+      "members": [
+        { "id": "rep-tore-opdal-hansen", "displayName": "Tore Opdal Hansen", "aliases": [] },
+        { "id": "rep-iselin-haugo-stavn", "displayName": "Iselin Haugo Stavn", "aliases": ["Iselin Haugo"] },
+        { "id": "rep-simen-murud", "displayName": "Simen Murud", "aliases": [] },
+        { "id": "rep-christina-hojer-morkve", "displayName": "Christina Højer Mørkve", "aliases": [] },
+        { "id": "rep-christopher-amundsen-wand", "displayName": "Christopher Amundsen Wand", "aliases": [] },
+        { "id": "rep-marianne-werp", "displayName": "Marianne Werp", "aliases": [] },
+        { "id": "rep-soren-falch-zapffe", "displayName": "Søren Falch Zapffe", "aliases": [] },
+        { "id": "rep-inger-synnove-kammerud", "displayName": "Inger Synnøve Kammerud", "aliases": [] },
+        { "id": "rep-glenn-melby", "displayName": "Glenn Melby", "aliases": [] },
+        { "id": "rep-inger-brit-vindegg", "displayName": "Inger-Brit Vindegg", "aliases": [] },
+        { "id": "rep-jonas-nikolaisen", "displayName": "Jonas Nikolaisen", "aliases": [] },
+        { "id": "rep-hanne-birgitte-lindbak-haatuft", "displayName": "Hanne Birgitte Lindbak Haatuft", "aliases": [] },
+        { "id": "rep-egil-ax", "displayName": "Egil Ax", "aliases": [] },
+        { "id": "rep-thomas-fosen", "displayName": "Thomas Fosen", "aliases": [] },
+        { "id": "rep-mari-djupvik-brathen", "displayName": "Mari Djupvik Bråthen", "aliases": [] },
+        { "id": "rep-dag-oivind-henriksen", "displayName": "Dag Øivind Henriksen", "aliases": [] },
+        { "id": "rep-johan-baumann", "displayName": "Johan Baumann", "aliases": ["Johan Bauman"] }
+      ]
+    },
+    {
+      "id": "INP",
+      "name": "Industri- og Næringspartiet",
+      "members": [
+        { "id": "rep-roger-larsen", "displayName": "Roger Larsen", "aliases": [] },
+        { "id": "rep-lars-stenberg", "displayName": "Lars Stenberg", "aliases": [] },
+        { "id": "rep-anne-karin-lorentzen", "displayName": "Anne Karin Lorentzen", "aliases": [] },
+        { "id": "rep-jon-rikard-nettum-sandum", "displayName": "Jon Rikard Nettum Sandum", "aliases": [] }
+      ]
+    },
+    {
+      "id": "FRP",
+      "name": "Fremskrittspartiet",
+      "members": [
+        { "id": "rep-lavrans-gabriel-kierulf", "displayName": "Lavrans Gabriel Kierulf", "aliases": ["Lavrans Kierulf"] },
+        { "id": "rep-eilev-bekjorden", "displayName": "Eilev Bekjorden", "aliases": [] },
+        { "id": "rep-kristin-loevas-gjerde", "displayName": "Kristin Løvaas Gjerde", "aliases": ["Kristin Gjerde"] },
+        { "id": "rep-mary-ann-lokshall-tabrizi", "displayName": "Mary-Ann Lokshall Tabrizi", "aliases": [] },
+        { "id": "rep-knut-andre-svensbraten", "displayName": "Knut Andre Svensbråten", "aliases": [] },
+        { "id": "rep-thomas-emil-klingen-andersen", "displayName": "Thomas Emil Klingen Andersen", "aliases": ["Thomas Klingen"] },
+        { "id": "rep-line-therese-sperrevik-persson", "displayName": "Line Therese Sperrevik Persson", "aliases": [] },
+        { "id": "rep-ronny-andersen", "displayName": "Ronny Andersen", "aliases": [] },
+        { "id": "rep-vegard-persvold", "displayName": "Vegard Persvold", "aliases": [] }
+      ]
+    },
+    {
+      "id": "KRF",
+      "name": "Kristelig Folkeparti",
+      "members": [
+        { "id": "rep-kjell-erland-gronbeck", "displayName": "Kjell Erland Grønbeck", "aliases": [] },
+        { "id": "rep-turid-solberg-thomassen", "displayName": "Turid Solberg Thomassen", "aliases": [] },
+        { "id": "rep-helge-hafsas", "displayName": "Helge Hafsås", "aliases": [] }
+      ]
+    },
+    {
+      "id": "MDG",
+      "name": "Miljøpartiet De Grønne",
+      "members": [
+        { "id": "rep-bard-sodal-grasbekk", "displayName": "Bård Sødal Grasbekk", "aliases": [] },
+        { "id": "rep-cecilie-sovik", "displayName": "Cecilie Søvik", "aliases": [] },
+        { "id": "rep-sigve-brouwer", "displayName": "Sigve Brouwer", "aliases": [] },
+        { "id": "rep-anita-nesse-roisli", "displayName": "Anita Nesse Røisli", "aliases": [] },
+        { "id": "rep-camilla-bjornbakken-langen", "displayName": "Camilla Bjørnbakken-Langen", "aliases": ["Camilla Langen"] }
+      ]
+    },
+    {
+      "id": "PP",
+      "name": "Pensjonistpartiet",
+      "members": [
+        { "id": "rep-oivind-fjeldheim", "displayName": "Øivind Fjeldheim", "aliases": ["Øyvind Fjeldheim"] },
+        { "id": "rep-randi-eng", "displayName": "Randi Eng", "aliases": [] }
+      ]
+    },
+    {
+      "id": "R",
+      "name": "Rødt",
+      "members": [
+        { "id": "rep-hans-petter-de-fine", "displayName": "Hans Petter de Fine", "aliases": [] },
+        { "id": "rep-hanne-myren", "displayName": "Hanne Myren", "aliases": [] }
+      ]
+    },
+    {
+      "id": "SP",
+      "name": "Senterpartiet",
+      "members": [
+        { "id": "rep-magnus-weggesrud", "displayName": "Magnus Weggesrud", "aliases": [] },
+        { "id": "rep-anne-kristine-norman", "displayName": "Anne Kristine Norman", "aliases": ["Anne Kristine (Tine) Norman", "Tine Norman"] },
+        { "id": "rep-simon-sebastian-nordanger", "displayName": "Simon Sebastian Nordanger", "aliases": ["Simon Nordanger", "Simon S. Nordanger", "Simon S. Nordanger Sp"] },
+        { "id": "rep-sigrid-onsgaard-sagabraten", "displayName": "Sigrid Onsgaard Sagabråten", "aliases": ["Sigrid Sagabråten"] },
+        { "id": "rep-stian-bakken", "displayName": "Stian Bakken", "aliases": ["Stian Bakken Sp"] },
+        { "id": "rep-sunni-grondahl-aamodt", "displayName": "Sunni Grøndahl Aamodt", "aliases": [] },
+        { "id": "rep-camilla-synove-celius", "displayName": "Camilla Synøve Celius", "aliases": [] }
+      ]
+    },
+    {
+      "id": "SV",
+      "name": "Sosialistisk Venstreparti",
+      "members": [
+        { "id": "rep-njal-vigleik-grene-johnsen", "displayName": "Njål Vigleik Grene-Johnsen", "aliases": ["Njål Grene-Johnsen"] },
+        { "id": "rep-kaja-yngsdal-hilleren", "displayName": "Kaja Yngsdal Hilleren", "aliases": ["Kaja Yngsdal Hilleren SV"] },
+        { "id": "rep-sadi-emeci", "displayName": "Sadi Emeci", "aliases": [] },
+        { "id": "rep-havard-osflaten", "displayName": "Håvard Osflaten", "aliases": [] }
+      ]
+    },
+    {
+      "id": "V",
+      "name": "Venstre",
+      "members": [
+        { "id": "rep-anders-wengen", "displayName": "Anders Wengen", "aliases": [] },
+        { "id": "rep-tove-hofstad", "displayName": "Tove Hofstad", "aliases": [] },
+        { "id": "rep-ana-maria-silva-harper", "displayName": "Ana Maria Silva-Harper", "aliases": [] },
+        { "id": "rep-daniel-heggelid-rugaas", "displayName": "Daniel Heggelid-Rugaas", "aliases": [] },
+        { "id": "rep-julie-vaage", "displayName": "Julie Vaage", "aliases": ["Julie Vaage V"] }
+      ]
+    }
+  ]
+}

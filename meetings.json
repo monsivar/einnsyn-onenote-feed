@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-21T14:08:51.3952155+00:00",
+  "generatedAtUtc": "2026-09-21T15:32:02.8729090+00:00",
   "source": "eInnsyn",
   "meetings": [
     {
@@ -17,70 +17,248 @@
           "title": "Godkjenning av fylkestingsvalget 2023 i Buskerud",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fde354925-5aaf-45bb-8771-a6e3af741693",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F64c7ea2a-6ec1-44b3-b926-49a673eb2d43",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Fylkestingsvalget for 2023 i Buskerud godkjennes."
+            },
+            "document": {
+              "objectId": "do_01j76y2q6be8brzjr08y39k6s8",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F64c7ea2a-6ec1-44b3-b926-49a673eb2d43"
+            },
+            "error": null
+          }
         },
         {
           "number": "2/2023",
           "title": "Valg av valgkomite",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fc8f92154-06a4-4644-afc6-4e91f648811f",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd7016ee0-c54a-40a7-b685-330878c3ca08",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "1.Tore Opdal Hansen (H)- leder 2.Mons Ivar Mjelde (Ap)- medlem 3.Lavrans Kierulf (Frp)- medlem 4.Magnus Weggesrud (Sp)- medlem 5.Njål Vidleik Grene-Johnsen (SV)- medlem 6.Bård Sødal Grasbekk (MDG) - medlem 7.Hans Petter de Fine (R) - medlem 8.Kjell Erland Grønbeck (Krf) - medlem 9.Roger Larsen (INP) - medlem 10.Anders Wengen (V)- medlem 11.Øivind Fjeldheim (Pp) - medlem"
+            },
+            "document": {
+              "objectId": "do_01j76y2pete5xrddrwahbz6fta",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd7016ee0-c54a-40a7-b685-330878c3ca08"
+            },
+            "error": null
+          }
         },
         {
           "number": "3/2023",
           "title": "Politisk organisering og sammensetning",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F8c0faf96-0c65-4cc9-b787-bb05eba9a419",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fbdf72b06-6d90-4bb0-92b0-238364adc5c8",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "Iselin Haugo Stavn",
+                "proposerParty": "H",
+                "onBehalfOf": "Hans Petter de Fine (R),"
+              }
+            ],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "1. Buskerud fylkesutvalg skal ha 17 medlemmer. Fylkesutvalget gis vedtaksmyndighet og innstillingsrett etter kriterier som fastsettes nærmere i eget reglement. 2. Buskerud fylkesting skal ha fire hovedutvalg etter kommunelovens §5-7: Hovedutvalg for samferdsel Hovedutvalg for opplæring Hovedutvalg for næring og innovasjon Hovedutvalg for kultur, idrett og folkehelse 3.Hovedutvalg for samferdsel og hovedutvalg for opplæring skal ha 13 medlemmer hver. Hovedutvalg for næring og innovasjon, og hovedutvalg for kultur, idrett og folkehelse skal ha 11 medlemmer hver. 4.Hovedutvalgene gis innstillingsrett til fylkestinget i saker innenfor sine respektive ansvarsområder. Når én sak behandles av flere hovedutvalg, avgjør fylkesordfører hvilket hovedutvalg som skal innstille til fylkestinget. 5.Hovedutvalgene gis vedtaksmyndighet etter kriterier som fastsettes nærmere i eget reglement. 6.Kontrollutvalget skal ha fem medlemmer, hvorav minst to er representanter fra fylkestinget. Lederen av kontrollutvalget kan ikke være valgt inn i fylkestinget for samme parti/liste som fylkesordfører, og bør representere et annet parti/gruppe enn dem som sto bak valget av fylkesordfører i konstituerende fylkestingsmøte. 7.Det fastsettes ikke et absolutt krav om gjennomgående representasjon, men så langt det er mulig bør samtlige faste medlemmer av fylkestinget være medlemmer av enten fylkesutvalg, hovedutvalg eller kontrollutvalg. 8.I tillegg til ovennevnte organer, opprettes følgende folkevalgte organer i nye Buskerud fylkeskommune: • Eldreråd • Råd for personer med funksjonsnedsettelse • Ungdomsråd • Flerkulturelt utvalg • Yrkesopplæringsnemnd • Klagenemnd • Fylkesvalgstyre og distriktsvalgstyre • Yrkesopplæringsnemnd • Valgkomite • Partssammensatt utvalg • Forhandlingsutvalg, bestående av tre medlemmer: Fylkesordfører, fylkesvaraordfører og et tredje medlem av fylkesutvalget som representerer en annen partigruppe enn fylkesordfører og fylkesvaraordfører. 9. Fylkeskommunedirektør bes om å endre alle saker i tråd med fylkestingets vedtak i saken."
+            },
+            "document": {
+              "objectId": "do_01j76y2pzpf05b14t103gf3dyy",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fbdf72b06-6d90-4bb0-92b0-238364adc5c8"
+            },
+            "error": null
+          }
         },
         {
           "number": "4/2023",
           "title": "Valg av fylkesutvalg for valgperioden 2023 - 2027",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F43aac425-bbc7-492e-aa15-a9a6af3b79ef",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5a91ff39-3f68-4cd1-bdb0-18e4c51e0ecb",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Medlemmer fylkesutvalg: 1. Tore Opdal Hansen (H) 2. Lavrans Kierulf (Frp) 3. Iselin Haugo Stavn (H 4. Christina Højer Mørkve (H) 5. Marianne Werp (H) 6. Christopher Amundsen Wand (H) 7. Kristin Gjerde (Frp) 8. Kjell Erland Grønbeck (Krf) 9. Roger Larsen (INP) 10. Mons-Ivar Mjelde (Ap) 11. Tonje Enersen (Ap) 12. Bjørn Tore Ødegården (Ap) 13. Lirigzona Berisha (Ap) 14. Magnus Weggesrud (Sp) 15. Anne Kristine Norman (Sp) 16. Njål Vigleik Grene-Johnsen (SV) 17. Bård Sødal Grasbekk (MDG) Varamedlemmer fylkesutvalg: H: 1. Simen Murud (H) 2. Søren Falch Zapffe (H) 3. 3. Inger Synnøve Kammerud (H) 4. 4. Hanne Birgitte Lindbak Haatuft (H) 5. 5. Egil Ax (H) 6. 6. Ana Maria Silva-Harper (H) 7. 7. Thomas Fosen (H) Sp: 1. Simon Nordanger (Sp) 2. Sigrid Sagabråten (Sp) 3. Stian Bakken (Sp) 4. Hans Petter de Fine (R) Ap: 1. Anne Kristin Hov Hilleren (Ap) 2. Erik Kaupang (Ap) 3. Ellen Ramson Høie (Ap) 4. Odd Terje Svendsen (Ap) 5. Trine Raknes (Ap) 6. Hans Petter de Fine (R) Krf: 1. Øivind Fjeldheim (Pp) 2. Simen Murud (H) 3. Ana Maria Silva Harper (H) INP: 1. Lars Stenberg (INP) 2. Simen Murud (H) 3. Søren Falch Zapffe (H) MDG/V: 1. Tove Hofstad (V) 2. Cecilie Søvik (MDG) Frp: 1. Morgan Langfeldt (Frp) 2. Eilev Bekjorden (Frp) 3. Mary-Ann Tabrizi (Frp) 4. Knut Andre Svensbråden (Frp) SV: 1. Hans Petter de Fine (R) 2. Kaja Hilleren (SV) 3. Simon Nordanger (Sp"
+            },
+            "document": {
+              "objectId": "do_01j76y2qgcfkh9rtc14wa1srjr",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5a91ff39-3f68-4cd1-bdb0-18e4c51e0ecb"
+            },
+            "error": null
+          }
         },
         {
           "number": "5/2023",
           "title": "Valg av fylkesordfører og fylkesvaraordfører i Buskerud for perioden 2023 - 2027",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F666f3470-b132-4e4b-8c6b-5eaff30cb842",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fcc6d4f6b-5958-4138-b5b5-51643cd8683c",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "Iselin Haugo Stavn",
+                "proposerParty": "H",
+                "onBehalfOf": "Morgan Langfeldt (Frp), Øyvind Fjeldheim (Pp),Kjell Erland Grønbeck (Krf), og Roger"
+              }
+            ],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "1. Som fylkesordfører i Buskerud fylkeskommune for perioden 2023 – 2027 velges Tore Oppdal Hansen (H). 2. Som fylkesvaraordfører i Buskerud fylkeskommune for perioden 2023 – 2027 velges Lavrans Kierulf (Frp)."
+            },
+            "document": {
+              "objectId": "do_01j76y2psrfq3ayc8vd97h6bys",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fcc6d4f6b-5958-4138-b5b5-51643cd8683c"
+            },
+            "error": null
+          }
         },
         {
           "number": "6/2023",
           "title": "Reglement for fylkesting, fylkesutvalg og hovedutvalg i Buskerud fylkeskommune",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F8690a380-83af-4ce2-8e91-0b3fcba3edb0",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3dfc1667-873a-4b62-b320-b64f27c4fdf2",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkeskommunedirektørens innstilling til vedtak: Kommunelovens § 8-1 åpner ikke for at",
+              "text": "andre enn de faste medlemmene i et folkevalgt organ gis alminnelig møte-, tale- og forslagsrett, og fylkeskommunedirektøren bes rette opp «Reglement for fylkesting, fylkesutvalg og hovedutvalg i Buskerud fylkeskommune» i tråd med Kommunelovens bestemmelser."
+            },
+            "document": {
+              "objectId": "do_01j76y2qjgejs8h2z26z2dfyzf",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3dfc1667-873a-4b62-b320-b64f27c4fdf2"
+            },
+            "error": null
+          }
         },
         {
           "number": "7/2023",
           "title": "Reglement for delegering av myndighet og tildeling av innstillingsrett fra Buskerud fylkesting",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fc75203b5-54de-4b9f-989e-91ebc778feb0",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd94c5c56-e478-4185-949e-d9eea9cb609c",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "Iselin Haugo Stavn",
+                "proposerParty": "H",
+                "onBehalfOf": "Morgan Langfeldt (Frp),"
+              }
+            ],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Til punkt 5.2.1 c: c) Vedta retningslinjer og økonomiske rammer for tilskuddsordninger innenfor sine ansvarsområder. Tilskuddsbeløp over 50.000 tildeles av hovedutvalget. For beløp under dette tildeles tilskudd av administrasjonen etter de politisk fastsatte rammer, regler og kriterier. Fylkestinget ber om at hovedutvalgene får egen sak til behandling, senest i april 2024, og der fastsetter beløpsgrense utfra hovedutvalgenes behov. Fylkestinget sluttbehandler saken etter innstilling fra hovedutvalgene."
+            },
+            "document": {
+              "objectId": "do_01j76y2q4xfytv4pfwp0ra66q5",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd94c5c56-e478-4185-949e-d9eea9cb609c"
+            },
+            "error": null
+          }
         },
         {
           "number": "8/2023",
           "title": "Forskrift for folkevalgtes arbeidsvilkår i Buskerud fylkeskommune",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe42e9ceb-5896-436c-92b2-f2b9fc8990dc",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4cea08ec-1f7f-4619-a7d0-f1a80c20bf04",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Forskrift for folkevalgtes arbeidsvilkår i Buskerud vedtas i henhold til vedlagt reglement og gjelder fra vedtaksdato 19.10.2023. Punkt 3.1 kronebeløp i legges inn Punkt 4.1 Fast årsgodtgjøring administrasjonsutvalg endres til PSU Punkt 4.3 Administrasjonsutvalg rettes til PSU Punkt 4.3 Prosentsats PSU settes til 5 prosent Punkt 11 PSU tas inn i tabellen med 5 prosent. Fylkesordfører ber fylkeskommunedirektør gjøre nødvendige tekniske og språklige justeringer i forskrift for folkevalgtes arbeidsvilkår i Buskerud fylkeskommune og oppdatert reglement legges fram som politisk sak før jul."
+            },
+            "document": {
+              "objectId": "do_01j76y2qa2etma52k13m4mk8eb",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4cea08ec-1f7f-4619-a7d0-f1a80c20bf04"
+            },
+            "error": null
+          }
         },
         {
           "number": "9/2023",
           "title": "Reglement for medvirkningsorganer",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F0ef5821f-a6d0-46b8-a342-dda64d72bc23",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fdf7480e9-074a-4f2e-a047-affe62bfc423",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Buskerud fylkesting vedtar reglementer for medvirkningsorganer i Buskerud fylkeskommune."
+            },
+            "document": {
+              "objectId": "do_01j76y2qdyf5mat7t7rvy3rrh5",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fdf7480e9-074a-4f2e-a047-affe62bfc423"
+            },
+            "error": null
+          }
         },
         {
           "number": "10/2023",
           "title": "Reglement for yrkesopplæringsnemnd i Buskerud fylkeskommune",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F6cb73d45-f563-46eb-9c24-89d760584076",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Faafdda81-9be1-410a-bd39-9944f9729345",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkeskommunedirektørenes innstiling til vedtak:",
+              "text": "Kommunelovens § 8-1 åpner ikke for at andre enn de faste medlemmene i et folkevalgt organ gis møte-, tale- og forslagsrett, og fylkeskommunedirektøren bes rette opp «Reglement for yrkesopplæringsnemnda» i tråd med Kommunelovens bestemmelser. Fylkeskommunedirektørens innstiling til tilleggsvedtak: I «Reglement for yrkesopplæringsnemnda» utvides antall medlemmer inkludert personlig vara med 1 medlem fra Utdanningsforbundet og 1 medlem fra Skolenes Landsforbund."
+            },
+            "document": {
+              "objectId": "do_01j76y2pv3fvvrkf465pdje2d7",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Faafdda81-9be1-410a-bd39-9944f9729345"
+            },
+            "error": null
+          }
         },
         {
           "number": "11/2023",
@@ -188,8 +366,258 @@
           "metadata": null
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "complete",
+        "completed": false,
+        "fixedMembers": [
+          {
+            "name": "Roger Ryberg",
+            "attendanceRole": "leder",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Tore Opdal Hansen",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Iselin Haugo Stavn",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Simen Murud",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Christina Højer Mørkve",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Christopher Amundsen Wand",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Marianne Werp",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Søren Falch Zapffe",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Inger Synnøve Kammerud",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Jonas Nikolaisen",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Hanne Birgitte Lindbak Haatuft",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Egil Ax",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Ana Maria Silva-Harper",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Thomas Fosen",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Mari Djupvik Bråthen",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Dag Øivind Henriksen",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Mons-Ivar Mjelde",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Tonje Enersen",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Bjørn Tore Ødegården",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Lirigzona Berisha",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Ståle Versland",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Anne Kristin Hov Hilleren",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Erik Kaupang",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Ellen Ramson Høie",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Odd Terje Svendsen",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Trine Raknes",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Lavrans Gabriel Kierulf",
+            "attendanceRole": "medlem",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Morgan Langfeldt",
+            "attendanceRole": "medlem",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Eilev Bekjorden",
+            "attendanceRole": "medlem",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Kristin Løvaas Gjerde",
+            "attendanceRole": "medlem",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Mary-Ann Lokshall Tabrizi",
+            "attendanceRole": "medlem",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Knut Andre Svensbråten",
+            "attendanceRole": "medlem",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Magnus Weggesrud",
+            "attendanceRole": "medlem",
+            "representedBy": "SP"
+          },
+          {
+            "name": "Anne Kristine Norman",
+            "attendanceRole": "medlem",
+            "representedBy": "SP"
+          },
+          {
+            "name": "Simon Sebastian Nordanger",
+            "attendanceRole": "medlem",
+            "representedBy": "SP"
+          },
+          {
+            "name": "Sigrid Onsgaard Sagabråten",
+            "attendanceRole": "medlem",
+            "representedBy": "SP"
+          },
+          {
+            "name": "Stian Bakken",
+            "attendanceRole": "medlem",
+            "representedBy": "SP"
+          },
+          {
+            "name": "Roger Larsen",
+            "attendanceRole": "medlem",
+            "representedBy": "INP"
+          },
+          {
+            "name": "Lars Stenberg",
+            "attendanceRole": "medlem",
+            "representedBy": "INP"
+          },
+          {
+            "name": "Bård Sødal Grasbekk",
+            "attendanceRole": "medlem",
+            "representedBy": "MDG"
+          },
+          {
+            "name": "Cecilie Søvik",
+            "attendanceRole": "medlem",
+            "representedBy": "MDG"
+          },
+          {
+            "name": "Njål Vigleik Grene-Johnsen",
+            "attendanceRole": "medlem",
+            "representedBy": "SV"
+          },
+          {
+            "name": "Kaja Yngsdal Hilleren",
+            "attendanceRole": "medlem",
+            "representedBy": "SV"
+          },
+          {
+            "name": "Anders Wengen",
+            "attendanceRole": "medlem",
+            "representedBy": "V"
+          },
+          {
+            "name": "Tove Hofstad",
+            "attendanceRole": "medlem",
+            "representedBy": "V"
+          },
+          {
+            "name": "Kjell Erland Grønbeck",
+            "attendanceRole": "medlem",
+            "representedBy": "KRF"
+          },
+          {
+            "name": "Øivind Fjeldheim",
+            "attendanceRole": "medlem",
+            "representedBy": "PP"
+          },
+          {
+            "name": "Hans Petter de Fine",
+            "attendanceRole": "medlem",
+            "representedBy": "R"
+          }
+        ],
+        "deputies": [],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/e0c50f42-b561-4dc9-8b0f-a9aaffe1eb1e",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe0c50f42-b561-4dc9-8b0f-a9aaffe1eb1e"
+        }
+      },
+      "metadataStatus": "complete",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe0c50f42-b561-4dc9-8b0f-a9aaffe1eb1e"
     },
@@ -238,8 +666,104 @@
           "metadata": null
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "complete",
+        "completed": false,
+        "fixedMembers": [
+          {
+            "name": "Tore Opdal Hansen",
+            "attendanceRole": "leder",
+            "representedBy": "H"
+          },
+          {
+            "name": "Lavrans Gabriel Kierulf",
+            "attendanceRole": "nestleder",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Iselin Haugo Stavn",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Christina Højer Mørkve",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Christopher Amundsen Wand",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Kristin Løvaas Gjerde",
+            "attendanceRole": "medlem",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Kjell Erland Grønbeck",
+            "attendanceRole": "medlem",
+            "representedBy": "KRF"
+          },
+          {
+            "name": "Roger Larsen",
+            "attendanceRole": "medlem",
+            "representedBy": "INP"
+          },
+          {
+            "name": "Mons-Ivar Mjelde",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Tonje Enersen",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Bjørn Tore Ødegården",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Lirigzona Berisha",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Magnus Weggesrud",
+            "attendanceRole": "medlem",
+            "representedBy": "SP"
+          },
+          {
+            "name": "Anne Kristine Norman",
+            "attendanceRole": "medlem",
+            "representedBy": "SP"
+          },
+          {
+            "name": "Njål Vigleik Grene-Johnsen",
+            "attendanceRole": "medlem",
+            "representedBy": "SV"
+          },
+          {
+            "name": "Bård Sødal Grasbekk",
+            "attendanceRole": "medlem",
+            "representedBy": "MDG"
+          }
+        ],
+        "deputies": [
+          {
+            "name": "Simen Murud",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          }
+        ],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/a182cd6e-e067-4c8f-976b-9f9bb54c02ff",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa182cd6e-e067-4c8f-976b-9f9bb54c02ff"
+        }
+      },
+      "metadataStatus": "complete",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa182cd6e-e067-4c8f-976b-9f9bb54c02ff"
     },
@@ -281,8 +805,17 @@
           "metadata": null
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "failed",
+        "completed": false,
+        "fixedMembers": [],
+        "deputies": [],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/b4825159-bcfa-4a68-b718-fcea95a53af2",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb4825159-bcfa-4a68-b718-fcea95a53af2"
+        }
+      },
+      "metadataStatus": "failed",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb4825159-bcfa-4a68-b718-fcea95a53af2"
     },

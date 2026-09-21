@@ -8,7 +8,7 @@ const DATA_URL = ['localhost', '127.0.0.1'].includes(window.location.hostname)
   : './meetings.json';
 const FEED_URL = './feedV2.xml';
 
-const state = { meetings: [], view: 'upcoming', filters: { search: '', committee: '', agenda: 'all', range: 'all' } };
+const state = { meetings: [], representatives: [], view: 'upcoming', filters: { search: '', committee: '', agenda: 'all', range: 'all', representative: '', roles: [] } };
 const els = {};
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
     list: document.querySelector('#meeting-list'), loading: document.querySelector('#loading'), empty: document.querySelector('#empty-state'), error: document.querySelector('#error-banner'),
     sync: document.querySelector('#sync-status'), visible: document.querySelector('#visible-count'), visibleLabel: document.querySelector('#visible-label'), agendaCount: document.querySelector('#agenda-count'), lastSync: document.querySelector('#last-sync'), resultCount: document.querySelector('#result-count'),
     title: document.querySelector('#page-title'), resultTitle: document.querySelector('#results-title'), kicker: document.querySelector('#results-kicker'), upcomingTab: document.querySelector('[data-view="upcoming"]'), historyTab: document.querySelector('[data-view="history"]'), upcomingTabCount: document.querySelector('#upcoming-tab-count'), historyTabCount: document.querySelector('#history-tab-count'),
-    search: document.querySelector('#search-input'), committee: document.querySelector('#committee-filter'), agenda: document.querySelector('#agenda-filter'), range: document.querySelector('#range-filter'), rangeField: document.querySelector('#range-field'), reset: document.querySelector('#reset-filters')
+    search: document.querySelector('#search-input'), committee: document.querySelector('#committee-filter'), agenda: document.querySelector('#agenda-filter'), range: document.querySelector('#range-filter'), rangeField: document.querySelector('#range-field'), reset: document.querySelector('#reset-filters'), representative: document.querySelector('#representative-filter'), representativeSuggestions: document.querySelector('#representative-suggestions'), speakerRole: document.querySelector('#role-speaker'), proposerRole: document.querySelector('#role-proposer')
   });
   bindControls();
   loadData();
@@ -35,9 +35,30 @@ function bindControls() {
   els.committee.addEventListener('change', event => { state.filters.committee = event.target.value; render(); });
   els.agenda.addEventListener('change', event => { state.filters.agenda = event.target.value; render(); });
   els.range.addEventListener('change', event => { state.filters.range = event.target.value; render(); });
+  els.representative.addEventListener('input', event => {
+    state.filters.representative = event.target.value.trim().toLocaleLowerCase('nb-NO');
+    renderRepresentativeSuggestions(event.target.value);
+    render();
+  });
+  els.representativeSuggestions.addEventListener('click', event => {
+    const option = event.target.closest('[data-representative]');
+    if (!option) return;
+    els.representative.value = option.dataset.representative;
+    state.filters.representative = option.dataset.representative.toLocaleLowerCase('nb-NO');
+    hideRepresentativeSuggestions();
+    render();
+  });
+  [els.speakerRole, els.proposerRole].forEach(control => control.addEventListener('change', () => {
+    state.filters.roles = [els.speakerRole.checked ? 'speaker' : '', els.proposerRole.checked ? 'proposer' : ''].filter(Boolean);
+    render();
+  }));
+  document.addEventListener('click', event => {
+    if (!event.target.closest('.representative-picker')) hideRepresentativeSuggestions();
+  });
   els.reset.addEventListener('click', () => {
-    state.filters = { search: '', committee: '', agenda: 'all', range: 'all' };
+    state.filters = { search: '', committee: '', agenda: 'all', range: 'all', representative: '', roles: [] };
     els.search.value = ''; els.committee.value = ''; els.agenda.value = 'all'; els.range.value = state.filters.range; render();
+    els.representative.value = ''; els.speakerRole.checked = false; els.proposerRole.checked = false; hideRepresentativeSuggestions();
   });
 }
 
@@ -47,6 +68,7 @@ async function loadData() {
     const feedText = feedResponse.ok ? await feedResponse.text() : '';
     state.meetings = normalizeMeetings(rawMeetings, parseFeed(feedText));
     populateCommittees();
+    populateRepresentatives();
     els.loading.hidden = true;
     els.sync.classList.add('is-ready');
     els.lastSync.textContent = new Intl.DateTimeFormat('nb-NO', { hour: '2-digit', minute: '2-digit' }).format(new Date());
@@ -109,7 +131,8 @@ function normalizeMeetings(rawMeetings, feedByMeeting) {
       return {
         ...item,
         caseUrl: safeUrl(item.caseUrl) || publicCaseUrl(item.id),
-        decisionUrl: safeUrl(item.decisionUrl) || safeUrl(decision?.publicUrl)
+        decisionUrl: safeUrl(item.decisionUrl) || safeUrl(decision?.publicUrl),
+        metadata: normalizeCaseMetadata(item.metadata || item.caseMetadata)
       };
     }) : [];
     const cases = mergeCases(rawCases, feed.cases, feed.decisions);
@@ -117,7 +140,7 @@ function normalizeMeetings(rawMeetings, feedByMeeting) {
     const meetingUrl = safeUrl(raw.meetingUrl) || publicMeetingUrl(meetingId) || safeUrl(feed.meetingUrl);
     const agendaUrl = safeUrl(raw.agendaUrl) || safeUrl(feed.agendaUrl) || agendaDocumentUrl(raw.agendaDocumentObjectId);
     const protocolUrl = safeUrl(feed.protocolUrl) || safeUrl(raw.protocolUrl) || protocolDocumentUrl(raw.protocolDocumentIds);
-    return { id: meetingId, title: raw.title || feed.title || 'Møte', committee: raw.committee || feed.committee || 'Politisk organ', date, place: raw.meetingPlace || feed.place || '', agendaAvailable: Boolean(raw.agendaAvailable || cases.length || feed.agendaAvailable), agendaUrl, meetingUrl, cases, protocolAvailable: Boolean(protocolUrl), protocolUrl, past: date < now };
+    return { id: meetingId, title: raw.title || feed.title || 'Møte', committee: raw.committee || feed.committee || 'Politisk organ', date, place: raw.meetingPlace || feed.place || '', agendaAvailable: Boolean(raw.agendaAvailable || cases.length || feed.agendaAvailable), agendaUrl, meetingUrl, cases, attendance: normalizeAttendance(raw.attendance || raw.attendanceMetadata), metadataStatus: raw.metadataStatus || 'not_present', protocolAvailable: Boolean(protocolUrl), protocolUrl, past: date < now };
   }).filter(meeting => meeting.id && !Number.isNaN(meeting.date.getTime())).sort((a, b) => a.date - b.date);
 }
 
@@ -156,9 +179,30 @@ function mergeCases(...caseLists) {
     const number = item.number || item.caseNumber || '';
     if (!number) return;
     const previous = byNumber.get(number) || {};
-    byNumber.set(number, { ...previous, ...item, caseUrl: safeUrl(item.caseUrl) || publicCaseUrl(item.id || item.caseId) || previous.caseUrl, decisionUrl: safeUrl(item.decisionUrl) || previous.decisionUrl || '', documents: item.documents || previous.documents || [], recommendation: item.recommendation || previous.recommendation });
+    byNumber.set(number, { ...previous, ...item, caseUrl: safeUrl(item.caseUrl) || publicCaseUrl(item.id || item.caseId) || previous.caseUrl, decisionUrl: safeUrl(item.decisionUrl) || previous.decisionUrl || '', documents: item.documents || previous.documents || [], recommendation: item.recommendation || previous.recommendation, metadata: normalizeCaseMetadata(item.metadata || item.caseMetadata || previous.metadata) });
   });
   return [...byNumber.values()].sort((a, b) => String(a.number).localeCompare(String(b.number), 'nb-NO', { numeric: true }));
+}
+
+function normalizeCaseMetadata(metadata) {
+  if (!metadata) return null;
+  const speakerSource = Array.isArray(metadata.speakers) ? metadata.speakers : metadata.speakers?.speakers;
+  const proposalSource = Array.isArray(metadata.proposals) ? metadata.proposals : metadata.proposals?.proposals;
+  return {
+    ...metadata,
+    speakers: Array.isArray(speakerSource) ? speakerSource.map(person => ({ name: person.name || person.displayName || '', party: person.party || person.partyAtStatementRaw || '' })).filter(person => person.name) : [],
+    proposals: Array.isArray(proposalSource) ? proposalSource.map(proposal => ({ proposerName: proposal.proposerName || '', proposerParty: proposal.proposerParty || proposal.proposerPartyRaw || '', onBehalfOf: proposal.onBehalfOf || proposal.onBehalfOfRaw || '' })).filter(proposal => proposal.proposerName) : []
+  };
+}
+
+function normalizeAttendance(attendance) {
+  if (!attendance) return null;
+  const normalizePeople = people => (Array.isArray(people) ? people : []).map(person => ({
+    ...person,
+    name: person.name || person.displayName || '',
+    representedBy: person.representedBy || person.representedByRaw || person.partyName || person.party || ''
+  })).filter(person => person.name);
+  return { ...attendance, fixedMembers: normalizePeople(attendance.fixedMembers), deputies: normalizePeople(attendance.deputies) };
 }
 
 function render() {
@@ -194,9 +238,28 @@ function getVisibleMeetings() {
       const haystack = [meeting.title, meeting.committee, meeting.place, ...meeting.cases.map(item => `${item.number} ${item.title}`)].join(' ').toLocaleLowerCase('nb-NO');
       if (!haystack.includes(state.filters.search)) return false;
     }
+    if (hasAdvancedFilter() && !meeting.cases.some(caseMatchesAdvanced)) return false;
     return true;
   });
   return visible.sort((a, b) => state.view === 'history' ? b.date - a.date : a.date - b.date);
+}
+
+function hasAdvancedFilter() {
+  return Boolean(state.filters.representative || state.filters.roles.length);
+}
+
+function getMeetingCases(meeting) {
+  return hasAdvancedFilter() ? meeting.cases.filter(caseMatchesAdvanced) : meeting.cases;
+}
+
+function caseMatchesAdvanced(item) {
+  const metadata = item.metadata || {};
+  const speakers = Array.isArray(metadata.speakers) ? metadata.speakers : [];
+  const proposals = Array.isArray(metadata.proposals) ? metadata.proposals : [];
+  const query = state.filters.representative;
+  const personMatches = !query || [...speakers.map(person => person.name), ...proposals.map(proposal => proposal.proposerName)].some(name => String(name || '').toLocaleLowerCase('nb-NO').startsWith(query));
+  const roleMatches = !state.filters.roles.length || state.filters.roles.some(role => role === 'speaker' ? speakers.some(person => !query || person.name.toLocaleLowerCase('nb-NO').startsWith(query)) : proposals.some(proposal => !query || proposal.proposerName.toLocaleLowerCase('nb-NO').startsWith(query)));
+  return personMatches && roleMatches;
 }
 
 function renderMeeting(meeting) {
@@ -207,8 +270,54 @@ function renderMeeting(meeting) {
   const time = new Intl.DateTimeFormat('nb-NO', { hour: '2-digit', minute: '2-digit' }).format(meeting.date);
   const status = meeting.agendaAvailable ? '<span class="pill ready">● Agenda klar</span>' : '<span class="pill pending">● Agenda kommer</span>';
   const actions = [meeting.meetingUrl ? `<a class="action primary" href="${attrUrl(meeting.meetingUrl)}" target="_blank" rel="noreferrer">Åpne møtet i EInnsyn ↗</a>` : '', meeting.agendaUrl ? `<a class="action" href="${attrUrl(meeting.agendaUrl)}" target="_blank" rel="noreferrer">Åpne Agenda (PDF) ↗</a>` : '', meeting.protocolUrl ? `<a class="action" href="${attrUrl(meeting.protocolUrl)}" target="_blank" rel="noreferrer">Åpne Protokoll (PDF) ↗</a>` : ''].join('');
-  const cases = meeting.cases.length ? `<details class="agenda-details" ${state.view === 'upcoming' && meeting.agendaAvailable ? 'open' : ''}><summary>${meeting.cases.length} ${meeting.cases.length === 1 ? 'sak' : 'saker'} i sakskartet</summary><ul class="case-list">${meeting.cases.map(renderCase).join('')}</ul></details>` : '';
-  return `<article class="meeting-card"><div class="meeting-top"><div class="date-badge"><span class="day">${escapeHtml(day)}</span><span class="month">${escapeHtml(month)}</span><span class="year">${escapeHtml(year)}</span></div><div class="meeting-summary"><div class="card-topline"><span class="committee">${escapeHtml(meeting.committee)}</span>${status}</div><h3>${escapeHtml(cleanTitle(meeting.title))}</h3><div class="meta-row"><span class="meta-item">${icon('clock')} ${escapeHtml(time)}</span>${meeting.place ? `<span class="meta-item">${icon('pin')} ${escapeHtml(meeting.place)}</span>` : '<span class="meta-item">Sted ikke publisert ennå</span>'}</div><div class="card-actions">${actions}</div></div></div>${cases}</article>`;
+  const visibleCases = getMeetingCases(meeting);
+  const caseCount = hasAdvancedFilter() ? `${visibleCases.length} treffende ${visibleCases.length === 1 ? 'sak' : 'saker'} av ${meeting.cases.length}` : `${visibleCases.length} ${visibleCases.length === 1 ? 'sak' : 'saker'} i sakskartet`;
+  const cases = visibleCases.length ? `<details class="agenda-details" ${hasAdvancedFilter() || (state.view === 'upcoming' && meeting.agendaAvailable) ? 'open' : ''}><summary>${caseCount}</summary><ul class="case-list">${visibleCases.map(renderCase).join('')}</ul></details>` : '';
+  const metadata = renderMeetingMetadata(meeting);
+  return `<article class="meeting-card"><div class="meeting-top"><div class="date-badge"><span class="day">${escapeHtml(day)}</span><span class="month">${escapeHtml(month)}</span><span class="year">${escapeHtml(year)}</span></div><div class="meeting-summary"><div class="card-topline"><span class="committee">${escapeHtml(meeting.committee)}</span>${status}</div><h3>${escapeHtml(cleanTitle(meeting.title))}</h3><div class="meta-row"><span class="meta-item">${icon('clock')} ${escapeHtml(time)}</span>${meeting.place ? `<span class="meta-item">${icon('pin')} ${escapeHtml(meeting.place)}</span>` : '<span class="meta-item">Sted ikke publisert ennå</span>'}</div><div class="card-actions">${actions}</div></div></div>${cases}${metadata}</article>`;
+}
+
+function renderMeetingMetadata(meeting) {
+  const hasAttendance = meeting.attendance && meeting.attendance.status !== 'not_present';
+  if (!hasAttendance && !meeting.cases.some(item => item.metadata)) return '';
+  const attendance = hasAttendance ? `<div class="metadata-panel"><div class="metadata-panel-heading"><strong>Registrert oppmøte</strong><span class="metadata-status ${metadataStatusClass(meeting.attendance.status)}">${escapeHtml(metadataStatusLabel(meeting.attendance.status))}</span></div>${renderAttendanceGroup('Faste medlemmer', meeting.attendance.fixedMembers)}${renderAttendanceGroup('Varamedlemmer', meeting.attendance.deputies)}</div>` : '';
+  const caseCount = meeting.cases.filter(item => item.metadata).length;
+  return `<details class="meeting-metadata"><summary>Metadata fra protokoll og vedtak${caseCount ? ` (${caseCount} saker)` : ''}</summary>${attendance}<p class="metadata-note">Saksmetadata vises inne på den enkelte saken. Votering er foreløpig ikke strukturert.</p></details>`;
+}
+
+function renderAttendanceGroup(label, people) {
+  if (!Array.isArray(people) || people.length === 0) return '';
+  const groups = new Map();
+  people.forEach(person => {
+    const rawParty = String(person.representedBy || '').trim();
+    const party = partyLabel(rawParty);
+    const key = party.toLocaleLowerCase('nb-NO');
+    if (!groups.has(key)) groups.set(key, { label: party, people: [] });
+    groups.get(key).people.push(person);
+  });
+  const renderedGroups = [...groups.values()].sort((a, b) => a.label.localeCompare(b.label, 'nb-NO')).map(group => {
+    const names = [...group.people].sort((a, b) => a.name.localeCompare(b.name, 'nb-NO'));
+    return `<div class="attendance-party"><span class="metadata-label">${escapeHtml(group.label)}</span><ul class="person-list">${names.map(person => `<li><strong>${escapeHtml(person.name)}</strong></li>`).join('')}</ul></div>`;
+  }).join('');
+  return `<div class="metadata-group"><span class="metadata-label">${escapeHtml(label)}</span><div class="attendance-party-list">${renderedGroups}</div></div>`;
+}
+
+function partyLabel(value) {
+  if (!value) return 'Uten partitilknytning';
+  const key = value.replace(/[.\s_-]/g, '').toLocaleUpperCase('nb-NO');
+  return ({
+    A: 'Arbeiderpartiet', AP: 'Arbeiderpartiet',
+    H: 'Høyre',
+    FRP: 'Fremskrittspartiet',
+    INP: 'Industri- og Næringspartiet',
+    KRF: 'Kristelig Folkeparti',
+    SP: 'Senterpartiet',
+    MDG: 'Miljøpartiet De Grønne',
+    SV: 'Sosialistisk Venstreparti',
+    V: 'Venstre',
+    R: 'Rødt',
+    PP: 'Pensjonistpartiet'
+  })[key] || value;
 }
 
 function renderCase(item) {
@@ -219,12 +328,49 @@ function renderCase(item) {
   const decision = item.decisionUrl ? `<a class="action case-action" href="${attrUrl(item.decisionUrl)}" target="_blank" rel="noreferrer">Åpne vedtak ↗</a>` : '';
   const attachments = documents.length ? `<details class="case-option"><summary>Vis vedlegg til saken (${documents.length})</summary><ul class="attachment-list">${documents.map((document, index) => document.url ? `<li><a href="${attrUrl(document.url)}" target="_blank" rel="noreferrer">${escapeHtml(document.title || `Vedlegg ${index + 1}`)} ↗</a></li>` : `<li>${escapeHtml(document.title || `Vedlegg ${index + 1}`)} <span class="attachment-unavailable">Ikke tilgjengelig</span></li>`).join('')}</ul></details>` : '';
   const actions = [caseLink, decision].filter(Boolean).join('');
-  return `<li class="case-item"><details class="case-details"><summary><span class="case-heading"><span class="case-number">${escapeHtml(item.number || 'Sak')}</span><span>${escapeHtml(title)}</span></span></summary><div class="case-content">${actions ? `<div class="case-actions">${actions}</div>` : ''}${recommendation}${attachments}</div></details></li>`;
+  const metadata = renderCaseMetadata(item.metadata);
+  return `<li class="case-item"><details class="case-details"><summary><span class="case-heading"><span class="case-number">${escapeHtml(item.number || 'Sak')}</span><span>${escapeHtml(title)}</span></span></summary><div class="case-content">${actions ? `<div class="case-actions">${actions}</div>` : ''}${recommendation}${attachments}${metadata}</div></details></li>`;
 }
+
+function renderCaseMetadata(metadata) {
+  if (!metadata) return '';
+  const speakers = Array.isArray(metadata.speakers) && metadata.speakers.length ? `<div class="metadata-block"><span class="metadata-label">Hvem hadde ordet</span><ul class="person-list">${metadata.speakers.map(person => `<li><strong>${escapeHtml(person.name)}</strong>${person.party ? ` <span>(${escapeHtml(person.party)})</span>` : ''}</li>`).join('')}</ul></div>` : `<div class="metadata-empty">Ingen talerliste registrert.</div>`;
+  const proposals = Array.isArray(metadata.proposals) && metadata.proposals.length ? `<div class="metadata-block"><span class="metadata-label">Forslag fremmet</span><ul class="proposal-list">${metadata.proposals.map(proposal => `<li><strong>${escapeHtml(proposal.proposerName)}</strong>${proposal.proposerParty ? ` (${escapeHtml(proposal.proposerParty)})` : ''}${proposal.onBehalfOf ? ` <span>på vegne av ${escapeHtml(proposal.onBehalfOf)}</span>` : ''}</li>`).join('')}</ul></div>` : '';
+  const status = `<span class="metadata-status ${metadataStatusClass(metadata.status)}">${escapeHtml(metadataStatusLabel(metadata.status))}</span>`;
+  return `<div class="case-metadata"><div class="metadata-heading"><strong>Saksmetadata</strong>${status}</div>${speakers}${proposals}${metadata.error ? `<p class="metadata-error">Feil: ${escapeHtml(metadata.error)}</p>` : ''}</div>`;
+}
+
+function metadataStatusClass(status) { return status === 'complete' ? 'complete' : status === 'partial' ? 'partial' : status === 'failed' ? 'failed' : 'unknown'; }
+function metadataStatusLabel(status) { return status === 'complete' ? 'Komplett' : status === 'partial' ? 'Delvis' : status === 'failed' ? 'Feil' : 'Ikke lest'; }
 
 function populateCommittees() {
   const committees = [...new Set(state.meetings.map(meeting => meeting.committee))].sort((a, b) => a.localeCompare(b, 'nb-NO'));
   els.committee.innerHTML = '<option value="">Alle organer</option>' + committees.map(committee => `<option value="${escapeHtml(committee)}">${escapeHtml(committee)}</option>`).join('');
+}
+
+function populateRepresentatives() {
+  const names = new Set();
+  state.meetings.forEach(meeting => {
+    [...(meeting.attendance?.fixedMembers || []), ...(meeting.attendance?.deputies || [])].forEach(person => names.add(person.name));
+    meeting.cases.forEach(item => {
+      (item.metadata?.speakers || []).forEach(person => names.add(person.name));
+      (item.metadata?.proposals || []).forEach(proposal => names.add(proposal.proposerName));
+    });
+  });
+  state.representatives = [...names].filter(Boolean).sort((a, b) => a.localeCompare(b, 'nb-NO'));
+}
+
+function renderRepresentativeSuggestions(value) {
+  const query = value.trim().toLocaleLowerCase('nb-NO');
+  if (!query) return hideRepresentativeSuggestions();
+  const matches = state.representatives.filter(name => name.toLocaleLowerCase('nb-NO').startsWith(query));
+  els.representativeSuggestions.innerHTML = matches.map(name => `<button type="button" role="option" data-representative="${escapeHtml(name)}">${escapeHtml(name)}</button>`).join('');
+  els.representativeSuggestions.hidden = matches.length === 0;
+}
+
+function hideRepresentativeSuggestions() {
+  els.representativeSuggestions.hidden = true;
+  els.representativeSuggestions.innerHTML = '';
 }
 
 function cleanTitle(title) { return title.replace(/^Møte i\s+/i, ''); }

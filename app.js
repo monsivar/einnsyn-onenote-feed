@@ -65,7 +65,7 @@ async function loadData() {
 function normalizeMeetings(rawMeetings, feedByMeeting) {
   const now = new Date();
   return rawMeetings.map(raw => {
-    const meetingId = raw.meetingId || raw.id || '';
+    const meetingId = raw.meetingId || raw.id || decodeMeetingId(raw.meetingUrl) || '';
     const feed = feedByMeeting.get(meetingId) || feedByMeeting.get(publicId(raw.meetingId)) || {};
     const cases = mergeCases(raw.agendaCases, feed.cases);
     const date = new Date(raw.meetingDateUtc || raw.meetingDate || feed.date);

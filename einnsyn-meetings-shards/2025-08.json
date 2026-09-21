@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "shardType": "meetings",
   "shardKey": "2025-08",
-  "updatedAtUtc": "2026-09-21T09:40:53.0079784+00:00",
+  "updatedAtUtc": "2026-09-21T12:12:59.8000048+00:00",
   "meetingCount": 9,
   "meetings": [
     {
@@ -13,39 +13,44 @@
       "meetingDate": "08/12/2025 06:30:00",
       "meetingDateUtc": "2025-08-12T04:30:00Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen, Møterom 210",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/9f0afb37-497c-4c53-9340-fc1213453b26",
       "agendaDocumentObjectId": "",
+      "agendaSignature": "ec84688a8964815a0d911964693d163d7a1f5b7df1b1706f9f6beba6d1cbab89",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/b2ff4275-c270-4d13-a53d-c2ce00a53c5e",
           "number": "14/2025",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/8b4793f1-5727-47e0-b2cd-262f055ffeac",
           "number": "15/2025",
-          "title": "Saksfremlegg - Klage over inntak til videregående opplæring skoleåret 2025-2026"
+          "title": "Saksfremlegg - Klage over inntak til videregående opplæring skoleåret 2025-2026",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/c3db3215-ae2c-4ab1-8aef-bf19304609cb",
           "number": "16/2025",
-          "title": "Klage over avslag på tildeling - KulturArvOpplevelesr"
+          "title": "Klage over avslag på tildeling - KulturArvOpplevelesr",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/9643c413-532b-4222-9011-093c7b85df7e",
           "number": "17/2025",
-          "title": "Klage på vedtak om tilbakekall av drosjeløyve - ***** ***** ***** ***** *****"
+          "title": "Klage på vedtak om tilbakekall av drosjeløyve - ***** ***** ***** ***** *****",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/0ab5d6df-fcd5-4e32-8e1c-8a118288fe7e",
           "number": "18/2025",
-          "title": "Klage over tilbakekall av drosjeløyve ***** ***** ***** ***** *****"
+          "title": "Klage over tilbakekall av drosjeløyve ***** ***** ***** ***** *****",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "ec84688a8964815a0d911964693d163d7a1f5b7df1b1706f9f6beba6d1cbab89",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/9f0afb37-497c-4c53-9340-fc1213453b26",
       "protocolDocumentIds": "https://prod02.elementscloud.no/75435760-ab30-4a93-a2a8-dafda3830123",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/b2ff4275-c270-4d13-a53d-c2ce00a53c5e",
@@ -68,19 +73,20 @@
       "meetingDate": "08/14/2025 13:00:00",
       "meetingDateUtc": "2025-08-14T11:00:00Z",
       "meetingPlace": "Digitalt - skriftlig saksbehandling",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/794792d3-2639-4923-8359-6daef19d55e2",
       "agendaDocumentObjectId": "do_01k21s4yngf2ttwyfvb4r4wsx7",
+      "agendaSignature": "f3b566031669e957586bccb24c62376a3c939e14cf175a95a5bd8556ae99dab2",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/87d59d42-def9-4bd6-aee2-a3f2e8ed1c3c",
           "number": "50/2025",
-          "title": "Innretning av midler til Oslo filmfond i forkant av fusjon"
+          "title": "Innretning av midler til Oslo filmfond i forkant av fusjon",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "f3b566031669e957586bccb24c62376a3c939e14cf175a95a5bd8556ae99dab2",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/794792d3-2639-4923-8359-6daef19d55e2",
       "protocolDocumentIds": "https://prod02.elementscloud.no/41193f4b-c6f0-4927-b5ec-d2e714356d26",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/87d59d42-def9-4bd6-aee2-a3f2e8ed1c3c",
@@ -103,19 +109,20 @@
       "meetingDate": "08/14/2025 13:00:00",
       "meetingDateUtc": "2025-08-14T11:00:00Z",
       "meetingPlace": "Digitalt - skriftlig saksbehandling",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/2754960e-d1c7-4348-bdc5-91d48e33c432",
       "agendaDocumentObjectId": "do_01k21s4y7begn8fva767t5fzqm",
+      "agendaSignature": "ae162fa43e093523363c996f526d9eba95cd0257aeb1779f308d3371de26caf2",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/85c53759-a60f-44a0-b1ac-b459d10be136",
           "number": "48/2025",
-          "title": "Innretning av midler til Oslo filmfond i forkant av fusjon"
+          "title": "Innretning av midler til Oslo filmfond i forkant av fusjon",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "ae162fa43e093523363c996f526d9eba95cd0257aeb1779f308d3371de26caf2",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/2754960e-d1c7-4348-bdc5-91d48e33c432",
       "protocolDocumentIds": "https://prod02.elementscloud.no/b0d76c34-64dc-45ca-8c79-29f66bd9a2fe",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/85c53759-a60f-44a0-b1ac-b459d10be136",
@@ -138,34 +145,38 @@
       "meetingDate": "08/25/2025 07:00:00",
       "meetingDateUtc": "2025-08-25T05:00:00Z",
       "meetingPlace": "UngInvest, Svelvikveien 6, 3039 Drammen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/9e6155df-313a-435a-b329-73a1218a32af",
       "agendaDocumentObjectId": "do_01k315y82rf27sdr6vd7j8gadx",
+      "agendaSignature": "b8c02627e19b4b530027a22201665bc8001686d02440d97373cb452688bdddab",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/44d66a14-f319-4397-8792-a1db96e2033e",
           "number": "31/2025",
-          "title": "Godkjenning av innkalling med saksliste"
+          "title": "Godkjenning av innkalling med saksliste",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/101dc4dc-07f4-429f-9f11-bca349661960",
           "number": "32/2025",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/d3b93df3-1342-4a4b-9490-c979bbd51666",
           "number": "33/2025",
-          "title": "Buskerudplanen, behandling av planprogram - et viktig steg på veien mot endelig plan"
+          "title": "Buskerudplanen, behandling av planprogram - et viktig steg på veien mot endelig plan",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/23c7d638-1124-4506-9bc5-c099ee18c719",
           "number": "34/2025",
-          "title": "Eventuelt"
+          "title": "Eventuelt",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "b8c02627e19b4b530027a22201665bc8001686d02440d97373cb452688bdddab",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/9e6155df-313a-435a-b329-73a1218a32af",
       "protocolDocumentIds": "https://prod02.elementscloud.no/507700b5-35b1-4c71-a4ff-8fdff6087633",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/d3b93df3-1342-4a4b-9490-c979bbd51666",
@@ -221,24 +232,26 @@
       "meetingDate": "08/25/2025 08:00:00",
       "meetingDateUtc": "2025-08-25T06:00:00Z",
       "meetingPlace": "Drammensbiblioteket, Grønland 58, Drammen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": null,
       "agendaDocumentObjectId": "",
+      "agendaSignature": "05b79fb229bb907be724a9c714611b13518778f65bf71525a6eda166238111b8",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/30c4d6ff-7bbd-4093-b408-d18075d05bf5",
           "number": "12/2025",
-          "title": "Buskerudplanen, behandling av planprogram - et viktig steg på veien mot endelig plan"
+          "title": "Buskerudplanen, behandling av planprogram - et viktig steg på veien mot endelig plan",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/af0b5760-2937-4c97-9535-fb65394bfd21",
           "number": "13/2025",
-          "title": "Åpen post - Eldrerådet 250825"
+          "title": "Åpen post - Eldrerådet 250825",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "05b79fb229bb907be724a9c714611b13518778f65bf71525a6eda166238111b8",
-      "protocolAvailable": true,
+      "agendaDocumentIds": null,
       "protocolDocumentIds": "https://prod02.elementscloud.no/f92468ed-ba79-4c06-95dd-1dfc2110ec26",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/af0b5760-2937-4c97-9535-fb65394bfd21",
@@ -272,34 +285,38 @@
       "meetingDate": "08/26/2025 06:30:00",
       "meetingDateUtc": "2025-08-26T04:30:00Z",
       "meetingPlace": "Fylkeshuset, møterom 215",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/6e6f8af1-bc68-4fb5-8b4a-a332eff706cd",
       "agendaDocumentObjectId": "do_01k3632dafews9cc7km5eg25ea",
+      "agendaSignature": "1dc30eb956688cfb6243a42b89c0e0e936fdeb7d147cb9e38e2ee98225e4d40a",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/fb73ed9a-f3f4-4de4-8724-b46a579b3bf3",
           "number": "19/2025",
-          "title": "Godkjenning av møteinnkalling og protokoll fra 12. august 2025"
+          "title": "Godkjenning av møteinnkalling og protokoll fra 12. august 2025",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/a8929ac3-8618-46b0-8f50-4c5774983a10",
           "number": "20/2025",
-          "title": "Møteplan for 2026 Klagenemnda"
+          "title": "Møteplan for 2026 Klagenemnda",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/2d86ab6b-882d-415d-81a4-281dc4959c2e",
           "number": "21/2025",
-          "title": "Klage over inntak til videregående opplæring - Skoleåret 2025/2026 - *****"
+          "title": "Klage over inntak til videregående opplæring - Skoleåret 2025/2026 - *****",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/088bceec-6eb9-4d91-841a-af0cd5adcb04",
           "number": "22/2025",
-          "title": "Klagesak knyttet til vedtak om inntak til videregående opplæring - Skoleåret 2025/2026 - *****"
+          "title": "Klagesak knyttet til vedtak om inntak til videregående opplæring - Skoleåret 2025/2026 - *****",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "1dc30eb956688cfb6243a42b89c0e0e936fdeb7d147cb9e38e2ee98225e4d40a",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/6e6f8af1-bc68-4fb5-8b4a-a332eff706cd",
       "protocolDocumentIds": "https://prod02.elementscloud.no/dfc539d3-c7ad-4542-94d6-ca8a1daeac45",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/fb73ed9a-f3f4-4de4-8724-b46a579b3bf3",
@@ -333,34 +350,38 @@
       "meetingDate": "08/27/2025 08:00:00",
       "meetingDateUtc": "2025-08-27T06:00:00Z",
       "meetingPlace": "UngInvest, Svelvikveien 63, 3039 Drammen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/128b94a2-53f8-471b-af6b-eb8caa36c80d",
       "agendaDocumentObjectId": "do_01k336hx10frxrb5wjse2tk3nw",
+      "agendaSignature": "70a90b27dbbbf775474b5ffd60bc77e81c3e4b63ceb9aecd77f9b9128b6f1b00",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/1ac9a533-18e9-439c-9518-5710d2efe3d1",
           "number": "22/2025",
-          "title": "Godkjenning av innkalling med saksliste"
+          "title": "Godkjenning av innkalling med saksliste",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/59d7c939-2f73-43a6-b90d-40b1f8def471",
           "number": "23/2025",
-          "title": "Åpen post 27.08.25"
+          "title": "Åpen post 27.08.25",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/7107a0ae-8f1b-49d9-a7f6-f40a913ca51e",
           "number": "24/2025",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/05a0bce4-fb79-4f56-8bdb-fc92f8069c24",
           "number": "25/2025",
-          "title": "Buskerudplanen, behandling av planprogram - et viktig steg på veien mot endelig plan"
+          "title": "Buskerudplanen, behandling av planprogram - et viktig steg på veien mot endelig plan",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "70a90b27dbbbf775474b5ffd60bc77e81c3e4b63ceb9aecd77f9b9128b6f1b00",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/128b94a2-53f8-471b-af6b-eb8caa36c80d",
       "protocolDocumentIds": "https://prod02.elementscloud.no/1f3ea0a7-02ff-446d-8c01-b6da1be5918e",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/7107a0ae-8f1b-49d9-a7f6-f40a913ca51e",
@@ -416,24 +437,26 @@
       "meetingDate": "08/28/2025 08:00:00",
       "meetingDateUtc": "2025-08-28T06:00:00Z",
       "meetingPlace": "Eiker Vekst, Ryghgata 6, Mjøndalen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/5eb87857-fbd4-4457-9f20-19955dcf4175",
       "agendaDocumentObjectId": "do_01kg6zjc69enav4h2zm88b5pm4",
+      "agendaSignature": "1e999af5af7a7489a53a9b6e4572e2986ce9bb7dfa33a35b55bef1d868d68d44",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/08ea7a1a-6ec1-47e3-bf4f-df1a1b04436b",
           "number": "12/2025",
-          "title": "Buskerudplanen, behandling av planprogram - et viktig steg på veien mot endelig plan"
+          "title": "Buskerudplanen, behandling av planprogram - et viktig steg på veien mot endelig plan",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/f65110a0-b6e7-4014-aa11-65273946b8aa",
           "number": "13/2025",
-          "title": "Åpen post - RFF 280825"
+          "title": "Åpen post - RFF 280825",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "1e999af5af7a7489a53a9b6e4572e2986ce9bb7dfa33a35b55bef1d868d68d44",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/5eb87857-fbd4-4457-9f20-19955dcf4175",
       "protocolDocumentIds": "https://prod02.elementscloud.no/c37cbb82-09b1-4bbe-aae4-fa037da5dfe0",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/f65110a0-b6e7-4014-aa11-65273946b8aa",
@@ -467,13 +490,13 @@
       "meetingDate": "08/29/2025 11:00:00",
       "meetingDateUtc": "2025-08-29T09:00:00Z",
       "meetingPlace": "Union scene, multisal 2",
-      "agendaAvailable": false,
-      "agendaDocumentIds": null,
       "agendaDocumentObjectId": "",
-      "agendaCases": [],
       "agendaSignature": "ddadb0edefa886b86e7548cc30c6f587f59d4cfbaa8e85deaf7e07bb50e24a18",
-      "protocolAvailable": false,
+      "agendaCases": [],
+      "agendaDocumentIds": null,
       "protocolDocumentIds": null,
+      "agendaAvailable": false,
+      "protocolAvailable": false,
       "caseDecisions": []
     }
   ]

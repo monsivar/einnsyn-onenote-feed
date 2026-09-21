@@ -2,17 +2,12 @@
 <html lang="nb">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-    <meta name="theme-color" content="#171717" />
-    <meta name="description" content="Møter og agendaer fra Buskerud fylkeskommune." />
-    <meta name="mobile-web-app-capable" content="yes" />
-    <meta name="apple-mobile-web-app-capable" content="yes" />
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-    <meta name="apple-mobile-web-app-title" content="EInnsyn Buskerud Ap" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#071b33" />
+    <meta name="description" content="Møter, saker og vedtak fra Buskerud fylkeskommune." />
+    <meta name="application-name" content="Møteblikk Buskerud" />
+    <title>Møteblikk Buskerud – møter og agenda</title>
     <link rel="manifest" href="manifest.json" />
-    <link rel="icon" type="image/png" sizes="192x192" href="icon-192.png" />
-    <link rel="apple-touch-icon" sizes="180x180" href="icon-180.png" />
-    <title>EInnsyn Buskerud Ap – møter og agenda</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap" rel="stylesheet" />
@@ -21,16 +16,11 @@
   <body>
     <header class="site-header">
       <div class="shell header-inner">
-        <div class="brand-group">
-          <a class="brand" href="./" aria-label="EInnsyn Buskerud Ap – hjem">
-            <img class="party-logo" src="arbeiderpartiet-rose.png" alt="Arbeiderpartiet" width="34" height="34" style="width:34px;height:34px;max-width:34px;display:block;object-fit:contain;flex:0 0 34px" />
-            <span><strong>EInnsyn</strong><small>BUSKERUD AP</small></span>
-          </a>
-        </div>
+        <a class="brand" href="./" aria-label="Møteblikk Buskerud – hjem">
+          <span class="brand-mark" aria-hidden="true"><span></span><span></span><span></span></span>
+          <span><strong>MØTEBLIKK</strong><small>BUSKERUD</small></span>
+        </a>
         <span class="header-note">Åpne møter og agendaer</span>
-        <div class="sync-status" id="sync-status" role="status" aria-live="polite">
-          <span class="status-dot"></span><span>Siste synk</span><time id="last-sync">–</time>
-        </div>
       </div>
     </header>
 
@@ -41,12 +31,21 @@
           <h1 id="page-title">Møter som kommer</h1>
           <p class="intro-copy">Finn neste møte, se sakskartet og åpne kildene i eInnsyn.</p>
         </div>
+        <div class="sync-status" id="sync-status" role="status" aria-live="polite">
+          <span class="status-dot"></span> Henter siste data …
+        </div>
       </section>
 
       <nav class="view-switcher" aria-label="Møtevisning">
         <button class="view-tab is-active" type="button" data-view="upcoming">Kommende møter <span id="upcoming-tab-count">–</span></button>
         <button class="view-tab" type="button" data-view="history">Historiske møter <span id="history-tab-count">–</span></button>
       </nav>
+
+      <section class="stats" aria-label="Oversikt">
+        <div class="stat-card"><span class="stat-label">Viser nå</span><strong id="visible-count">–</strong><span id="visible-label">kommende møter</span></div>
+        <div class="stat-card"><span class="stat-label">Agenda klar</span><strong id="agenda-count">–</strong><span>med sakskart</span></div>
+        <div class="stat-card"><span class="stat-label">Siste synk</span><strong id="last-sync">–</strong><span>ved åpning</span></div>
+      </section>
 
       <section class="filters" aria-labelledby="filter-title">
         <div class="filter-heading">
@@ -66,12 +65,11 @@
             <select id="committee-filter"><option value="">Alle organer</option></select>
           </label>
           <label class="field">
-            <span>Agenda / Protokoll</span>
+            <span>Agenda</span>
             <select id="agenda-filter">
               <option value="all">Alle statuser</option>
               <option value="ready">Agenda klar</option>
               <option value="pending">Kommer senere</option>
-              <option value="protocol">Protokoll tilgjengelig</option>
             </select>
           </label>
           <label class="field" id="range-field">
@@ -83,11 +81,6 @@
             </select>
           </label>
         </div>
-      </section>
-
-      <section class="stats" aria-label="Oversikt">
-        <div class="stat-card"><span class="stat-label">Viser nå</span><strong id="visible-count">–</strong><span id="visible-label">kommende møter</span></div>
-        <div class="stat-card"><span class="stat-label">Agenda klar</span><strong id="agenda-count">–</strong><span>med sakskart</span></div>
       </section>
 
       <section class="results-section" aria-labelledby="results-title">
@@ -115,6 +108,6 @@
       </div>
     </footer>
 
-    <script src="app.js?v=1.0.17" defer></script>
+    <script src="app.js" defer></script>
   </body>
 </html>

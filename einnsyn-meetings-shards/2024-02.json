@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "shardType": "meetings",
   "shardKey": "2024-02",
-  "updatedAtUtc": "09/21/2026 15:51:10",
+  "updatedAtUtc": "09/21/2026 16:19:31",
   "meetingCount": 6,
   "meetings": [
     {
@@ -41,84 +41,365 @@
           "title": "Interpellasjon fra Odd Terje Svendsen (AP) og Trine Raknes (AP) om vinterbrøytet vei Imingfjell",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F076703af-365e-4294-92c1-3580614a0896",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc0e415ac-0064-453e-a3bb-12638b1fc00f",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Trine Raknes",
+                "party": "Ap"
+              },
+              {
+                "name": "fylkeskommunedirektøren",
+                "party": null
+              },
+              {
+                "name": "Iselin Haugo Stavn",
+                "party": "H"
+              },
+              {
+                "name": "Cecilie Søvik",
+                "party": "MDG"
+              },
+              {
+                "name": "Magnus Weggesrud",
+                "party": "Sp"
+              },
+              {
+                "name": "Odd Terje Svendsen",
+                "party": "Ap"
+              },
+              {
+                "name": "Simen Murud",
+                "party": "H"
+              },
+              {
+                "name": "Anders Wengen",
+                "party": "V"
+              },
+              {
+                "name": "Erik Kaupang",
+                "party": "Ap"
+              },
+              {
+                "name": "Mari Djupvik Bråthen",
+                "party": "H"
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Svar på interpellasjon fra fylkeskommunedirektør: Vinterdrift av fylkesveien over Imingfjell (fv2814 tidligere fv755 og fv124) er nedfelt i Regional plan for Hardangervidda 2019-2035. Regional plan for Hardangervidda gjelder for villreinområder i fylkene Vestfold og Telemark (fra 2024 Telemark), Vestland og Viken (fra 2024 Buskerud). Planen ble stadfestet av Kommunal- og moderniseringsdepartementet (nå Kommunal- og distriktsdepartementet) 1. oktober 2021. Planen ble behandlet av fylkestinget i Buskerud i 2019. Fylkestinget vedtok å åpne for et prøveprosjekt for å kunne holde fv 2814 Imingfjellveien åpen om vinteren. Dette var i strid med forslaget fra styringsgruppen Hardangerviddarådet, og også med vedtak fra fylkestinget i Telemark og i Vestland. Viken fylkesting fattet vedtak i sak 61/2020 den 18.06.2020 som erstattet vedtaket fra Buskerud, og sluttet seg da til de andre fylkene, og at man ikke skulle gjøre det mulig med vinteråpen vei. Retningslinje «§2.4 Vinteråpne og vinterstengte veier» i regional plan: «Fv. 755/fv. 124 (nå fv 2814) (fra bom ved Steinset i Tessungdalen til bom ved Sønstevatn i Uvdal): Vinterstengt i perioden 30. november til 1. april eller til påske når denne faller i mars. På strekningen Steinset–Småroe Fjellstove tillates åpen vei i uke 8 og 9. Fra uke 9 til påske tillates åpen vei kun i helgene, fredag ettermiddag til søndag kveld. Dersom det er villreinflokker på Lufsjåtangen eller flokker like vest for veien, kan veien stenges og/eller åpning kan utsettes. Fylkeskommunene som veieiere fatter beslutninger om å stenge eller utsette veiåpning etter faglig anbefaling fra Fylkesmannen.» Etter at planen ble vedtatt i de tre fylkestingene, fremmet Statsforvalteren i Vestfold og Telemark, i Vestland og i Oslo og Viken vesentlig innvending til • Retningslinje § 2.4 – Veien over Imingfjell. De mente hele veien skal være vinterstengt og uten mulighet for å brøyte til Småroe i vinterferien og i helgene fram til påske. Nore og Uvdal kommune og Tinn kommune hadde vesentlig innvending til samme retningslinje, og mente at det bør åpnes for et fireårig prøveprosjekt med vinterbrøyting over fjellet. Med bakgrunn i dette ble innvendingene oversendt Kommunal- og moderniseringsdepartement for endelig avgjørelse (brev datert 16.11.2020). I Kommunal- og moderniseringsdepartement vedtak ble planens retningslinjer for veien over Imingfjell opprettholdt slik fylkestingene vedtok i 2020 (brev datert 01.10.2021). Nåværende regional plan for Hardangervidda gir ikke rom for vinteråpen vei over Imingfjell, og på denne bakgrunn er svarene på interpellantenes spørsmål som følger: 1. Hva er prisen på jobben for å holde veien åpen hele vinteren? Kostnadene for å holde veien åpen hele vinteren er anslått til å være 3-3,5 millioner kr per år. Det forutsettes da at veien må stenges og åpnes på kort varsel flere ganger igjennom sesongen på grunn av villrein og værforhold som tilsier stengt vei. På grunn av lav trafikkmengde er det ikke aktuelt med kolonnekjøring på denne strekningen. Dette ble utredet i 2018 av Statens Vegvesen. 2. Med en så værutsatt vei blir jo det en enorm jobb for entreprenør, er det noen tall på mengde rundt dette? Siden veien ikke har vært åpen om vinteren har vi ingen erfaringstall for antall tiltak eller forbruk. 3. Hva vil denne vinteråpne veien ha og si for villreinen? Reinen ferder her for bla kalving, det er viktig da at den har ro under denne tiden. Alle villreinområdene i Norge er klassifisert med hjemmel i forskriften Kvalitetsnorm for villrein. Hardangervidda villreinområde ble i 2021 klassifisert til dårlig kvalitet, etter at både bestandsforhold og leveområde og menneskelig påvirkning, ble satt til dårlig, og lavbeite ble satt til middels kvalitet. Tilgang på vinterbeiter i de østlige områdene av Hardangervidda er viktig for å bedre forholdene under alle de tre delnormene. Som oppfølging av kvalitetsnormen fikk statsforvalterne i november 2022 i oppdrag fra Klima- og miljødepartementet å utarbeide forslag til tiltaksplaner som skal sees inn i arbeidet med utarbeiding av ny stortingsmelding om villrein. Kvalitetsnormen som forskrift er det juridiske grunnlaget for arbeidet. Statsforvalterne utarbeidet forslag til tiltaksplan for Hardangervidda i 2023, og der foreslås det: «Fortsatt vinterstengt vei over Imingfjell, utsette brøyting til Småroi og utsette vinterbrøyting i Imingdalen.» Tiltaksplanen fra statsforvalteren er lagt fram i Miljødirektoratets anbefaling av tiltak til Klima- og miljødepartementer (brev fra Mdir til KLD 20.12.23) Imingfjell og Lufsjåtangen er rike vinterbeiteområder som brukes på senhøsten og vinteren (men ikke som kalvings- og sommerbeiteområder), og 5-10% av lavheiene på vidda befinner seg på Imingfjell og lavheiene står mer eller mindre ubeita i motsetning til i de sentrale områdene av vidda. Bruken av området henger sammen med antall dyr, beiteforhold, snø- og værforhold og menneskelig aktivitet. Om vinteren er det viktig at reinen har tilgang på gode lavbeiter, og at den ikke opplever forstyrrelser fordi de må spare energi i en sårbar periode, spesielt drektige simler. Dagalitangen har opphørt som vinterbeiteområde på grunn av menneskelig utbygging og aktivitet. Ved vinteråpen vei, vil også Imingfjell og Lufsjåtangen forsvinne som tilgjengelig vinterbeiteområde. 4. Er det snakket med Telemark om deling på pris på denne jobben? Her sitter Buskerud som eier av vei på dem mest snørike og mest utsatte delene av veien. Det har ikke vært noen formell samtale med Telemark FK om delinger av kostnader for å holde veien åpen i Viken-perioden. Det er Telemark som har det mest utfordrende strekningen, siden veien på Telemark-siden er bygget med annen geometri som gjør at den raskere blåser igjen. 5. Hvordan har dialogen med statsforvalter vært i denne saken? Etter at departementet stadfestet retningslinje §2.4 Vegen over Imingfjell, ble det etablert en forvaltningsgruppe for å følge opp retningslinjen. Forvaltningsgruppa, bestående av Vestfold og Telemark fylkeskommune, Viken fylkeskommune, statsforvalterne i Oslo og Viken og Vestfold og Telemark, samt Tinn og Nore og Uvdal kommune, utarbeidet rutiner og varslingslinjer for både ordinær vinterstenging og åpning, mulighet for vinterbrøyting til Småroi fra vinterferien og ekstraordinær stenging og/ eller utsettelse av åpning. Det har i denne prosessen vært god dialog med begge statsforvalterne i arbeidet med utforming og oppfølging av rutiner for stenging og åpning av fv2814."
+            },
+            "document": {
+              "objectId": "do_01j76y3sbcfy4rmkdrws58e97a",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc0e415ac-0064-453e-a3bb-12638b1fc00f"
+            },
+            "error": null
+          }
         },
         {
           "number": "1/2024",
           "title": "Godkjenning av innkalling og protokoll",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F8e62660d-ecff-49a5-a349-e132cab86793",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F16752e14-3964-4604-92d7-d1db7cade33b",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkestingets vedtak den 15.02.2024:",
+              "text": "Innkalling og protokoll ble godkjent uten merknader."
+            },
+            "document": {
+              "objectId": "do_01j76y3s0red1rnbe6ytbrjz26",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F16752e14-3964-4604-92d7-d1db7cade33b"
+            },
+            "error": null
+          }
         },
         {
           "number": "2/2024",
           "title": "Prosjektoppsummering 2023 | Etablering av tre nye fylkeskommuner og avvikling av Viken fylkeskommune",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F9b151476-731e-4b94-a729-9a8f2a40145a",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F6dcaf3dc-a7ee-42c7-8fc0-6de50c00e37b",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Magnus Weggesrud",
+                "party": "SP"
+              },
+              {
+                "name": "Bjørn Tore Ødegården",
+                "party": "Ap"
+              },
+              {
+                "name": "Kjell Erland Grønbech",
+                "party": "KrF"
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkestingets vedtak den 15.02.2024:",
+              "text": "Fylkestinget tar prosjektoppsummeringen 2023 om etablering av tre nye fylkeskommuner og avvikling av Viken fylkeskommune til orientering."
+            },
+            "document": {
+              "objectId": "do_01j76y3s3dee49tq4hkajtvyv7",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F6dcaf3dc-a7ee-42c7-8fc0-6de50c00e37b"
+            },
+            "error": null
+          }
         },
         {
           "number": "3/2024",
           "title": "Reservasjon - pensjonsordning for folkevalgte. Endring i godtgjøringsforskrift",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fa00dd69a-854a-42a4-9870-b61766ca2d1d",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F69823b76-34ad-45fb-bbfc-0f2979a5f26c",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkestingets vedtak den 15.02.2024:",
+              "text": "1. Forskrift for folkevalgtes arbeidsvilkår i Buskerud fylkeskommune punkt 4.6 endres til: «Folkevalgte i Buskerud med fast årsgodtgjøring, som utgjør minimum 10 % av fylkesordførers godtgjøring, har krav på pensjon fra den fylkeskommunale pensjonskassen etter Forskrift om pensjonsordning for folkevalgte i kommune eller fylkeskommune § 1 andre ledd (samme ordning som for de ansatte). Kravet gjelder fra første krone av godtgjøringen. Den enkelte folkevalgte kan reserve seg mot innmelding i pensjonsordningen.»"
+            },
+            "document": {
+              "objectId": "do_01j76y3s6sfb1s6as2ad9wx0gm",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F69823b76-34ad-45fb-bbfc-0f2979a5f26c"
+            },
+            "error": null
+          }
         },
         {
           "number": "4/2024",
           "title": "Pensjonskassen for fylkene Akershus, Buskerud og Østfold - nye vedtekter og valg til foretaksmøte",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F73c0056c-05af-4908-8d84-70f9fe454255",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F596bf105-84d4-48ab-91d1-a5eb5ae6edb4",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkestingets vedtak den 15.02.2024:",
+              "text": "1. Vedtektene for Pensjonskassen for fylkene Akershus, Buskerud og Østfold tas til orientering. 2. Til foretaksmøte for Pensjonskassen for fylkene Akershus, Buskerud og Østfold velges fra Buskerud fylkeskommune: Jan Sivert Jøsendal som representant Per Øystein Bentstuen som vararepresentant"
+            },
+            "document": {
+              "objectId": "do_01j76y3spwedgsjykmaw05sn2w",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F596bf105-84d4-48ab-91d1-a5eb5ae6edb4"
+            },
+            "error": null
+          }
         },
         {
           "number": "5/2024",
           "title": "Høring - forslag om videreføring av midlertidige endringer i lovverket som følge av ankomster fra Ukraina",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fc609077b-c754-4182-8589-07f63457883e",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F729fc941-7b0f-47ba-a69e-a90473e736ad",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Anders Wengen",
+                "party": "V"
+              },
+              {
+                "name": "Morgan Langfeldt",
+                "party": "FrP"
+              },
+              {
+                "name": "Mons-Ivar Mjelde (Ap). Anders Wengen (V) fremmet på vegne av Venstre følgende tilleggsforslag til punkt 2 : \"Dette bør innebære at ungdom",
+                "party": null
+              },
+              {
+                "name": "unge voksne som bor i mottak får et lovfestet tilbud om videregående opplæring",
+                "party": null
+              },
+              {
+                "name": "eller forberedende kurs som gjør de i stand til å møte mest mulig forberedt til videregående\"",
+                "party": null
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkestingets vedtak den 15.02.2024:",
+              "text": "1. Fylkestinget støtter forslaget om videreføring av midlertidige endringer i lovverket som følge av ankomster av fordrevne fra Ukraina. 2. Fylkestinget støtter opp om at et av formålene med de midlertidige endringene er målsettingen at flest mulig skal komme raskt i arbeid og kunne forsørge seg selv. 3. Fylkestinget støtter at det i lys av utviklingen fremover vurderes om det er behov for å iverksette andre endringer og andre tiltak og at kommuner og fylkeskommuner involveres i dette."
+            },
+            "document": {
+              "objectId": "do_01j76y3srrfym91n3dfc3tgvmd",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F729fc941-7b0f-47ba-a69e-a90473e736ad"
+            },
+            "error": null
+          }
         },
         {
           "number": "6/2024",
           "title": "FRID IKS - valg av medlemmer til representantskapet for perioden 2024 - 2027",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F306e26f8-ab14-47c7-8893-1f5bd1575130",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1344b8a7-c57b-4f53-b480-e9af63a34f65",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkestingets vedtak den 15.02.2024:",
+              "text": "Følgende oppnevnes som Buskerud fylkeskommunes representanter til representantskapet i FRID IKS for perioden 2024 - 2027: I. Tore Opdal Hansen (H) (medlem) II. Lavrans Kierulf (Frp) (1. varamedlem) III. Iselin Haugo Stavn (H) (2. varamedlem)"
+            },
+            "document": {
+              "objectId": "do_01j76y3sgcfsrrzhhsacvpdr5p",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1344b8a7-c57b-4f53-b480-e9af63a34f65"
+            },
+            "error": null
+          }
         },
         {
           "number": "7/2024",
           "title": "Oppnevning representanter - årsmøte i Osloregionens Europakontor",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F326862af-3014-411a-8b54-a694faf54a00",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0e9d7c98-b007-43f8-a745-1507343c1dae",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Morgan Langfeldt",
+                "party": "Frp"
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkestingets vedtak den 15.02.2024:",
+              "text": "Fylkestinget oppnevner to representanter med vararepresentanter til årsmøte i Osloregionens Europakontor Representant 1: Christina Højer Mørkve (H) med vararepresentant Inger Synnøve Kammerud (H) Representant 2: Mons-Ivar Mjelde (Ap) med vararepresentant Tonje Enersen (Ap)"
+            },
+            "document": {
+              "objectId": "do_01j76y3sdxfe1rkcydy6ef8f14",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0e9d7c98-b007-43f8-a745-1507343c1dae"
+            },
+            "error": null
+          }
         },
         {
           "number": "8/2024",
           "title": "Fagskolen i Viken - nytt valg av varamedlemmer til representantskapet 2024 - 2027",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd0fc1a5f-3860-4a22-9153-00ff8946e1c1",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ffab7e354-70b9-43fa-a659-e5f61d001eaf",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Morgan Langfeldt",
+                "party": "Frp"
+              },
+              {
+                "name": "Iselin Haugo Stavn",
+                "party": "H"
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkestingets vedtak den 15.02.2024:",
+              "text": "Til representantskapet for Fagskolen i Viken oppnevnes følgende varamedlemmer til representantskapet for perioden 2024 - 2027 fra Buskerud fylkeskommune: Hanne Haatuft (H) som varamedlem"
+            },
+            "document": {
+              "objectId": "do_01j76y3s94e52saknbgjmx2wt2",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ffab7e354-70b9-43fa-a659-e5f61d001eaf"
+            },
+            "error": null
+          }
         },
         {
           "number": "9/2024",
           "title": "Valg av representanter til Forum nye Bergensbanen",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F22d99eb4-16c0-4f04-8409-0272b8ef4d19",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1df1b66f-3d3f-4f51-aabe-1c643aeb55f3",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkestingets vedtak den 15.02.2024:",
+              "text": "1. Det oppnevnes følgende representant fra Buskerud fylkeskommune til Forum nye Bergensbanen: Christopher Amundsen Wand (H) 2. Det oppnevnes følgende vararepresentant fra Buskerud fylkeskommune til Forum nye Bergensbanen: Iselin Haugo Stavn (H)"
+            },
+            "document": {
+              "objectId": "do_01j76y3sf6fnj9bdqfq3j2dmhj",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1df1b66f-3d3f-4f51-aabe-1c643aeb55f3"
+            },
+            "error": null
+          }
         },
         {
           "number": "10/2024",
           "title": "Valg av rådsmedlemmer til Oslofjordens Friluftsråd",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F8547a7a6-ac2d-46d3-848d-4e224c27074c",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fac35c140-a1eb-4747-96d7-758f502b8499",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkestingets vedtak den 15.02.2024:",
+              "text": "1. Fylkeskommunen utnevner følgende tre representanter fra Buskerud fylkeskommune som rådsmedlemmer til Oslofjordens Friluftsråd: Morgan Langfeldt (Frp), Tove Hofstad (V) og Bård Sødal Grasbekk (MDG) 2. Fylkeskommunen utnevner følgende tre vararepresentanter fra Buskerud fylkeskommune for hvert rådsmedlem: Egil Ax (H), Kristin Gjerde (Frp) og Cecilie Søvik (MDG)"
+            },
+            "document": {
+              "objectId": "do_01j76y3ryzem3ss8b3me7z0jk5",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fac35c140-a1eb-4747-96d7-758f502b8499"
+            },
+            "error": null
+          }
         },
         {
           "number": "11/2024",
           "title": "Anskaffelser i Akershus, Buskerud og Østfold kommunalt oppgavefellesskap - oppnevning til representantskapet 2024-2027",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F3c7ca9fb-225d-4ea8-b119-5b8ff62462da",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9fe32726-03d0-4c0e-9f5f-b5abcd4ebf1c",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkestingets vedtak den 15.02.2024:",
+              "text": "Følgende oppnevnes som Buskerud fylkeskommunes representanter til representantskapet i Anskaffelser i Akershus, Buskerud og Østfold kommunalt oppgavefelleskap 2024-2027: Per Øystein Bentstuen som medlem Lene Jensen som 1. varamedlem Stein Morten Øen 2. varamedlem"
+            },
+            "document": {
+              "objectId": "do_01j76y3sjrfew9tpt0ttv123rt",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9fe32726-03d0-4c0e-9f5f-b5abcd4ebf1c"
+            },
+            "error": null
+          }
         }
       ],
       "attendance": {
@@ -486,49 +767,316 @@
           "title": "Godkjenning av innkalling og protokoll",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Ff8e833a4-6f52-4cf3-ba6f-2eaf9922626e",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F004cbf2f-ab63-4639-8bae-ef34593bedb5",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Hovedutvalg for samferdsels vedtak den 22.02.2024:",
+              "text": "Innkallingen ble godkjent. Protokollen ble godkjent med følgende merknader: Hans Petter de Fine (Rødt) bemerket at protokollen til hovedutvalgets møte 22. januar ikke var publisert på einnsyn. Til sak 7/24 var det en feil i vedtaket: Det står at saken er vedtatt med 7 stemmer mot 1, men det korrekte er 12 stemmer mot 1. Hovedutvalg for samferdsels behandling i møte den 22.02.2024:"
+            },
+            "document": {
+              "objectId": "do_01j76y42y6e23t3c766sn93e9s",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F004cbf2f-ab63-4639-8bae-ef34593bedb5"
+            },
+            "error": null
+          }
         },
         {
           "number": "12/2024",
           "title": "Leveranseavtale med Brakar",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fca5a1e44-e87b-4f11-b9ee-e4dff47f7a34",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb8741827-0b36-40aa-86bd-c57a8bb19af0",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Tonje Enersen",
+                "party": "Ap"
+              },
+              {
+                "name": "Mari Djubvik Bråthen",
+                "party": "H"
+              },
+              {
+                "name": "Eilev Bekjorden",
+                "party": "Frp"
+              }
+            ],
+            "proposals": [
+              {
+                "proposerName": "Tonje Enersen",
+                "proposerParty": "Ap",
+                "onBehalfOf": "Ap, Sp og Rødt"
+              },
+              {
+                "proposerName": "Mari Djupvik Bråthen",
+                "proposerParty": "H",
+                "onBehalfOf": "Høyre, Frp, INP, KrF og"
+              },
+              {
+                "proposerName": "Eilev Bekjorden",
+                "proposerParty": "Frp",
+                "onBehalfOf": "Fremskrittspartiet"
+              },
+              {
+                "proposerName": "Tove Hofstad",
+                "proposerParty": "V",
+                "onBehalfOf": "Venstre, INP og Frp"
+              }
+            ],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Hovedutvalg for samferdsels vedtak den 22.02.2024:",
+              "text": "1. Hovedutvalg for samferdsel slutter seg til inngåelse av leveranseavtale med Brakar AS slik den foreligger. 2. Det legges opp til god medvirkningsprosess ved at man gjennomføre dialogmøte hvor kommunene blir involvert før hovedutvalget fatter beslutning om rutetilbud tilpasset ny ramme fra Buskerud Fylkeskommune. 3. Det gjennomføres minimum to flere møtepunkter enn oppsatt i 2024 mellom Brakar og Hovedutvalget i samferdsel for å diskutere og behandle strategi og tilbud til innbyggerne. 4. Årlige leveranseavtaler skal behandles politisk. 5. Nytt punkt i Første og andre tertial rapport. Rapporten skal som minimum inneholde følgende rapporteringspunkter: • Leveransepresisjon på avganger. • Hvor mange kansellerte avganger har Brakar hatt i perioden. • Hvor mange av disse avgangene var knyttet til elbusser, dieselbusser eller eventuelt andre typer busser. • Årsak som førte til stans og kanselleringer på de forskjellige typer busser i hvert enkelt tilfelle. 6. Endringsforslag til første setning i punkt 5.6 Universell utforming. Resten av avsnittet slik det står. Hovedutvalg for samferdsel ønsker universell utforming av reisekjede og billettsystem. Dette innarbeides i leveranseavtalen. Hovedutvalg for samferdsels behandling i møte den 22.02.2024: Fylkeskommunedirektørens forslag/innstilling: 1. Hovedutvalg for samferdsel slutter seg til inngåelse av leveranseavtale med Brakar AS slik den foreligger. Følgende hadde ordet i saken: Tonje Enersen (Ap), Mari Djubvik Bråthen (H) og Eilev Bekjorden (Frp) Tonje Enersen (Ap) fremmet følgende forslag på vegne av Ap, Sp og Rødt: 1. Hovedutvalg for samferdsel slutter seg til inngåelse av leveranseavtale med Brakar AS slik den foreligger. 2. Det legges opp til god medvirkningsprosess ved at man gjennomføre dialogmøte hvor kommunene blir involvert før hovedutvalget fatter beslutning om rutetilbud tilpasset ny ramme fra Buskerud Fylkeskommune. 3. Det gjennomføres minimum to flere møtepunkter enn oppsatt i 2024 mellom Brakar og Hovedutvalget i samferdsel for å diskutere og behandle strategi og tilbud til innbyggerne. Mari Djupvik Bråthen (H) fremmet følgende forslag på vegne av Høyre, Frp, INP, KrF og Venstre: 1. Årlige leveranseavtaler skal behandles politisk. Eilev Bekjorden (Frp) fremmet følgende endringsforslag på vegne av Fremskrittspartiet: Nytt punkt i Første og andre tertial rapport. Rapporten skal som minimum inneholde følgende rapporteringspunkter: • Leveransepresisjon på avganger. • Hvor mange kansellerte avganger har Brakar hatt i perioden. • Hvor mange av disse avgangene var knyttet til elbusser, dieselbusser eller eventuelt andre typer busser. • Årsak som førte til stans og kanselleringer på de forskjellige typer busser i hvert enkelt tilfelle. Tove Hofstad (V) fremmet følgende endringsforslag på vegne av Venstre, INP og Frp: Endringsforslag til første setning i punkt 5.6 Universell utforming. Resten av avsnittet slik det står. Hovedutvalg for samferdsel ønsker universell utforming av reisekjede og billettsystem. Dette innarbeides i leveranseavtalen."
+            },
+            "document": {
+              "objectId": "do_01j76y42tkfpnsxzwk0r6x0yk6",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb8741827-0b36-40aa-86bd-c57a8bb19af0"
+            },
+            "error": null
+          }
         },
         {
           "number": "13/2024",
           "title": "Tilskudd til generelt vedlikehold på fylkesveg for 2024",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F039122e2-5c78-445d-91f6-f8d49f3efe64",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5f23561b-e5cf-4983-9473-1a19910deca8",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Tove Hofstad",
+                "party": "V"
+              },
+              {
+                "name": "Eilev Bekjorden",
+                "party": "Frp"
+              },
+              {
+                "name": "Mari Djupvik Bråthen",
+                "party": "H"
+              },
+              {
+                "name": "Turid Solberg Thommassen",
+                "party": "Krf"
+              },
+              {
+                "name": "Lars Stenberg",
+                "party": "INP"
+              },
+              {
+                "name": "Trine Raknes",
+                "party": "Ap"
+              },
+              {
+                "name": "Knut Andre Svensbråten",
+                "party": "Frp"
+              }
+            ],
+            "proposals": [
+              {
+                "proposerName": "Tove Hofstad",
+                "proposerParty": "V",
+                "onBehalfOf": "Venstre, Høyre, Krf, INP"
+              }
+            ],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Hovedutvalg for samferdsels vedtak den 22.02.2024:",
+              "text": "1. Hovedutvalg for samferdsel tar fylkesdirektøren for samferdsel sin administrative vurdering til følge og stiller seg bak den foreslåtte bruken av tilskuddsmidler for 21.02.2024. 2. Hovedutvalg for samferdsel ber fylkesdirektøren for samferdsel å se nærmere på økt bruk av stikkrenner langs/ved fylkesveg for å lede overvann bort fra vassdrag og med det redusere forurensning til fjord, elver og vassdrag jamfør helhetlig plan for Oslofjorden. Særlig gjelder dette i landbruksområder og ras-/erosjonsutsatte områder. Hovedutvalg for samferdsels behandling i møte den 22.02.2024: Fylkeskommunedirektørens forslag/innstilling: 1. Hovedutvalg for samferdsel tar fylkesdirektøren for samferdsel sin administrative vurdering til følge og stiller seg bak den foreslåtte bruken av tilskuddsmidler for 21.02.2024. Følgende hadde ordet i saken: Tove Hofstad (V), Eilev Bekjorden (Frp), Mari Djupvik Bråthen (H), Turid Solberg Thommassen (Krf), Lars Stenberg (INP), Trine Raknes (Ap) og Knut Andre Svensbråten (Frp). Tove Hofstad (V) fremmet følgende forslag på vegne av Venstre, Høyre, Krf, INP: Nytt punkt 2: Hovedutvalg for samferdsel ber fylkesdirektøren for samferdsel å se nærmere på økt bruk av stikkrenner langs/ved fylkesveg for å lede overvann bort fra vassdrag og med det redusere forurensning til fjord, elver og vassdrag jamfør helhetlig plan for Oslofjorden. Særlig gjelder dette i landbruksområder og ras-/erosjonsutsatte områder."
+            },
+            "document": {
+              "objectId": "do_01j76y42m2e14r9yd7bsy59nek",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5f23561b-e5cf-4983-9473-1a19910deca8"
+            },
+            "error": null
+          }
         },
         {
           "number": "14/2024",
           "title": "Søknad om aktivitets- og driftsmidler til Trygg Trafikk Buskerud i 2024",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F72c2c92e-eafe-43bc-9b57-6dedee4d2b31",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1f424531-9170-4a4b-b9e4-4add816ffcb4",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Eilev Bekjorden",
+                "party": "Frp"
+              },
+              {
+                "name": "Tove Hofstad",
+                "party": "V"
+              },
+              {
+                "name": "Shoaib Karim Naeem",
+                "party": "Ap"
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Hovedutvalg for samferdsels vedtak den 22.02.2024:",
+              "text": "1. Buskerud fylkeskommune tildeler Trygg Trafikk Buskerud kr. 500 000,- i tilskudd til aktivitets og driftsmidler i 2024. Hovedutvalg for samferdsels behandling i møte den 22.02.2024: Fylkeskommunedirektørens forslag/innstilling: 1. Buskerud fylkeskommune tildeler Trygg Trafikk Buskerud kr. 500 000,- i tilskudd til aktivitets og driftsmidler i 2024. Følgende hadde ordet i saken: Eilev Bekjorden (Frp), Tove Hofstad (V) og Shoaib Karim Naeem (Ap)."
+            },
+            "document": {
+              "objectId": "do_01j76y42pceb0a7d9va7ghyrp0",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1f424531-9170-4a4b-b9e4-4add816ffcb4"
+            },
+            "error": null
+          }
         },
         {
           "number": "15/2024",
           "title": "Nominasjon av kandidat til Samferdselsdepartementets trafikksikkerhetspris 2024",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fac4cae1e-ff3b-4a78-ba8b-2b6d2df27745",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Feae394aa-7755-4723-8738-1a25a60c0657",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Turid Solberg Thommassen",
+                "party": "KrF"
+              },
+              {
+                "name": "Mari Djupvik Bråthen",
+                "party": "H"
+              },
+              {
+                "name": "Søren Falch Zapffe",
+                "party": "H"
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Hovedutvalg for samferdsels vedtak den 22.02.2024:",
+              "text": "1. Buskerud fylkeskommune nominerer Lier kommune til Samferdselsdepartementets trafikksikkerhetspris 2024. Hovedutvalg for samferdsels behandling i møte den 22.02.2024: Fylkeskommunedirektørens forslag/innstilling: 1. Buskerud fylkeskommune nominerer Lier kommune til Samferdselsdepartementets trafikksikkerhetspris 2024. Følgende hadde ordet i saken: Turid Solberg Thommassen (KrF), Mari Djupvik Bråthen (H) og Søren Falch Zapffe (H)."
+            },
+            "document": {
+              "objectId": "do_01j76y42r8ehttnmn4jjaaf9hw",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Feae394aa-7755-4723-8738-1a25a60c0657"
+            },
+            "error": null
+          }
         },
         {
           "number": "16/2024",
           "title": "Søknad om støtte til flybuss - Rolf Lie - Askeladden reiser og transport",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Ff0185417-98db-418c-9392-0044db5434b8",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F13b7aa71-64d6-4eb5-8500-48d9f20b9c40",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Shoaib Karim Naeem",
+                "party": "Ap"
+              },
+              {
+                "name": "Eilev Bekjorden",
+                "party": "Frp"
+              },
+              {
+                "name": "Mari Djupvik Bråthen",
+                "party": "H"
+              },
+              {
+                "name": "Tove Hofstad",
+                "party": "V"
+              },
+              {
+                "name": "Turid Solberg Thommassen",
+                "party": "KrF"
+              }
+            ],
+            "proposals": [
+              {
+                "proposerName": "Shoaib Karim Naeem",
+                "proposerParty": "Ap",
+                "onBehalfOf": "Ap, Sp og Rødt"
+              }
+            ],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Hovedutvalg for samferdsels vedtak den 22.02.2024:",
+              "text": "Askeladden Reiser & Transport bes sende søknad om økonomisk støtte til berørte kommuner, fylkeskommuner og næringsliv for spleiselag. Forutsatt positive signaler om økonomisk støtte fra berørte parter så behandles søknaden på et senere hovedutvalgsmøte. Hovedutvalg for samferdsels behandling i møte den 22.02.2024: Fylkeskommunedirektørens forslag/innstilling: 1. Hovedutvalg for samferdsel avslår søknad om økonomisk støtte til flybussen Askeladden Reiser og Transport, v/Rolf Lie. Følgende hadde ordet i saken: Shoaib Karim Naeem (Ap), Eilev Bekjorden (Frp), Mari Djupvik Bråthen (H), Tove Hofstad (V) og Turid Solberg Thommassen (KrF). Shoaib Karim Naeem (Ap) fremmet følgende endringsforslag på vegne av Ap, Sp og Rødt: Askeladden Reiser & Transport bes sende søknad om økonomisk støtte til berørte kommuner, fylkeskommuner og næringsliv for spleiselag. Forutsatt positive signaler om økonomisk støtte fra berørte parter så behandles søknaden på et senere hovedutvalgsmøte."
+            },
+            "document": {
+              "objectId": "do_01j76y42wteta9ceppmwe3cyqt",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F13b7aa71-64d6-4eb5-8500-48d9f20b9c40"
+            },
+            "error": null
+          }
         },
         {
           "number": "17/2024",
           "title": "Nasjonal transportplan 2025-2036. Prioriteringer i Buskerud",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Ff5bbca79-f05c-4063-9fa7-dd1f3e986ae8",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ffd952b9f-8570-4b63-ad12-a6590aec0d13",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Mari Djupvik Bråthen",
+                "party": "H"
+              },
+              {
+                "name": "Tonje Enersen",
+                "party": "Ap"
+              },
+              {
+                "name": "Anne Kristine Norman (Sp). Mari Djupvik Bråthen (H) fremmet på vegne av Høyre",
+                "party": null
+              },
+              {
+                "name": "Frp",
+                "party": null
+              },
+              {
+                "name": "INP",
+                "party": null
+              },
+              {
+                "name": "KrF",
+                "party": null
+              },
+              {
+                "name": "Venstre følgende alternative forslag: 1. Det sendes et brev med fylkeskommunens prioriteringer iht vedtak i Viken fylkesting. 2. Brevet sendes fra fylkesordfører",
+                "party": null
+              },
+              {
+                "name": "fylkesordførers kontor får mandat til å utforme brevet",
+                "party": null
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Hovedutvalg for samferdsels vedtak den 22.02.2024:",
+              "text": "1. Det sendes et brev med fylkeskommunens prioriteringer iht vedtak i Viken fylkesting. 2. Brevet sendes fra fylkesordfører og fylkesordførers kontor får mandat til å utforme brevet. Hovedutvalg for samferdsels behandling i møte den 22.02.2024: Fylkeskommunedirektørens forslag/innstilling: Vedlagte brev om prioriteringer i Buskerud i forbindelse med Nasjonal transportplan 2025- 2036 sendes til Samferdselsdepartementet. Følgende hadde ordet i saken: Mari Djupvik Bråthen (H), Tonje Enersen (Ap) og Anne Kristine Norman (Sp). Mari Djupvik Bråthen (H) fremmet på vegne av Høyre, Frp, INP, KrF og Venstre følgende alternative forslag: 1. Det sendes et brev med fylkeskommunens prioriteringer iht vedtak i Viken fylkesting. 2. Brevet sendes fra fylkesordfører og fylkesordførers kontor får mandat til å utforme brevet."
+            },
+            "document": {
+              "objectId": "do_01j76y431ae7evdvawypqrjgrx",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ffd952b9f-8570-4b63-ad12-a6590aec0d13"
+            },
+            "error": null
+          }
         }
       ],
       "attendance": {

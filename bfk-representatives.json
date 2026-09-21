@@ -82,7 +82,7 @@
         { "id": "rep-line-therese-sperrevik-persson", "displayName": "Line Therese Sperrevik Persson", "aliases": [] },
         { "id": "rep-ronny-andersen", "displayName": "Ronny Andersen", "aliases": [] },
         { "id": "rep-vegard-persvold", "displayName": "Vegard Persvold", "aliases": [] },
-        { "id": "rep-morgan-langfeldt", "displayName": "Morgan Langfeldt", "aliases": [] }
+        { "id": "rep-morgan-langfeldt","displayName": "Morgan Langfeldt", "aliases": [] }
       ]
     },
     {

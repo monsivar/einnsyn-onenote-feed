@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "catalogType": "meeting-index",
   "source": "eInnsyn",
-  "updatedAtUtc": "09/21/2026 21:07:27",
+  "updatedAtUtc": "09/21/2026 23:49:50",
   "meetingCount": 386,
   "shardCount": 36,
   "shards": [
@@ -16,7 +16,7 @@
       "key": "2023-11",
       "path": "einnsyn-meetings-shards/2023-11.json",
       "meetingCount": 12,
-      "sha256": "b30f87a51e0d2c43092c178c857c08ff8936a616ca7e0a54edb05de8b109e105"
+      "sha256": "a820ad23070e240e48479e793a44031b094feb24a263cbb05550bfdb319fe186"
     },
     {
       "key": "2023-12",
@@ -28,7 +28,7 @@
       "key": "2024-01",
       "path": "einnsyn-meetings-shards/2024-01.json",
       "meetingCount": 15,
-      "sha256": "0860e0bf46c58a16fb46128577c5e354513c5910c16e5115fb6a050fc08590b3"
+      "sha256": "106e0a6ff3d7129687602b7346fbb81e79f09af8de19722f777c4642379b5669"
     },
     {
       "key": "2024-02",
@@ -40,13 +40,13 @@
       "key": "2024-03",
       "path": "einnsyn-meetings-shards/2024-03.json",
       "meetingCount": 4,
-      "sha256": "27ec229c942bbb8188b38aa206135f9f08ac8a37993312c9eaff372f1430db31"
+      "sha256": "326d1c62f26e5ba689c4a946a93b322e1710fa096a7ee56da5b2673848135132"
     },
     {
       "key": "2024-04",
       "path": "einnsyn-meetings-shards/2024-04.json",
       "meetingCount": 17,
-      "sha256": "346af392f83612ce4a67ae79ae1242e422c8736f56e36c5c546a3ec773da0f6b"
+      "sha256": "6e4ea39d722c8f290c06cf6b1b2cc2431c83d69c753eb16c2a92543dc344b5c4"
     },
     {
       "key": "2024-05",
@@ -58,7 +58,7 @@
       "key": "2024-06",
       "path": "einnsyn-meetings-shards/2024-06.json",
       "meetingCount": 15,
-      "sha256": "96646d779e9b27175b554332758bbee42ff78a66fb1174ee2202f00f611d36f7"
+      "sha256": "04605f4f8b6549361f265d5a8681ddd56bbfb5bb1db178d0b98b3ff36dd53994"
     },
     {
       "key": "2024-08",
@@ -70,31 +70,31 @@
       "key": "2024-09",
       "path": "einnsyn-meetings-shards/2024-09.json",
       "meetingCount": 18,
-      "sha256": "88cf4f4a5ec0823c79902f4d400d48c0ba2423f542c94f07cd22a6b60959937b"
+      "sha256": "65dcfd933765835a879c1c209e259990b37a8bf1c566751a56cf83f5d5698abf"
     },
     {
       "key": "2024-10",
       "path": "einnsyn-meetings-shards/2024-10.json",
       "meetingCount": 15,
-      "sha256": "6391d87e50b1049f3ed88c1fdf21079408b1d8e64e93fbf09ba4361043303ab1"
+      "sha256": "6c4b9032addebac5c1d4c114170faef467d3c5bc7ddf6a29e297f8fa74fa1bb8"
     },
     {
       "key": "2024-11",
       "path": "einnsyn-meetings-shards/2024-11.json",
       "meetingCount": 16,
-      "sha256": "1bd5c62fccb9b4be5a23449b752484b81297563342c071e755475325e0b019c4"
+      "sha256": "060bc5c6f9fc802220aca55cdd40910e48d2c156752128424ca290f652d9ae3f"
     },
     {
       "key": "2024-12",
       "path": "einnsyn-meetings-shards/2024-12.json",
       "meetingCount": 5,
-      "sha256": "168f7ac3351ecbad41ea1e87b67091041078c34b97068a008d0a09a7db0cf7a4"
+      "sha256": "6a10d119ebaa7449346c468ec4584ad9997377c929c6bba1f78550f3c48afa4d"
     },
     {
       "key": "2025-01",
       "path": "einnsyn-meetings-shards/2025-01.json",
       "meetingCount": 12,
-      "sha256": "ab08f4af7d7cd8b12ae16c9ffe20c145e13208303911ab62698550ad01909e82"
+      "sha256": "34c7146717f189e4408705c32c4c59696f67a562aea94f8ee7a9816bd795c39f"
     },
     {
       "key": "2025-02",
@@ -106,7 +106,7 @@
       "key": "2025-03",
       "path": "einnsyn-meetings-shards/2025-03.json",
       "meetingCount": 19,
-      "sha256": "83c065e3f11ad2e4bd7ce77b7f818f11d318ed54e324e9d9bf31bf8fa529b13f"
+      "sha256": "730d36d71d3d4ebdc91ad70324c772d7e1337b97fa6d58af57ba2295797778ef"
     },
     {
       "key": "2025-04",
@@ -118,13 +118,13 @@
       "key": "2025-05",
       "path": "einnsyn-meetings-shards/2025-05.json",
       "meetingCount": 15,
-      "sha256": "c9ba117e39cd68cf50754117feaeee6832f0d84719081d58990f5a288283fe02"
+      "sha256": "c719d759e1cfafe3f22a496c4cc803ced5d148c81404db4850ad9e325346f4dc"
     },
     {
       "key": "2025-06",
       "path": "einnsyn-meetings-shards/2025-06.json",
       "meetingCount": 11,
-      "sha256": "772a0cd924b3aa7cb272843050eec7c02c96a075dc173a91feb93fd6b84ae300"
+      "sha256": "11cf5e72aa5053548a5e820696c6749a13dee4de39f5d802f672d9491a6e5c80"
     },
     {
       "key": "2025-08",

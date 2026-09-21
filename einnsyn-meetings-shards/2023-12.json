@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "shardType": "meetings",
   "shardKey": "2023-12",
-  "updatedAtUtc": "09/21/2026 15:51:10",
+  "updatedAtUtc": "09/21/2026 16:19:31",
   "meetingCount": 3,
   "meetings": [
     {
@@ -1426,77 +1426,259 @@
           "title": "Renholdsforvaltning og utvikling i Akershus, Buskerud og Østfold kommunalt oppgavefelleskap - oppnevning til representantskapet 2024 - 2027",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F0789eef7-b7df-4a11-b2d0-cf4e229fea5e",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fedf8bc90-4e29-4fab-901e-a2aa13ad8f12",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Følgende oppnevnes som Buskerud fylkeskommunes representanter til representantskapet i Renholdsforvaltning og utvikling i Akershus, Buskerud og Østfold kommunalt oppgavefelleskap 2024-2027: • Elisabeth Sofia Bang Vestergård (medlem) • Anita Horvei (medlem) • Gro Ekkje (1. varamedlem) • Roger Basserud (2. varamedlem)"
+            },
+            "document": {
+              "objectId": "do_01j76y2wb4f319e6000bb0fwkm",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fedf8bc90-4e29-4fab-901e-a2aa13ad8f12"
+            },
+            "error": null
+          }
         },
         {
           "number": "65/2023",
           "title": "Ombud for barn og unge kommunalt oppgavefelleskap - Oppnevning til representantskapet 2024 - 2027",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F128ee0b8-2c3b-4878-84e7-4c199cab2002",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe792067c-9c9c-4420-8e0b-278c2c7a9b58",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Følgende oppnevnes som Buskerud fylkeskommunes representanter til representantskapet i Ombudet for barn og unge i Akershus, Buskerud og Østfold kommunalt oppgavefellesskap 2024-2027: Medlemmer: 1. Simen Murud (H) 2. Ellen Høie (Ap) Numeriske varamedlemmer: 1. Kristin Løvaas Gjerde (Frp) 2. Mons-Ivar Mjelde (Ap)"
+            },
+            "document": {
+              "objectId": "do_01j76y2wdnfcyv0zp5g2aavstz",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe792067c-9c9c-4420-8e0b-278c2c7a9b58"
+            },
+            "error": null
+          }
         },
         {
           "number": "66/2023",
           "title": "Novari IKS (tidligere Vigo IKS) - ny selskapsavtale og valg av medlemmer til representantskapet for perioden 2024 - 2027",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd3e128d1-82f1-40fa-acea-ecf5ab1c49f4",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F25c3d589-adae-41e6-86b1-7c4c07e4b499",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "1. Ny selskapsavtale for Novari IKS godkjennes. 2. Følgende oppnevnes som Buskerud fylkeskommunes representanter til representantskapet i Novari IKS for perioden 2024 - 2027: I. Ana Maria Silva Harper (H) (medlem) II. Kjell Erland Grønbeck (KRF) (1. varamedlem) III. Kristin Løvaas Gjerde (Frp) (2. varamedlem)"
+            },
+            "document": {
+              "objectId": "do_01j76y2x0hff7bb1b3tphev7vm",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F25c3d589-adae-41e6-86b1-7c4c07e4b499"
+            },
+            "error": null
+          }
         },
         {
           "number": "67/2023",
           "title": "Oppnevning av representanter til verv i stiftelser og forening 2024 - 2027",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F352b2c40-209c-4f60-8d56-47d94259761b",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd855b5c9-5133-4fed-a157-0fac2113aa15",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Fylkestinget oppnevner representanter til verv i stiftelser og forening 2024-2027: Drammen Museum for kunst og kulturhistorie Styret • Johan Baumann (H), medlem • Inger Risøy (H), varamedlem Sparebankstiftelsen DNB Generalforsamlingen fra Buskerud valgområde • Bjørn Tore Ødegården (Ap), medlem • Christopher Wand (H), medlem • Inger Kammerud (H), varamedlem Stiftelsen Buskerudmuseet Styret • Egil Ax (H), medlem • Christina Mørkve (H), varamedlem Stiftelsen Buskerud teater Styret • Øivind Fjeldheim (PP), medlem • Christina Mørkve (H), varamedlem Stiftelsen Einar Juels Legat Styret • Øivind Fjeldheim (PP), medlem Stiftelsen Foss Gård Styret • Janne Buhaug (medlem) • Gørill Elisabeth Brodahl (varamedlem) Stiftelsen Kunstnerhjemmene i Sigdal Rådet: • Lavrans Kierulf (Frp), medlem Stiftelsen Modum Blaafarveverk – Bygdemuseet Modum Styret: • Medlem: Christina Mørkve (H). Personlig vara: Lavrans Kierulf (Frp) • Medlem: Anne Kristin Hov Hilleren (Ap). Personlig vara: Cecilie Søvik (MDG) Stiftelsen Vikersund hoppsenter Styret • Tore Opdal Hansen (H), medlem Buskerud kunstsenter Styret • Medlem: Søren F. Zapffe (H). Personlig vara: Egil Ax (H) • Medlem: Nina Guzman Toft (MDG). Personlig vara: Kaja Hilleren (SV) Representantskapet • Lill Carin Jacobsen (admin representant)"
+            },
+            "document": {
+              "objectId": "do_01j76y2xb4eqy9rcdb9jgg3n94",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd855b5c9-5133-4fed-a157-0fac2113aa15"
+            },
+            "error": null
+          }
         },
         {
           "number": "68/2023",
           "title": "Medlemskap CPMR og Nordsjøkommisjonen",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd9a79280-eee0-416c-9655-145950ef834e",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F01c5b7de-3fd8-422f-a531-613d2f88f028",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "1. Buskerud fylkeskommune viderefører medlemskapet i Conference of Peripheral Maritime Regions og Nordsjøkommisjonen. Fylkestinget ber fylkeskommunedirektør om å gjøre en grundig vurdering av medlemskapene og hvordan fylkeskommunen kan jobbe for at medlemskapet gir en merverdi. Slik sak legges fram for fylkesutvalget. 2. Fylkestinget oppnevner til å møte på generalforsamlingen i Conference of Peripheral Maritime Regions Representant: Christina Mørkve (H) Vararepresentant: Inger Kammerud (H) 3. Fylkestinget oppnevner til å møte på generalforsamlingen i Nordsjøkommisjonen Representant: Tore Opdal Hansen (H) Vararepresentant: Lavrans Kierulf (FRP)"
+            },
+            "document": {
+              "objectId": "do_01j76y2x2jftev0zwxw21x83mc",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F01c5b7de-3fd8-422f-a531-613d2f88f028"
+            },
+            "error": null
+          }
         },
         {
           "number": "69/2023",
           "title": "Oppnevning til Fjellnettverket",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F02d1a69d-3366-44fe-a448-6681d85c5eeb",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa83d1dac-08fb-4d96-aac4-2232cf9f9b57",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "1. Buskerud fylkeskommune viderefører medlemskap i Fjellnettverket. 2. Fylkestinget oppnevner følgende representant og vararepresentant til styret i Fjellnettverket: Styrerepresentant: Iselin Haugo Stavn (H) Vararepresentant: Lavrans Kierulf (Frp) 3. Fylkestinget oppnevner to representanter med vararepresentanter til Rådet i Fjellnettverket: Rådsrepresentant: Lavrans Kierulf (Frp) Vararepresentant: Kjell Erland Grønbeck (KRF) Rådsrepresentant: Tine Norman (Sp) Vararepresentant: Ståle Versland (Ap)"
+            },
+            "document": {
+              "objectId": "do_01j76y2w9mf4sbta3ezjp27885",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa83d1dac-08fb-4d96-aac4-2232cf9f9b57"
+            },
+            "error": null
+          }
         },
         {
           "number": "70/2023",
           "title": "Valg av representant til Rådet for Norefjell - Reinsjøfjell",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fcc4d855c-a350-4f54-bc73-4433a847e20c",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ffb0d190b-5c31-488a-8fc0-4af6b76d34ef",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Buskerud fylkeskommune viderefører samarbeidet med kommunene Sigdal, Krødsherad, Flå, Nesbyen og Nore og Uvdal, Statsforvalteren i Oslo og Viken og Villreinnemda i Rådet for Norefjell – Reinsjøfjell. Fylkestinget oppnevner følgende representant med vara til rådet: • Representant: Marianne Werp (H) • Vararepresentant: Inger Brit Vindegg (H)"
+            },
+            "document": {
+              "objectId": "do_01j76y2w1wfhf8pnhrbjahd24e",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ffb0d190b-5c31-488a-8fc0-4af6b76d34ef"
+            },
+            "error": null
+          }
         },
         {
           "number": "71/2023",
           "title": "Hardangerviddarådet - Valg av representanter",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F6717cbd0-92d5-40ed-9f7c-739e17515bb5",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F678091e4-352e-4190-ae19-adca0ae4380b",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Buskerud fylkeskommune viderefører samarbeidet om Regional plan for Hardangervidda i Hardangerviddarådet. Fylkestinget oppnevner to representanter med vara til rådet. • Representant: Iselin Haugo Stavn (H) med vararepresentant: Christopher Amundsen Wand (H) • Representant: Odd Terje Svendsen (Ap) med vararepresentant: Dag Lislien (Sp)"
+            },
+            "document": {
+              "objectId": "do_01j76y2v7keravz11erxbv3cvs",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F678091e4-352e-4190-ae19-adca0ae4380b"
+            },
+            "error": null
+          }
         },
         {
           "number": "72/2023",
           "title": "Valg av representanter til Buskerudbysamarbeidets råd for areal, tranport- og miljø (ATM rådet)",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fb5a2facc-afea-404f-bd19-95b7a3ba428c",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F29fad1e6-e84c-401c-8de2-2cbdea7b7174",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Det oppnevnes følgene representanter fra Buskerud fylkeskommune til ATM-rådet: 1. Tore Opdal Hansen (H) med vararepresentant Søren Falch Zapffe (H) 2. Christopher A. Wand (H) med vararepresentant Thomas Fosen (H) 3. Mari Djupvik Bråthen (H) med vararepresentant Inger Kammerud (H) 4. Simon Nordanger (Sp) med vararepresentant Cecilie Søvik (MDG) 5. Hans Petter de Fine (Rødt) med vararepresentant Anders Wengen (V)"
+            },
+            "document": {
+              "objectId": "do_01j76y2y33ec1aym4exeyv2ky7",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F29fad1e6-e84c-401c-8de2-2cbdea7b7174"
+            },
+            "error": null
+          }
         },
         {
           "number": "73/2023",
           "title": "Veiteknologi og geofag i Akershus, Buskerud og Østfold kommunalt oppgavefelleskap - oppnevning til representantskapet 2024 - 2027",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fc34a7af7-ad12-44f5-880c-49c472ceb3ce",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3e09a529-0ab7-497d-9562-3ab1b3711d59",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Følgende oppnevnes som Buskerud fylkeskommunes representanter til representantskapet i Veiteknologi og geofag i Akershus, Buskerud og Østfold kommunalt oppgavefellesskap 2024- 2027: • Kristine Utengen (medlem) • Bjørn Ragnvald Nyhus (1. varamedlem) • Audun Haugerud (2. varamedlem)"
+            },
+            "document": {
+              "objectId": "do_01j76y2y4wem1srdvk2rpb8t08",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3e09a529-0ab7-497d-9562-3ab1b3711d59"
+            },
+            "error": null
+          }
         },
         {
           "number": "74/2023",
           "title": "Ringerike kommune - kommuneplanens arealdel 2023-2025 høringsuttalelse - ny behandling i fylkestinget",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F89913461-bb62-453f-8f25-a111fd9939c3",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0ad76ae6-797d-4440-8cb3-37282178e518",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "Magnus Weggesrud",
+                "proposerParty": "Sp",
+                "onBehalfOf": "Sp"
+              }
+            ],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "1. Fylkestinget er opptatt av at kommuneplanens arealdel er et godt verktøy for at Ringerike kommune lykkes med å realisere sine overordna samfunnsmål. Fylkestinget støtter kommunens strategi om en kompakt by- og tettstedsutvikling. 2. Fylkeskommunen som vegeier viser til at arealutviklingen kan gi økt trafikk. Det er viktig å tenke helhetlig og ta innover seg konsekvensene på vegnettet og kollektivtransporten. Fylkeskommunen har begrensede rammer til å øke kapasiteten utenfor konsentrerte arealområder, og ber kommunen ta hensyn til vei- og kollektivtrafikk. Fylkestinget vil anerkjenne kommunens behov for også å utvikle bygdene og tettstedene. 3. Fylkestinget er positiv til utvikling på Ringerike. Utvikling i både næring og boligformål vil understøtte målsetningene staten har lagt til grunn i FRE16-prosjektet. Særlig vil økt befolkningsvekst være et godt argument for gjennomføring av planen. Fylkestinget viser til at store områder på Ringerike og ved Prestmoen er båndlagt i forbindelse med FRE16. Det er planlagt motorveikryss på Prestmoen, og fylkeskommunen arbeider for motorveikryss på Helgelandsmoen. Fylkeskommunens støtte til prosjektet ses naturlig i sammenheng med fylkeskommunens støtte til FRE16. 4. Fylkestinget anbefaler kommunen å se til fylkeskommunens faglige råd i sluttbehandlingen av kommuneplanen. Fylkestinget vil spesielt peke på faglige råd knyttet til trafikktrafikkbelastning på våre fylkesveier, trafikksikkerhet, kollektiv, trygge skoleveier, friluftsliv, dyrka mark, kulturminner, vann og vassdrag. Fylkeskommunen vil invitere kommunen til en gjennomgang av våre faglige råd. 5. Fylkestinget mener at det er viktig å legge opp til tilstrekkelig med parkeringsplasser i sentrumsnære områder, da det regionen er utfordrende å ta seg frem fra alle steder gjennom kollektivtrafikken. 6. Fylkestinget mener Ringerike kommune vet best selv, hvor de bør legge til rette for eksisterende og nye næringer og mener Ringerike kommune har gjort en god jobb når det kommer til å redusere nedbygging av dyrka mark og har ingen ytterligere behov for at kommunen skal redusere ytterligere. 7. Fylkestinget mener Ringerike kommune har god oversikt over sine egne områder som er statlig sikret til friluftsformål, Finsandodden, Grantopp, Heiernstranda, Nakkerud, Ringkollen og Skageneskollen. 8. Fylkestinget vil være en rådgiver innenfor Arkeologi, og støtter kommunes gode arbeid med fangstanlegget på Hensmoen. Fylkestinget støtter planene på 37 Hensmoen fullt ut. 9. Fylkestinget mener det gjennom saksfremlegget kan fremstå som om fylkeskommunen er mot noen av områdene i planen fra Ringerike. Fylkestinget har derfor behov for å uttrykke støtte for følgende områder: område 2 Prestmoen område A-2 – Hvervenmoen område 54 Haugsbygd Putten, området anbefales ikke opprettholdt som LNF-område. område 70 – Sokna, Permobakken Nord område 74 Skjærdalen område 75 Steinrøysåsen område 85, 94, 98, 99. 10. Fylkestinget fraråder ikke arealendring av Prestmoen, og anbefaler ikke at arealet Steinrøysåsen videreføres som LNF-område."
+            },
+            "document": {
+              "objectId": "do_01j76y2vmfeq0smqhr2h2pxxz6",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0ad76ae6-797d-4440-8cb3-37282178e518"
+            },
+            "error": null
+          }
         }
       ],
       "attendance": {

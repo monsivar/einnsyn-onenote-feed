@@ -5,6 +5,13 @@
     <link>https://einnsyn.no/</link>
     <description>Agenda payloads for OneNote import</description>
     <item>
+      <title>Møte i Hovedutvalg for samferdsel 17.09.2026</title>
+      <link>https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fbb3511e8-3552-4146-a406-0b3b687db62e</link>
+      <guid isPermaLink="false">einnsyn-onenote-v2:ef651fbfca842ea4cad377bbbafcf6ebddc1ad46f29e57aac6ff831760d3cacd</guid>
+      <pubDate>Mon, 21 Sep 2026 14:04:05 GMT</pubDate>
+      <description><![CDATA[{"schemaVersion":2,"eventType":"MEETING_PROTOCOL_AVAILABLE_V2","performWrite":true,"meeting":{"id":"https://prod02.elementscloud.no/bb3511e8-3552-4146-a406-0b3b687db62e","title":"Møte i Hovedutvalg for samferdsel 17.09.2026","committee":"Hovedutvalg for samferdsel","date":"2026-09-17","place":"Befaringer 17.9 og hovedutvalgets møte 18.9 på fylkeshuset i Drammen","meetingUrl":"https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fbb3511e8-3552-4146-a406-0b3b687db62e","agendaUrl":"https://api.einnsyn.no/dokumentobjekt/do_01m1xs8zpyegktry6gkgbn2x65/download"},"protocol":{"documentId":"https://prod02.elementscloud.no/0a4edd2d-c3cb-48af-af56-a8725ea611fc","url":"https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0a4edd2d-c3cb-48af-af56-a8725ea611fc"}}]]></description>
+    </item>
+    <item>
       <title>Møte i Oppgavefellesskap fylkesbiblioteket 11.09.2026</title>
       <link>https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fab64f17a-1fd6-4486-aba0-a585cab24028</link>
       <guid isPermaLink="false">einnsyn-onenote-v2:1e2dca2a0413a375b7ea44621e6c6ea8e979f31b9dfb31dd87bf5c66dd5a04f3</guid>

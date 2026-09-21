@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "shardType": "meetings",
   "shardKey": "2024-04",
-  "updatedAtUtc": "09/21/2026 12:12:59",
+  "updatedAtUtc": "09/21/2026 16:19:31",
   "meetingCount": 17,
   "meetings": [
     {
@@ -19,53 +19,248 @@
           "title": "Orienteringer",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F02af77da-1711-4848-b627-4046ec4713b7",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F350e055a-f6a5-4de1-813a-14c4aee0a7b0",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Yrkesopplæringsnemndas vedtak den 03.04.2024:",
+              "text": "Astrid Horneland orienterte om status formidling til læreplassser. Tove Mogstad Aspøy orienterte om FaFo-rapport som omhandler yrkesopplæringsnemndas rolle. Knut Erik Hovde orienterte om modulstrukturert fag- og yrkesopplæring for voksne. Ingunn Ek Pedersen orienterte om YON-representanter til samarbeidsforum Dekomp VF Buskerud og samling 29.5.2024. Svein Helge Nygård orienterte om tilskudd til lærebedrifter med kontrakt med kandidat med særskilte behov, og/eller med svake norskferdigheter og kort botid i Norge, og om tilretteleggingstilskudd. Yrkesopplæringsnemndas behandling i møte den 03.04.2024:"
+            },
+            "document": {
+              "objectId": "do_01j76y3t9be0xsmtyzgpkgfkte",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F350e055a-f6a5-4de1-813a-14c4aee0a7b0"
+            },
+            "error": null
+          }
         },
         {
           "number": "2/2024",
           "title": "Valg av elevrepresentant og vara i yrkesopplæringsnemnda",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F3435193d-6c69-4726-a64b-2c4547a3700c",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F07014c6d-ac80-48ff-9b20-40aa5d7597f3",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Yrkesopplæringsnemndas vedtak den 03.04.2024:",
+              "text": "Som elevrepresentant velges Kacper Wyszynski. Som vararepresentant velges Elise Haugsvær. Yrkesopplæringsnemndas behandling i møte den 03.04.2024: Fylkeskommunedirektørens forslag til vedtak Som elevrepresentant velges Kacper Wyszynski. Som vararepresentant velges Elise Haugsvær."
+            },
+            "document": {
+              "objectId": "do_01j76y3tcdf7qtnq9a6gajhg44",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F07014c6d-ac80-48ff-9b20-40aa5d7597f3"
+            },
+            "error": null
+          }
         },
         {
           "number": "3/2024",
           "title": "Tilstandsrapport for videregående opplæring i Viken inn mot nye Akershus, Buskerud og Østfold 2023",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fed15476c-dbda-4cbe-bd9e-a2807af34239",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff9247ebd-2e8a-4e28-99e8-6060a51c02d9",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Morten Oppegaard",
+                "party": null
+              },
+              {
+                "name": "Natalie Johansen",
+                "party": null
+              },
+              {
+                "name": "Camilla Landsverk",
+                "party": null
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Yrkesopplæringsnemndas vedtak den 03.04.2024:",
+              "text": "Yrkesopplæringsnemndas innstilling til fylkestinget: 1. Tilstandsrapport for videregående opplæring i Viken inn mot nye Akershus, Buskerud og Østfold 2023 vedtas som fremlagt 2. Kunnskapsgrunnlaget i tilstandsrapporten legges til grunn for videre kvalitetsutvikling av den videregående opplæringen i Buskerud. Yrkesopplæringsnemndas behandling i møte den 03.04.2024: Fylkeskommunedirektørens forslag 1. Tilstandsrapport for videregående opplæring i Viken inn mot nye Akershus, Buskerud og Østfold 2023 vedtas som fremlagt 2. Kunnskapsgrunnlaget i tilstandsrapporten legges til grunn for videre kvalitetsutvikling av den videregående opplæringen i Buskerud."
+            },
+            "document": {
+              "objectId": "do_01j76y3tkbf3gazvw39swnd0gv",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff9247ebd-2e8a-4e28-99e8-6060a51c02d9"
+            },
+            "error": null
+          }
         },
         {
           "number": "4/2024",
           "title": "Justering av skoletilbud i Buskerud 24/25",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F282c2175-539b-450d-b290-49faf0dedd33",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff3609759-e926-45b4-ae51-68546ff609b3",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Camilla Landsverk",
+                "party": null
+              },
+              {
+                "name": "Hildegunn Fallang",
+                "party": null
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Yrkesopplæringsnemndas vedtak den 03.04.2024:",
+              "text": "Yrkesopplæringsnemndas innstilling til hovedutvalget for opplæring: 1. Endringer av tidligere vedtatt dimensjonering av opplæringstilbudet for skoleåret 2024– 2025 vedtas i henhold til framlagte forslag til justeringer. Forslaget ligger i tabell vedlagt saksframlegget. Yrkesopplæringsnemndas behandling i møte den 03.04.2024: Fylkeskommunedirektørens forslag 1. Endringer av tidligere vedtatt dimensjonering av opplæringstilbudet for skoleåret 2024– 2025 vedtas i henhold til framlagte forslag til justeringer. Forslaget ligger i tabell vedlagt saksframlegget."
+            },
+            "document": {
+              "objectId": "do_01j76y3tazfk992ves74gjjpdc",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff3609759-e926-45b4-ae51-68546ff609b3"
+            },
+            "error": null
+          }
         },
         {
           "number": "5/2024",
           "title": "Yrkesopplæringsnemndas oppgaver og myndighet – godkjenning av lærebedrifter, opplæringskontor og tap av godkjenning",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F6bfe64ed-4a4c-440a-a073-fd83abd3ca39",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9faf5e60-6a9e-4b90-aa87-3d6737ed3323",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Morten Oppegård",
+                "party": null
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Yrkesopplæringsnemndas vedtak den 03.04.2024:",
+              "text": "1. Yrkesopplæringsnemnda delegerer sitt faglige råd om godkjenning av selvstendige lærebedrifter og godkjenning i nye fag for opplæringskontor til administrasjonen. Administrasjonen skal rådføre seg med yrkesopplæringsnemnda i forkant av godkjenning i enkeltsaker som vurderes som av prinsipiell betydning for fag- og yrkesopplæringen. 2. Yrkesopplæringsnemnda ber om at alle saker om godkjenning av nye opplæringskontor legges fram for Yrkesopplæringsnemnda. Godkjenning av nye fag for eksisterende opplæringskontor delegeres til administrasjonen, i tråd med rutine godkjenning av medlemsbedrifter i opplæringskontor (vedlegg 3). 3. Ved tap av godkjenning skal alle saker legges frem for yrkesopplæringsnemnda før administrasjonen fatter vedtak. Yrkesopplæringsnemndas behandling i møte den 03.04.2024: Fylkeskommunedirektørens forslag 1. Yrkesopplæringsnemnda delegerer sitt faglige råd om godkjenning av selvstendige lærebedrifter og godkjenning i nye fag for opplæringskontor til administrasjonen. Administrasjonen skal rådføre seg med yrkesopplæringsnemnda i forkant av godkjenning i enkeltsaker som vurderes som av prinsipiell betydning for fag- og yrkesopplæringen. 2. Yrkesopplæringsnemnda ber om at alle saker om godkjenning av nye opplæringskontor legges fram for Yrkesopplæringsnemnda. Godkjenning av nye fag for eksisterende opplæringskontor delegeres til administrasjonen, i tråd med rutine godkjenning av medlemsbedrifter i opplæringskontor (vedlegg 3). 3. Ved tap av godkjenning skal alle saker legges frem for yrkesopplæringsnemnda før administrasjonen fatter vedtak."
+            },
+            "document": {
+              "objectId": "do_01j76y3tdgfg3vhv75hvn80n3w",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9faf5e60-6a9e-4b90-aa87-3d6737ed3323"
+            },
+            "error": null
+          }
         },
         {
           "number": "6/2024",
           "title": "Arbeid med prøvenemnder - status",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd9877f40-a85a-4505-9d3a-60b9d9de52ab",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc5a7c1f4-479a-4464-8271-8968c11452a8",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Morten Oppegård",
+                "party": null
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Yrkesopplæringsnemndas vedtak den 03.04.2024:",
+              "text": "1. Yrkesopplæringsnemnda tar fylkesdirektørens informasjon om status til orientering. 2. Yrkesopplæringsnemnda delegerer administrativt å tilrå og å oppnevne nye medlemmer til prøvenemnder der det viser seg nødvendig. Yrkesopplæringsnemndas behandling i møte den 03.04.2024: Fylkeskommunedirektørens forslag 1. Yrkesopplæringsnemnda tar fylkesdirektørens informasjon om status til orientering. 2. Yrkesopplæringsnemnda delegerer administrativt å tilrå og å oppnevne nye medlemmer til prøvenemnder der det viser seg nødvendig."
+            },
+            "document": {
+              "objectId": "do_01j76y3tj1fmwt8030y68w4cn4",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc5a7c1f4-479a-4464-8271-8968c11452a8"
+            },
+            "error": null
+          }
         },
         {
           "number": "7/2024",
           "title": "Avslutning av tilsyn - fagopplæring - Viken fylkeskommune",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F822d0395-6165-489c-a256-2518b17aef6d",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fbe2665cd-2a47-4a0b-b9e5-45c7a4cd8ec5",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Yrkesopplæringsnemndas vedtak den 03.04.2024:",
+              "text": "Yrkesopplæringsnemnda tar saken til orientering. Yrkesopplæringsnemndas behandling i møte den 03.04.2024: Fylkeskommunedirektørens forslag Yrkesopplæringsnemnda tar saken til orientering."
+            },
+            "document": {
+              "objectId": "do_01j76y3tg1edw828j64nawyfv9",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fbe2665cd-2a47-4a0b-b9e5-45c7a4cd8ec5"
+            },
+            "error": null
+          }
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "complete",
+        "completed": false,
+        "fixedMembers": [
+          {
+            "name": "Cathrine Warloff Svendsen",
+            "attendanceRole": "medlem",
+            "representedBy": "NAV VV"
+          },
+          {
+            "name": "Christine Knutsen",
+            "attendanceRole": "medlem",
+            "representedBy": "LO"
+          },
+          {
+            "name": "Hildegunn Fallang",
+            "attendanceRole": "medlem",
+            "representedBy": "NHO"
+          },
+          {
+            "name": "Karen Berit Sannes",
+            "attendanceRole": "medlem",
+            "representedBy": "SPEKTER"
+          },
+          {
+            "name": "Morten Oppgegaard",
+            "attendanceRole": "medlem",
+            "representedBy": "KS"
+          },
+          {
+            "name": "Tonje Enersen",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          }
+        ],
+        "deputies": [
+          {
+            "name": "Natalie Johansen",
+            "attendanceRole": "deputy",
+            "representedBy": "YS"
+          },
+          {
+            "name": "Simen Murud",
+            "attendanceRole": "deputy",
+            "representedBy": "H"
+          }
+        ],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/9b5c96e5-1090-488f-93c6-fee6502baf89",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9b5c96e5-1090-488f-93c6-fee6502baf89"
+        }
+      },
+      "metadataStatus": "complete",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9b5c96e5-1090-488f-93c6-fee6502baf89"
     },
@@ -83,39 +278,167 @@
           "title": "Oppnevning Distriksprogramråd NRK",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fcf757df4-a080-4d70-8dc4-82e3c8a03e94",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F920badf6-dcfa-4fdc-9195-d72b2bdebf24",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Valgkomiteens vedtak den 03.04.2024:",
+              "text": "Valgkomiteens innstilling til fylkestinget: Buskerud fylkeskommune oppnevner følgende til distriktsprogramråd for Buskerud i perioden 2024-2027: 1. Lavrans Kierulf (FrP) som medlem med personlig vara Inger Synnøve Kammerud (H) 2. Magnus Weggesrud (Sp) som medlem med personlig vara Ellen Høie (Ap) 3. Iselin Haugo Stavn (H) som medlem med personlig vara Simen Murud (H) 4. Trine Raknes (Ap) som medlem med personlig vara Anders Wengen (V) 5. Christina Højer Mørkve (H) som medlem med personlig vara Kjell Erland Grønbeck (KrF) Valgkomiteens behandling i møte den 03.04.2024: Fylkeskommunedirektørens forslag til innstilling: Buskerud fylkeskommune oppnevner følgende til distriktsprogramråd for Buskerud i perioden 2024-2027: 1. ……. som medlem med personlig vara …… 2. ……. som medlem med personlig vara …… 3. ……. som medlem med personlig vara …… 4. ……. som medlem med personlig vara …… 5. ……. som medlem med personlig vara …… Følgende hadde ordet i saken Iselin Haugo Stavn (H), Mons-Ivar Mjelde (Ap) Forslag: Mons-Ivar Mjelde (A) fremmet på vegne av Ap, Sp, V, SV og MDG følgende forslag: Medlem 2, Magnus Weggesrud (Sp) Vara 2, Ellen Høie (Ap) Medlem 4, Trine Raknes (Ap) Vara 4, Anders Wengen (V) Iselin Haugo Stavn (H), fremmet på vegne av H, FrP, INP og KrF følgende forslag: Medlem 1, Lavrans Kierulf (Frp) Vara 1, Inger Synnøve Kammerud (H) Medlem 3, Iselin Haugo Stavn (H) Vara 3, Simen Murud (H) Medlem 5, Christina Højer Mørkve (H) Vara 5, Kjell Erland Grønbeck (Krf)"
+            },
+            "document": {
+              "objectId": "do_01j76y4fmwe5m8gb762j3gfh1r",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F920badf6-dcfa-4fdc-9195-d72b2bdebf24"
+            },
+            "error": null
+          }
         },
         {
           "number": "9/2024",
           "title": "Politisk Forum Skagerrak - politisk representasjon",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fb7006340-3c87-442e-8ecd-295429c7d510",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fecc73926-74df-41d7-b42c-d5103f9475d1",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Valgkomiteens vedtak den 03.04.2024:",
+              "text": "Valgkomiteens innstilling til fylkestinget: 1. Fylkeskommunen utnevner følgende representant til Politisk Forum Skagerrak: Navn: Tore Opdal Hansen (H) 2. Fylkeskommunen utnevner følgende vararepresentant til Politisk Forum Skagerrak: Navn: Lavrans Kierulf (Frp) Valgkomiteens behandling i møte den 03.04.2024: Fylkeskommunedirektørens forslag: 1. Fylkeskommunen utnevner følgende representant til Politisk Forum Skagerrak: Navn 2. Fylkeskommunen utnevner følgende vararepresentant til Politisk Forum Skagerrak: Navn Forslag: Iselin Haugo Stavn (H), fremmet på vegne H, FrP, INP og KrF følgende forslag: Medlem: Tore Opdal Hansen (H) Vara: Lavrans Kierulf (Frp)"
+            },
+            "document": {
+              "objectId": "do_01j76y4fgeffmaqs0yr1ap3d82",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fecc73926-74df-41d7-b42c-d5103f9475d1"
+            },
+            "error": null
+          }
         },
         {
           "number": "10/2024",
           "title": "Innstilling av nytt medlem til regional rovviltnemnd region 2",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F6cc8c2c6-78df-4bb1-9ecb-dfebf37dcaa6",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5de3e520-9935-41ca-b0be-66685f91141b",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Valgkomiteens vedtak den 03.04.2024:",
+              "text": "Valgkomiteens innstilling til fylkestinget: Buskerud fylkeskommune foreslår følgende representant til regional rovviltnemnd region 2: Representant: Kristin Gjerde (Frp) Vara: Roger Larsen (INP) Valgkomiteens behandling i møte den 03.04.2024: Fylkeskommunedirektørens forslag: Buskerud fylkeskommune foreslår følgende representant til regional rovviltnemnd region 2: Representant: ……………………………………… Forslag: Iselin Haugo Stavn (H), fremmet på vegne H, FrP, INP og KrF følgende forslag: Medlem: Kristin Gjerde (Frp) Vara: Roger Larsen (INP)"
+            },
+            "document": {
+              "objectId": "do_01j76y4ffcehxtn0pxmejeka65",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5de3e520-9935-41ca-b0be-66685f91141b"
+            },
+            "error": null
+          }
         },
         {
           "number": "11/2024",
           "title": "Valg av nytt varamedlem til klagenemnda",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F00df3b90-0852-4d03-8cda-6212637e990e",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ffd80b84b-c499-4462-b300-714cae8ffef8",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "Tore Opdal Hansen",
+                "proposerParty": "H",
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Valgkomiteens vedtak den 03.04.2024:",
+              "text": "Valgkomiteens innstilling til fylkestinget: 1. Anders Wengen (V) trer ut som varamedlem til klagenemnda. 2. Som nytt varamedlem til klagenemnda velges Steinar Bleken (V). Valget gjelder for perioden 2024 – 2027. Valgkomiteens behandling i møte den 03.04.2024: Fylkeskommunedirektørens forslag: 1. Anders Wengen (V) trer ut som varamedlem til klagenemnda. 2. Som nytt varamedlem til klagenemnda velges …………… Valget gjelder for perioden 2024 – 2027. Forslag: Tore Opdal Hansen (H) fremmet forslag innhentet fra Venstre: Steinar Bleken (V)"
+            },
+            "document": {
+              "objectId": "do_01j76y4fhkexprw4fz9469a0mx",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ffd80b84b-c499-4462-b300-714cae8ffef8"
+            },
+            "error": null
+          }
         },
         {
           "number": "12/2024",
           "title": "Fylkesbiblioteket i Akershus, Buskerud og Østfold kommunalt oppgavefellesskap - nytt valg til representantskapet 2024-2027",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F34fba301-0e49-4fe3-ae47-8fe6283c6e38",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5a679089-88a5-426d-ab59-5ebabe48a358",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "Tore Opdal Hansen",
+                "proposerParty": "H",
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Valgkomiteens vedtak den 03.04.2024:",
+              "text": "Valgkomiteens innstilling til fylkestinget: Følgende oppnevnes som Buskerud fylkeskommunes representanter til representantskapet i Fylkesbiblioteket i Akershus, Buskerud og Østfold kommunalt oppgavefelleskap 2024-2027: 1. Johan Bauman (H) (medlem) 2. Kaja Hilleren (V) (medlem) 1. Søren Falch Zapffe (H) (vara) 2. Njål Vigleik Grene-Johnsen (SV) (vara) Valgkomiteens behandling i møte den 03.04.2024: Fylkeskommunedirektørens forslag: Følgende oppnevnes som Buskerud fylkeskommunes representanter til representantskapet i Fylkesbiblioteket i Akershus, Buskerud og Østfold kommunalt oppgavefelleskap 2024-2027: ……………………………. (medlem) ……………………………. (medlem) Forslag: Tore Opdal Hansen (H) fremmet følgende forslag: Kaja Hilleren (SV) blir fast representant og Njål Vigleik Grene-Johnsen (SV) blir vara. Medlem Johan Bauman (H) og vara Søren Falch Zapffe (H) står som tidligere oppnevnt."
+            },
+            "document": {
+              "objectId": "do_01j76y4fk0e6ksjav8rfyaqgff",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5a679089-88a5-426d-ab59-5ebabe48a358"
+            },
+            "error": null
+          }
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "complete",
+        "completed": false,
+        "fixedMembers": [
+          {
+            "name": "Tore Opdal Hansen",
+            "attendanceRole": "leder",
+            "representedBy": "H"
+          },
+          {
+            "name": "Lavrans Gabriel Kierulf",
+            "attendanceRole": "nestleder",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Mons-Ivar Mjelde",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Iselin Haugo Stavn",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          }
+        ],
+        "deputies": [
+          {
+            "name": "Magnus Weggesrud",
+            "attendanceRole": "deputy",
+            "representedBy": "SP"
+          }
+        ],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/1665513f-f3ce-4fad-9227-ca8ddc51a133",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1665513f-f3ce-4fad-9227-ca8ddc51a133"
+        }
+      },
+      "metadataStatus": "complete",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1665513f-f3ce-4fad-9227-ca8ddc51a133"
     },
@@ -133,46 +456,316 @@
           "title": "Høring - Revidering av retningslinjer og fordelingsnøkkel for utvidet TT-ordning",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fb49f521f-3afa-4521-875d-251f8c800a21",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F14956e34-6840-403a-833c-25da418e4aa4",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Anna-Brita Bakken",
+                "party": null
+              },
+              {
+                "name": "Svein Markussen",
+                "party": null
+              },
+              {
+                "name": "Aslaug B. Trondsen",
+                "party": null
+              },
+              {
+                "name": "Reidar Lauritsen",
+                "party": null
+              }
+            ],
+            "proposals": [
+              {
+                "proposerName": "Reidar Lauritsen",
+                "proposerParty": "",
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Buskerud Eldreråds vedtak den 03.04.2024:",
+              "text": "Innstilling til hovedutvalg for samferdsel Buskerud eldreråd slutter seg til vedlagte høringssvar. Rådet ønsker seg en nasjonal ordning for alle TT-brukere. Buskerud Eldreråds behandling i møte den 03.04.2024: Følgende hadde ordet i saken: Anna-Brita Bakken, Svein Markussen, Aslaug B. Trondsen og Reidar Lauritsen. Reidar Lauritsen fremmet følgende forslag: Buskerud eldreråd slutter seg til vedlagte høringssvar. Rådet ønsker seg en nasjonal ordning for alle TT-brukere."
+            },
+            "document": {
+              "objectId": "do_01j76y3wykf1rt3d2vc23fac5f",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F14956e34-6840-403a-833c-25da418e4aa4"
+            },
+            "error": null
+          }
         },
         {
           "number": "11/2024",
           "title": "Tilpasning av kollektivtilbudet til nye økonomiske rammer",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fc10faf80-95a4-4d44-9cf1-a5ff5623b439",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1fe64d98-d325-400b-a6e4-e37ce570b273",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Reidar Lauritsen",
+                "party": null
+              },
+              {
+                "name": "Aslaug B. Trondsen",
+                "party": null
+              },
+              {
+                "name": "Anna-Brita Bakken",
+                "party": null
+              },
+              {
+                "name": "Svein Markussen",
+                "party": null
+              },
+              {
+                "name": "Jan Dybvik",
+                "party": null
+              },
+              {
+                "name": "Anders Wengen (V). Aslaug B. Trondsen hadde følgende forslag: Buskerud eldreråd ønsker at kollektivtrafikken opprettholdes på dagens nivå. Det bør opprettes et busstilbud i Drammen etter modell som Rosa busser i Oslo kommune",
+                "party": null
+              },
+              {
+                "name": "«Hent meg» på Kongsberg. Flere fylker har etablert samme type bestillingstransport. Gitt forslagene som nå foreligger om kutt i kollektivtransporten i Buskerud fylke",
+                "party": null
+              },
+              {
+                "name": "er behovet for alternativt transporttilbud aktualisert",
+                "party": null
+              },
+              {
+                "name": "gjerne i samarbeid med Drammen kommune. En reduksjon i kollektivtilbudet vil i stor grad ramme eldre",
+                "party": null
+              },
+              {
+                "name": "deres mulighet til å delta i lokalmiljøet",
+                "party": null
+              },
+              {
+                "name": "i sosiale aktiviteter. Regjeringen utarbeidet i 2016 retningslinjer for et aldersvennlig samfunn. Reformen peker på viktigheten av å legge til rette for at eldre er en ressurs",
+                "party": null
+              },
+              {
+                "name": "skal gis mulighet til å leve et aktivt liv. Å redusere i kollektivtilbudet uten å tilrettelegge for andre former for transporttilbud er ikke i tråd med føringene i Stortingsmeldingen om et Aldersvennlig Norge. Buskerud fylkeskommune har i sitt Handlingsprogram en ambisjon om å øke kollektivtransporten",
+                "party": null
+              },
+              {
+                "name": "ikke som nå å foreta en reduksjon i kollektivtilbudet. Forslaget om nedlegging av rutetilbud i Buskerud fylke vil i tillegg bidra til økt privatbilisme",
+                "party": null
+              },
+              {
+                "name": "noe som er i strid med målsettinger om Nullvekst i biltrafikken. For å nå Innsparingsmålet på 45 millioner bør man vurdere andre løsninger enn å redusere et allerede dårlig kollektivtilbud",
+                "party": null
+              },
+              {
+                "name": "som nå er tilfelle i flere av de mindre kommunene i Buskerud",
+                "party": null
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Buskerud Eldreråds vedtak den 03.04.2024:",
+              "text": "Innstilling til hovedutvalg for samferdsel Buskerud eldreråd ønsker at kollektivtrafikken opprettholdes på dagens nivå. Det bør opprettes et busstilbud i Drammen etter modell som Rosa busser i Oslo kommune, og «Hent meg» på Kongsberg. Flere fylker har etablert samme type bestillingstransport. Gitt forslagene som nå foreligger om kutt i kollektivtransporten i Buskerud fylke, er behovet for alternativt transporttilbud aktualisert, gjerne i samarbeid med Drammen kommune. En reduksjon i kollektivtilbudet vil i stor grad ramme eldre og deres mulighet til å delta i lokalmiljøet, og i sosiale aktiviteter. Regjeringen utarbeidet i 2016 retningslinjer for et aldersvennlig samfunn. Reformen peker på viktigheten av å legge til rette for at eldre er en ressurs og skal gis mulighet til å leve et aktivt liv. Å redusere i kollektivtilbudet uten å tilrettelegge for andre former for transporttilbud er ikke i tråd med føringene i Stortingsmeldingen om et Aldersvennlig Norge. Buskerud fylkeskommune har i sitt Handlingsprogram en ambisjon om å øke kollektivtransporten, ikke som nå å foreta en reduksjon i kollektivtilbudet. Forslaget om nedlegging av rutetilbud i Buskerud fylke vil i tillegg bidra til økt privatbilisme, noe som er i strid med målsettinger om Nullvekst i biltrafikken. For å nå Innsparingsmålet på 45 millioner bør man vurdere andre løsninger enn å redusere et allerede dårlig kollektivtilbud, som nå er tilfelle i flere av de mindre kommunene i Buskerud. Buskerud Eldreråds behandling i møte den 03.04.2024: Følgende hadde ordet i saken: Reidar Lauritsen, Aslaug B. Trondsen, Anna-Brita Bakken, Svein Markussen, Jan Dybvik og Anders Wengen (V). Aslaug B. Trondsen hadde følgende forslag: Buskerud eldreråd ønsker at kollektivtrafikken opprettholdes på dagens nivå. Det bør opprettes et busstilbud i Drammen etter modell som Rosa busser i Oslo kommune, og «Hent meg» på Kongsberg. Flere fylker har etablert samme type bestillingstransport. Gitt forslagene som nå foreligger om kutt i kollektivtransporten i Buskerud fylke, er behovet for alternativt transporttilbud aktualisert, gjerne i samarbeid med Drammen kommune. En reduksjon i kollektivtilbudet vil i stor grad ramme eldre og deres mulighet til å delta i lokalmiljøet, og i sosiale aktiviteter. Regjeringen utarbeidet i 2016 retningslinjer for et aldersvennlig samfunn. Reformen peker på viktigheten av å legge til rette for at eldre er en ressurs og skal gis mulighet til å leve et aktivt liv. Å redusere i kollektivtilbudet uten å tilrettelegge for andre former for transporttilbud er ikke i tråd med føringene i Stortingsmeldingen om et Aldersvennlig Norge. Buskerud fylkeskommune har i sitt Handlingsprogram en ambisjon om å øke kollektivtransporten, ikke som nå å foreta en reduksjon i kollektivtilbudet. Forslaget om nedlegging av rutetilbud i Buskerud fylke vil i tillegg bidra til økt privatbilisme, noe som er i strid med målsettinger om Nullvekst i biltrafikken. For å nå Innsparingsmålet på 45 millioner bør man vurdere andre løsninger enn å redusere et allerede dårlig kollektivtilbud, som nå er tilfelle i flere av de mindre kommunene i Buskerud."
+            },
+            "document": {
+              "objectId": "do_01j76y3x2geetape4j7e2xey3n",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1fe64d98-d325-400b-a6e4-e37ce570b273"
+            },
+            "error": null
+          }
         },
         {
           "number": "12/2024",
           "title": "Styringsdokumenter for samferdsel. Framdrift og medvirkning",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F5b03bdc9-6cdd-405c-85b0-2ba7fd4ec7ab",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F34baa2cb-4b16-4197-97c6-45b70f0086a1",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Buskerud Eldreråds vedtak den 03.04.2024:",
+              "text": "Innstilling til hovedutvalget for samferdsel Buskerud eldreråd slutter seg til innstillingen: Framdriftsplanen og opplegget for medvirkning legges til grunn for arbeidet med handlingsprogram for samferdsel/styringsdokumenter. Buskerud Eldreråds behandling i møte den 03.04.2024: Buskerud eldreråd slutter seg til innstillingen: Framdriftsplanen og opplegget for medvirkning legges til grunn for arbeidet med handlingsprogram for samferdsel/styringsdokumenter."
+            },
+            "document": {
+              "objectId": "do_01j76y3wwte8krxj5kewc76shw",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F34baa2cb-4b16-4197-97c6-45b70f0086a1"
+            },
+            "error": null
+          }
         },
         {
           "number": "13/2024",
           "title": "Oppnevning av representant til Fagråd i Utviklingssenter for sykehjem og hjemmetjenester USHT Buskerud",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe047daae-d540-4448-9381-fbb4b6bcfb00",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb002a195-cedc-4259-ab30-ad01ddfa2829",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Reidar Lauritsen",
+                "party": null
+              },
+              {
+                "name": "Aslaug B. Trondsen",
+                "party": null
+              }
+            ],
+            "proposals": [
+              {
+                "proposerName": "Reidar Lauritsen",
+                "proposerParty": "",
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Buskerud Eldreråds vedtak den 03.04.2024:",
+              "text": "Buskerud eldreråd oppnevner Aslaug B. Trondsen som representant til Fagråd USHT i Buskerud for 2024- 2027. Buskerud Eldreråds behandling i møte den 03.04.2024: Følgende hadde ordet i saken: Reidar Lauritsen og Aslaug B. Trondsen Reidar Lauritsen fremmet følgende forslag: Buskerud eldreråd oppnevner Aslaug B. Trondsen som representant til Fagråd USHT i Buskerud for 2024- 2027."
+            },
+            "document": {
+              "objectId": "do_01j76y3x5veq488nx5n6385dda",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb002a195-cedc-4259-ab30-ad01ddfa2829"
+            },
+            "error": null
+          }
         },
         {
           "number": "14/2024",
           "title": "Høring - Inkorporering av CRPD i norsk lov",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F4b868ae4-a80f-4211-afb2-f630678119fd",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fce3ddd36-2d0a-4cd2-92c3-a585afd35f38",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Reidar Lauritsen",
+                "party": null
+              },
+              {
+                "name": "Anna-Brita Bakken",
+                "party": null
+              },
+              {
+                "name": "Aslaug B. Trondsen",
+                "party": null
+              }
+            ],
+            "proposals": [
+              {
+                "proposerName": "Rådet",
+                "proposerParty": "",
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Buskerud Eldreråds vedtak den 03.04.2024:",
+              "text": "Buskerud eldreråd tar høringen til orientering, og ønsker å støtte råd for mennesker sin uttalelse på høringen. Buskerud Eldreråds behandling i møte den 03.04.2024: Følgende hadde ordet i saken: Reidar Lauritsen, Anna-Brita Bakken og Aslaug B. Trondsen. Rådet fremmet følgende omforente forslag: Buskerud eldreråd tar høringen til orientering, og ønsker å støtte råd for mennesker sin uttalelse på høringen."
+            },
+            "document": {
+              "objectId": "do_01j76y3wttey9avze8s0ec7agd",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fce3ddd36-2d0a-4cd2-92c3-a585afd35f38"
+            },
+            "error": null
+          }
         },
         {
           "number": "15/2024",
           "title": "Åpen post - Eldrerådet 03.04.2024",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fbbd0b6df-7614-45a5-b983-58a8793ae6a4",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9f86d17c-cda7-4ca4-b463-2ebf9211b8d7",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Buskerud Eldreråds vedtak den 03.04.2024:",
+              "text": "1. Landskonferansen for fylkeseldreråd i Bodø 14.-16. mai Påmeldte til landskonferansen i Bodø er: - Rita Starup Andersen, sekretær - Jan Dybvik, medlem - Reidar Lauritsen, leder - Anna-Brita Bakken, nestleder - Aslaug Brand Trondsen, medlem - Øivind Fjeldheim (Pp), politiker 2. Evaluering av KS-folkevalgtopplæring med medvirkningsråd 20. februar Eldrerådet var enige om at folkevalgtopplæringen var bra gjennomført, og at gruppearbeid på tvers av medvirkningsorganene var meget vellykket. Opplæringen kunne gjerne også vært ennå mer spisset mot fylkeskommunens arbeid. 3. Konferanse – Aldersvennlig samfunn og universell utforming i kommunal planlegging 15. april på Thon Hotel Opera i Oslo, leder orienterte Ingen fra eldrerådet har meldt seg på konferansen. 4. Dialogmøte med hovedutvalgsledere og fylkesordfører Eldrerådet ønsker å invitere hovedutvalgsledere til et rådsmøte for å bli bedre kjent. Administrasjonen finner en dato for dialogmøte med fylkesordfører og fylkeskommunedirektøren. 5. Kartverket – universell utforming – Prosjektmidler til kartlegging og oppdatering av friluftsområder i 2024 Leder orienterte om at administrasjonen har blitt gitt en oppfordring om å søke midler til kartlegging av, og oppdatering av friluftsområder i 2024. 6. Buskerud pensjonistforbund årsmøte og jubileumsmarkering 20. mars Reidar Lauritsen orienterte kort fra ovennevnte møte og markering. 7. Handlingsprogram for eldrerådet Eldrerådet kom med innspill til rådets handlingsprogram for 2024-2027. Buskerud Eldreråds behandling i møte den 03.04.2024: 2"
+            },
+            "document": {
+              "objectId": "do_01j76y3wzyfftbm7hnay5a1hwh",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9f86d17c-cda7-4ca4-b463-2ebf9211b8d7"
+            },
+            "error": null
+          }
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "complete",
+        "completed": false,
+        "fixedMembers": [
+          {
+            "name": "Jan Dybvik",
+            "attendanceRole": "medlem",
+            "representedBy": "PF"
+          },
+          {
+            "name": "Reidar Lauritsen",
+            "attendanceRole": "medlem",
+            "representedBy": "PF"
+          },
+          {
+            "name": "Tone Hustad",
+            "attendanceRole": "medlem",
+            "representedBy": "PF"
+          },
+          {
+            "name": "Anna-Brita Bakken",
+            "attendanceRole": "medlem",
+            "representedBy": "FF"
+          },
+          {
+            "name": "Anders Lundesgård",
+            "attendanceRole": "medlem",
+            "representedBy": "FS"
+          },
+          {
+            "name": "Aslaug Brandt Trondsen",
+            "attendanceRole": "medlem",
+            "representedBy": "JF"
+          },
+          {
+            "name": "Øivind Fjeldheim",
+            "attendanceRole": "medlem",
+            "representedBy": "PP"
+          },
+          {
+            "name": "Anders Wengen",
+            "attendanceRole": "medlem",
+            "representedBy": "V"
+          }
+        ],
+        "deputies": [
+          {
+            "name": "Svein Markussen",
+            "attendanceRole": "deputy",
+            "representedBy": "PF"
+          }
+        ],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/75f6e519-9759-4a08-be48-a9e62f7e4aff",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F75f6e519-9759-4a08-be48-a9e62f7e4aff"
+        }
+      },
+      "metadataStatus": "complete",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F75f6e519-9759-4a08-be48-a9e62f7e4aff"
     },
@@ -190,39 +783,305 @@
           "title": "Styringsdokumenter for samferdsel. Framdrift og medvirkning",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F45f31a05-61c5-4bc7-9004-5057f7c18347",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Faf39585b-2a06-4eb8-89ee-4a1af1ecbb84",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Bijan Gharakhani",
+                "party": "leder"
+              },
+              {
+                "name": "Kobal Visvalingam",
+                "party": null
+              },
+              {
+                "name": "Lirigzona Berisha",
+                "party": null
+              },
+              {
+                "name": "Ana Maria Silva-Harper",
+                "party": null
+              },
+              {
+                "name": "Parviz Salimi",
+                "party": null
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Flerkulturelt utvalgs vedtak den 04.04.2024:",
+              "text": "Innstilling til hovedutvalget for samferdsel Flerkulturelt utvalg slutter seg til innstillingen: Framdriftsplanen og opplegget for medvirkning legges til grunn for arbeidet med handlingsprogram for samferdsel/styringsdokumenter. Flerkulturelt utvalgs behandling i møte den 04.04.2024: Fylkeskommunedirektørens forslag: Framdriftsplanen og opplegget for medvirkning legges til grunn for arbeidet med handlingsprogram for samferdsel/styringsdokumenter. Følgende hadde ordet i saken: Bijan Gharakhani (leder), Kobal Visvalingam, Lirigzona Berisha, Ana Maria Silva-Harper, Parviz Salimi"
+            },
+            "document": {
+              "objectId": "do_01j76y3wt6f5dabsybxts3tewf",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Faf39585b-2a06-4eb8-89ee-4a1af1ecbb84"
+            },
+            "error": null
+          }
         },
         {
           "number": "6/2024",
           "title": "Tilpasning av kollektivtilbudet til nye økonomiske rammer",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F8188d130-47b0-4b40-8d40-6fe4883aa3e4",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb6489155-db42-4dd0-9c29-625624fc07ae",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Bijan Gharakhani",
+                "party": "leder"
+              },
+              {
+                "name": "Kobal Visvalingam",
+                "party": null
+              },
+              {
+                "name": "Lirigzona Berisha",
+                "party": null
+              },
+              {
+                "name": "Ana Maria Silva-Harper",
+                "party": null
+              },
+              {
+                "name": "Parviz Salimi",
+                "party": null
+              },
+              {
+                "name": "Tabassom Fananian (nestleder). Flerkulturelt utvalg har følgende uttalelse til saken: Vi i Flerkulturelt utvalg i Buskerud har forståelse for at Buskerud Fylkeskommune må kutte kostnader i busstilbud. Vi ønsker å støtte initiativet om å gå i dialog med staten angående omdisponering midlene til å opprettholde tilbudet fremfor å ha redusert billetter. Flere innbyggere med flerkulturell bakgrunn (også flyktninger) lever med lave inntekter",
+                "party": null
+              },
+              {
+                "name": "er derfor avhengig av et effektivt kollektivtilbud til å kunne komme seg på arbeid",
+                "party": null
+              },
+              {
+                "name": "skole",
+                "party": null
+              },
+              {
+                "name": "fritidsaktiviteter",
+                "party": null
+              },
+              {
+                "name": "osv. Da ikke alle familier har råd til en bil/flere biler. Ettersom kollektivtilbudet kuttes",
+                "party": null
+              },
+              {
+                "name": "burde",
+                "party": null
+              },
+              {
+                "name": "så flyktninger bosettes på områder med stor fleksibilitet i busstilbud. Dette for å kunne bidra til en enklere integrering",
+                "party": null
+              },
+              {
+                "name": "kunne komme seg rundt",
+                "party": null
+              },
+              {
+                "name": "til",
+                "party": null
+              },
+              {
+                "name": "med i helger. I tillegg er det ønskelig at viktige kollektive ruter skjermes med tanke på integreringsprosess. Vi vil",
+                "party": null
+              },
+              {
+                "name": "så til slutt",
+                "party": null
+              },
+              {
+                "name": "så støtte oppfordringen fra Buskerudbyen om et felles billettsystem for tog",
+                "party": null
+              },
+              {
+                "name": "buss. Dette vil bidra til å forenkle reiseopplevelsen for alle innbyggere",
+                "party": null
+              },
+              {
+                "name": "inkludert de med flerkulturell bakgrunn. Dette vil ha stor betydning for innbyggere med flerkulturell bakgrunn da dette er enkelt å forholde seg til",
+                "party": null
+              },
+              {
+                "name": "spesielt for flyktninger som er helt nye i Norge",
+                "party": null
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Flerkulturelt utvalgs vedtak den 04.04.2024:",
+              "text": "Innstilling til hovedutvalg for samferdsel Flerkulturelt utvalg stiller seg bak fylkeskommunedirektørens forslag. Vi i Flerkulturelt utvalg i Buskerud har forståelse for at Buskerud Fylkeskommune må kutte kostnader i busstilbud. Vi ønsker å støtte initiativet om å gå i dialog med staten angående omdisponering midlene til å opprettholde tilbudet fremfor å ha redusert billetter. Flere innbyggere med flerkulturell bakgrunn (også flyktninger) lever med lave inntekter, og er derfor avhengig av et effektivt kollektivtilbud til å kunne komme seg på arbeid, skole, fritidsaktiviteter, osv. Da ikke alle familier har råd til en bil/flere biler. Ettersom kollektivtilbudet kuttes, burde også flyktninger bosettes på områder med stor fleksibilitet i busstilbud. Dette for å kunne bidra til en enklere integrering og kunne komme seg rundt, til og med i helger. I tillegg er det ønskelig at viktige kollektive ruter skjermes med tanke på integreringsprosess. Vi vil også til slutt også støtte oppfordringen fra Buskerudbyen om et felles billettsystem for tog og buss. Dette vil bidra til å forenkle reiseopplevelsen for alle innbyggere, inkludert de med flerkulturell bakgrunn. Dette vil ha stor betydning for innbyggere med flerkulturell bakgrunn da dette er enkelt å forholde seg til, spesielt for flyktninger som er helt nye i Norge. Flerkulturelt utvalgs behandling i møte den 04.04.2024: Fylkeskommunedirektørens forslag: 1. Hovedutvalget vedtar et justert kollektivtilbud i tråd med fylkeskommunedirektørens alternativ 1 slik det fremgår av saken. Vedtaket er i tråd med fylkestingets budsjettvedtak fra 2023 om å redusere kollektivrammen for 2024 med 45 millioner kroner. Følgende hadde ordet i saken: Bijan Gharakhani (leder), Kobal Visvalingam, Lirigzona Berisha, Ana Maria Silva-Harper, Parviz Salimi og Tabassom Fananian (nestleder). Flerkulturelt utvalg har følgende uttalelse til saken: Vi i Flerkulturelt utvalg i Buskerud har forståelse for at Buskerud Fylkeskommune må kutte kostnader i busstilbud. Vi ønsker å støtte initiativet om å gå i dialog med staten angående omdisponering midlene til å opprettholde tilbudet fremfor å ha redusert billetter. Flere innbyggere med flerkulturell bakgrunn (også flyktninger) lever med lave inntekter, og er derfor avhengig av et effektivt kollektivtilbud til å kunne komme seg på arbeid, skole, fritidsaktiviteter, osv. Da ikke alle familier har råd til en bil/flere biler. Ettersom kollektivtilbudet kuttes, burde også flyktninger bosettes på områder med stor fleksibilitet i busstilbud. Dette for å kunne bidra til en enklere integrering og kunne komme seg rundt, til og med i helger. I tillegg er det ønskelig at viktige kollektive ruter skjermes med tanke på integreringsprosess. Vi vil også til slutt også støtte oppfordringen fra Buskerudbyen om et felles billettsystem for tog og buss. Dette vil bidra til å forenkle reiseopplevelsen for alle innbyggere, inkludert de med flerkulturell bakgrunn. Dette vil ha stor betydning for innbyggere med flerkulturell bakgrunn da dette er enkelt å forholde seg til, spesielt for flyktninger som er helt nye i Norge."
+            },
+            "document": {
+              "objectId": "do_01j76y3ww5fjhv7d6jkjw7h5gr",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb6489155-db42-4dd0-9c29-625624fc07ae"
+            },
+            "error": null
+          }
         },
         {
           "number": "7/2024",
           "title": "Orientering om tilskudd til strategisk trafikksikkerhetsarbeid i kommunene",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe3ea6d8d-6522-4b84-8fa0-445ebf526e9a",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff1947fcc-d197-49e9-bac5-72f65cddf3bf",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Bijan Gharakhani",
+                "party": "leder"
+              },
+              {
+                "name": "Ana Maria Silva-Harper",
+                "party": null
+              }
+            ],
+            "proposals": [
+              {
+                "proposerName": "Idris Winningah",
+                "proposerParty": "",
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Flerkulturelt utvalgs vedtak den 04.04.2024:",
+              "text": "Innstilling til hovedutvalg for samferdsel Gi tilskudd og samarbeid med trafikksikkerhet i kommunene og fylkeskommunene. Kjørekurs for foreldrene med innvandrerbakgrunn. Flerkulturelt utvalgs behandling i møte den 04.04.2024: Fylkeskommunedirektørens forslag: 1. Hovedutvalg for samferdsel tar tildelingen av tilskudd til strategisk trafikksikkerhetsarbeid i kommunene til orientering. Følgende hadde ordet i saken: Bijan Gharakhani (leder), Ana Maria Silva-Harper Idris Winningah fremmet følgende tilleggsforslag: Kjørekurs for foreldre med innvandrerbakgrunn. Flerkulturelt utvalg har følgende tilleggsforslag til saken: Gi tilskudd og samarbeid med trafikksikkerhet i kommunene og fylkeskommunene."
+            },
+            "document": {
+              "objectId": "do_01j76y3wy2ey59c68p4ape4nc2",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff1947fcc-d197-49e9-bac5-72f65cddf3bf"
+            },
+            "error": null
+          }
         },
         {
           "number": "8/2024",
           "title": "Høring - Inkorporering av CRPD i norsk lov",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Ffe35f45c-e407-469e-b7ee-2800123ec4d5",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5d7fe783-4063-433e-9e41-7c47e12e94dd",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Bijan Gharakhani",
+                "party": "leder"
+              },
+              {
+                "name": "Lirigzona Berisha",
+                "party": null
+              },
+              {
+                "name": "Ana Maria Silva-Harper",
+                "party": null
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Flerkulturelt utvalgs vedtak den 04.04.2024:",
+              "text": "Flerkulturelt utvalg støtter inkorporering av CRPD i norsk lov. Dette er et viktig skritt i riktig retning. Flerkulturelt utvalgs behandling i møte den 04.04.2024: Innstilling/forslag: 1. Flerkulturelt utvalg har følgende uttalelse til Høring – Inkorporering av CRPD i norsk lov Følgende hadde ordet i saken: Bijan Gharakhani (leder), Lirigzona Berisha og Ana Maria Silva-Harper."
+            },
+            "document": {
+              "objectId": "do_01j76y3wzqfxnb7r7qscpc5dyc",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5d7fe783-4063-433e-9e41-7c47e12e94dd"
+            },
+            "error": null
+          }
         },
         {
           "number": "9/2024",
           "title": "Åpent post/Eventuelt 4.04.2024",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F6bd979aa-ba1f-433a-b1d2-0a21ce5902de",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F62d302c8-15f6-4d8a-b715-7bbd81a545f6",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Flerkulturelt utvalgs vedtak den 04.04.2024:",
+              "text": "1. Trygg Trafikk invitasjon, 17. april 2024 i Oslo Påmeldte til Trygg Trafikk, 17 april 2024 er: • Nasim Rizvi • Bijan Gharakhani (leder) Utvalget ble enige om at deltakelse på fremtidige arrangementer bør roteres blant medlemmene, slik at alle ha mulighet til å delta. 2. Flerkulturelt utvalgs leder orienterer om Drammen kommunes vedtak å bare ta imot ukrainske flyktninger Lederen orienterte om at slik saker i framtiden bør sendes på epost til lederen i flerkulturelt utvalg, nestlederen og utvalgssekretæren for vurdering og håndtering. 3. Budsjett for flerkulturelt utvalg Utvalgssekretæren orienterte kort om flerkulturelt utvalg sitt budsjett hittil i år. 4. Brukerhjelp Utvalgssekretæren orienterte om status for medlemmenes Buskerud-bruker. 5. Forfall/Fravær Utvalgssekretæren orienterte kort om forfall/fravær til møter. Flerkulturelt utvalgs behandling i møte den 04.04.2024:"
+            },
+            "document": {
+              "objectId": "do_01j76y3x1vf7c9g9x56h1hjpev",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F62d302c8-15f6-4d8a-b715-7bbd81a545f6"
+            },
+            "error": null
+          }
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "complete",
+        "completed": false,
+        "fixedMembers": [
+          {
+            "name": "Ana Maria Silva-Harper",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Bijan Gharakhani",
+            "attendanceRole": "medlem",
+            "representedBy": null
+          },
+          {
+            "name": "Nermina Ljeskovica",
+            "attendanceRole": "medlem",
+            "representedBy": null
+          },
+          {
+            "name": "Nasim Rizvi",
+            "attendanceRole": "medlem",
+            "representedBy": null
+          },
+          {
+            "name": "Parviz Salimi",
+            "attendanceRole": "medlem",
+            "representedBy": null
+          },
+          {
+            "name": "Tabassom Fanaian",
+            "attendanceRole": "medlem",
+            "representedBy": null
+          },
+          {
+            "name": "Lirigzona Berisha",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          }
+        ],
+        "deputies": [
+          {
+            "name": "Kobal Visvalingam",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "Idris Winnigah",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          }
+        ],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/db9b5b11-ef92-4ef8-84b6-4b89567bbcee",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fdb9b5b11-ef92-4ef8-84b6-4b89567bbcee"
+        }
+      },
+      "metadataStatus": "complete",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fdb9b5b11-ef92-4ef8-84b6-4b89567bbcee"
     },
@@ -243,8 +1102,233 @@
           "metadata": null
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "failed",
+        "completed": false,
+        "fixedMembers": [],
+        "deputies": [
+          {
+            "name": "Roger Larsen",
+            "attendanceRole": "deputy",
+            "representedBy": "INP"
+          },
+          {
+            "name": "Arbeidstakersiden:",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "Navn",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "Camilla Helen Landsverk",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "Hilde Kristin Amundsen",
+            "attendanceRole": "deputy",
+            "representedBy": "LO"
+          },
+          {
+            "name": "David M. Graatrud",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "Helge Opstad",
+            "attendanceRole": "deputy",
+            "representedBy": "YS"
+          },
+          {
+            "name": "Ulrik Haug Langøy Falck",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "Saksliste",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "Utvalgssak",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "PS 1/24",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "PS 1/2024 Orienteringer",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "Partssammensatt utvalgs vedtak den 04.04.2024:",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "Det ble ikke gjort vedtak under orienteringer.",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "Partssammensatt utvalgs behandling i møte den 04.04.2024:",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "Fylkeskommunedirektørens orienteringer:",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "1. Partssammensatt utvalg i Buskerud fylkeskommune v/fylkeskommunedirektør Jan",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "Sivert Jøsendal Jan Sivert Jøsendal orienterte om:",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "o Gjennomgang av lovverk og reglement for partssammensatt utvalg i Buskerud",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "fylkeskommune",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "o Formål med partssammensatt utvalg",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "o Overordnet om partssammensatts mandat og oppgaver, herunder hva som",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "ligger til partssammensatt utvalg og hva som er fylkeskommunedirektørens",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "løpende personalansvar",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "o Hvordan kan vi sammen bidra til at PSU er et godt møtested?",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "2. Hovedarbeidsmiljøutvalget (HAMU) har hatt sitt første møte i Buskerud",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "fylkeskommune, orientering v/ HMS-rådgiver Trude Gulbrandsen Kjos. Trude",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "Gulbransen Kjos orienterte fra første møte i HAMU, om deres mandat og arbeide,",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "samt handlingsplan.",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "3. Hovedinformasjons- og drøftingsmøter mellom hovedtillitsvalgte,",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "fylkeshovedverneombud og ledelsen er etablert, v/ HR-rådgiver Lars Geir Mortensen,",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "seksjon mennesker og organisasjon. Lars Geir Mortensen orienterte om bakgrunnen",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "for opprettelsen av hoved informasjons og drøftings møte (HIDM), deltakende",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "organisasjoner, og noen av sakene HIDM har behandlet hittil i år.",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "4. Økonomisk omstilling v/ seksjonsleder for økonomi Øystein Bentstuen. Øystein",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "Bentstuen orienterte om den økonomiske omstillingsprosessen, status, bruk av",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "eksterne konsulenter, og arbeidet med budsjett og økonomiplan 2025-2028.",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "5. Status og pågående prosesser med arbeidsgiverstrategier, retningslinjer og",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "reglementer v/seksjonsleder mennesker og organisasjon Ane Kirstine Haugen. Ane",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "Kristine Haugen orienterte om status på prosesser, gjenstående arbeid og nedsatte",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "partssammensatte arbeidsgrupper, samt fokusområder for administrasjonen",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "framover.",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "4",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          }
+        ],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/1cdbc551-17b2-4948-afa5-d6230fe14d0b",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1cdbc551-17b2-4948-afa5-d6230fe14d0b"
+        }
+      },
+      "metadataStatus": "failed",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1cdbc551-17b2-4948-afa5-d6230fe14d0b"
     },
@@ -262,53 +1346,279 @@
           "title": "Godkjenning av innkalling med saksliste",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F0cb16c78-6659-4a8c-baf2-4acac4359cca",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F82327ee7-8e40-4eb8-82d3-a0e2e379e1aa",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Ungdommens fylkesråds vedtak den 05.04.2024:",
+              "text": "Ungdommens fylkesråds behandling i møte den 05.04.2024: Innkalling og protokoll ble godkjent uten merknader."
+            },
+            "document": {
+              "objectId": "do_01j76y3s8teq8s7zcjem4g254q",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F82327ee7-8e40-4eb8-82d3-a0e2e379e1aa"
+            },
+            "error": null
+          }
         },
         {
           "number": "12/2024",
           "title": "Orienteringer",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F67305403-f5fc-4892-8c83-54c80243215e",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fdf2400f5-7d4d-497e-86df-039dda627c34",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Ungdommens fylkesråds vedtak den 05.04.2024:",
+              "text": "Det ble ikke gjort vedtak under orienteringer. Ungdommens fylkesråds behandling i møte den 05.04.2024: Møter, arrangement og representasjonsoppdrag siden sist: • KS toppmøte barn og unge v/ Elise Haugsvær og Ida Cecilie Sandholm • BSSSC Gdansk v/ Ida Cecilie Sandholm • KS strategikonferanse Buskerud v/ Ida Cecilie Sandholm • Østsamung arbeidsgruppe v/ Ida Cecilie Sandholm • Yrkesopplæringsnemda v/ Kacper Wyszynski • Hurtigarbeidende arbeidsgruppe og høringssvar fraværsregler v/ Bjørn-Egil Tørrissen og Kacper Wyszynski Kommende møter, arrangement og representasjonsoppdrag: • �Møte med kunnskapsministeren angående forslag til endringer i fraværsreglene 19. april 2024. Elise Haugsvær stiller på vegne av UFR. • Elevrådskonkurranse i Buskerud 26. April. Bjørn-Egil Tørrissen sitter i jury og orienterte om arbeidet. • Fylkesledernettverket v/ Bjørn-Egil Tørrissen sitter i nettverket og orienterte om kommende møter. • ØstSam Ung samling tentativt 27-28. April. Invitasjon ettersendes når den kommer. • Invitasjon til Mostratinget for ungdom (31.mai - 2. juni 2024). Bjørn-Egil Tørrissen og Merjem Duderija ble valgt som deltakere. Kacper Wyszynski og Ida Cecilie Sandholm er vikar. • Invitasjon til Art of Change på Utøya (17.-21. juni 2024) - Anna Jadwiga Rytel søker fra UFR. • Invitasjon til innspillsmøte om seksuell trakassering med Kultur- og likestillingsministeren (15. april 2024) - Bjørn-Egil Tørrissen og Elise Haugsvær stiller på vegne av UFR. Kacper Wyszynski og Ida Cecilie Sandholm er vikar. • �Baltic Sea Region Youth Forum – CBSS - UFR melder seg som medlemmer og Kacper Wyszynski stiller til valg i styringsgruppe på vegne av rådet. • CBSS Youth Ministerial i Helsinki 21-24 mai – De over 18 som ønsker søker. • Baltic Sea Parliamentary Youth Forum 24-27 august i Helsingør - De over 18 som ønsker søker. • Ungdommens fylkesting. • Tentativt 26-27 oktober, mulig med møte for rådet 25. UFR bes holde av datoene. • Arbeidsgruppe satt ned: Merjem Duderija, Ida Cecilie Sandholm, Linnea Sofie Øye Sekse, Bjørn-Egil Tørrissen og Anna Jadwiga Rytel • Felleskonferanse for alle ungdommens fylkesråd– Datoene 12-15 september og 26-29 september meldes som datoene som passer best for UFR. Andre orienteringer Orientering om prosess og status for regional planstrategi v/ Finn Ivar Lied, rådgiver, avdeling for samfunnsplanlegging 2"
+            },
+            "document": {
+              "objectId": "do_01j76y3s24fjbv3186w20xnf3a",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fdf2400f5-7d4d-497e-86df-039dda627c34"
+            },
+            "error": null
+          }
         },
         {
           "number": "13/2024",
           "title": "Tilstandsrapport for videregående opplæring i Viken inn mot nye Akershus, Buskerud og Østfold 2023",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F217d6ac8-0903-4ee2-9a70-f9bd9d6e0322",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F25f8bb66-b3f9-48f1-a2a4-2397abd111e7",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Kacper Wysynski var saksordfører",
+                "party": null
+              },
+              {
+                "name": "innledet. Linnea Sofie Øye Sekse",
+                "party": null
+              },
+              {
+                "name": "Christian Gaptjern",
+                "party": null
+              },
+              {
+                "name": "Bjørn-Egil Tørrissen",
+                "party": null
+              },
+              {
+                "name": "Elise Haugsvær",
+                "party": null
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Ungdommens fylkesråds vedtak den 05.04.2024:",
+              "text": "Innstilling til fylkestinget: 1. Tilstandsrapport for videregående opplæring i Viken inn mot nye Akershus, Buskerud og Østfold 2023 vedtas som fremlagt. 2. Kunnskapsgrunnlaget i tilstandsrapporten legges til grunn for videre kvalitetsutvikling av den videregående opplæringen i Buskerud. Ungdommens fylkesråds behandling i møte den 05.04.2024: Fylkeskommunedirektørens forslag: 1. Tilstandsrapport for videregående opplæring i Viken inn mot nye Akershus, Buskerud og Østfold 2023 vedtas som fremlagt 2. Kunnskapsgrunnlaget i tilstandsrapporten legges til grunn for videre kvalitetsutvikling av den videregående opplæringen i Buskerud. Følgende hadde ordet i saken: Kacper Wysynski var saksordfører og innledet. Linnea Sofie Øye Sekse, Christian Gaptjern, Bjørn-Egil Tørrissen og Elise Haugsvær."
+            },
+            "document": {
+              "objectId": "do_01j76y3s9vfevs1hhngff4xjfw",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F25f8bb66-b3f9-48f1-a2a4-2397abd111e7"
+            },
+            "error": null
+          }
         },
         {
           "number": "14/2024",
           "title": "Status strategi helsefremmende skoler",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Faf7f6acf-739a-45ee-8fd7-0a8e2c54c200",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F45958b5e-5365-443f-8186-31f181139337",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Merjem Duderija var saksordfører",
+                "party": null
+              },
+              {
+                "name": "innledet. Kacper Wyszynski",
+                "party": null
+              },
+              {
+                "name": "Christian Gaptjern",
+                "party": null
+              },
+              {
+                "name": "Bjørn-Egil Tørrissen",
+                "party": null
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Ungdommens fylkesråds vedtak den 05.04.2024:",
+              "text": "Innstilling til hovedutvalg for opplæring og hovedutvalg for kultur, idrett og folkehelse 1. Statusrapport strategi for helsefremmende skoler tas til orientering. 2. Strategien for helsefremmende skoler revideres og behandles politisk i løpet av 2025. 3. Det legges frem en egen politisk sak i juni om videreføringen av arbeidet med sunne og bærekraftige kantiner. Ungdommens fylkesråds behandling i møte den 05.04.2024: Fylkeskommunedirektørens forslag: 1. Statusrapport strategi for helsefremmende skoler tas til orientering. 2. Strategien for helsefremmende skoler revideres og behandles politisk i løpet av 2025. 3. Det legges frem en egen politisk sak i juni om videreføringen av arbeidet med sunne og bærekraftige kantiner. Følgende hadde ordet i saken: Merjem Duderija var saksordfører og innledet. Kacper Wyszynski, Christian Gaptjern, Bjørn- Egil Tørrissen."
+            },
+            "document": {
+              "objectId": "do_01j76y3s5cf9s9vg6y43p6scwz",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F45958b5e-5365-443f-8186-31f181139337"
+            },
+            "error": null
+          }
         },
         {
           "number": "15/2024",
           "title": "Styringsdokumenter for samferdsel. Framdrift og medvirkning",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F40436ee4-9b2b-49b9-b625-9d35c62b40d4",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0384d414-da57-4a88-84a1-36741d54b35e",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Elise Haugsvær var saksordfører",
+                "party": null
+              },
+              {
+                "name": "innledet",
+                "party": null
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Ungdommens fylkesråds vedtak den 05.04.2024:",
+              "text": "Innstilling til hovedutvalg for samferdsel: 1. Framdriftsplanen og opplegget for medvirkning legges til grunn for arbeidet med handlingsprogram for samferdsel/styringsdokumenter. Ungdommens fylkesråds behandling i møte den 05.04.2024: Fylkeskommunedirektørens forslag: 1. Framdriftsplanen og opplegget for medvirkning legges til grunn for arbeidet med handlingsprogram for samferdsel/styringsdokumenter. Følgende hadde ordet i saken: Elise Haugsvær var saksordfører og innledet."
+            },
+            "document": {
+              "objectId": "do_01j76y3s17fk0afz11dj22zs4j",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0384d414-da57-4a88-84a1-36741d54b35e"
+            },
+            "error": null
+          }
         },
         {
           "number": "16/2024",
           "title": "Tilpasning av kollektivtilbudet til nye økonomiske rammer",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F959712ea-ccd7-45d1-8faf-696386f808cd",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc70b1fc0-5212-462a-8f97-ae78a16f5eb1",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Christian Gaptjern var saksordfører",
+                "party": null
+              },
+              {
+                "name": "innledet. Bjørn-Egil Tørrissen",
+                "party": null
+              },
+              {
+                "name": "Kacper Wyszynski",
+                "party": null
+              },
+              {
+                "name": "Elise Haugsvær",
+                "party": null
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Ungdommens fylkesråds vedtak den 05.04.2024:",
+              "text": "Innstilling til hovedutvalg for samferdsel: Hovedutvalget vedtar et justert kollektivtilbud i tråd med fylkeskommunedirektørens alternativ 1 slik det fremgår av saken. Vedtaket er i tråd med fylkestingets budsjettvedtak fra 2023 om å redusere kollektivrammen for 2024 med 45 millioner kroner. Rådet fremmer følgende omforente forslag: Alternativ 2 blir lite hensiktsmessig for elever og Ungdommer i Hallingdal. Ved å opprettholde støtten til Hallingbussen, men kutte i rutene «Linje 360 Tuv-Hemsedal-Gol» og «Linje 360 Gol- Hemsedal-Tuv», vil det føre til misnøye for elever og ungdommer som kommer fra Hemsedal. Denne ruten er attraktiv for elever som starter litt senere eller slutter litt tidligere og som reiser til og fra Hemsedal i Skoletiden grunnet dette. Hallingbussen fra Oslo-Geilo kan erstattes med Vy170 Oslo-Sogn og fjordane, dersom passasjerene går av på Gol og tar «linje 330 Gol-Geilo» og «Linje 332 Flå-Geilo». Som støtte til alternativ 1 ønsker vi å vektlegge det som står poengtert i saken «I ettermiddagsrushet er linje 169 i gjennomsnitt 14-19 minutter forsinket i retning Lierbyen, hvor mesteparten av forsinkelsen oppstår før Asker. Disse forsinkelsene vil man unngå i kombinasjonsreiser med tog og buss. Uten hensyn til forsinkelser i trafikken, vil reiser mellom Lierbyen og Oslo S i gjennomsnitt bli raskere enn dagens tidsbruk for linje 169, ved at de fleste reiser får en kortere reisetid (Notat 147/2020 utført av Urbanet Analyse).» Ungdommens fylkesråds behandling i møte den 05.04.2024: Fylkeskommunedirektørens forslag: 1. Hovedutvalget vedtar et justert kollektivtilbud i tråd med fylkeskommunedirektørens alternativ 1 slik det fremgår av saken. Vedtaket er i tråd med fylkestingets budsjettvedtak fra 2023 om å redusere kollektivrammen for 2024 med 45 millioner kroner Følgende hadde ordet i saken: Christian Gaptjern var saksordfører og innledet. Bjørn-Egil Tørrissen, Kacper Wyszynski, Elise Haugsvær."
+            },
+            "document": {
+              "objectId": "do_01j76y3s3gf30r5ckwvm1z593q",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc70b1fc0-5212-462a-8f97-ae78a16f5eb1"
+            },
+            "error": null
+          }
         },
         {
           "number": "17/2024",
           "title": "Eventuelt",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F0ba93d96-27ba-4a6d-a2d4-3bb3b00c395f",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5b685c72-fc1d-40e1-880b-dedb392f0228",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Ungdommens fylkesråds vedtak den 05.04.2024:",
+              "text": "Det ble ikke gjort vedtak under eventuelt. Ungdommens fylkesråds behandling i møte den 05.04.2024: 1. Workshop - Diskutere viktigste sakene og utfordringer for ungdom i dag og ungdomsrådets prioriterte satsningsområder for fremtiden. Elise Haugsvær og Bjørn- Egil Tørrissen ledet workshopen. Rådet diskuterte: o Hva påvirker ungdom i Buskerud mest? o Hva er ungdoms største utfordringer i dag? o Hva burde vi som råd legge ned som viktige grunnverdier? o Hva er de tre viktigste prinsippene vi burde stå for? 2. Innspill fra UFR til møte med kultur- og likestillingsministeren om seksuell trakassering. Bjørn-Egil Tørrissen ledet innspillsrunden. Elise Haugsvær og Bjørn-Egil Tørrissen tar med seg innspillene til møtet med statsråd Jaffery. 3. Opplæring i skole og elever som faller utenfor. Kacper Wyszynski innledet. UFR diskuterte arbeidsmuligheter for unge som ikke har fullført vgs."
+            },
+            "document": {
+              "objectId": "do_01j76y3s7ee9srnz4vje09455r",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5b685c72-fc1d-40e1-880b-dedb392f0228"
+            },
+            "error": null
+          }
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "complete",
+        "completed": false,
+        "fixedMembers": [
+          {
+            "name": "Bjørn-Egil Tørrisen",
+            "attendanceRole": "medlem",
+            "representedBy": null
+          },
+          {
+            "name": "Elise Haugsvær",
+            "attendanceRole": "medlem",
+            "representedBy": null
+          },
+          {
+            "name": "Merjem Duderija",
+            "attendanceRole": "medlem",
+            "representedBy": null
+          },
+          {
+            "name": "Linnea Sofie Øye",
+            "attendanceRole": "medlem",
+            "representedBy": null
+          },
+          {
+            "name": "Ida Cecilie Sandholm",
+            "attendanceRole": "medlem",
+            "representedBy": null
+          },
+          {
+            "name": "Anna Rytel",
+            "attendanceRole": "medlem",
+            "representedBy": null
+          },
+          {
+            "name": "Christian Gaptjern",
+            "attendanceRole": "medlem",
+            "representedBy": null
+          },
+          {
+            "name": "Kacper Wyszynski",
+            "attendanceRole": "medlem",
+            "representedBy": null
+          }
+        ],
+        "deputies": [],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/45004f93-5b66-408f-a5da-a4d864715eba",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F45004f93-5b66-408f-a5da-a4d864715eba"
+        }
+      },
+      "metadataStatus": "complete",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F45004f93-5b66-408f-a5da-a4d864715eba"
     },
@@ -326,53 +1636,288 @@
           "title": "Høring - Revidering av retningslinjer og fordelingsnøkkel for utvidet TT-ordning",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F6ab4f21d-4564-4707-b729-a07e79b89aff",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe13ac492-34ac-432e-a1d0-c8a8f97a559f",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Runar Kvam",
+                "party": null
+              },
+              {
+                "name": "Åse Synnøve Jacobsen",
+                "party": null
+              }
+            ],
+            "proposals": [
+              {
+                "proposerName": "Åse Synnøve Jacobsen",
+                "proposerParty": "",
+                "onBehalfOf": null
+              },
+              {
+                "proposerName": "Runar Kvam",
+                "proposerParty": "",
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Råd for mennesker med funksjonsnedsettelses vedtak den 05.04.2024:",
+              "text": "Innspill til hovedutvalg for samferdsel Dersom ordningen skal utvides til å gjelde alle fylker og samtidig utvides med flere grupper, så må finansieringen ta høyde for dette. Ordningen bør fortsatt være øremerket, og ikke overføres rammeoverføringen til fylkene. Vi støtter forslaget om å erstatte den søknadsbaserte tildelingen med en fordelingsnøkkel, slik at man sikrer at midlene kan tildeles ved begynnelsen av året. Diagnose skal ikke være et tildelingskriteria. Fylkene skal ikke helt fritt kunne vurdere tildelingskriteriene. Det bør stilles klarere krav til flere felles retningslinjer slik at alle får mest mulig lik behandling uavhengig av hvor man bor. Vi støtter ikke at «tilgang til universelt utformet kollektivtilbud» og «tilgang til egen bil» skal være et kriteria. Selv om man har tilgang til egen bil, enten i egen husholdning eller fra NAV bør det være et krav til å være med i ordningen. Universelt utformet kollektivtransport kan være vanskelig å benytte grunnet for få rullestolplasser, de kan være opptatt. Dårlig fremkommelighet pga. snø, og holdeplasser som ikke er universelt utformet. Fremkommelighet på vinterstid er ekstra utfordrende for bevegelseshemmede og synshemmede. Blant annet bør følgende kriterier til felles retningslinjer vurderes: • Egenandel settes til 10% • Ordningen er turbasert (at du får et gitt antall turer, fremfor et reisebeløp) • Andre offentlige ytelser. Om du disponerer egen bil og hvordan kollektivtilbudet er der du bor har ikke betydning for vurderingen av tildelingen av TT-kort • Det må være lik kostnad uavhengig om man bruker stor eller liten bil Råd for mennesker med funksjonsnedsettelses behandling i møte den 05.04.2024: Innstilling: Hovedutvalget slutter seg til vedlagte høringssvar. Følgende hadde ordet i saken: Runar Kvam og Åse Synnøve Jacobsen. Åse Synnøve Jacobsen fremmet følgende forslag på saken: Dersom ordningen skal utvides til å gjelde alle fylker og samtidig utvides med flere grupper, så må finansieringen ta høyde for dette. Ordningen bør fortsatt være øremerket, og ikke overføres rammeoverføringen til fylkene. Vi støtter forslaget om å erstatte den søknadsbaserte tildelingen med en fordelingsnøkkel, slik at man sikrer at midlene kan tildeles ved begynnelsen av året. Diagnose skal ikke være et tildelingskriteria. Fylkene skal ikke helt fritt kunne vurdere tildelingskriteriene. Det bør stilles klarere krav til flere felles retningslinjer slik at alle får mest mulig lik behandling uavhengig av hvor man bor. Vi støtter ikke at «tilgang til universelt utformet kollektivtilbud» og «tilgang til egen bil» skal være et kriteria. Selv om man har tilgang til egen bil, enten i egen husholdning eller fra NAV bør det være et krav til å være med i ordningen. Universelt utformet kollektivtransport kan være vanskelig å benytte grunnet for få rullestolplasser, de kan være opptatt. Dårlig fremkommelighet pga. snø, og holdeplasser som ikke er universelt utformet. Blant annet bør følgende kriterier til felles retningslinjer vurderes: • Egenandel settes til 10% • Ordningen er turbasert (at du får et gitt antall turer, fremfor et reisebeløp) • Andre offentlige ytelser. Om du disponerer egen bil og hvordan kollektivtilbudet er der du bor har ikke betydning for vurderingen av tildelingen av TT-kort • Det må være lik kostnad uavhengig om man bruker stor eller liten bil Runar Kvam fremmet følgende tilleggsforslag: Fremkommelighet på vinterstid er ekstra utfordrende for bevegelseshemmede og synshemmede."
+            },
+            "document": {
+              "objectId": "do_01j76y3x09eptaywpz0sxvshzz",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe13ac492-34ac-432e-a1d0-c8a8f97a559f"
+            },
+            "error": null
+          }
         },
         {
           "number": "8/2024",
           "title": "Tilpasning av kollektivtilbudet til nye økonomiske rammer",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Faccf3ef0-a834-4d69-9fd2-d6665d46b037",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe2501812-aeaf-4d4e-a3ee-ebea6f734862",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Lars Stenberg",
+                "party": "INP"
+              },
+              {
+                "name": "Åse Synnøve Jacobsen",
+                "party": null
+              },
+              {
+                "name": "Runar Kvam Råd for mennesker med funksjonsnedsettelser støtter innstillingen: 1. Hovedutvalget vedtar et justert kollektivtilbud i tråd med fylkeskommunedirektørens alternativ 1 slik det fremgår av saken. Vedtaket er i tråd med fylkestingets budsjettvedtak fra 2023 om å redusere kollektivrammen for 2024 med 45 millioner kroner",
+                "party": null
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Råd for mennesker med funksjonsnedsettelses vedtak den 05.04.2024:",
+              "text": "Innstilling til hovedutvalg for samferdsel Råd for mennesker med funksjonsnedsettelser støtter innstillingen: 1. Hovedutvalget vedtar et justert kollektivtilbud i tråd med fylkeskommunedirektørens alternativ 1 slik det fremgår av saken. Vedtaket er i tråd med fylkestingets budsjettvedtak fra 2023 om å redusere kollektivrammen for 2024 med 45 millioner kroner. Råd for mennesker med funksjonsnedsettelses behandling i møte den 05.04.2024: Innstilling: 1. Hovedutvalget vedtar et justert kollektivtilbud i tråd med fylkeskommunedirektørens alternativ 1 slik det fremgår av saken. Vedtaket er i tråd med fylkestingets budsjettvedtak fra 2023 om å redusere kollektivrammen for 2024 med 45 millioner kroner. Følgende hadde ordet i saken: Lars Stenberg (INP), Åse Synnøve Jacobsen, Runar Kvam Råd for mennesker med funksjonsnedsettelser støtter innstillingen: 1. Hovedutvalget vedtar et justert kollektivtilbud i tråd med fylkeskommunedirektørens alternativ 1 slik det fremgår av saken. Vedtaket er i tråd med fylkestingets budsjettvedtak fra 2023 om å redusere kollektivrammen for 2024 med 45 millioner kroner."
+            },
+            "document": {
+              "objectId": "do_01j76y3x5qedevssz4fjzwgddy",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe2501812-aeaf-4d4e-a3ee-ebea6f734862"
+            },
+            "error": null
+          }
         },
         {
           "number": "9/2024",
           "title": "Styringsdokumenter for samferdsel. Framdrift og medvirkning",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F58f7b4ce-6f31-4b97-b0f7-5bd5060f790d",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F72f1e50c-9733-4254-bcfc-03fba49e59f7",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Runar Kvam. Råd for mennesker med funksjonsnedsettelse støtter innstillingen: Framdriftsplanen",
+                "party": null
+              },
+              {
+                "name": "opplegget for medvirkning legges til grunn for arbeidet med handlingsprogram for samferdsel/styringsdokumenter",
+                "party": null
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Råd for mennesker med funksjonsnedsettelses vedtak den 05.04.2024:",
+              "text": "Innstilling til hovedutvalg for samferdsel Råd for mennesker med funksjonsnedsettelse støtter innstillingen: Framdriftsplanen og opplegget for medvirkning legges til grunn for arbeidet med handlingsprogram for samferdsel/styringsdokumenter. Råd for mennesker med funksjonsnedsettelses behandling i møte den 05.04.2024: Innstilling: Framdriftsplanen og opplegget for medvirkning legges til grunn for arbeidet med handlingsprogram for samferdsel/styringsdokumenter. Følgende hadde ordet i saken: Runar Kvam. Råd for mennesker med funksjonsnedsettelse støtter innstillingen: Framdriftsplanen og opplegget for medvirkning legges til grunn for arbeidet med handlingsprogram for samferdsel/styringsdokumenter."
+            },
+            "document": {
+              "objectId": "do_01j76y3xcxfgkb13tzf5b3a1bp",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F72f1e50c-9733-4254-bcfc-03fba49e59f7"
+            },
+            "error": null
+          }
         },
         {
           "number": "10/2024",
           "title": "Høring - Inkorporering av CRPD i norsk lov",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fcf846a11-5fac-4d0f-835b-92d3cfe1f797",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb8a2522a-c8a3-4d50-ae41-a0bc75fa8781",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Åse Synnøve Jacobsen",
+                "party": null
+              }
+            ],
+            "proposals": [
+              {
+                "proposerName": "Åse Synnøve Jacobsen",
+                "proposerParty": "",
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Råd for mennesker med funksjonsnedsettelses vedtak den 05.04.2024:",
+              "text": "Råd for mennesker med funksjonsnedsettelser i Buskerud har følgende høringssvar til inkorporering av CRPD i norsk lov: Det er nå 18 år siden CRPD ble vedtatt i FN, og 11 år siden Norge ratifiserte den. Råd for mennesker med funksjonsnedsettelse i Buskerud mener Norge må anerkjenne mennesker med nedsatt funksjonsevne menneskerettigheter på lik linje med alle andre menneskerettigheter, og inkorporere CRPD i Menneskerettighetsloven. Konvensjonen har ikke som mål å gi nye menneskerettigheter for funksjonshemmede, men å avklare innholdet i eksisterende menneskerettigheter og særlig peke på hva staten må gjøre for at rettighetene skal bli virkeliggjort for funksjonshemmede på lik linje med andre. Selv om konvensjonen ikke utløser nye rettigheter, er den symbolske betydningen svært viktig. Utvalgets flertall mener at hovedargumentet for å inkorporere konvensjonen i Menneskerettighetsloven er den signalverdien om politisk og rettslig status for konvensjonen som dette vil gi. Rådet støtter utvalgets flertall som mener det er naturlig at FNs kjernekonvensjoner må likebehandles i norsk rett, og inkorporeres i menneskerettighetsloven. Råd for mennesker med funksjonsnedsettelses behandling i møte den 05.04.2024: Følgende hadde ordet i saken: Åse Synnøve Jacobsen. Åse Synnøve Jacobsen fremmet følgende forslag: Råd for mennesker med funksjonsnedsettelser i Buskerud har følgende høringssvar til inkorporering av CRPD i norsk lov: Det er nå 18 år siden CRPD ble vedtatt i FN, og 11 år siden Norge ratifiserte den. Råd for mennesker med funksjonsnedsettelse i Buskerud mener Norge må anerkjenne mennesker med nedsatt funksjonsevne menneskerettigheter på lik linje med alle andre menneskerettigheter, og inkorporere CRPD i Menneskerettighetsloven. Konvensjonen har ikke som mål å gi nye menneskerettigheter for funksjonshemmede, men å avklare innholdet i eksisterende menneskerettigheter og særlig peke på hva staten må gjøre for at rettighetene skal bli virkeliggjort for funksjonshemmede på lik linje med andre. Selv om konvensjonen ikke utløser nye rettigheter, er den symbolske betydningen svært viktig. Utvalgets flertall mener at hovedargumentet for å inkorporere konvensjonen i Menneskerettighetsloven er den signalverdien om politisk og rettslig status for konvensjonen som dette vil gi. Rådet støtter utvalgets flertall som mener det er naturlig at FNs kjernekonvensjoner må likebehandles i norsk rett, og inkorporeres i menneskerettighetsloven."
+            },
+            "document": {
+              "objectId": "do_01j76y3x7ne03sydq6dp8kq0p4",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb8a2522a-c8a3-4d50-ae41-a0bc75fa8781"
+            },
+            "error": null
+          }
         },
         {
           "number": "11/2024",
           "title": "Bekymringsmelding - Nedbygging av lærerkandidatordningen for spesielt svake elever i Buskerud",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F3952cb86-cff5-4d8e-8b70-511cf969b76b",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F39f323eb-06db-4713-98a5-f6424d609a40",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Åse Synnøve Jacobsen",
+                "party": null
+              },
+              {
+                "name": "Runar Kvam",
+                "party": null
+              }
+            ],
+            "proposals": [
+              {
+                "proposerName": "Åse Synnøve Jacobsen",
+                "proposerParty": "",
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Råd for mennesker med funksjonsnedsettelses vedtak den 05.04.2024:",
+              "text": "Råd for mennesker med funksjonsnedsettelser i Buskerud har mottatt en bekymringsmelding om nedbygging av tilbud om tilrettelagt fagopplæring i bedrift for elever med behov for spesialundervisning, sendt rådet 24.01.2024 fra daglig leder i Svelvik Produkter AS, (Vekstbedriftene i Buskerud som holder på med spesialundervisning i bedrift (lærerkandidater), spesielt tilrettelagt opplæring og arbeid generelt. ) Tilbudet til elever med vedtak om spesialundervisning i videregående skole som ønsker fagopplæring mister et godt etablert tilbud. Tilbudet til elever er fjernet etter at avtalen med Viken fylkeskommune er oppsagt. I Buskerud fylkeskommune vil det ikke bli laget en ny avtale. Råd for mennesker med nedsatt funksjonsevne ser med stor bekymring på at dette tilbudet for spesielt svake elever i Buskerud ikke kan benyttes. Rådet støtter bekymringsmeldingen og oppfordrer fylkeskommunen til å omgjøre sitt vedtak på nedbygging av lærerkandidatordningen for spesielt svake elever i Buskerud. Vi viser også til Grunnlovens § 92, og FNs bærekraftsmål nr 4 som skal sikre inkluderende og rettferdig utdanning for alle, og FNs konvensjonen CRPD artikkel 24 utdanning. Råd for mennesker med funksjonsnedsettelses behandling i møte den 05.04.2024: Innstilling: Råd for funksjonshemmede (RFF Buskerud) har mottatt en bekymringsmelding om nedbygging av tilbud om tilrettelagt fagopplæring i bedrift for elever med behov for spesialundervisning, sendt rådet 24.01.2024 fra daglig leder i Svelvik Produkter AS, (Vekstbedriftene i Buskerud som holder på med spesialundervisning i bedrift (lærerkandidater), spesielt tilrettelagt opplæring og arbeid generelt. ) Tilbudet til elever med vedtak om spesialundervisning i videregående skole som ønsker fagopplæring mister et godt etablert tilbud. Tilbudet til elever er fjernet etter at avtalen med Viken fylkeskommune er oppsagt. I Buskerud fylkeskommune vil det ikke bli laget en ny avtale. RFF Buskerud ser med stor bekymring på at dette tilbudet for spesielt svake elever i Buskerud ikke kan benyttes. Rådet støtter bekymringsmeldingen og oppfordrer fylkeskommunen til å omgjøre sitt vedtak på nedbygging av lærerkandidatordningen for spesielt svake elever i Buskerud. Følgende hadde ordet i saken: Åse Synnøve Jacobsen og Runar Kvam. Åse Synnøve Jacobsen fremmet følgende forslag: Rådet ser med bekymring på nedbygging av lærerkandidatordningen i Buskerud. Vi viser til § 92 i Grunnloven Statens myndigheter skal respektere og sikre menneskerettighetene slik de er nedfelt i grunnloven og i for Norge bindende traktater om menneskerettigheter. Vi viser til FNs bærekraftsmål nr 4 som skal sikre inkluderende og rettferdig utdanning og fremme muligheter for livslang læring for alle. CRPD (FNs konvensjon om rettighetene til mennesker med nedsatt funksjonsevne) ratifisert 12.4.2013, vedtatt i Stortinget 19.3.2013. Artikkel 24 utdanning, «partene skal sikre et inkluderende utdanningssystem på alle nivåer, samt livslang læring». CRPD er nå ute på høring og forventes å tas inn i norsk lov om menneskerettigheter i løpet av 2024. Vedtak: RFF Buskerud ønsker å videreføre lærekandidatordningen i Viken til Buskerud. Vi viser til Grunnlovens § 92, og FNs bærekraftsmål nr 4 som skal sikre inkluderende og rettferdig utdanning for alle, og FNs konvensjonen CRPD artikkel 24 utdanning."
+            },
+            "document": {
+              "objectId": "do_01j76y3xb6eharcvez5yk3j7cv",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F39f323eb-06db-4713-98a5-f6424d609a40"
+            },
+            "error": null
+          }
         },
         {
           "number": "12/2024",
           "title": "Handlingsprogram for råd for mennesker med funksjonsnedsettelser 2023-2027",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fa7762be0-22a7-416f-882d-fa08db19d3e8",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F59651152-bed0-4dca-aa24-0c51723bb96a",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Åse Synnøve Jacobsen",
+                "party": null
+              },
+              {
+                "name": "Runar Kvam",
+                "party": null
+              }
+            ],
+            "proposals": [
+              {
+                "proposerName": "Åse Synnøve Jacobsen",
+                "proposerParty": "",
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Råd for mennesker med funksjonsnedsettelses vedtak den 05.04.2024:",
+              "text": "Råd for mennesker med funksjonsnedsettelser vedtar sitt handlingsprogram for 2023-2027 med følgende endring til punkt 7. Fokusområder for Rådet i første punkt tilføres: CRPD. • Likestilling og likeverd, full deltakelse for alle. FN-konvensjonen (CRPD) Råd for mennesker med funksjonsnedsettelses behandling i møte den 05.04.2024: Innstilling: Råd for mennesker med funksjonsnedsettelser vedtar sitt handlingsprogram for 2023-2027. Følgende hadde ordet i saken: Åse Synnøve Jacobsen og Runar Kvam. Åse Synnøve Jacobsen fremmet følgende tilleggsforslag: Til punkt 7. Fokusområder for Rådet i første punkt tilføres: CRPD. • Likestilling og likeverd, full deltakelse for alle. FN-konvensjonen (CRPD)"
+            },
+            "document": {
+              "objectId": "do_01j76y3x23ff8b8671sr0rfvf0",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F59651152-bed0-4dca-aa24-0c51723bb96a"
+            },
+            "error": null
+          }
         },
         {
           "number": "13/2024",
           "title": "Åpen post - RFF 05.04.2024",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F169576c4-5b0c-43ea-a5c9-58a7d1ebe9a0",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5cd3ff4e-e409-47d6-b0ce-ff953a28a425",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Råd for mennesker med funksjonsnedsettelses vedtak den 05.04.2024:",
+              "text": "1. Planlegge møte med fylkesordfører og hovedutvalgsledere. Rådet ønsker å invitere hovedutvalgsledere og opposisjonsledere til en dialog i rådsmøtene for å bli kjent. Det planlegges et dialogmøte med fylkesordfører og ledere og nestledere i medvirkningsorganene. 2. Planlegging av dagskonferanse med de kommunale råd 17. oktober. Følgende arbeidsgruppe ser på temaer og foredragsholdere til dagskonferansen: Åse Synnøve Jacobsen, Atle Haglund, Gro Iren Stenberg og Lars Stenberg (INP). Sekretær inviterer til teamsmøte mandag 15.4, kl. 16.00-17.00. 3. Evaluering av KS-folkevalgtopplæring med medvirkningsorganene 20. februar. Alle var enige om at det var en fin samling med KS-folkevalgtopplæring og følgende punkter ble fremmet: • Fint at det var en sammensetning av nye og erfarne medlemmer • Vi skulle gjerne sett flere politikere som deltok • Vi burde fått møtegodtgjøring for oppmøte • Positivt at medlemmer fra de ulike medvirkningsorganene satt i blanda grupper Råd for mennesker med funksjonsnedsettelses behandling i møte den 05.04.2024:"
+            },
+            "document": {
+              "objectId": "do_01j76y3x9tfbdr1tmtqj8d1t5m",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5cd3ff4e-e409-47d6-b0ce-ff953a28a425"
+            },
+            "error": null
+          }
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "complete",
+        "completed": false,
+        "fixedMembers": [
+          {
+            "name": "Runar Kvam",
+            "attendanceRole": "medlem",
+            "representedBy": "FFO"
+          },
+          {
+            "name": "Gro Helen Stenberg",
+            "attendanceRole": "medlem",
+            "representedBy": "FFO"
+          },
+          {
+            "name": "Kristin Reine",
+            "attendanceRole": "medlem",
+            "representedBy": "FFO"
+          },
+          {
+            "name": "Åse Synnøve Jacobsen",
+            "attendanceRole": "medlem",
+            "representedBy": "SAFO"
+          },
+          {
+            "name": "Atle Haglund",
+            "attendanceRole": "medlem",
+            "representedBy": "SAFO"
+          },
+          {
+            "name": "Lars Stenberg",
+            "attendanceRole": "medlem",
+            "representedBy": "INP"
+          }
+        ],
+        "deputies": [],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/e7039e45-bfc6-4b35-8835-d6e441344605",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe7039e45-bfc6-4b35-8835-d6e441344605"
+        }
+      },
+      "metadataStatus": "complete",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe7039e45-bfc6-4b35-8835-d6e441344605"
     },
@@ -496,88 +2041,413 @@
           "title": "Godkjenning av innkalling med saksliste",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Ff4104690-177d-4c16-8e83-38f78e8a54ba",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fac327575-5e1a-4400-9dea-30125564d24b",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Hovedutvalg for næring og innovasjons vedtak den 10.04.2024:",
+              "text": "Hovedutvalg for næring og innovasjons behandling i møte den 10.04.2024: Innkalling og protokoll ble godkjent uten merknader. Til protokollkomite ble Inger Synnøve Kammerud (H) og Bjørn Tore Ødegården (Ap) valgt."
+            },
+            "document": {
+              "objectId": "do_01j76y3t0xe45a9xc78zygf5ad",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fac327575-5e1a-4400-9dea-30125564d24b"
+            },
+            "error": null
+          }
         },
         {
           "number": "9/2024",
           "title": "Støtteordning for bredbåndsutbygging - retningslinjer og prosess",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Ff2a4fe4c-0a2f-43e8-8809-05ead764f9a3",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F420b1c21-b6ba-4fde-92e0-99bdc25adefb",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Hovedutvalg for næring og innovasjons vedtak den 10.04.2024:",
+              "text": "1.Hovedutvalget for næring og innovasjon godkjenner utlysning av statlig støtteordning for bredbåndsutbygging i Buskerud i 2024. Rammen for ordningen er 21 millioner kroner, og disse er statlige øremerkede midler med egne føringer og retningslinjer. 2.Hovedutvalg for næring og innovasjon ber om at prosjektene vurderes etter følgende kriterier og vekting: Kostnadseffektivitet (60%), lokale bidrag (20%), gjennomføring (20%). Endelig prioritering og beslutning om tildeling gjøres av hovedutvalg for næring og innovasjon høsten 2024. Hovedutvalg for næring og innovasjons behandling i møte den 10.04.2024: Fylkeskommunedirektørens innstilling til vedtak: 1. Hovedutvalget for næring og innovasjon godkjenner utlysning av statlig støtteordning for bredbåndsutbygging i Buskerud i 2024. Rammen for ordningen er 21 millioner kroner, og disse er statlige øremerkede midler med egne føringer og retningslinjer. 2. Hovedutvalg for næring og innovasjon ber om at prosjektene vurderes etter følgende kriterier og vekting: Kostnadseffektivitet (60%), lokale bidrag (20%), gjennomføring (20%). Endelig prioritering og beslutning om tildeling gjøres av hovedutvalg for næring og innovasjon høsten 2024. Ingen hadde ordet til saken."
+            },
+            "document": {
+              "objectId": "do_01j76y3syzfywsn45wcmmhbdaq",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F420b1c21-b6ba-4fde-92e0-99bdc25adefb"
+            },
+            "error": null
+          }
         },
         {
           "number": "10/2024",
           "title": "Orienteringssak om historiske tildelinger i Viken på næringsområdet",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F295c73a8-3631-44c8-9fc6-b4ba60380d87",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4a4b7948-a722-40f2-8bd3-acf5ec80f801",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Inger Synnøve Kammerud",
+                "party": "Høyre"
+              },
+              {
+                "name": "Kjell Erland Grønbeck",
+                "party": "Krf"
+              },
+              {
+                "name": "fylkesdirektør Bente Bjerknes",
+                "party": null
+              },
+              {
+                "name": "Julie Vaage",
+                "party": "V"
+              },
+              {
+                "name": "Bjørn Tore Ødegården",
+                "party": "Ap"
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Hovedutvalg for næring og innovasjons vedtak den 10.04.2024:",
+              "text": "1.Hovedutvalget for Næring og Innovasjon tar oversikter over tildelinger til næringsutvikling i Viken til orientering. Hovedutvalg for næring og innovasjons behandling i møte den 10.04.2024: Fylkeskommunedirektørens innstilling til vedtak: 1. Hovedutvalget for Næring og Innovasjon tar oversikter over tildelinger til næringsutvikling i Viken til orientering. Følgende hadde ordet i saken: Inger Synnøve Kammerud (Høyre), Kjell Erland Grønbeck(Krf), fylkesdirektør Bente Bjerknes, Julie Vaage (V), og Bjørn Tore Ødegården (Ap)."
+            },
+            "document": {
+              "objectId": "do_01j76y3ss4f82ra7v889jhd7ka",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4a4b7948-a722-40f2-8bd3-acf5ec80f801"
+            },
+            "error": null
+          }
         },
         {
           "number": "11/2024",
           "title": "Tildeling av statlige landbruksmidler 2024",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F31df2a9c-5ad2-4060-b165-5a2bfd853097",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F54202930-6298-429b-a5bd-d34b9cd06438",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Søren Falch Zapffe",
+                "party": "H"
+              },
+              {
+                "name": "fylkesdirektør Bente Bjerknes",
+                "party": null
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Hovedutvalg for næring og innovasjons vedtak den 10.04.2024:",
+              "text": "1. Hovedutvalget for næring og innovasjon beslutter at det, i tråd med forskrift om regionale tilskudd til næringsutvikling, rekruttering og kompetanseheving i landbruket, tildeles kr. 2 973 000,- i støtte til totalt 13 søknader i 2024. Rekrutterings- og kompetansehevingsmidler tildeles 4 søknader: Buskerud- Velg Naturbruk! 2024/2025, kr 120 000,- Miljørådgivning for bønder med areal under den marine grense tilknyttet Simoa, kr 100 000,- AmmeKUkurs for damer 2025, kr 98 000,- Samlesøknad RK midler Buskerud NLR SA med 7 enkeltprosjekter, kr 478 000,- Søknaden Forbedret kommunikasjon og nye salgsmuligheter avslås Regionale tilretteleggingsmidler tildeles 9 søknader: Økouka Buskerud 2025, kr 150 000,- Gardsgründer 2024/2025, kr 300 000,- Kornprogram for Bondelagene i Viken fylkene, kr 135 000,- Nettverk for markedshager i Buskerud, Akershus, Østfold og Oslo 2024-2026, kr 100 000,- Prosjekt Trygg Bonde Buskerud, kr 217 000,- Forprosjekt: Kva skal til for at politikarar skal vera betre rusta til å ta avgjerder i arealsaker, kr 230 000,- Samlesøknad RT midler Buskerud NLR SA med 6 enkeltprosjekter, kr 685 000,- Matveien videre - et regionalt samarbeid, kr 300 000,- Filmer for å øke interessen for regenerativt jordbruk og jordhelse, kr 60 000,- Søknaden Sommerjobb i skogen JOB:U 2025 avslås Søknaden Huso markedshagevekst avslås Søknaden Fagskoletilbud frukt og bærdyrking avslås Kr. 2 480 000,- av midlene til tilskuddene er avsatt over jordbruksoppgjøret, og Viken fylkeskommune får midlene overført fra Landbruksdirektoratet. Overskytende tilskudd, kr. 493 000 hentes fra restmidler i samme ordning fra Viken fylkeskommune. Hovedutvalg for næring og innovasjons behandling i møte den 10.04.2024: Fylkeskommunedirektørens innstilling til vedtak: 1. Hovedutvalget for næring og innovasjon beslutter at det, i tråd med forskrift om regionale tilskudd til næringsutvikling, rekruttering og kompetanseheving i landbruket, tildeles kr. 2 973 000,- i støtte til totalt 13 søknader i 2024. Rekrutterings- og kompetansehevingsmidler tildeles 4 søknader: Buskerud- Velg Naturbruk! 2024/2025, kr 120 000,- Miljørådgivning for bønder med areal under den marine grense tilknyttet Simoa, kr 100 000,- AmmeKUkurs for damer 2025, kr 98 000,- Samlesøknad RK midler Buskerud NLR SA med 7 enkeltprosjekter, kr 478 000,- Søknaden Forbedret kommunikasjon og nye salgsmuligheter avslås Regionale tilretteleggingsmidler tildeles 9 søknader: Økouka Buskerud 2025, kr 150 000,- Gardsgründer 2024/2025, kr 300 000,- Kornprogram for Bondelagene i Viken fylkene, kr 135 000,- Nettverk for markedshager i Buskerud, Akershus, Østfold og Oslo 2024-2026, kr 100 000,- Prosjekt Trygg Bonde Buskerud, kr 217 000,- Forprosjekt: Kva skal til for at politikarar skal vera betre rusta til å ta avgjerder i arealsaker, kr 230 000,- Samlesøknad RT midler Buskerud NLR SA med 6 enkeltprosjekter, kr 685 000,- Matveien videre - et regionalt samarbeid, kr 300 000,- Filmer for å øke interessen for regenerativt jordbruk og jordhelse, kr 60 000,- Søknaden Sommerjobb i skogen JOB:U 2025 avslås Søknaden Huso markedshagevekst avslås Søknaden Fagskoletilbud frukt og bærdyrking avslås Kr. 2 480 000,- av midlene til tilskuddene er avsatt over jordbruksoppgjøret, og Viken fylkeskommune får midlene overført fra Landbruksdirektoratet. Overskytende tilskudd, kr. 493 000 hentes fra restmidler i samme ordning fra Viken fylkeskommune. Følgende hadde ordet i saken: Søren Falch Zapffe (H) og fylkesdirektør Bente Bjerknes."
+            },
+            "document": {
+              "objectId": "do_01j76y3sdfejjajsd18f6w8gkq",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F54202930-6298-429b-a5bd-d34b9cd06438"
+            },
+            "error": null
+          }
         },
         {
           "number": "12/2024",
           "title": "Tilskudd for 2024 til Fjellnettverkets prosjekt Mat og opplevingar",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F40ea0ce5-30ba-4ecc-a69b-2c613104fb83",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3c72c7eb-a4ab-4527-8f73-28af3b60096c",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Inger Synnøve Kammerud",
+                "party": "H"
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Hovedutvalg for næring og innovasjons vedtak den 10.04.2024:",
+              "text": "1. Hovedutvalget for næring og innovasjon godkjenner tilskudd på kr 800.000,- for 2024 til Fjellnettverkets prosjekt Mat og opplevingar finansiert med balansemidler fra Viken. Hovedutvalg for næring og innovasjons behandling i møte den 10.04.2024: Fylkeskommunedirektørens innstilling til vedtak: 1. Hovedutvalget for næring og innovasjon godkjenner tilskudd på kr 800.000,- for 2024 til Fjellnettverkets prosjekt Mat og opplevingar finansiert med balansemidler fra Viken. Følgende hadde ordet i saken: Inger Synnøve Kammerud (H)"
+            },
+            "document": {
+              "objectId": "do_01j76y3sh1esh8frebafk945n0",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3c72c7eb-a4ab-4527-8f73-28af3b60096c"
+            },
+            "error": null
+          }
         },
         {
           "number": "13/2024",
           "title": "Tildeling av statlige regional omstillingsmidler fra Kommunal- og distriktsdepartementet (KDD) 2024 til Hallingdal",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F3347893a-7a9f-47a3-a471-ea085e606106",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe1a5342c-3cb3-4d97-b0e7-0a3ce0d3b52a",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Hovedutvalg for næring og innovasjons vedtak den 10.04.2024:",
+              "text": "1. Regionale omstillingsmidler fra Kommunal- og distriktsdepartementet tildeles til omstillingsregionen Hallingdal med 1 mill. kroner. 2. Midlene skal brukes til det pågående omstillingsarbeidet i regionen i henhold til den vedtatte omstillings- og handlingsplanen. Hovedutvalg for næring og innovasjons behandling i møte den 10.04.2024: Fylkeskommunedirektørens innstilling til vedtak: 1. Regionale omstillingsmidler fra Kommunal- og distriktsdepartementet tildeles til omstillingsregionen Hallingdal med 1 mill. kroner. 2. Midlene skal brukes til det pågående omstillingsarbeidet i regionen i henhold til den vedtatte omstillings- og handlingsplanen. Ingen hadde ordet til saken."
+            },
+            "document": {
+              "objectId": "do_01j76y3sfffw5t64fjbv5vnfcf",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe1a5342c-3cb3-4d97-b0e7-0a3ce0d3b52a"
+            },
+            "error": null
+          }
         },
         {
           "number": "14/2024",
           "title": "Klimasats: Rådgivning til utbyggere i hvordan å redusere utslipp fra bygg- og anleggsdrift",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd304fd64-ca50-48f6-8b8b-3c0ae1dec728",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4513cdd0-7745-4472-8abe-ee91e4637cce",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Kjell Erland Grønbeck",
+                "party": "Krf"
+              },
+              {
+                "name": "Bjørn Tore Ødegården",
+                "party": "Ap"
+              },
+              {
+                "name": "Inger Synnøve Kammerud",
+                "party": "H"
+              },
+              {
+                "name": "fylkesdirektør Bente Bjerknes",
+                "party": null
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Hovedutvalg for næring og innovasjons vedtak den 10.04.2024:",
+              "text": "1. Fylkeskommunedirektøren ber Hovedutvalget for Næring og Innovasjon ta forslag om revidert prosjektplan til orientering. Hovedutvalg for næring og innovasjons behandling i møte den 10.04.2024: Fylkeskommunedirektørens innstilling til vedtak: 1. Fylkeskommunedirektøren ber Hovedutvalget for Næring og Innovasjon ta forslag om revidert prosjektplan til orientering. Følgende hadde ordet i saken: Kjell Erland Grønbeck (Krf), Bjørn Tore Ødegården (Ap), Inger Synnøve Kammerud (H), og fylkesdirektør Bente Bjerknes."
+            },
+            "document": {
+              "objectId": "do_01j76y3swze16bppg1k0vx8v65",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4513cdd0-7745-4472-8abe-ee91e4637cce"
+            },
+            "error": null
+          }
         },
         {
           "number": "15/2024",
           "title": "Innspill til budsjettprosess 2025 fra næring og innovasjon",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F9e3c0d7b-d2ee-4ed3-9125-04b945dd419d",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Faf9ec163-8a38-4586-8dd3-79ecae21791e",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Julie Vaage",
+                "party": "V"
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Hovedutvalg for næring og innovasjons vedtak den 10.04.2024:",
+              "text": "1. Hovedutvalg for næring og innovasjon tar saken til orientering. Innspillet følges opp gjennom budsjettprosessen for 2025. Hovedutvalg for næring og innovasjons behandling i møte den 10.04.2024: Fylkeskommunedirektørens innstilling til vedtak: 1. Hovedutvalg for næring og innovasjon tar saken til orientering. Innspillet følges opp gjennom budsjettprosessen for 2025. Følgende hadde ordet i saken: Julie Vaage (V)"
+            },
+            "document": {
+              "objectId": "do_01j76y3sv6f23v3fmcpxjmpvyn",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Faf9ec163-8a38-4586-8dd3-79ecae21791e"
+            },
+            "error": null
+          }
         },
         {
           "number": "16/2024",
           "title": "Høringsuttalelse til Energidepartementet - NVEs vurdering av søknad om konsesjon til Hemsil 3 kraftverk",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F4e0dba7f-fb1b-485b-9604-f18f5576458e",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F178edee7-0cbd-4f0d-8787-c0347461fa42",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Morgan Langfeldt",
+                "party": "Frp"
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Hovedutvalg for næring og innovasjons vedtak den 10.04.2024:",
+              "text": "1. Hovedutvalg for næring og innovasjon er positive til at det gis konsesjon til Hemsil 3. Hovedutvalget vil allikevel påpeke at det er uheldig at konsesjonen til Hemsil 3 gis tre år etter at det ble gjennomført revisjon av konsesjonsvilkår for Hemsilvassdraget og at kommunenes innspill ikke er bedre ivaretatt. 2. Hovedutvalg for næring og innovasjon ber om at det gjøres en ny, oppdatert vurdering av tiltaket opp mot gjeldende regional vannforvaltningsplan og fastsatt miljømål. 3. Det er positivt at tidligere deponier gjenbrukes, slik at nye inngrep/deponier i størst mulig grad unngås. Videre bør overskuddsmassene som plasseres i deponiene søkes gjenbrukt og gjenvunnet. 4. Hovedutvalg for næring og innovasjon ber om at følgende setning innarbeides i eventuelt vedtak om konsesjon for Hemsil 3: «Dersom det under anleggsarbeid treffes på automatisk freda kulturminner, skal arbeidet øyeblikkelig stanses og fylkeskommunen varsles, jmf. kulturminneloven § 8, 2. ledd”.» Hovedutvalg for næring og innovasjons behandling i møte den 10.04.2024: Fylkeskommunedirektørens innstilling til vedtak: 1. Hovedutvalg for næring og innovasjon er positive til at det gis konsesjon til Hemsil 3. Hovedutvalget vil allikevel påpeke at det er uheldig at konsesjonen til Hemsil 3 gis tre år etter at det ble gjennomført revisjon av konsesjonsvilkår for Hemsilvassdraget og at kommunenes innspill ikke er bedre ivaretatt. 2. Hovedutvalg for næring og innovasjon ber om at det gjøres en ny, oppdatert vurdering av tiltaket opp mot gjeldende regional vannforvaltningsplan og fastsatt miljømål. 3. Det er positivt at tidligere deponier gjenbrukes, slik at nye inngrep/deponier i størst mulig grad unngås. Videre bør overskuddsmassene som plasseres i deponiene søkes gjenbrukt og gjenvunnet. 4. Hovedutvalg for næring og innovasjon ber om at følgende setning innarbeides i eventuelt vedtak om konsesjon for Hemsil 3: «Dersom det under anleggsarbeid treffes på automatisk freda kulturminner, skal arbeidet øyeblikkelig stanses og fylkeskommunen varsles, jmf. kulturminneloven § 8, 2. ledd”.» Følgende hadde ordet i saken: Morgan Langfeldt (Frp)"
+            },
+            "document": {
+              "objectId": "do_01j76y3sp9f6brd4qx64p3wj5x",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F178edee7-0cbd-4f0d-8787-c0347461fa42"
+            },
+            "error": null
+          }
         },
         {
           "number": "17/2024",
           "title": "Orientering om saker om søknader om fysiske tiltak i vassdrag",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F45c498f8-0469-4852-bfd6-000f7516a8eb",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F7c6858e0-45e8-45d4-803b-962e661217ef",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Hovedutvalg for næring og innovasjons vedtak den 10.04.2024:",
+              "text": "1. Hovedutvalg for næring og innovasjon tar saken tas til orientering. Hovedutvalg for næring og innovasjons behandling i møte den 10.04.2024: Fylkeskommunedirektørens innstilling til vedtak: 1. Hovedutvalg for næring og innovasjon tar saken tas til orientering. Ingen hadde ordet til saken."
+            },
+            "document": {
+              "objectId": "do_01j76y3sm3e1nttnjfxsk074vv",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F7c6858e0-45e8-45d4-803b-962e661217ef"
+            },
+            "error": null
+          }
         },
         {
           "number": "18/2024",
           "title": "Opprettelse av fylkeskommunalt viltfond",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F2f6bf568-d0b0-4c7a-b440-e0fd38078049",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fefbfb7ea-370a-4ca3-a92c-7e0c5737476f",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Hovedutvalg for næring og innovasjons vedtak den 10.04.2024:",
+              "text": "1. Buskerud fylkeskommune oppretter fylkeskommunalt viltfond i tråd med forskrift om kommunale og fylkeskommunale viltfond og fellingsavgift for elg og hjort av 15. mai 2011. Hovedutvalg for næring og innovasjons behandling i møte den 10.04.2024: Fylkeskommunedirektørens innstilling til vedtak: 1. Buskerud fylkeskommune oppretter fylkeskommunalt viltfond i tråd med forskrift om kommunale og fylkeskommunale viltfond og fellingsavgift for elg og hjort av 15. mai 2011. Ingen hadde ordet til saken."
+            },
+            "document": {
+              "objectId": "do_01j76y3sb1fb4s25x9x2zmx0z6",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fefbfb7ea-370a-4ca3-a92c-7e0c5737476f"
+            },
+            "error": null
+          }
         },
         {
           "number": "19/2024",
           "title": "Fordeling av tilskudd til vilttiltak 2024",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F5c3bd290-20a2-4101-b91c-5b491254bb1b",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9fcbace7-1346-474c-829e-227ad763b9bd",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Morgan Langfeldt",
+                "party": "Frp"
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Hovedutvalg for næring og innovasjons vedtak den 10.04.2024:",
+              "text": "1. Hovedutvalg for næring og innovasjon fordeler tilskudd til vilttiltak i 2024 i henhold til forskrift om tilskudd til viltformål slik: a) Høgskolen i Innlandet til prosjektet «ElgMark», kr. 25.000,- b) Høgskolen i Innlandet til prosjektet «Hvorfor er elgkalvene mindre enn før?», kr. 100.000,- c) Vetrinærinstituttet til prosjektet «Elgkalven TRAMPE 1: Undersøkelser av syk/død kalv», kr. 56.400,- d) Skogkurs til prosjektet «Nettkurs i elg- og hjorteforvaltning», kr. 50.000,- e) Stiftelsen Norsk institutt for naturforskning NINA til prosjektet «Elgens beiteøkologi og kondisjon i Norge», kr. 100.000,- f) Universitetet i Sørøst Norge til prosjektet «Økologi og forvaltning av rådyr i urbane strøk», kr. 82.000,- 2. Midlene tas fra ansvar 611010 Plan og miljø Hovedutvalg for næring og innovasjons behandling i møte den 10.04.2024: Fylkeskommunedirektørens innstilling til vedtak: 1. Hovedutvalg for næring og innovasjon fordeler tilskudd til vilttiltak i 2024 i henhold til forskrift om tilskudd til viltformål slik: a) Høgskolen i Innlandet til prosjektet «ElgMark», kr. 25.000,- b) Høgskolen i Innlandet til prosjektet «Hvorfor er elgkalvene mindre enn før?», kr. 100.000,- c) Vetrinærinstituttet til prosjektet «Elgkalven TRAMPE 1: Undersøkelser av syk/død kalv», kr. 56.400,- d) Skogkurs til prosjektet «Nettkurs i elg- og hjorteforvaltning», kr. 50.000,- e) Stiftelsen Norsk institutt for naturforskning NINA til prosjektet «Elgens beiteøkologi og kondisjon i Norge», kr. 100.000,- f) Universitetet i Sørøst Norge til prosjektet «Økologi og forvaltning av rådyr i urbane strøk», kr. 82.000,- 2. Midlene tas fra ansvar 611010 Plan og miljø Følgende hadde ordet i saken: Morgan Langfeldt (Frp)"
+            },
+            "document": {
+              "objectId": "do_01j76y3sqrewwb590mbyy8qqxq",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9fcbace7-1346-474c-829e-227ad763b9bd"
+            },
+            "error": null
+          }
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "complete",
+        "completed": false,
+        "fixedMembers": [
+          {
+            "name": "Roger Larsen",
+            "attendanceRole": "leder",
+            "representedBy": "INP"
+          },
+          {
+            "name": "Kjell Erland Grønbeck",
+            "attendanceRole": "nestleder",
+            "representedBy": "KRF"
+          },
+          {
+            "name": "Inger Synnøve Kammerud",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Søren Falch Zapffe",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Morgan Langfeldt",
+            "attendanceRole": "medlem",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Randi Eng",
+            "attendanceRole": "medlem",
+            "representedBy": "PP"
+          },
+          {
+            "name": "Bjørn Tore Ødegården",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Ellen Ramson Høie",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Julie Vaage",
+            "attendanceRole": "medlem",
+            "representedBy": "V"
+          },
+          {
+            "name": "Stian Bakken",
+            "attendanceRole": "medlem",
+            "representedBy": "SP"
+          }
+        ],
+        "deputies": [
+          {
+            "name": "Sadi Emeci",
+            "attendanceRole": "deputy",
+            "representedBy": "SV"
+          }
+        ],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/f161320a-cf35-4f46-afa8-40261a209919",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff161320a-cf35-4f46-afa8-40261a209919"
+        }
+      },
+      "metadataStatus": "complete",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff161320a-cf35-4f46-afa8-40261a209919"
     },
@@ -849,67 +2719,225 @@
           "title": "Godkjenning av innkalling og protokoll",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fa1180364-103b-4f03-ae4e-47f6a71bc853",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2280607e-685c-4be6-972c-c60741073f66",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkesutvalgets vedtak den 16.04.2024:",
+              "text": "Innkalling og protokoll ble godkjent uten merknader."
+            },
+            "document": {
+              "objectId": "do_01j76y3sxxf7gvcjprg91peg4s",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2280607e-685c-4be6-972c-c60741073f66"
+            },
+            "error": null
+          }
         },
         {
           "number": "22/2024",
           "title": "Orienteringer",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fcd975cc2-5a93-4f31-b54f-d08908417afd",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fee80f0bf-ecec-4cbb-af2c-f10ec9f414b7",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkesutvalgets vedtak den 16.04.2024:",
+              "text": "Det ble ikke gjort vedtak under orienteringene."
+            },
+            "document": {
+              "objectId": "do_01j76y3sahe3nbxkqf3gvmpvj8",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fee80f0bf-ecec-4cbb-af2c-f10ec9f414b7"
+            },
+            "error": null
+          }
         },
         {
           "number": "23/2024",
           "title": "Medeierskap i Hardangerviddatunnelene as",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F38793326-bbaf-495c-b978-ef0c01be4a5c",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fada6eaaa-e397-41cd-b639-537a0272cd6e",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Iselin Haugo Stavn",
+                "party": "H"
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkesutvalgets vedtak den 16.04.2024:",
+              "text": "Fylkesutvalgets innstilling til fylkestinget: Buskerud fylkeskommune ønsker ikke å bli medeier i Hardangerviddatunnelene as."
+            },
+            "document": {
+              "objectId": "do_01j76y3skkfxk8krnk9mw8kdm7",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fada6eaaa-e397-41cd-b639-537a0272cd6e"
+            },
+            "error": null
+          }
         },
         {
           "number": "24/2024",
           "title": "Medlemskap i Kraftfylka - invitasjon til Buskerud fylkeskommune",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Ff2133c54-c3d6-4fd5-acc5-cc301fae21db",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fee7f9cba-4fff-4958-900a-c9ce1bd4066a",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkesutvalgets vedtak den 16.04.2024:",
+              "text": "Buskerud fylkeskommune melder seg ikke inn i Samarbeidande Kraftfylke."
+            },
+            "document": {
+              "objectId": "do_01j76y3sf9ems9ngtjmdpvfc8j",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fee7f9cba-4fff-4958-900a-c9ce1bd4066a"
+            },
+            "error": null
+          }
         },
         {
           "number": "25/2024",
           "title": "Arealregnskap for Buskerud, Akershus og Østfold",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F5dcbb169-2337-455a-bd58-d7d34ed893c1",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F25b933b6-2e38-4495-8209-42c4093a1954",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkesutvalgets vedtak den 16.04.2024:",
+              "text": "1. Buskerud fylkeskommune støtter at Akershus fylkeskommune er prosjektleder for arealregnskapsprosjektet og deltar med egne arbeidsressurser i prosjektet. 2. Buskerud fylkeskommune deltar med administrativ representant til styringsgruppa for prosjektet. 3. Buskerud fylkeskommune sin andel av finansiering av prosjektet er på inntil kr. 420.000,- pr. år i 2024 og 2025 og tas fra ansvar 611010 Plan og miljø. Buskerud fylkeskommune dekker egne kostnader til egne arbeidsressurser i prosjektet."
+            },
+            "document": {
+              "objectId": "do_01j76y3sgafrvtb4eh12mdffax",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F25b933b6-2e38-4495-8209-42c4093a1954"
+            },
+            "error": null
+          }
         },
         {
           "number": "26/2024",
           "title": "Gol kommune - Høyring av planstrategi for 2024-2027 - Fråsegn",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F99eb2776-95f1-48ec-97d1-9331ab384cfc",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F352af793-1402-49bd-bafa-8806b036ede9",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkesutvalgets vedtak den 16.04.2024:",
+              "text": "1. Fylkesutvalet vil anerkjenna Gol kommune for eit godt arbeid med planstrategien. Kommunen har lagt frem ein lettfatteleg og tydeleg planstrategi, som gjer greie for viktige trekk i samfunnsutviklinga og ser planoppgåver i samanheng med desse. 2. Fylkesutvalet oppmodar kommunen til å ha dialog med fylkeskommunen i den videre oppfølginga av arbeid med planstrategi og oppgåver framover, til dømes om tema som planvask."
+            },
+            "document": {
+              "objectId": "do_01j76y3svwe7r8mz36c58d0mx1",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F352af793-1402-49bd-bafa-8806b036ede9"
+            },
+            "error": null
+          }
         },
         {
           "number": "27/2024",
           "title": "Nore og Uvdal kommune - Høring av planstrategi kombinert med planprogram for kommuneplanens samfunnsdel - Uttalelse",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F73fb5385-ce8d-402f-ba49-5a1472287af2",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3d6a5f26-c55d-48ee-9c6b-392508bfcb71",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkesutvalgets vedtak den 16.04.2024:",
+              "text": "1. Fylkesutvalget ser at kommunen har fått frem et omfattende kunnskapsgrunnlag for å søke å gi et helhetlig bilde av samfunnsutviklingen fremover, hva det betyr for kommunen som tjenesteleverandør, og hva det gir av planbehov. 2. Fylkesutvalget støtter at kommunen rullerer kommuneplanens samfunnsdel, for å ta høyde for ny kunnskap og nye premisser i samfunnsutviklingen, og nye strategier kommunen arbeider med. Dersom kommunen velger å rullere samfunnsdelen, anbefaler fylkesutvalget at kommunen tydeliggjør det som skal være planprogrammet for samfunnsdelen, for å legge til rette for god innbyggerinvolvering. 3. Fylkesutvalget ser det som positivt at kommunen har fokus på naturverdier og jordvern, og støtter kommunen i å utarbeide en egen kommunedelplan for naturmangfold for å løfte frem dette temaet. 4. Fylkesutvalget ser det som positivt at kommunen har fokus på å ivareta og se mulighetene ved den rike kulturarven, og støtter videreføring av arbeid med kommunedelplan for kulturminner og kulturmiljøer. 5. Fylkeskommunen bistår kommunen om ønskelig om oppfølging av våre faglige råd i det videre planarbeidet."
+            },
+            "document": {
+              "objectId": "do_01j76y3ss8erg9gv11fjq8gzm4",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3d6a5f26-c55d-48ee-9c6b-392508bfcb71"
+            },
+            "error": null
+          }
         },
         {
           "number": "28/2024",
           "title": "Orientering til fylkesutvalget om tekniske innsigelser til plansaker pr mars 2024",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe8721d12-55ee-4986-9134-371621adb14f",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe957f06e-3f04-4212-8189-a4ae91f96cd7",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkesutvalgets vedtak den 16.04.2024:",
+              "text": "Fylkesutvalget tar saken til orientering."
+            },
+            "document": {
+              "objectId": "do_01j76y3sbrf7a9ggj1sy4grccs",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe957f06e-3f04-4212-8189-a4ae91f96cd7"
+            },
+            "error": null
+          }
         },
         {
           "number": "29/2024",
           "title": "Høringssvar til forslag om endringer i sivilbeskyttelsesloven – Sivil arbeidskraftberedskap når rikets selvstendighet eller sikkerhet er i fare",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F5a80bc2b-ae5b-43e1-8459-e080a2b133ce",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F392936c8-da04-41c2-ae7b-31f0886b62c7",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkesutvalgets vedtak den 16.04.2024:",
+              "text": "Fylkesutvalgets innstilling til fylkestinget: 1. Buskerud fylkeskommune støtter justis- og beredskapsdepartementets initiativ til en forhåndsregulering. Dagens sikkerhetspolitiske situasjon krever en mer forutsigbar regulering av det sivile arbeidslivet som skal gjelde i en situasjon hvor rikets selvstendighet eller sikkerhet er i fare. 2. Buskerud fylkeskommune understreker viktigheten av, og støtter departementets forslag om at det innføres en “meddelelsesplikt” overfor Stortinget for alle forskrifter som vedtas under det endrede regelverket. Stortingets kontrollfunksjon må ivaretas. 3. Buskerud fylkeskommune etterlyser en tydeliggjøring av fylkeskommunens rolle som politisk folkevalgt organ med ansvar for flere samfunnskritiske funksjoner, blant annet drift og vedlikehold av vei og sivil transportberedskap."
+            },
+            "document": {
+              "objectId": "do_01j76y3sq5evcv0jnc3mfqe09e",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F392936c8-da04-41c2-ae7b-31f0886b62c7"
+            },
+            "error": null
+          }
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "failed",
+        "completed": false,
+        "fixedMembers": [],
+        "deputies": [],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/8ffc9934-06b2-407b-99ae-6194b5fb706b",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F8ffc9934-06b2-407b-99ae-6194b5fb706b"
+        }
+      },
+      "metadataStatus": "failed",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F8ffc9934-06b2-407b-99ae-6194b5fb706b"
     },
@@ -949,25 +2977,113 @@
           "title": "Godkjenning innkalling og referat",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F544b7ad4-81cf-4477-885c-c75df107302f",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F69a83eb6-aaad-48c2-8b57-517e60cd70fe",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Oppgavefellesskap ombud for barn og unges vedtak den 23.04.2024:",
+              "text": "Innkalling og referat fra forrige møte ble godkjent uten merknader. Oppgavefellesskap ombud for barn og unges behandling i møte den 23.04.2024:"
+            },
+            "document": {
+              "objectId": "do_01j76y4mwxefd8nkg9fv8zt46c",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F69a83eb6-aaad-48c2-8b57-517e60cd70fe"
+            },
+            "error": null
+          }
         },
         {
           "number": "8/2024",
           "title": "Godkjenning av budsjett 2024 og økonomiplan 2024 - 2027",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fc3e11d0d-7faa-4e3a-aaea-4f3b1691e2ae",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F7cbeb734-6c50-4f5a-85ff-3caec9e398fd",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Thomas Sjøvold",
+                "party": "H"
+              },
+              {
+                "name": "Håvard Osflaten",
+                "party": "Sv"
+              },
+              {
+                "name": "Glenn Melby",
+                "party": "H"
+              },
+              {
+                "name": "Mons-Ivar Mjelde",
+                "party": "Ap"
+              },
+              {
+                "name": "Kristin Løvaas Gjerde",
+                "party": "Frp"
+              },
+              {
+                "name": "Kristin Auntun",
+                "party": "Mdg"
+              }
+            ],
+            "proposals": [
+              {
+                "proposerName": "Thomas Sjøvold",
+                "proposerParty": "H",
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Oppgavefellesskap ombud for barn og unges vedtak den 23.04.2024:",
+              "text": "1. Representantskapet godkjenner årsbudsjett for 2024. Økonomiplanrammene for 2025- 2027 utsettes til det foreligger en avklaring om videreføring av statlig støtte. Økonomisk oversikt drift Beløp i 1000 Øk. plan Øk. plan Øk. plan Øk. plan 2024 2025 2026 2027 Overføringer og tilskudd fra andre -9 525 -8 025 -8 025 -8 025 Bruk av bundet fond Sum driftsinntekter -9 525 -8 025 -8 025 -8 025 Lønnsutgifter inkl. sos.avg. 8 140 6 765 6 765 6 765 Kjøp av varer og tjenester 1 238 1 020 1 020 1 020 Sum driftsugifter 9 378 7 785 7 785 7 785 Brutto driftsresultat -147 -240 -240 -240 Netto driftsresultat -147 -240 -240 -240 2. Representantskapet, ved leder og nestleder, sender brev til Kunnskapsdepartementet der de ber om snarlig avklaring om statlig støtte til mobbeombud. Oppgavefellesskap ombud for barn og unges behandling i møte den 23.04.2024: Følgende hadde ordet i saken: Thomas Sjøvold (H), Håvard Osflaten (Sv), Glenn Melby (H), Mons-Ivar Mjelde (Ap), Kristin Løvaas Gjerde (Frp) og Kristin Auntun (Mdg) Thomas Sjøvold (H) fremmet følgende alternative forslag: 1. Representantskapet godkjenner årsbudsjett for 2024. Økonomiplanrammene for 2025- 2027 utsettes til det foreligger en avklaring om videreføring av statlig støtte. 2. Representantskapet, ved leder og nestleder, sender brev til Kunnskapsdepartementet der de ber om snarlig avklaring om statlig støtte til mobbeombudsordningen fra 2025."
+            },
+            "document": {
+              "objectId": "do_01j76y4n1tf0x9h9kc0jqezrs2",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F7cbeb734-6c50-4f5a-85ff-3caec9e398fd"
+            },
+            "error": null
+          }
         },
         {
           "number": "9/2024",
           "title": "Eventuelt",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fdb649093-cf22-4886-992f-8be9f0dace6f",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2a65926b-bb22-420c-a0db-44436a1f0c4e",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Oppgavefellesskap ombud for barn og unges vedtak den 23.04.2024:",
+              "text": "Møteplan 2024 I forbindelse med usikkerheten rundt den statlige støtten fremmet Thomas Sjøvold (H) ønske om et ekstra møte i etterkant av at statsbudsjettet for 2025 er fremlagt. Representantskapet ber om at det legges inn ytterligere et møte i representantskapet i forbindelse med at statsbudsjettet er lagt frem. Oppgavefellesskap ombud for barn og unges behandling i møte den 23.04.2024:"
+            },
+            "document": {
+              "objectId": "do_01j76y4mzjft7br60yw3h0ywbw",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2a65926b-bb22-420c-a0db-44436a1f0c4e"
+            },
+            "error": null
+          }
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "failed",
+        "completed": false,
+        "fixedMembers": [],
+        "deputies": [],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/03599b78-d838-40a4-90f5-c8fe987ea406",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F03599b78-d838-40a4-90f5-c8fe987ea406"
+        }
+      },
+      "metadataStatus": "failed",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F03599b78-d838-40a4-90f5-c8fe987ea406"
     },
@@ -985,88 +3101,666 @@
           "title": "Interpellasjon fra Magnus Weggesrud (Sp) om ny tømmerterminal",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F71587798-e694-41c3-b80b-e69d985ec2d6",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe6544dd5-acc8-4a4e-9f88-e770e07f48f2",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Tore Opdal Hansen",
+                "party": "H"
+              },
+              {
+                "name": "Magnus Weggesrud",
+                "party": "Sp"
+              },
+              {
+                "name": "Mons-Ivar Mjelde",
+                "party": "Ap"
+              },
+              {
+                "name": "Søren Falch-Zaphe",
+                "party": "H"
+              },
+              {
+                "name": "Anders Wengen",
+                "party": "V"
+              },
+              {
+                "name": "Simon Sebastian Nordanger (Sp). Dag Øivind Henriksen",
+                "party": "H"
+              },
+              {
+                "name": "Morgan Langfeldt",
+                "party": "Frp"
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Vedtak :",
+              "text": "Fylkesordfører Tore Opdal Hansen (H) ga følgende svar: Det er arbeidet med å finne alternativ lokalisering for tømmerhavna i Lier helt fra gamle Buskerud. Siden Senterpartiet har vært en del av flertallet i Buskerud siden 2015 og videre i Viken fra 2019 har partiet vært helt sentral i det arbeidet. Vi kan konstatere at om lag seks års arbeid ikke har gitt et endelig resultat. Som interpellanten riktig påpeker, så kan tømmerterminalen driftes så lenge man har avtale. Den går ut i 2028. Jeg forstår godt at Lier holder fast ved inngått avtale. I mitt arbeid med denne saken har jeg konstatert at arbeidet med å finne frem til alternativer ble kortsluttet da man brått falt ned på Juve som eneste alternativ. Gjennom samtaler med sentrale aktører i arbeidet i 2023 har jeg fått det inntrykket. Målet er at vi får en sak til behandling i kommunene og fylkeskommunen, når det er grunnlag for det. Så over til spørsmålene 1. Hva slags rolle tenker fylkesordfører Buskerud fylkeskommune bør ha i arbeidet med lokalisering av ny tømmerterminal? For å være en konstruktiv fylkeskommune tenker jeg at det er en fordel både for Lier og Drammen kommuner, men antagelig også for næringen, om vi er aktive i forhold til spørsmålet om relokalisering av tømmerhavn. 2. Kan fylkesordfører redegjøre for hva som er gjort ifbm. dette etter 01.01.2024? Jeg hadde møte med ordførerne i Drammen og Lier kommuner med sine staber med tema tømmerhavn den 4. mars i år. 3 Hvordan vurderer fylkesordfører Nærings- og fiskeridepartementets brev og oppfordring om oppstart av en ny regional planprosess? Først vil jeg si at jeg har forsøkt å få en samtale med landbruksminister, som har samme partibakgrunn som interpellanten uten å lykkes. Siden han har skogbruket i sin politiske portefølje håpet jeg at det var en interesse, når jeg nevnte at tema var tømmerhavn. Uavhengig av det har vi nå et administrativt arbeid i gang mellom Lier, Drammen og fylkeskommunen. Jeg regner med at tiden snart er moden for å ta et nytt sonderingsmøte for å ta en vurdering av hvordan vi skal ta saken videre. 4 På hvilken måte tenker fylkesordfører å komme den lokale motstanden mot ønsket plassering i møte med tanke på arbeidet med å finne alternative lokasjoner Jeg konstaterer at 6 års arbeid så langt ikke har gitt særlige resultater. Jeg har tro på at vi nå kan komme nærmere en løsning. I det arbeidet er det naturlig at flere alternativer enn Juve blir vurdert. Vi er også avhengig av at stat og næring bidrar, når tiden er inne for det."
+            },
+            "document": {
+              "objectId": "do_01j76y3sg6f99t68kaw2a95z2p",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe6544dd5-acc8-4a4e-9f88-e770e07f48f2"
+            },
+            "error": null
+          }
         },
         {
           "number": "12/2024",
           "title": "Godkjenning av innkalling og protokoll",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F665bce55-fcda-4f86-a0e5-89f9f57a1f93",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F41de5d4e-b4ea-423e-b172-e790d0a1c552",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkestingets vedtak den 24.04.2024:",
+              "text": "Innkallingen og protokollen fra fylkestingsmøtet 15. februar ble godkjent uten kommentarer."
+            },
+            "document": {
+              "objectId": "do_01j76y3t0eenc88q3mnz9cb522",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F41de5d4e-b4ea-423e-b172-e790d0a1c552"
+            },
+            "error": null
+          }
         },
         {
           "number": "13/2024",
           "title": "Tilstandsrapport for videregående opplæring i Viken inn mot nye Akershus, Buskerud og Østfold 2023",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F1424a050-c724-4fa7-a79e-a3a7f5a2d86f",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb23daa5f-d4a6-4941-82fb-a3d4603b1d30",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Simen Murud",
+                "party": "H"
+              },
+              {
+                "name": "Lirigsona Berisha",
+                "party": "Ap"
+              },
+              {
+                "name": "Lavrans Kierulf",
+                "party": "Frp"
+              },
+              {
+                "name": "Cecilie Søvik",
+                "party": "MDG"
+              },
+              {
+                "name": "Dag Øivind Henriksen",
+                "party": "H"
+              },
+              {
+                "name": "Tove Hofstad",
+                "party": "V"
+              },
+              {
+                "name": "Ståle Versland",
+                "party": "Ap"
+              },
+              {
+                "name": "Trine Raknes (Ap) 2",
+                "party": null
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkestingets vedtak den 24.04.2024:",
+              "text": "1. Tilstandsrapport for videregående opplæring i Viken inn mot nye Akershus, Buskerud og Østfold 2023 vedtas som fremlagt. 2. Kunnskapsgrunnlaget i tilstandsrapporten legges til grunn for videre kvalitetsutvikling av den videregående opplæringen i Buskerud. 3. Fylkeskommunedirektøren bes: a: gå i dialog med myndighetene for å kunne få tilgang til dataene fra undersøkelsen i en form som, gir skoleeier og skolene et kunnskapsgrunnlag som i større grad enn i dag kan brukes for å utvikle skolenes arbeid med å forbedre elevenes opplevelse og prestasjoner. b: vurdere om dette skal koordineres med andre skoleeiere c: vurdere om det kan settes i gang et arbeid med partene fra skolene; elever, lærere, ledelse og deres organisasjoner med mål om å kunne forbedre arbeidet med tilstandsrapporten både ved skolene og for skoleeier for skoleåret 2025-26."
+            },
+            "document": {
+              "objectId": "do_01j76y3sv4e2hsa9a1yydtpexr",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb23daa5f-d4a6-4941-82fb-a3d4603b1d30"
+            },
+            "error": null
+          }
         },
         {
           "number": "14/2024",
           "title": "Nasjonal digital læringsarena (NDLA) - endret samarbeidsavtale",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Ffc406894-22fb-4ea2-9da7-3c3d13ca206e",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1dac6fc0-131b-4558-8ee9-6ff397ae1d6c",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkestingets vedtak den 24.04.2024:",
+              "text": "Fylkestinget i Buskerud godkjenner ny samarbeidsavtale for Nasjonal digital læringsarena (NDLA)."
+            },
+            "document": {
+              "objectId": "do_01j76y3sk7e6vb4hbh6a8ts0zw",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1dac6fc0-131b-4558-8ee9-6ff397ae1d6c"
+            },
+            "error": null
+          }
         },
         {
           "number": "15/2024",
           "title": "Medeierskap i Hardangerviddatunnelene as",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F69a30d7a-88c5-4570-b981-922bed7d94b7",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fee04aea4-dc2a-483b-bd6e-4db2e00dd94d",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Erik Kaupang",
+                "party": "Ap"
+              },
+              {
+                "name": "Magnus Weggesrud",
+                "party": "Sp"
+              },
+              {
+                "name": "Christopher Wand",
+                "party": "H"
+              },
+              {
+                "name": "Shoaib Naeem",
+                "party": "Ap"
+              },
+              {
+                "name": "Mari Djupvik Bråthen",
+                "party": "H"
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkestingets vedtak den 24.04.2024:",
+              "text": "Buskerud fylkeskommune ønsker ikke å bli medeier i Hardangerviddatunnelene as."
+            },
+            "document": {
+              "objectId": "do_01j76y3sp9ey58ca88ft4ez0sx",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fee04aea4-dc2a-483b-bd6e-4db2e00dd94d"
+            },
+            "error": null
+          }
         },
         {
           "number": "16/2024",
           "title": "Høringssvar til forslag om endringer i sivilbeskyttelsesloven – Sivil arbeidskraftberedskap når rikets selvstendighet eller sikkerhet er i fare",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F94ceb37c-1173-421b-bdf2-faed62d5ec15",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fda408759-9f83-4dae-abfb-76e5d257838e",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Dag Øivind Henriksen",
+                "party": "H"
+              },
+              {
+                "name": "Kaja Yngsdal Hilleren (SV) 2",
+                "party": null
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkestingets vedtak den 24.04.2024:",
+              "text": "1. Buskerud fylkeskommune støtter justis- og beredskapsdepartementets initiativ til en forhåndsregulering. Dagens sikkerhetspolitiske situasjon krever en mer forutsigbar regulering av det sivile arbeidslivet som skal gjelde i en situasjon hvor rikets selvstendighet eller sikkerhet er i fare. 2. Buskerud fylkeskommune understreker viktigheten av, og støtter departementets forslag om at det innføres en “meddelelsesplikt” overfor Stortinget for alle forskrifter som vedtas under det endrede regelverket. Stortingets kontrollfunksjon må ivaretas. 3. Buskerud fylkeskommune etterlyser en tydeliggjøring av fylkeskommunens rolle som politisk folkevalgt organ med ansvar for flere samfunnskritiske funksjoner, blant annet drift og vedlikehold av vei og sivil transportberedskap Protokolltilførsel fra SV, Rødt og MDG: SV, Rødt og MDG stemmer for forslaget, men er kritisk til lovforslaget da det ikke hensyntar demokratiet og menneskerettighetene i stor nok grad."
+            },
+            "document": {
+              "objectId": "do_01j76y3sqkfsf95fq17s3hhxfy",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fda408759-9f83-4dae-abfb-76e5d257838e"
+            },
+            "error": null
+          }
         },
         {
           "number": "17/2024",
           "title": "Politisk Forum Skagerrak - politisk representasjon",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F503ef2b1-b392-4673-9813-2019ed9c21b1",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F11d7e3f5-8488-409c-937f-ff7b13562a66",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Bård Sødal Grasbekk",
+                "party": "MDG"
+              }
+            ],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkestingets vedtak den 24.04.2024:",
+              "text": "1. Fylkeskommunen utnevner følgende representant til Politisk Forum Skagerrak: Navn: Tore Opdal Hansen (H) 2. Fylkeskommunen utnevner følgende vararepresentant til Politisk Forum Skagerrak: Navn: Lavrans Kierulf (Frp)"
+            },
+            "document": {
+              "objectId": "do_01j76y3syye26rjb1zvg51f9k0",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F11d7e3f5-8488-409c-937f-ff7b13562a66"
+            },
+            "error": null
+          }
         },
         {
           "number": "18/2024",
           "title": "Innstilling av nytt medlem til regional rovviltnemnd region 2",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F303cf95d-2254-4f87-81de-15a3a7a44623",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2ccb7822-1a36-4caa-96d6-04eae57034af",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkestingets vedtak den 24.04.2024:",
+              "text": "Buskerud fylkeskommune velger følgende representant til regional rovviltnemnd region 2: Representant: Kristin Gjerde (Frp) Vara: Roger Larsen (INP)"
+            },
+            "document": {
+              "objectId": "do_01j76y3swvek5b15xeb6f8b90s",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2ccb7822-1a36-4caa-96d6-04eae57034af"
+            },
+            "error": null
+          }
         },
         {
           "number": "19/2024",
           "title": "Fylkesbiblioteket i Akershus, Buskerud og Østfold kommunalt oppgavefellesskap - nytt valg til representantskapet 2024-2027",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fbf5dab1a-0b4f-4c41-8811-02b4507f3471",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F386d80b7-515b-497c-896b-8e0cd507963c",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkestingets vedtak den 24.04.2024:",
+              "text": "Følgende oppnevnes som Buskerud fylkeskommunes representanter til representantskapet i Fylkesbiblioteket i Akershus, Buskerud og Østfold kommunalt oppgavefelleskap 2024-2027: 1. Johan Baumann (H) (medlem) 2. Kaja Hilleren (V) (medlem) 1. Søren Falch Zapffe (H) (vara) 2. Njål Vigleik Grene-Johnsen (SV) (vara)"
+            },
+            "document": {
+              "objectId": "do_01j76y3t4pfn3b5zzb627fmtr7",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F386d80b7-515b-497c-896b-8e0cd507963c"
+            },
+            "error": null
+          }
         },
         {
           "number": "20/2024",
           "title": "Valg av nytt varamedlem til klagenemnda",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F3e02b763-de1d-4a57-bbe2-bcff7e1ce6ce",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F246bae85-f642-4afc-82ff-187cd3ca8b25",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkestingets vedtak den 24.04.2024:",
+              "text": "1. Anders Wengen (V) trer ut som varamedlem til klagenemnda. 2. Som nytt varamedlem til klagenemnda velges Steinar Bleken (V). Valget gjelder for perioden 2024 – 2027."
+            },
+            "document": {
+              "objectId": "do_01j76y3t25fwr89p6g63vza991",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F246bae85-f642-4afc-82ff-187cd3ca8b25"
+            },
+            "error": null
+          }
         },
         {
           "number": "21/2024",
           "title": "Oppnevning Distriksprogramråd NRK",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F34b13840-b3d6-489a-b200-b859e52c90c7",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F6e8e16dd-c323-430b-95c2-b172535da8bd",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [],
+            "proposals": [],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkestingets vedtak den 24.04.2024:",
+              "text": "Buskerud fylkeskommune oppnevner følgende til distriktsprogramråd for Buskerud i perioden 2024-2027: 1. Lavrans Kierulf (Frp) som medlem med personlig vara Inger Synnøve Kammerud (H) 2. Magnus Weggesrud (Sp) som medlem med personlig vara Ellen Høie (Ap) 3. Iselin Haugo Stavn (H) som medlem med personlig vara Simen Murud (H) 4. Trine Raknes (Ap) som medlem med personlig vara Anders Wengen (V) 5. Christina Højer Mørkve (H) som medlem med personlig vara Kjell Erland Grønbeck (KrF)"
+            },
+            "document": {
+              "objectId": "do_01j76y3secf63vdky000zbs3p5",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F6e8e16dd-c323-430b-95c2-b172535da8bd"
+            },
+            "error": null
+          }
         },
         {
           "number": "22/2024",
           "title": "Opprettelse av to nye politiske utvalg",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fd7bd2547-994d-47c4-9875-bd31db6302b0",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ffbe83a85-97a8-46a3-8ddc-c6bed3837180",
-          "metadata": null
+          "metadata": {
+            "status": "complete",
+            "completed": true,
+            "speakers": [
+              {
+                "name": "Mons-Ivar Mjelde",
+                "party": "Ap"
+              },
+              {
+                "name": "Iselin Haugo Stavn (H); Simon Sebastian Nordanger",
+                "party": "Sp"
+              },
+              {
+                "name": "Christopher Wand",
+                "party": "H"
+              },
+              {
+                "name": "Stian Bakken",
+                "party": "Sp"
+              },
+              {
+                "name": "Ståle Versland",
+                "party": "Ap"
+              },
+              {
+                "name": "Roger Larsen",
+                "party": "INP"
+              },
+              {
+                "name": "Lirigsona Berisha",
+                "party": "Ap"
+              },
+              {
+                "name": "Anders Wengen",
+                "party": "V"
+              },
+              {
+                "name": "Bjørn Tore Ødegården (Ap) 2",
+                "party": null
+              }
+            ],
+            "proposals": [
+              {
+                "proposerName": "Mari Djupvik Bråthen",
+                "proposerParty": "H",
+                "onBehalfOf": "H, Frp, Pp, KrF og INP"
+              }
+            ],
+            "decision": {
+              "status": "complete",
+              "completed": true,
+              "heading": "Fylkestingets vedtak den 24.04.2024:",
+              "text": "Fylkestinget oppretter to nye utvalg i tråd med kommuneloven § 5-1 andre ledd bokstav d jf. § 5-7: 1.Politisk utvalg for gruppeledere, fylkesvaraordfører og fylkesordfører. Som leder for utvalget velges fylkesordfører Tore Opdal Hansen (H). Som nestleder velges varaordfører Lavrans Kierulf (Frp). 2.Politisk utvalg for hovedutvalgsledere, utvalgsleder for PSU, utvalgsleder for kontrollutvalget, fylkesvaraordfører og fylkesordfører. Som leder for utvalget velges fylkesordfører Tore Opdal Hansen (H) Som nestleder velges varaordfører Lavrans Kierulf (Frp). Utvalget har ikke beslutningsmyndighet. 3.Reglement for gruppelederutvalg og utvalgslederutvalg innarbeides i «Reglement for fylkesting, fylkesutvalg og hovedutvalgene 2023-2027. Saksbehandlingsreglement»."
+            },
+            "document": {
+              "objectId": "do_01j76y3ss7fpxrc7ejbzszc8e2",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ffbe83a85-97a8-46a3-8ddc-c6bed3837180"
+            },
+            "error": null
+          }
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "complete",
+        "completed": false,
+        "fixedMembers": [
+          {
+            "name": "Ana Maria Silva-Harper",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Tore Opdal Hansen",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Iselin Haugo Stavn",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Simen Murud",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Christina Højer Mørkve",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Christopher Amundsen Wand",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Marianne Werp",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Søren Falch Zapffe",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Inger Synnøve Kammerud",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Jonas Nikolaisen",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Hanne Birgitte Lindbak Haatuft",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Egil Ax",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Thomas Fosen",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Mari Djupvik Bråthen",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Dag Øivind Henriksen",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Mons-Ivar Mjelde",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Tonje Enersen",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Bjørn Tore Ødegården",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Lirigzona Berisha",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Ståle Versland",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Anne Kristin Hov Hilleren",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Erik Kaupang",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Odd Terje Svendsen",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Trine Raknes",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Lavrans Gabriel Kierulf",
+            "attendanceRole": "medlem",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Morgan Langfeldt",
+            "attendanceRole": "medlem",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Eilev Bekjorden",
+            "attendanceRole": "medlem",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Mary-Ann Lokshall Tabrizi",
+            "attendanceRole": "medlem",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Knut Andre Svensbråten",
+            "attendanceRole": "medlem",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Magnus Weggesrud",
+            "attendanceRole": "medlem",
+            "representedBy": "SP"
+          },
+          {
+            "name": "Anne Kristine Norman",
+            "attendanceRole": "medlem",
+            "representedBy": "SP"
+          },
+          {
+            "name": "Simon Sebastian Nordanger",
+            "attendanceRole": "medlem",
+            "representedBy": "SP"
+          },
+          {
+            "name": "Sigrid Onsgaard Sagabråten",
+            "attendanceRole": "medlem",
+            "representedBy": "SP"
+          },
+          {
+            "name": "Stian Bakken",
+            "attendanceRole": "medlem",
+            "representedBy": "SP"
+          },
+          {
+            "name": "Roger Larsen",
+            "attendanceRole": "medlem",
+            "representedBy": "INP"
+          },
+          {
+            "name": "Lars Stenberg",
+            "attendanceRole": "medlem",
+            "representedBy": "INP"
+          },
+          {
+            "name": "Bård Sødal Grasbekk",
+            "attendanceRole": "medlem",
+            "representedBy": "MDG"
+          },
+          {
+            "name": "Cecilie Søvik",
+            "attendanceRole": "medlem",
+            "representedBy": "MDG"
+          },
+          {
+            "name": "Njål Vigleik Grene-Johnsen",
+            "attendanceRole": "medlem",
+            "representedBy": "SV"
+          },
+          {
+            "name": "Kaja Yngsdal Hilleren",
+            "attendanceRole": "medlem",
+            "representedBy": "SV"
+          },
+          {
+            "name": "Anders Wengen",
+            "attendanceRole": "medlem",
+            "representedBy": "V"
+          },
+          {
+            "name": "Tove Hofstad",
+            "attendanceRole": "medlem",
+            "representedBy": "V"
+          },
+          {
+            "name": "Hans Petter de Fine",
+            "attendanceRole": "medlem",
+            "representedBy": "R"
+          },
+          {
+            "name": "Øivind Fjeldheim",
+            "attendanceRole": "medlem",
+            "representedBy": "PP"
+          }
+        ],
+        "deputies": [
+          {
+            "name": "Shoaib Karim Naeem",
+            "attendanceRole": "deputy",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Thomas Emil Klingen Andersen",
+            "attendanceRole": "deputy",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Turid Solberg Thomassen",
+            "attendanceRole": "deputy",
+            "representedBy": "KRF"
+          }
+        ],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/5c58b197-b90b-443a-9f78-e1a9dc899690",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5c58b197-b90b-443a-9f78-e1a9dc899690"
+        }
+      },
+      "metadataStatus": "complete",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5c58b197-b90b-443a-9f78-e1a9dc899690"
     }

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "shardType": "meetings",
+  "shardKey": "2026-12",
+  "updatedAtUtc": "2026-09-21T09:40:53.1159267+00:00",
+  "meetingCount": 3,
+  "meetings": [
+    {
+      "meetingId": "https://prod02.elementscloud.no/8490c2ce-88eb-4493-9477-0a8eb8633b2a",
+      "title": "Møte i Fylkesutvalget 01.12.2026",
+      "committee": "Fylkesutvalget",
+      "committeeId": "Fylkesutvalget",
+      "meetingDate": "12/01/2026 08:00:00",
+      "meetingDateUtc": "2026-12-01T08:00:00Z",
+      "meetingPlace": "",
+      "agendaDocumentObjectId": "",
+      "agendaSignature": "ddadb0edefa886b86e7548cc30c6f587f59d4cfbaa8e85deaf7e07bb50e24a18",
+      "agendaCases": [],
+      "caseDecisions": null,
+      "agendaDocumentIds": null,
+      "protocolDocumentIds": null,
+      "agendaAvailable": false,
+      "protocolAvailable": false
+    },
+    {
+      "meetingId": "https://prod02.elementscloud.no/1ead0cc1-a04e-47af-a9d9-75433f7d8272",
+      "title": "Møte i Partssammensatt utvalg 04.12.2026",
+      "committee": "Partssammensatt utvalg",
+      "committeeId": "Partssammensatt utvalg",
+      "meetingDate": "12/04/2026 08:00:00",
+      "meetingDateUtc": "2026-12-04T08:00:00Z",
+      "meetingPlace": "Fylkeshuset Drammen",
+      "agendaDocumentObjectId": "",
+      "agendaSignature": "ddadb0edefa886b86e7548cc30c6f587f59d4cfbaa8e85deaf7e07bb50e24a18",
+      "agendaCases": [],
+      "caseDecisions": null,
+      "agendaDocumentIds": null,
+      "protocolDocumentIds": null,
+      "agendaAvailable": false,
+      "protocolAvailable": false
+    },
+    {
+      "meetingId": "https://prod02.elementscloud.no/fe25106f-28e3-4098-ba97-7db7dd581343",
+      "title": "Møte i Fylkestinget 15.12.2026",
+      "committee": "Fylkestinget",
+      "committeeId": "Fylkestinget",
+      "meetingDate": "12/15/2026 08:00:00",
+      "meetingDateUtc": "2026-12-15T08:00:00Z",
+      "meetingPlace": "",
+      "agendaDocumentObjectId": "",
+      "agendaSignature": "ddadb0edefa886b86e7548cc30c6f587f59d4cfbaa8e85deaf7e07bb50e24a18",
+      "agendaCases": [],
+      "caseDecisions": null,
+      "agendaDocumentIds": null,
+      "protocolDocumentIds": null,
+      "agendaAvailable": false,
+      "protocolAvailable": false
+    }
+  ]
+}

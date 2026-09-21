@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "shardType": "meetings",
   "shardKey": "2025-05",
-  "updatedAtUtc": "2026-09-21T09:40:52.9794600+00:00",
-  "meetingCount": 14,
+  "updatedAtUtc": "2026-09-21T12:12:59.7648875+00:00",
+  "meetingCount": 15,
   "meetings": [
     {
       "meetingId": "https://prod02.elementscloud.no/71f3f964-c2ce-485f-9ba8-cd09c0fafc97",
@@ -13,39 +13,44 @@
       "meetingDate": "05/13/2025 08:00:00",
       "meetingDateUtc": "2025-05-13T06:00:00Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen, Fylkestingssalen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/27e8df89-647f-462f-a58b-f0030dc46329",
       "agendaDocumentObjectId": "do_01jtfv86rbf5a9hcde0p2ya0ck",
+      "agendaSignature": "479139e5811d352eb5bf879e3312fe716734524b634c35189334f0bf81d283a0",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/0961d548-a849-413e-ac69-72c991ae28c3",
           "number": "34/2025",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/624e9240-9e50-4313-94eb-d3dd34201027",
           "number": "35/2025",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/b493b558-ec30-4738-b8d1-8eee7fccead2",
           "number": "36/2025",
-          "title": "Rammer for søknad om belønningsavtale 2026-2029"
+          "title": "Rammer for søknad om belønningsavtale 2026-2029",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/571c21e4-2720-406e-847d-7433fa23705f",
           "number": "37/2025",
-          "title": "Orientering om status - Felles sti- og løypeplan for Hardangervidda"
+          "title": "Orientering om status - Felles sti- og løypeplan for Hardangervidda",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/e81c47e2-1648-4f44-a0f7-a3f28bc9dea4",
           "number": "38/2025",
-          "title": "Orientering om Østlandssamarbeidets årsrapport 2024"
+          "title": "Orientering om Østlandssamarbeidets årsrapport 2024",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "479139e5811d352eb5bf879e3312fe716734524b634c35189334f0bf81d283a0",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/27e8df89-647f-462f-a58b-f0030dc46329",
       "protocolDocumentIds": "https://prod02.elementscloud.no/b2b5eda5-3c7b-4a26-a8ad-428d11351cdb",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/e81c47e2-1648-4f44-a0f7-a3f28bc9dea4",
@@ -112,34 +117,38 @@
       "meetingDate": "05/15/2025 08:00:00",
       "meetingDateUtc": "2025-05-15T06:00:00Z",
       "meetingPlace": "Fylkeshuset Sarpsborg, Sarpsborg",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/5944872a-f9f7-49db-ac18-7d6dac79518c",
       "agendaDocumentObjectId": "do_01jsgw72axe73ttkbmk7mr1659",
+      "agendaSignature": "c941592c0ba2b8069263cbd5738e707eb4b21861cf2129e77cca704d789d6869",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/7bb5994c-b2c7-484d-a273-0221fceadb28",
           "number": "1/2025",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/c166d53d-5a9c-4a69-b942-76d9d3265fdb",
           "number": "2/2025",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/2ac09389-eb18-422a-8ed7-fd0696a3eefc",
           "number": "3/2025",
-          "title": "Årsregnskap 2024 for Anska KO"
+          "title": "Årsregnskap 2024 for Anska KO",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/f0260de8-eeca-4dc9-98e3-ec94d5b84ff3",
           "number": "4/2025",
-          "title": "Årsberetning 2024 for Anska KO"
+          "title": "Årsberetning 2024 for Anska KO",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "c941592c0ba2b8069263cbd5738e707eb4b21861cf2129e77cca704d789d6869",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/5944872a-f9f7-49db-ac18-7d6dac79518c",
       "protocolDocumentIds": "https://prod02.elementscloud.no/29d79b07-84cc-4ade-abbf-ece80a5aeaca",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/f0260de8-eeca-4dc9-98e3-ec94d5b84ff3",
@@ -188,6 +197,121 @@
       ]
     },
     {
+      "meetingId": "https://prod02.elementscloud.no/5c3c0022-7c12-43ba-b22b-b9ee1dc02a2d",
+      "title": "Møte i Representantskapet Fagskolen i Viken - Kommunalt oppgavefellesskap 05/15/2025",
+      "committee": "Representantskapet Fagskolen i Viken - Kommunalt oppgavefellesskap",
+      "committeeId": "Representantskapet Fagskolen i Viken - Kommunalt oppgavefellesskap",
+      "meetingDate": "05/15/2025 08:00:00",
+      "meetingDateUtc": "2025-05-15T06:00:00Z",
+      "meetingPlace": "Fagskolen Viken, Kongsberg, Krona, Hasbergsvei 36. 3616 Kongsberg",
+      "agendaAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/01f4e5cf-2e5f-46c2-aaf5-ed246dec8e97",
+      "agendaDocumentObjectId": "do_01jvy6q2ayfh4ahgp422h6aa1h",
+      "agendaCases": [
+        {
+          "id": "https://prod02.elementscloud.no/1681f5d8-5411-4f9c-a523-3dc3aa42da57",
+          "number": "12/2025",
+          "title": "Godkjenning av innkalling og protokoll"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/2cf03a45-1d2e-4f3a-b751-1ff4756d001c",
+          "number": "13/2025",
+          "title": "Revidert budsjett 2025"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/cfcfb4ed-8b69-4354-b511-e078f914fd1e",
+          "number": "14/2025",
+          "title": "Økonomiplan 2025-2028"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/e74754e2-6276-437a-b23a-4140bed93468",
+          "number": "15/2025",
+          "title": "Årsrapport 2024"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/3abe5080-895f-4200-9db6-745407cd12cc",
+          "number": "16/2025",
+          "title": "Note 24, årsberetning og revisjonsberetning"
+        },
+        {
+          "id": "https://prod02.elementscloud.no/445524f2-3c14-4b3f-85da-acb2b44de971",
+          "number": "17/2025",
+          "title": "Revisjon av samarbeids- og tjenesteavtale"
+        }
+      ],
+      "agendaSignature": "92f5ca4e42bd0764776cfe2dbab7fe63d1f0d157bde8ec918bf45659e63b9535",
+      "protocolAvailable": true,
+      "protocolDocumentIds": "https://prod02.elementscloud.no/2c9396af-8622-418f-afd0-c6f67c108c2c",
+      "caseDecisions": [
+        {
+          "caseId": "https://prod02.elementscloud.no/e74754e2-6276-437a-b23a-4140bed93468",
+          "documentDescriptionId": "db_01jvsb4m1nfkqadrfr3ywt7xmx",
+          "documentObjectId": "do_01jvsb4m1vf618mp9vc475hw78",
+          "documentObjectIri": "https://prod02.elementscloud.no/e410cbc5-875c-4acc-8947-d5b168d183d5",
+          "documentTitle": "Saksprotokoll FIV",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jvsb4m1vf618mp9vc475hw78/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe410cbc5-875c-4acc-8947-d5b168d183d5"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/cfcfb4ed-8b69-4354-b511-e078f914fd1e",
+          "documentDescriptionId": "db_01jvsb4kwyepw8p6qh79caysrq",
+          "documentObjectId": "do_01jvsb4kx4e1fb0kyzmnft2fkz",
+          "documentObjectIri": "https://prod02.elementscloud.no/f5a5b612-d06c-4c2c-8a17-ca15a436f9a4",
+          "documentTitle": "Saksprotokoll FIV",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jvsb4kx4e1fb0kyzmnft2fkz/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff5a5b612-d06c-4c2c-8a17-ca15a436f9a4"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/445524f2-3c14-4b3f-85da-acb2b44de971",
+          "documentDescriptionId": "db_01jvsb4kpzf6sb13pvmdznnqma",
+          "documentObjectId": "do_01jvsb4kq6fpmrbfewmgptgrkr",
+          "documentObjectIri": "https://prod02.elementscloud.no/1005a5e4-9a6b-4c01-9f75-40ed0319766c",
+          "documentTitle": "Saksprotokoll FIV",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jvsb4kq6fpmrbfewmgptgrkr/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1005a5e4-9a6b-4c01-9f75-40ed0319766c"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/3abe5080-895f-4200-9db6-745407cd12cc",
+          "documentDescriptionId": "db_01jvsb4kg4fnh9kw5ard1gw78z",
+          "documentObjectId": "do_01jvsb4kgaft19vfjy58bnrhdy",
+          "documentObjectIri": "https://prod02.elementscloud.no/3c9cb5db-4f91-4a7a-9e8c-ba6d4f5f6de2",
+          "documentTitle": "Saksprotokoll FIV",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jvsb4kgaft19vfjy58bnrhdy/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3c9cb5db-4f91-4a7a-9e8c-ba6d4f5f6de2"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/2cf03a45-1d2e-4f3a-b751-1ff4756d001c",
+          "documentDescriptionId": "db_01jvsb4k9yerfrh5d63h2ywt3w",
+          "documentObjectId": "do_01jvsb4ka7ew3tk1ymw6ghhk8v",
+          "documentObjectIri": "https://prod02.elementscloud.no/f2f301ea-bad5-4bc9-a5e4-2510e7c26f57",
+          "documentTitle": "Saksprotokoll FIV",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jvsb4ka7ew3tk1ymw6ghhk8v/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff2f301ea-bad5-4bc9-a5e4-2510e7c26f57"
+        },
+        {
+          "caseId": "https://prod02.elementscloud.no/1681f5d8-5411-4f9c-a523-3dc3aa42da57",
+          "documentDescriptionId": "db_01jvsb4k3wf1a8m6gj4c9c32v5",
+          "documentObjectId": "do_01jvsb4k42f628c90ats6fhemy",
+          "documentObjectIri": "https://prod02.elementscloud.no/42b87d06-b2ef-492c-888e-e0d6b5747859",
+          "documentTitle": "Saksprotokoll FIV",
+          "documentType": "Utvalgsdokument",
+          "documentRole": "hoveddokument",
+          "downloadUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jvsb4k42f628c90ats6fhemy/download",
+          "publicUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F42b87d06-b2ef-492c-888e-e0d6b5747859"
+        }
+      ]
+    },
+    {
       "meetingId": "https://prod02.elementscloud.no/0bf96147-345a-49d3-86d8-8891f14c5078",
       "title": "Møte i Klagenemnd 05/19/2025",
       "committee": "Klagenemnd",
@@ -195,29 +319,32 @@
       "meetingDate": "05/19/2025 06:30:00",
       "meetingDateUtc": "2025-05-19T04:30:00Z",
       "meetingPlace": "Fylkeshuset, møterom 214",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/1b33fa6e-ccb4-47b7-9d41-e699722fb34d",
       "agendaDocumentObjectId": "do_01jv20zpdfe0k9pejfg8bqm9nb",
+      "agendaSignature": "9d1aa5f3ffee17152f2874963accc6fc4f5ebba7893f9789191092ed7c098148",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/e5e4333a-ef77-4b87-871d-4e1f1afd659d",
           "number": "7/2025",
-          "title": "Godkjenning av møteinnkalling og protokoll"
+          "title": "Godkjenning av møteinnkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/5d64701a-1bf6-4216-8fb4-3efa116a37ec",
           "number": "8/2025",
-          "title": "Klage over avslag på søknad om tilskudd KulturArvOpplevelser 2024 - Monument Music AS"
+          "title": "Klage over avslag på søknad om tilskudd KulturArvOpplevelser 2024 - Monument Music AS",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/a1d262bb-21f3-4ab7-b7f0-741a14787a4a",
           "number": "9/2025",
-          "title": "Klage over avslag på TT kort"
+          "title": "Klage over avslag på TT kort",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "9d1aa5f3ffee17152f2874963accc6fc4f5ebba7893f9789191092ed7c098148",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/1b33fa6e-ccb4-47b7-9d41-e699722fb34d",
       "protocolDocumentIds": "https://prod02.elementscloud.no/5101b2ec-0672-4ce2-b94e-523aadddbfce",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/e5e4333a-ef77-4b87-871d-4e1f1afd659d",
@@ -251,39 +378,44 @@
       "meetingDate": "05/23/2025 12:25:00",
       "meetingDateUtc": "2025-05-23T10:25:00Z",
       "meetingPlace": "Møterom Hykkelen, Sarpsborg bibliotek, Møterom Hykkelen, Sarpsborg bibliotek",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/bcac3806-3291-4509-8c79-2d25f2bd6261",
       "agendaDocumentObjectId": "do_01jvcphs9ae5yvks57kt3e8n7d",
+      "agendaSignature": "32ca552957a94a1d3807d282ed556fdc5c3516d82991ef714184561a32b8da73",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/49d28130-70f3-4c9c-8262-130be897f062",
           "number": "5/2025",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/c0b612b5-088f-4f8b-a91a-2b5502e45831",
           "number": "6/2025",
-          "title": "Muntlig orientering. Det orienteres om: • Aktiviteter våren 2025 • Evaluering av oppgavefellesskapet • Status for avvikling av deler av portefølje i Fylkesbiblioteket"
+          "title": "Muntlig orientering. Det orienteres om: • Aktiviteter våren 2025 • Evaluering av oppgavefellesskapet • Status for avvikling av deler av portefølje i Fylkesbiblioteket",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/ecf69a74-a683-49a2-8ebd-f589bac3a5a2",
           "number": "7/2025",
-          "title": "Strategisk samarbeid med Kommunesektorens organisasjon (KS), Direktoratet for høyere utdanning og kompetanse (HK-dir) og Nasjonalbiblioteket"
+          "title": "Strategisk samarbeid med Kommunesektorens organisasjon (KS), Direktoratet for høyere utdanning og kompetanse (HK-dir) og Nasjonalbiblioteket",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/2e3468bd-8ff5-4bfc-972a-7956d7ceb8a9",
           "number": "8/2025",
-          "title": "Årsregnskap 2024 for Fylkesbiblioteket i Akershus, Buskerud og Østfold kommunalt oppgavefellesskap"
+          "title": "Årsregnskap 2024 for Fylkesbiblioteket i Akershus, Buskerud og Østfold kommunalt oppgavefellesskap",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/15370846-1fad-4a75-9ee3-34ee0efe1f7c",
           "number": "9/2025",
-          "title": "Årsberetning 2024 for Fylkesbiblioteket i Akershus, Buskerud og Østfold kommunalt oppgavefellesskap"
+          "title": "Årsberetning 2024 for Fylkesbiblioteket i Akershus, Buskerud og Østfold kommunalt oppgavefellesskap",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "32ca552957a94a1d3807d282ed556fdc5c3516d82991ef714184561a32b8da73",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/bcac3806-3291-4509-8c79-2d25f2bd6261",
       "protocolDocumentIds": "https://prod02.elementscloud.no/c5035ecb-9fb4-40dc-8dc0-f928c16a69e8",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/ecf69a74-a683-49a2-8ebd-f589bac3a5a2",
@@ -350,13 +482,13 @@
       "meetingDate": "05/26/2025 07:00:00",
       "meetingDateUtc": "2025-05-26T05:00:00Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Fylkestingssalen",
-      "agendaAvailable": false,
-      "agendaDocumentIds": null,
       "agendaDocumentObjectId": "",
-      "agendaCases": [],
       "agendaSignature": "ddadb0edefa886b86e7548cc30c6f587f59d4cfbaa8e85deaf7e07bb50e24a18",
-      "protocolAvailable": false,
+      "agendaCases": [],
+      "agendaDocumentIds": null,
       "protocolDocumentIds": null,
+      "agendaAvailable": false,
+      "protocolAvailable": false,
       "caseDecisions": []
     },
     {
@@ -367,84 +499,98 @@
       "meetingDate": "05/26/2025 07:00:00",
       "meetingDateUtc": "2025-05-26T05:00:00Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen, Fylkestingssalen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/377c7825-54f4-45e9-8115-2ea9444c2a36",
       "agendaDocumentObjectId": "do_01jw4qfd08ev3t0c7zz7gyy6yp",
+      "agendaSignature": "4cb437da66b621a06bcdfc34c4a2490147b972053ebc3cecf0a69c7aaa141f5d",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/ec9c529c-3cb9-4763-aac2-f193700513fa",
           "number": "17/2025",
-          "title": "Godkjenning av innkalling med saksliste"
+          "title": "Godkjenning av innkalling med saksliste",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/3f399fbe-ec63-4536-b3d1-2e6b63709cbf",
           "number": "18/2025",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/0f98fc02-1567-42f1-b936-63d4435f4307",
           "number": "19/2025",
-          "title": "Folkehelseprogrammet i Buskerud fase 2"
+          "title": "Folkehelseprogrammet i Buskerud fase 2",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/89d1adbe-fd88-4c35-836d-3bea7d7cf269",
           "number": "20/2025",
-          "title": "Orientering om Ungdataundersøkelsen 2025 - om resultater og prosess for oppfølging"
+          "title": "Orientering om Ungdataundersøkelsen 2025 - om resultater og prosess for oppfølging",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/33ddfd59-6354-4feb-8eb0-70a0a5aaa8e7",
           "number": "21/2025",
-          "title": "Årsrapport fra Ombudet for barn og unge 2024 - På samme lag?"
+          "title": "Årsrapport fra Ombudet for barn og unge 2024 - På samme lag?",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/80ca8f5e-b18a-48f0-9c4f-1c7fdf91f4d7",
           "number": "22/2025",
-          "title": "Orientering om jobbingen med avgangsmarkering i Buskerud"
+          "title": "Orientering om jobbingen med avgangsmarkering i Buskerud",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/0aa4fd3a-e453-4949-82b2-791c4ca27017",
           "number": "23/2025",
-          "title": "Handlingsprogram for samferdsel 2026-2029"
+          "title": "Handlingsprogram for samferdsel 2026-2029",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/66b8ca75-598e-4b12-bea9-f0f8ddf07f2e",
           "number": "24/2025",
-          "title": "Etablering av tilskuddsordningen Regionalt kulturfond i Buskerud"
+          "title": "Etablering av tilskuddsordningen Regionalt kulturfond i Buskerud",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/2aca87d6-1290-469a-8462-b54295cb6c1f",
           "number": "25/2025",
-          "title": "Overgangsarbeid 2025"
+          "title": "Overgangsarbeid 2025",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/4e23d927-54c8-435a-9d63-684d84acb939",
           "number": "26/2025",
-          "title": "Gratis buss til barn under 16 år"
+          "title": "Gratis buss til barn under 16 år",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/ef52d595-5d2d-4102-8e9c-04a44f7e89a3",
           "number": "27/2025",
-          "title": "Forskrift om rabattordning i stedet for gratis skoleskyss eller full skyssgodtgjørelse for elever ved videregående opplæring"
+          "title": "Forskrift om rabattordning i stedet for gratis skoleskyss eller full skyssgodtgjørelse for elever ved videregående opplæring",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/154a71db-2ffc-4cf2-9e75-eb7e33b4fc06",
           "number": "28/2025",
-          "title": "ABC - kampanje for god psykisk helse"
+          "title": "ABC - kampanje for god psykisk helse",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/af8bc46c-69aa-422e-918e-f1dc590efe60",
           "number": "29/2025",
-          "title": "Svar på høring - Forslag til endringer i privatskoleloven"
+          "title": "Svar på høring - Forslag til endringer i privatskoleloven",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/3f953ba0-406d-48ab-ac48-84079d5802ec",
           "number": "30/2025",
-          "title": "Åpen Post 26.05.2025"
+          "title": "Åpen Post 26.05.2025",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "4cb437da66b621a06bcdfc34c4a2490147b972053ebc3cecf0a69c7aaa141f5d",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/377c7825-54f4-45e9-8115-2ea9444c2a36",
       "protocolDocumentIds": "https://prod02.elementscloud.no/85c32d15-45a8-40cc-b90a-2855a970a0c4",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/ef52d595-5d2d-4102-8e9c-04a44f7e89a3",
@@ -610,34 +756,38 @@
       "meetingDate": "05/26/2025 08:00:00",
       "meetingDateUtc": "2025-05-26T06:00:00Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89, Drammen, Møterom Biskopsrud",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/d381a501-5755-4d40-8748-b9549ce2c295",
       "agendaDocumentObjectId": "do_01jvc2e1r6f0jsdgd5qk943y8k",
+      "agendaSignature": "c87ef120a19f975f197a3dc76ed461776a89f5111eeca06c1d16a409ff0beb2c",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/8830dbf2-9fd2-4f75-a093-a3a7408c197c",
           "number": "8/2025",
-          "title": "Handlingsprogram for samferdsel 2026-2029"
+          "title": "Handlingsprogram for samferdsel 2026-2029",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/5bbe92e9-ae98-4bb6-9aa0-fd51ed457ae4",
           "number": "9/2025",
-          "title": "Årsrapport fra Ombudet for barn og unge 2024 - På samme lag?"
+          "title": "Årsrapport fra Ombudet for barn og unge 2024 - På samme lag?",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/aaaa0290-30c0-4da4-9e6b-4193db67ea87",
           "number": "10/2025",
-          "title": "ABC - kampanje for god psykisk helse"
+          "title": "ABC - kampanje for god psykisk helse",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/ff41b38c-444e-42e3-a72e-cbc77d86cb72",
           "number": "11/2025",
-          "title": "Åpen post - Eldrerådet 260525"
+          "title": "Åpen post - Eldrerådet 260525",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "c87ef120a19f975f197a3dc76ed461776a89f5111eeca06c1d16a409ff0beb2c",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/d381a501-5755-4d40-8748-b9549ce2c295",
       "protocolDocumentIds": "https://prod02.elementscloud.no/3638affa-4a57-42e6-81f7-a2d0752807aa",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/ff41b38c-444e-42e3-a72e-cbc77d86cb72",
@@ -693,24 +843,26 @@
       "meetingDate": "05/27/2025 10:00:00",
       "meetingDateUtc": "2025-05-27T08:00:00Z",
       "meetingPlace": "Digitalt møte",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/5e357d8c-2ef7-4edc-aa65-9510c3065e60",
       "agendaDocumentObjectId": "do_01jvpdeckbfwxb80mm4x4mwp5h",
+      "agendaSignature": "5c6ee26b7930ce4d4f61b832ff9477463682d823bf9c435c849bd6dcd130ee1a",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/1e369018-d56b-4d78-9e6a-6cb605af2c9a",
           "number": "4/2025",
-          "title": "Godkjenning av møteinnkalling og protokoll"
+          "title": "Godkjenning av møteinnkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/aef21916-bffc-46c0-9c3f-c83f9142ec88",
           "number": "5/2025",
-          "title": "Stortingsvalget 2025 - Buskerud valgdistrikt - Godkjenning av valglister"
+          "title": "Stortingsvalget 2025 - Buskerud valgdistrikt - Godkjenning av valglister",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "5c6ee26b7930ce4d4f61b832ff9477463682d823bf9c435c849bd6dcd130ee1a",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/5e357d8c-2ef7-4edc-aa65-9510c3065e60",
       "protocolDocumentIds": "https://prod02.elementscloud.no/dcdaef57-8c9d-4248-a3a6-d1007771a82e",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/aef21916-bffc-46c0-9c3f-c83f9142ec88",
@@ -744,34 +896,38 @@
       "meetingDate": "05/27/2025 11:00:00",
       "meetingDateUtc": "2025-05-27T09:00:00Z",
       "meetingPlace": "Fylkeshuset i Drammen, møterom 216),, Fylkeshuset i Drammen, møterom 216),",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/145cbfce-078d-4c1b-a03b-e499f5b52c7f",
       "agendaDocumentObjectId": "do_01jvkt4bqzfz983v0a57t43cyt",
+      "agendaSignature": "9316257e3ee44e7f67f7a10fe192b5fbc715ba85b64134d63ea2ad8374e05ebf",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/13d25c95-b681-43cf-8e0c-faf091874761",
           "number": "5/2025",
-          "title": "Godkjenning av innkalling og referat fra møte 18. mars 2025"
+          "title": "Godkjenning av innkalling og referat fra møte 18. mars 2025",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/d0d0c7ed-0f9c-45df-8a19-f1dc330c316b",
           "number": "6/2025",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/b5fb9f8e-94a4-45f9-a0a2-ced0d6493e83",
           "number": "7/2025",
-          "title": "Årsregnskap 2024"
+          "title": "Årsregnskap 2024",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/3832fa99-2cb1-419b-b7eb-5437ccae3f0d",
           "number": "8/2025",
-          "title": "Evaluering av tjenesteavtalen"
+          "title": "Evaluering av tjenesteavtalen",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "9316257e3ee44e7f67f7a10fe192b5fbc715ba85b64134d63ea2ad8374e05ebf",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/145cbfce-078d-4c1b-a03b-e499f5b52c7f",
       "protocolDocumentIds": "https://prod02.elementscloud.no/9c283bb5-0205-40e1-80d6-6bfb6369508c",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/d0d0c7ed-0f9c-45df-8a19-f1dc330c316b",
@@ -827,44 +983,50 @@
       "meetingDate": "05/27/2025 11:30:00",
       "meetingDateUtc": "2025-05-27T09:30:00Z",
       "meetingPlace": "Digitalt.",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/b819cb77-33d8-4674-9465-c66c7a8555b7",
       "agendaDocumentObjectId": "do_01jvsz4vsyfarrh5nc0gje1akz",
+      "agendaSignature": "c367c611450a165dd14116b8aa2146ff0aa05cb7e31d5425e45b3272c6ef76d9",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/97099301-e9af-42fe-8802-c75926c782fb",
           "number": "1/2025",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/cbd0e6a6-e8da-450e-a984-b2831fbfbfa3",
           "number": "2/2025",
-          "title": "Forventninger til samarbeidsutvalgets arbeidsform"
+          "title": "Forventninger til samarbeidsutvalgets arbeidsform",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/99a08e3a-207d-4b7c-ac5a-642a241fdf65",
           "number": "3/2025",
-          "title": "Politisk møtekalender 2026"
+          "title": "Politisk møtekalender 2026",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/aaed00f9-4a6f-447c-a3f4-319d7c69d385",
           "number": "4/2025",
-          "title": "Erfaringer fra hovedutvalg, fylkesutvalg og fylkesting. Hva fungerer bra og hva er eventuelt forbedringspunkter?"
+          "title": "Erfaringer fra hovedutvalg, fylkesutvalg og fylkesting. Hva fungerer bra og hva er eventuelt forbedringspunkter?",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/3dd21d46-f327-4800-bde8-310264c3380b",
           "number": "5/2025",
-          "title": "Innretningen for budsjettseminar 1. september"
+          "title": "Innretningen for budsjettseminar 1. september",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/fd5d0cb5-7bb3-49db-aeb3-d7367983fcad",
           "number": "6/2025",
-          "title": "Eventuelt"
+          "title": "Eventuelt",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "c367c611450a165dd14116b8aa2146ff0aa05cb7e31d5425e45b3272c6ef76d9",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/b819cb77-33d8-4674-9465-c66c7a8555b7",
       "protocolDocumentIds": "https://prod02.elementscloud.no/b0f5a39e-38b5-4322-bebe-d7fd37151e1b",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/fd5d0cb5-7bb3-49db-aeb3-d7367983fcad",
@@ -942,54 +1104,62 @@
       "meetingDate": "05/28/2025 08:00:00",
       "meetingDateUtc": "2025-05-28T06:00:00Z",
       "meetingPlace": "Union Scene, Multisal 1, Grønland 60, Union Scene, Multisal 1, Grønland 60",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/c89f45cd-4d89-4726-8876-548333815eb2",
       "agendaDocumentObjectId": "do_01jvkw7f6be7crfxyjvm6tzc21",
+      "agendaSignature": "806d609951ee11fc4b2d88ea19341d2355754c2a96e6ab82e4a5ac222c27ecff",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/1f34cc89-2bb6-4084-bcbc-b49e7e152959",
           "number": "10/2025",
-          "title": "Godkjenning av møteinnkalling og protokoll"
+          "title": "Godkjenning av møteinnkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/cb2445a4-4ec5-451a-a3c0-cba0f82d1330",
           "number": "11/2025",
-          "title": "Endring i NHOs representasjon i yrkesopplæringsnemnda - f.o.m 24 april"
+          "title": "Endring i NHOs representasjon i yrkesopplæringsnemnda - f.o.m 24 april",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/28f417a0-31ef-4237-a1fd-933e05ee29e5",
           "number": "12/2025",
-          "title": "Sammensetning og antall medlemmer"
+          "title": "Sammensetning og antall medlemmer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/f1b99946-0bb7-4fd5-97c7-a25789aa5d0f",
           "number": "13/2025",
-          "title": "Gjennomføring av vedtak fra økonomiplan 2025-2028"
+          "title": "Gjennomføring av vedtak fra økonomiplan 2025-2028",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/968597ab-9a3f-4c1e-8d9b-d9fada32e8dc",
           "number": "14/2025",
-          "title": "Prinsipper og kriterier for tildeling av driftstilskudd til høyere yrkesfaglig utdanning 2026"
+          "title": "Prinsipper og kriterier for tildeling av driftstilskudd til høyere yrkesfaglig utdanning 2026",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/f979c122-8dab-4b6b-9cad-b85ae6efc86f",
           "number": "15/2025",
-          "title": "Høringssvar til NOU 2025:1 Felles ansvar, felles gevinst Partssamarbeid for kompetanseutvikling i arbeidslivet"
+          "title": "Høringssvar til NOU 2025:1 Felles ansvar, felles gevinst Partssamarbeid for kompetanseutvikling i arbeidslivet",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/ae3420d7-e751-47fb-a35e-cb0374f945f8",
           "number": "16/2025",
-          "title": "Søknad om godkjenning som samarbeidsorgan i Buskerud"
+          "title": "Søknad om godkjenning som samarbeidsorgan i Buskerud",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/61bb8682-170c-4a2d-8b46-a8a0d72c597f",
           "number": "17/2025",
-          "title": "Godkjenning av samarbeidsorgan etter ny lov og forskrift"
+          "title": "Godkjenning av samarbeidsorgan etter ny lov og forskrift",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "806d609951ee11fc4b2d88ea19341d2355754c2a96e6ab82e4a5ac222c27ecff",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/c89f45cd-4d89-4726-8876-548333815eb2",
       "protocolDocumentIds": "https://prod02.elementscloud.no/0c67518c-24e2-4479-8efb-167cf510b90e",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/f979c122-8dab-4b6b-9cad-b85ae6efc86f",
@@ -1089,59 +1259,68 @@
       "meetingDate": "05/28/2025 08:00:00",
       "meetingDateUtc": "2025-05-28T06:00:00Z",
       "meetingPlace": "Fylkeshuset, møterom 211",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/1806dcbc-ae97-40ea-9496-d7871134ceb7",
       "agendaDocumentObjectId": "do_01jw4qg2qbfgx8neyb4sbgg682",
+      "agendaSignature": "c9dbb22b90a729f3203a44e01672185830ec0608fbe422609a418dffe81c9102",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/99e91342-69ac-4ce2-9b78-b605d24159aa",
           "number": "13/2025",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/a37c5d36-f69f-405f-968d-0a8354cb8693",
           "number": "14/2025",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/385f7481-3543-4564-99e1-13ac380602ad",
           "number": "15/2025",
-          "title": "Handlingsprogram for samferdsel 2026-2029"
+          "title": "Handlingsprogram for samferdsel 2026-2029",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/fe73f30c-6034-4daa-ae0c-2c53799eac0f",
           "number": "16/2025",
-          "title": "Etablering av tilskuddsordningen Regionalt kulturfond i Buskerud"
+          "title": "Etablering av tilskuddsordningen Regionalt kulturfond i Buskerud",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/8ea81c19-d280-4a69-b5ca-59b54d0fe8e6",
           "number": "17/2025",
-          "title": "ABC - kampanje for god psykisk helse"
+          "title": "ABC - kampanje for god psykisk helse",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/5b05ed75-1d08-4111-a965-cd5fb9a50836",
           "number": "18/2025",
-          "title": "Årsrapport fra Ombudet for barn og unge 2024 - På samme lag?"
+          "title": "Årsrapport fra Ombudet for barn og unge 2024 - På samme lag?",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/86045d2c-ff6f-4c35-88f5-55417e9513ab",
           "number": "19/2025",
-          "title": "Gratis buss til barn under 16 år"
+          "title": "Gratis buss til barn under 16 år",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/4fea1bdc-585e-4020-8ad4-59c8b314be0c",
           "number": "20/2025",
-          "title": "Handlingsprogram for Flerkulturelt utvalg 2025-2027"
+          "title": "Handlingsprogram for Flerkulturelt utvalg 2025-2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/2921199a-b36e-4857-8b6f-d9aff9a0e507",
           "number": "21/2025",
-          "title": "Åpen post 28.05.2025"
+          "title": "Åpen post 28.05.2025",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "c9dbb22b90a729f3203a44e01672185830ec0608fbe422609a418dffe81c9102",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/1806dcbc-ae97-40ea-9496-d7871134ceb7",
       "protocolDocumentIds": "https://prod02.elementscloud.no/619c4b05-f40b-44bc-a816-7c415f544083",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/4fea1bdc-585e-4020-8ad4-59c8b314be0c",
@@ -1252,34 +1431,38 @@
       "meetingDate": "05/28/2025 08:00:00",
       "meetingDateUtc": "2025-05-28T06:00:00Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89, Drammen, Møterom Biskopsrud",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/fc5bd7eb-d457-4c82-b6cc-5f6371d29fc1",
       "agendaDocumentObjectId": "do_01jvcak791etmtzz1w7hx3353y",
+      "agendaSignature": "7f9a0ff99406d3075750c1a60c85c414d8f847e034c9a023ff62a0a6dbce79ac",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/a9a69dbe-5e44-4cf2-bfd5-9ec3f0faa695",
           "number": "8/2025",
-          "title": "Handlingsprogram for samferdsel 2026-2029"
+          "title": "Handlingsprogram for samferdsel 2026-2029",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/a3fd49ef-af81-45ae-9412-b904e31bf461",
           "number": "9/2025",
-          "title": "Årsrapport fra Ombudet for barn og unge 2024 - På samme lag?"
+          "title": "Årsrapport fra Ombudet for barn og unge 2024 - På samme lag?",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/57a0b9c1-04c3-4056-ac34-12fd950b15b2",
           "number": "10/2025",
-          "title": "ABC - kampanje for god psykisk helse"
+          "title": "ABC - kampanje for god psykisk helse",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/a09a0cd4-2d47-455f-9dc2-7e046e18bbf8",
           "number": "11/2025",
-          "title": "Åpen post - RFF møte 280525"
+          "title": "Åpen post - RFF møte 280525",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "7f9a0ff99406d3075750c1a60c85c414d8f847e034c9a023ff62a0a6dbce79ac",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/fc5bd7eb-d457-4c82-b6cc-5f6371d29fc1",
       "protocolDocumentIds": "https://prod02.elementscloud.no/b7e869f5-d05a-42f2-96ee-92f98a8798a2",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/a9a69dbe-5e44-4cf2-bfd5-9ec3f0faa695",
@@ -1335,34 +1518,38 @@
       "meetingDate": "05/28/2025 09:00:00",
       "meetingDateUtc": "2025-05-28T07:00:00Z",
       "meetingPlace": "Fylkeshuset, fylkestingssalen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/25366243-1046-4b6c-9d99-6bfeddf58319",
       "agendaDocumentObjectId": "do_01jvt1sb9xfkha2fqyg5368bp6",
+      "agendaSignature": "37daf83bc50f2aaa3bea4865ccf4b6ed5d49a029cf4e67f4081ee97c764f62b3",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/7c94e9ef-876c-465f-8c79-82be0f86b459",
           "number": "7/2025",
-          "title": "Godkjenning av møteinnkalling og protokoll"
+          "title": "Godkjenning av møteinnkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/cfd2d8a4-e07b-444a-9c08-430a00bd1b35",
           "number": "8/2025",
-          "title": "Pensjonskassen for fylkene - årsrapport 2024"
+          "title": "Pensjonskassen for fylkene - årsrapport 2024",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/340efc05-e406-4a82-9789-ff10d747237d",
           "number": "9/2025",
-          "title": "Organisering av bygningsvernsentertjenester i Buskerud"
+          "title": "Organisering av bygningsvernsentertjenester i Buskerud",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/db729f14-cf21-48e5-9931-3b986a373c8e",
           "number": "10/2025",
-          "title": "Årsrapport fra Ombudet for barn og unge 2024 - På samme lag?"
+          "title": "Årsrapport fra Ombudet for barn og unge 2024 - På samme lag?",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "37daf83bc50f2aaa3bea4865ccf4b6ed5d49a029cf4e67f4081ee97c764f62b3",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/25366243-1046-4b6c-9d99-6bfeddf58319",
       "protocolDocumentIds": "https://prod02.elementscloud.no/0529169a-7f6f-43bc-a688-0177f23d2de9",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/db729f14-cf21-48e5-9931-3b986a373c8e",

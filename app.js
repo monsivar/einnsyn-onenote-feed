@@ -598,7 +598,7 @@ function icon(type) {
 
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => {
-    navigator.serviceWorker.register('./sw.js?v=1.1.0').catch(() => {
+    navigator.serviceWorker.register('./sw.js?v=1.2.1').catch(() => {
       // The app remains fully usable in Safari private browsing and older browsers.
     });
   });

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "shardType": "meetings",
   "shardKey": "2025-10",
-  "updatedAtUtc": "2026-09-21T09:40:53.0211980+00:00",
+  "updatedAtUtc": "2026-09-21T12:12:59.8208496+00:00",
   "meetingCount": 16,
   "meetings": [
     {
@@ -13,19 +13,20 @@
       "meetingDate": "10/06/2025 07:00:00",
       "meetingDateUtc": "2025-10-06T05:00:00Z",
       "meetingPlace": "Teams",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/7f048871-7cbe-4310-aaef-f0ed81b2f90d",
       "agendaDocumentObjectId": "do_01k6wmgmbjfbx8qpvgjma73weq",
+      "agendaSignature": "de4af827bcb060018017b1194ea0e902211805e11195f26f3663149bc39a301e",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/5f86231b-6aa2-4ed0-97cb-16c2e47f8e53",
           "number": "19/2025",
-          "title": "Uttreden fra verv - Morgan Langfeldt (Frp)"
+          "title": "Uttreden fra verv - Morgan Langfeldt (Frp)",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "de4af827bcb060018017b1194ea0e902211805e11195f26f3663149bc39a301e",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/7f048871-7cbe-4310-aaef-f0ed81b2f90d",
       "protocolDocumentIds": "https://prod02.elementscloud.no/0576018c-07f1-4b30-8b78-79339bc87b36",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/5f86231b-6aa2-4ed0-97cb-16c2e47f8e53",
@@ -48,13 +49,13 @@
       "meetingDate": "10/07/2025 10:00:00",
       "meetingDateUtc": "2025-10-07T08:00:00Z",
       "meetingPlace": "Fylkeshuset, fylkestingssalen",
-      "agendaAvailable": false,
-      "agendaDocumentIds": null,
       "agendaDocumentObjectId": "",
-      "agendaCases": [],
       "agendaSignature": "ddadb0edefa886b86e7548cc30c6f587f59d4cfbaa8e85deaf7e07bb50e24a18",
-      "protocolAvailable": false,
+      "agendaCases": [],
+      "agendaDocumentIds": null,
       "protocolDocumentIds": null,
+      "agendaAvailable": false,
+      "protocolAvailable": false,
       "caseDecisions": []
     },
     {
@@ -65,114 +66,134 @@
       "meetingDate": "10/08/2025 07:00:00",
       "meetingDateUtc": "2025-10-08T05:00:00Z",
       "meetingPlace": "Sundvolden Hotell",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/e59f30ca-bda7-48e5-88f9-9bb4780fd9f6",
       "agendaDocumentObjectId": "do_01k6b0bg4xefarn44he80ny8rp",
+      "agendaSignature": "dcf3260c33d76e301a889ef5896d9748b914ee4d72bca2cf2abbe363b559c2f6",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/57fd0c48-0712-4f8b-80ca-350f2e21c587",
           "number": "8/2025",
-          "title": "Interpellasjon fra Simon Sebastian Nordanger - Dialog om endringer i rutetilbudet til Brakar"
+          "title": "Interpellasjon fra Simon Sebastian Nordanger - Dialog om endringer i rutetilbudet til Brakar",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/b76e4fe5-7bf4-4881-a3f4-4c0d8023fc03",
           "number": "9/2025",
-          "title": "Interpellasjon fra Odd Terje Svendsen - Skoleskyss Rollag til Numedal videregående skole"
+          "title": "Interpellasjon fra Odd Terje Svendsen - Skoleskyss Rollag til Numedal videregående skole",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/022a9232-b767-47f2-88bc-1038ed5dc381",
           "number": "10/2025",
-          "title": "Interpellasjon fra Magnus Weggesrud om foreslått kutt i avganger ved Steinberg stasjon"
+          "title": "Interpellasjon fra Magnus Weggesrud om foreslått kutt i avganger ved Steinberg stasjon",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/143cb987-f6e2-4542-a778-7c90f059ad26",
           "number": "11/2025",
-          "title": "Interpellasjon fra Magnus Weggesrud - Om overfylte skolebusser i Numedal"
+          "title": "Interpellasjon fra Magnus Weggesrud - Om overfylte skolebusser i Numedal",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/a7c2c68f-906d-4f92-a8ab-f67528ed1e7c",
           "number": "12/2025",
-          "title": "Interpellasjon fra Anne Kristine (Tone) Norman- Fritidsboliger og deltidsinnbyggere – en ressurs hvis den forvaltes riktig"
+          "title": "Interpellasjon fra Anne Kristine (Tone) Norman- Fritidsboliger og deltidsinnbyggere – en ressurs hvis den forvaltes riktig",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/65752a12-f56b-4d36-9e1c-30539b59ed79",
           "number": "62/2025",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/e79c9e7a-6ebe-434a-bc06-b3666cb27039",
           "number": "63/2025",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/e771216a-b6ba-4036-acee-e20a04a80997",
           "number": "64/2025",
-          "title": "Buskerudbyen – vedtak av utredningsprogram"
+          "title": "Buskerudbyen – vedtak av utredningsprogram",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/8dbd26bd-7020-4c1e-a98f-918ae941a5b8",
           "number": "65/2025",
-          "title": "NOU Ny kulturmiljølov - høringsuttalelse fra Buskerud fylkeskommune"
+          "title": "NOU Ny kulturmiljølov - høringsuttalelse fra Buskerud fylkeskommune",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/6a5754a8-375a-4428-9859-6b4a3f949ba1",
           "number": "66/2025",
-          "title": "Støtte til transport av sykehusutstyr til Ukraina"
+          "title": "Støtte til transport av sykehusutstyr til Ukraina",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/f7744e95-d3db-4f09-a89e-23b40c3d18fb",
           "number": "67/2025",
-          "title": "Status for samarbeid om Regional plan for Hardangervidda 2024-25"
+          "title": "Status for samarbeid om Regional plan for Hardangervidda 2024-25",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/dc138e11-e924-4f1f-acb3-e4998c300fd8",
           "number": "68/2025",
-          "title": "Status for samarbeid om regional plan for Nordfjella med Raudafjell 2024-25"
+          "title": "Status for samarbeid om regional plan for Nordfjella med Raudafjell 2024-25",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/ad23ac64-f1ee-45bd-8cec-c7a6c20e4673",
           "number": "69/2025",
-          "title": "Viken filmsenter AS: fusjon med Oslo Filmfond AS og Mediefabrikken"
+          "title": "Viken filmsenter AS: fusjon med Oslo Filmfond AS og Mediefabrikken",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/fa17196f-68f0-4cf7-8e8f-81eeb957cc88",
           "number": "70/2025",
-          "title": "Støtte til NRK TV-aksjonen 2025 - Sammen åpner vi dører - Atlasalliansen"
+          "title": "Støtte til NRK TV-aksjonen 2025 - Sammen åpner vi dører - Atlasalliansen",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/d9d680a1-2d87-4986-9111-19efa930ee82",
           "number": "71/2025",
-          "title": "Nasjonal digital læringsarena (NDLA) - oppnevning av varamedlem til representantskapet"
+          "title": "Nasjonal digital læringsarena (NDLA) - oppnevning av varamedlem til representantskapet",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/4053be7b-20b6-49df-a798-619212167806",
           "number": "72/2025",
-          "title": "Endring i delegasjonsreglement - kapittel 11 delegering etter særlovgivningen"
+          "title": "Endring i delegasjonsreglement - kapittel 11 delegering etter særlovgivningen",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/3c7c0d3c-0552-47e0-b786-59e27422fe9e",
           "number": "73/2025",
-          "title": "Uttreden fra verv - Morgan Langfeldt (Frp)"
+          "title": "Uttreden fra verv - Morgan Langfeldt (Frp)",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/7711c29c-ef50-4184-8eb8-3f9de2c39e3b",
           "number": "74/2025",
-          "title": "Uttreden fra verv - Bhanuja Rasiah (Ap)"
+          "title": "Uttreden fra verv - Bhanuja Rasiah (Ap)",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/5c989227-95e1-4976-8356-4c791ac09fa0",
           "number": "75/2025",
-          "title": "Oppfølging interpellasjon ulovlig hogst i Buskerud"
+          "title": "Oppfølging interpellasjon ulovlig hogst i Buskerud",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/80733fc4-7df1-4ed2-928e-f794ed8f18c2",
           "number": "76/2025",
-          "title": "Viken kommunerevisjon IKS - Ny selskapsavtale fra 01.07.2025"
+          "title": "Viken kommunerevisjon IKS - Ny selskapsavtale fra 01.07.2025",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "dcf3260c33d76e301a889ef5896d9748b914ee4d72bca2cf2abbe363b559c2f6",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/e59f30ca-bda7-48e5-88f9-9bb4780fd9f6",
       "protocolDocumentIds": "https://prod02.elementscloud.no/e7788d01-df21-4e08-83d7-736d44c1bc10",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/a7c2c68f-906d-4f92-a8ab-f67528ed1e7c",
@@ -404,59 +425,68 @@
       "meetingDate": "10/09/2025 08:00:00",
       "meetingDateUtc": "2025-10-09T06:00:00Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89, Drammen - Møterom Biskopsrud, Møterom Biskopsrud",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/79d87d2a-3c05-42e5-8452-aa5cf12e7366",
       "agendaDocumentObjectId": "do_01k6fezn0wf47rq088dym6qms8",
+      "agendaSignature": "f971f45768146fb89d8f01b1972582f0be930e6a252c51c87ca6feb0d563d380",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/47b49ea2-f06d-4fbb-9a94-8b33e47e2626",
           "number": "18/2025",
-          "title": "Godkjenning av møteinnkalling og protokoll"
+          "title": "Godkjenning av møteinnkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/6e985ed4-3ae8-4fb2-8765-cd939aede2f2",
           "number": "19/2025",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/21674e17-2fb3-49fe-920e-1e62691817ab",
           "number": "20/2025",
-          "title": "Sammen om fagopplæring i Buskerud"
+          "title": "Sammen om fagopplæring i Buskerud",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/ab228ac6-b3e3-417a-b886-b5dcf7dd058d",
           "number": "21/2025",
-          "title": "Søknad om godkjenning som samarbeidsorgan - Baker- bransjens opplæringskontor as"
+          "title": "Søknad om godkjenning som samarbeidsorgan - Baker- bransjens opplæringskontor as",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/321b41c2-de37-46e5-944d-403d20144740",
           "number": "22/2025",
-          "title": "Valg av nye medlemmer til yrkesopplæringsnemnda"
+          "title": "Valg av nye medlemmer til yrkesopplæringsnemnda",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/81109368-48d9-4cf4-b22d-c4bc70c70f54",
           "number": "23/2025",
-          "title": "Verbalvedtak 40 i økonomiplan 2025-2028 - vedtaksoppfølging"
+          "title": "Verbalvedtak 40 i økonomiplan 2025-2028 - vedtaksoppfølging",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/9d410365-401c-40c0-89d3-fc2c2fdf455e",
           "number": "24/2025",
-          "title": "Svar på høring om forskrifter for tilskuddsordninger i nytt, helhetlig system for kompetanse- og karriereutvikling"
+          "title": "Svar på høring om forskrifter for tilskuddsordninger i nytt, helhetlig system for kompetanse- og karriereutvikling",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/02f9ee54-4ec8-49ec-897b-1dbb2e0698d0",
           "number": "25/2025",
-          "title": "Endring av representasjon i YON fra Utdanningsforbundet"
+          "title": "Endring av representasjon i YON fra Utdanningsforbundet",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/70dfae61-12eb-4735-8aa2-527afa019c23",
           "number": "26/2025",
-          "title": "Høring av forslag om endringer i reglene om fjernundervisning og inntak"
+          "title": "Høring av forslag om endringer i reglene om fjernundervisning og inntak",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "f971f45768146fb89d8f01b1972582f0be930e6a252c51c87ca6feb0d563d380",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/79d87d2a-3c05-42e5-8452-aa5cf12e7366",
       "protocolDocumentIds": "https://prod02.elementscloud.no/417613cd-2dd8-4f07-918a-f690bddef3ce",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/ab228ac6-b3e3-417a-b886-b5dcf7dd058d",
@@ -567,34 +597,38 @@
       "meetingDate": "10/09/2025 08:00:00",
       "meetingDateUtc": "2025-10-09T06:00:00Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89, Drammen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/d1f0596b-2d2a-4f01-b19b-c0091844c367",
       "agendaDocumentObjectId": "do_01k6fwqh30e7ras087b740h8tz",
+      "agendaSignature": "2094ea0efbeba91720f9b7912fe124e2007528a184120dbff040b85e7ec40f2d",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/ce5dc2b6-6d99-425b-a088-e68db9a12f7a",
           "number": "14/2025",
-          "title": "Hol kommune - Fv. 50 Hovsvegen - Prosess for mindre trafikksikkerhetstiltak"
+          "title": "Hol kommune - Fv. 50 Hovsvegen - Prosess for mindre trafikksikkerhetstiltak",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/3697a585-a633-4e1c-b5d7-91796e75b349",
           "number": "15/2025",
-          "title": "Selvfinansiert ekspressbuss fra Kongsberg til Oslo - ny behandling"
+          "title": "Selvfinansiert ekspressbuss fra Kongsberg til Oslo - ny behandling",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/491a8d05-0d34-43e0-919e-6b3f538a46af",
           "number": "16/2025",
-          "title": "Disponering av ekstra budsjettmidler til kollektivtransport"
+          "title": "Disponering av ekstra budsjettmidler til kollektivtransport",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/d62e64ef-030a-4720-a556-1a0dbfc03f8c",
           "number": "17/2025",
-          "title": "Åpen post - RFF møte 091025"
+          "title": "Åpen post - RFF møte 091025",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "2094ea0efbeba91720f9b7912fe124e2007528a184120dbff040b85e7ec40f2d",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/d1f0596b-2d2a-4f01-b19b-c0091844c367",
       "protocolDocumentIds": "https://prod02.elementscloud.no/6a42ffe3-d32c-4a0f-a395-e11b81784e90",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/491a8d05-0d34-43e0-919e-6b3f538a46af",
@@ -650,19 +684,20 @@
       "meetingDate": "10/10/2025 07:00:00",
       "meetingDateUtc": "2025-10-10T05:00:00Z",
       "meetingPlace": "Fylkeshuset, fylkestingssalen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/70b6cfed-b09b-4a29-822b-1674b03a0c67",
       "agendaDocumentObjectId": "do_01k6fdcqayfdh8atqyfjkb4zj9",
+      "agendaSignature": "8097329bc022c6f6069f043ef1456bf5f8dd603a727e018902e0ce6e1783d037",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/6f9a2872-5af2-4141-ac0b-7a98894d1634",
           "number": "13/2025",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "8097329bc022c6f6069f043ef1456bf5f8dd603a727e018902e0ce6e1783d037",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/70b6cfed-b09b-4a29-822b-1674b03a0c67",
       "protocolDocumentIds": "https://prod02.elementscloud.no/7d07f3b3-3a53-46b5-ac85-83c7f6244ad4",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/6f9a2872-5af2-4141-ac0b-7a98894d1634",
@@ -685,49 +720,56 @@
       "meetingDate": "10/13/2025 07:00:00",
       "meetingDateUtc": "2025-10-13T05:00:00Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen, Fylkestingssalen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/8e2c67fe-783e-4a53-9c6d-23a49e22bb70",
       "agendaDocumentObjectId": "do_01k6z2647hf1htmhrtt4dj815n",
+      "agendaSignature": "56d05f708a039a9adf902ef675d895bdfda54e010096113730dc2ec73b2552a4",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/41dff275-55cf-4e61-a12f-39ad8350e8f6",
           "number": "35/2025",
-          "title": "Godkjenning av innkalling med saksliste"
+          "title": "Godkjenning av innkalling med saksliste",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/ce05276c-c9e0-4194-a64f-5681236e2298",
           "number": "36/2025",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/e16d145c-71fc-4fb9-93d2-04831834c0f5",
           "number": "37/2025",
-          "title": "Svar på høring om forskrifter for tilskuddsordninger i nytt, helhetlig system for kompetanse- og karriereutvikling"
+          "title": "Svar på høring om forskrifter for tilskuddsordninger i nytt, helhetlig system for kompetanse- og karriereutvikling",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/dd901aa2-ab91-45d9-b360-3f41486d089b",
           "number": "38/2025",
-          "title": "Hol kommune - Fv. 50 Hovsvegen - Prosess for mindre trafikksikkerhetstiltak"
+          "title": "Hol kommune - Fv. 50 Hovsvegen - Prosess for mindre trafikksikkerhetstiltak",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/e6904a54-aac9-4f39-b398-6c639e70d04a",
           "number": "39/2025",
-          "title": "Verbalvedtak 40 i økonomiplan 2025-2028 - vedtaksoppfølging"
+          "title": "Verbalvedtak 40 i økonomiplan 2025-2028 - vedtaksoppfølging",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/5501f8ea-946a-4688-bbd1-50df57b3fd53",
           "number": "40/2025",
-          "title": "Ringerike folkehøgskoles selvevalueringsrapport og årsberetning"
+          "title": "Ringerike folkehøgskoles selvevalueringsrapport og årsberetning",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/0d0f0405-e4f1-43c2-935d-81c909e860c0",
           "number": "41/2025",
-          "title": "Åpen post"
+          "title": "Åpen post",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "56d05f708a039a9adf902ef675d895bdfda54e010096113730dc2ec73b2552a4",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/8e2c67fe-783e-4a53-9c6d-23a49e22bb70",
       "protocolDocumentIds": "https://prod02.elementscloud.no/e3912d3a-d87c-4f7f-bda4-950f88e74556",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/e6904a54-aac9-4f39-b398-6c639e70d04a",
@@ -816,34 +858,38 @@
       "meetingDate": "10/13/2025 08:00:00",
       "meetingDateUtc": "2025-10-13T06:00:00Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89, Drammen - Møterom Biskopsrud",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/6bc5e07f-078c-41ac-b0c1-891eef809e32",
       "agendaDocumentObjectId": "do_01k7017w7ae8f9e6wpzep7b8wp",
+      "agendaSignature": "468262bea36f26195f8df34f6eedf5f7547906105e2a9641f4bef22a9da3c407",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/9742c771-c51c-4872-8a4c-a7a5eed32ba2",
           "number": "14/2025",
-          "title": "Hol kommune - Fv. 50 Hovsvegen - Prosess for mindre trafikksikkerhetstiltak"
+          "title": "Hol kommune - Fv. 50 Hovsvegen - Prosess for mindre trafikksikkerhetstiltak",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/0394bd03-5505-48a8-ab8a-686aa7ec2c7a",
           "number": "15/2025",
-          "title": "Selvfinansiert ekspressbuss fra Kongsberg til Oslo - ny behandling"
+          "title": "Selvfinansiert ekspressbuss fra Kongsberg til Oslo - ny behandling",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/7dda8608-09dc-4933-b5ac-ae81cd8405ea",
           "number": "16/2025",
-          "title": "Disponering av ekstra budsjettmidler til kollektivtransport"
+          "title": "Disponering av ekstra budsjettmidler til kollektivtransport",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/c3dcbf4d-39a7-479d-ba1a-6ff5dcb6d2ce",
           "number": "17/2025",
-          "title": "Åpen post - Eldrerådet 131025"
+          "title": "Åpen post - Eldrerådet 131025",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "468262bea36f26195f8df34f6eedf5f7547906105e2a9641f4bef22a9da3c407",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/6bc5e07f-078c-41ac-b0c1-891eef809e32",
       "protocolDocumentIds": "https://prod02.elementscloud.no/18775551-a99d-4596-b6b4-e2ebf0637175",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/c3dcbf4d-39a7-479d-ba1a-6ff5dcb6d2ce",
@@ -899,34 +945,38 @@
       "meetingDate": "10/13/2025 08:00:00",
       "meetingDateUtc": "2025-10-13T06:00:00Z",
       "meetingPlace": "Fylkeshuset og digitalt - Kontakt politisksekretariat@bfk.no for lenke,",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/3b333dbe-9a3f-498b-8218-eaf22d397b61",
       "agendaDocumentObjectId": "do_01k6wjhxkxffh8kh7dck7h8075",
+      "agendaSignature": "525ff2a591442e76186efc5c8941784c56b23afb44b0c9ecd1bd484fa9a5b2cd",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/9105cb5b-5f90-4372-87bf-08268ea2e0ee",
           "number": "7/2025",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/2e951cef-6b89-402c-adc0-3705153cb713",
           "number": "8/2025",
-          "title": "Gjennomgang av saker fra sist møte"
+          "title": "Gjennomgang av saker fra sist møte",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/61956a4d-fe98-49e3-badd-14431b594486",
           "number": "9/2025",
-          "title": "Revisjon av politiske reglementer"
+          "title": "Revisjon av politiske reglementer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/ccbb4d1f-b0d9-495b-af19-a3e1d9c50fb2",
           "number": "10/2025",
-          "title": "Eventuelt"
+          "title": "Eventuelt",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "525ff2a591442e76186efc5c8941784c56b23afb44b0c9ecd1bd484fa9a5b2cd",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/3b333dbe-9a3f-498b-8218-eaf22d397b61",
       "protocolDocumentIds": "https://prod02.elementscloud.no/a7204260-449a-49bc-bb3a-a6d81ce207b2",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/ccbb4d1f-b0d9-495b-af19-a3e1d9c50fb2",
@@ -982,24 +1032,26 @@
       "meetingDate": "10/14/2025 06:30:00",
       "meetingDateUtc": "2025-10-14T04:30:00Z",
       "meetingPlace": "Fylkeshuset, møterom 210",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/21666ce8-395b-4b3a-8ffb-84883de870ef",
       "agendaDocumentObjectId": "",
+      "agendaSignature": "78e82daa4dd56e3c96ba84156c6a46639b6aefba611ae9130b0ac69e51186926",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/29e1796b-fba8-47d5-93f9-2c378601fdd7",
           "number": "26/2025",
-          "title": "Godkjenning av møteinnkalling og protokoll"
+          "title": "Godkjenning av møteinnkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/b955db79-a1a6-47bd-a472-b9b2e781bca8",
           "number": "27/2025",
-          "title": "Klage på avslag om søknad om TT-kort - Øvre Eiker kommune - ***** ***** ***** *****"
+          "title": "Klage på avslag om søknad om TT-kort - Øvre Eiker kommune - ***** ***** ***** *****",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "78e82daa4dd56e3c96ba84156c6a46639b6aefba611ae9130b0ac69e51186926",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/21666ce8-395b-4b3a-8ffb-84883de870ef",
       "protocolDocumentIds": "https://prod02.elementscloud.no/5d1788c4-d3a4-4fee-9430-e150ffd89d8f",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": []
     },
     {
@@ -1010,39 +1062,44 @@
       "meetingDate": "10/14/2025 08:00:00",
       "meetingDateUtc": "2025-10-14T06:00:00Z",
       "meetingPlace": "Fylkeshuset, møterom 211",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/ff15de96-5f37-43ba-8bf8-8203f61ec080",
       "agendaDocumentObjectId": "do_01k6z83dxafx6846rm4tqtzmda",
+      "agendaSignature": "cc26a5cd5943907375f2263fdea46afcc36b40e80c40aaa31f8b7b26fe13d6cd",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/50f03e8e-9e01-4321-8db3-4e658faad3ee",
           "number": "26/2025",
-          "title": "Godkjenning av innkalling med sakspapirer."
+          "title": "Godkjenning av innkalling med sakspapirer.",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/43ece475-ee1b-49dd-a187-565004988684",
           "number": "27/2025",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/f2dbca2a-095e-4127-8cb6-365192e4d110",
           "number": "28/2025",
-          "title": "Anbefaling om bosetting 2026 av flyktninger i kommunene i Buskerud"
+          "title": "Anbefaling om bosetting 2026 av flyktninger i kommunene i Buskerud",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/289d26b0-7ae3-420b-8db7-f218512b8079",
           "number": "29/2025",
-          "title": "Hol kommune - Fv. 50 Hovsvegen - Prosess for mindre trafikksikkerhetstiltak"
+          "title": "Hol kommune - Fv. 50 Hovsvegen - Prosess for mindre trafikksikkerhetstiltak",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/39d8f587-cec4-4af0-b0ce-b9ee42cafed1",
           "number": "30/2025",
-          "title": "Åpen post 14.10.2025"
+          "title": "Åpen post 14.10.2025",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "cc26a5cd5943907375f2263fdea46afcc36b40e80c40aaa31f8b7b26fe13d6cd",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/ff15de96-5f37-43ba-8bf8-8203f61ec080",
       "protocolDocumentIds": "https://prod02.elementscloud.no/7fd969d0-5d03-4c7e-b066-93f5ee060d9a",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/f2dbca2a-095e-4127-8cb6-365192e4d110",
@@ -1109,29 +1166,32 @@
       "meetingDate": "10/15/2025 08:00:00",
       "meetingDateUtc": "2025-10-15T06:00:00Z",
       "meetingPlace": "Gol videregående skole, Gymnasvegen 27",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/f1388ae0-d442-45a6-9093-867ced581bf0",
       "agendaDocumentObjectId": "do_01k6zv2cffenea9az5jcq4mejx",
+      "agendaSignature": "3c7b22409aa228d77954347c022bc022b46d6f8aa70e99e3697b85c7c0f6bea6",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/158bbe2b-1b32-4c31-a7f5-5693768beb1f",
           "number": "25/2025",
-          "title": "Hol kommune - Fv. 50 Hovsvegen - Prosess for mindre trafikksikkerhetstiltak"
+          "title": "Hol kommune - Fv. 50 Hovsvegen - Prosess for mindre trafikksikkerhetstiltak",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/e04f147d-5231-4ccc-8ad9-af0f8f33c2ee",
           "number": "26/2025",
-          "title": "Disponering av ekstra budsjettmidler til kollektivtransport"
+          "title": "Disponering av ekstra budsjettmidler til kollektivtransport",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/572ca6b2-4ad4-4214-9615-3bf80c5bd9ea",
           "number": "27/2025",
-          "title": "Selvfinansiert ekspressbuss fra Kongsberg til Oslo - ny behandling"
+          "title": "Selvfinansiert ekspressbuss fra Kongsberg til Oslo - ny behandling",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "3c7b22409aa228d77954347c022bc022b46d6f8aa70e99e3697b85c7c0f6bea6",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/f1388ae0-d442-45a6-9093-867ced581bf0",
       "protocolDocumentIds": "https://prod02.elementscloud.no/ea4ed8c4-57eb-470c-a8a0-502fcf3792ea",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/e04f147d-5231-4ccc-8ad9-af0f8f33c2ee",
@@ -1176,39 +1236,44 @@
       "meetingDate": "10/16/2025 11:00:00",
       "meetingDateUtc": "2025-10-16T09:00:00Z",
       "meetingPlace": "Fylkeshuset, fylkestingssalen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/a8bd8dd9-7820-4791-82f0-63e1e8c8f259",
       "agendaDocumentObjectId": "do_01k7gtz2xafpyb7wr3vczcjd0s",
+      "agendaSignature": "b1ecbcdd1fdc8ab0566eee6a074a5bf6d6516dac64aa429d3b0cf6fa5e08c4e1",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/f5e69306-5c30-4a4c-bb57-cea577d55c3e",
           "number": "34/2025",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/a214422e-1f4a-469a-9754-20f6597e839a",
           "number": "35/2025",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/24a58071-c1d6-4d37-8f25-613ea83e6e93",
           "number": "36/2025",
-          "title": "Verbalvedtak 40 i økonomiplan 2025-2028 - vedtaksoppfølging"
+          "title": "Verbalvedtak 40 i økonomiplan 2025-2028 - vedtaksoppfølging",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/9e258911-8c12-46be-9bd9-2d315fec85f4",
           "number": "37/2025",
-          "title": "Svar på høring om forskrifter for tilskuddsordninger i nytt, helhetlig system for kompetanse- og karriereutvikling"
+          "title": "Svar på høring om forskrifter for tilskuddsordninger i nytt, helhetlig system for kompetanse- og karriereutvikling",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/69f80514-4fd8-4131-b470-03ec9ed9c559",
           "number": "38/2025",
-          "title": "Ringerike folkehøgskoles selvevalueringsrapport og årsberetning"
+          "title": "Ringerike folkehøgskoles selvevalueringsrapport og årsberetning",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "b1ecbcdd1fdc8ab0566eee6a074a5bf6d6516dac64aa429d3b0cf6fa5e08c4e1",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/a8bd8dd9-7820-4791-82f0-63e1e8c8f259",
       "protocolDocumentIds": "https://prod02.elementscloud.no/b1bf1a6d-5a98-41c0-a0d8-990492ea3865",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/f5e69306-5c30-4a4c-bb57-cea577d55c3e",
@@ -1275,24 +1340,26 @@
       "meetingDate": "10/21/2025 10:00:00",
       "meetingDateUtc": "2025-10-21T08:00:00Z",
       "meetingPlace": "Digitalt, Digitalt",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/fd0e5874-12c7-401a-b7f1-8b85d084110a",
       "agendaDocumentObjectId": "do_01k7gxtek7e779z9azp4nc7065",
+      "agendaSignature": "0ef85bd9aa9fee9148be17a47fcfbe37773e47d9b886d3e44ec88f9871e89c8d",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/d87382eb-032d-461a-8efa-3821afbc3344",
           "number": "20/2025",
-          "title": "Valg av nye medlemmer til yrkesopplæringsnemnda"
+          "title": "Valg av nye medlemmer til yrkesopplæringsnemnda",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/e09923b5-e18c-46a9-90d7-ef309312557a",
           "number": "21/2025",
-          "title": "Endring av representasjon i YON fra Utdanningsforbundet"
+          "title": "Endring av representasjon i YON fra Utdanningsforbundet",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "0ef85bd9aa9fee9148be17a47fcfbe37773e47d9b886d3e44ec88f9871e89c8d",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/fd0e5874-12c7-401a-b7f1-8b85d084110a",
       "protocolDocumentIds": "https://prod02.elementscloud.no/ca298207-9ca0-450d-a256-3fa8c0c75826",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/e09923b5-e18c-46a9-90d7-ef309312557a",
@@ -1326,13 +1393,13 @@
       "meetingDate": "10/28/2025 09:00:00",
       "meetingDateUtc": "2025-10-28T08:00:00Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen",
-      "agendaAvailable": false,
-      "agendaDocumentIds": null,
       "agendaDocumentObjectId": "",
-      "agendaCases": [],
       "agendaSignature": "ddadb0edefa886b86e7548cc30c6f587f59d4cfbaa8e85deaf7e07bb50e24a18",
-      "protocolAvailable": false,
+      "agendaCases": [],
+      "agendaDocumentIds": null,
       "protocolDocumentIds": null,
+      "agendaAvailable": false,
+      "protocolAvailable": false,
       "caseDecisions": []
     },
     {
@@ -1343,69 +1410,80 @@
       "meetingDate": "10/29/2025 08:00:00",
       "meetingDateUtc": "2025-10-29T07:00:00Z",
       "meetingPlace": "Søstrene Storaas",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/036a861b-2afc-4b72-8799-4408b59de806",
       "agendaDocumentObjectId": "do_01k80k9mbvfhp8e2sk0kce56fe",
+      "agendaSignature": "7f812ab7ab205b9a871af07589b18878cc1793a42584da8ba30315deea576499",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/a94de89b-544f-42db-8e38-66f04a2604c1",
           "number": "85/2025",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/974dc65c-a108-4fa9-86ac-cc053ce355b6",
           "number": "86/2025",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/a8798f8b-2bd1-4487-a4c1-c4c5b011ce4c",
           "number": "87/2025",
-          "title": "Tertialrapport nr 2 2025"
+          "title": "Tertialrapport nr 2 2025",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/418422f4-cd7a-46cb-98cb-5b063a495320",
           "number": "88/2025",
-          "title": "Styrking av den regionale kompetansepolitikken i Buskerud. Mandat, deltakere, roller og ansvar for etablering av «Regionalt kompetanseforum Buskerud»."
+          "title": "Styrking av den regionale kompetansepolitikken i Buskerud. Mandat, deltakere, roller og ansvar for etablering av «Regionalt kompetanseforum Buskerud».",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/37819910-b694-4f5e-8bef-d2a87f4c6ead",
           "number": "89/2025",
-          "title": "Anbefaling om bosetting 2026 av flyktninger i kommunene i Buskerud"
+          "title": "Anbefaling om bosetting 2026 av flyktninger i kommunene i Buskerud",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/15ef3c51-7faa-4839-a932-59301240040c",
           "number": "90/2025",
-          "title": "Forslag om endring av plan- og bygningsloven - forbud mot nedbygging av myr - Høringsuttalelse"
+          "title": "Forslag om endring av plan- og bygningsloven - forbud mot nedbygging av myr - Høringsuttalelse",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/f60f1e24-4011-4d91-8f63-551d20d7fc06",
           "number": "91/2025",
-          "title": "Nore og Uvdal - Kommuneplanens arealdel 2025-2037 - høringsuttalelse til 2. gangs høring"
+          "title": "Nore og Uvdal - Kommuneplanens arealdel 2025-2037 - høringsuttalelse til 2. gangs høring",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/3371678c-f23a-44fb-969d-ae7b4321606d",
           "number": "92/2025",
-          "title": "Hol kommune - Kommuneplanens arealdel 2024-2036 - Høringsuttalelse"
+          "title": "Hol kommune - Kommuneplanens arealdel 2024-2036 - Høringsuttalelse",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/6cb6800a-526e-4d56-adf7-f56dd84ce1c7",
           "number": "93/2025",
-          "title": "Felles sti- og løypeplan - innspill til høringsforslag fra Hardangerviddarådet"
+          "title": "Felles sti- og løypeplan - innspill til høringsforslag fra Hardangerviddarådet",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/944f5b5e-d419-48d5-8f54-a66d3cd2e104",
           "number": "94/2025",
-          "title": "Høringsinnspill - Forslag til tiltaksplan etter kvalitetsnorm for villrein i Hardangervidda villreinområde"
+          "title": "Høringsinnspill - Forslag til tiltaksplan etter kvalitetsnorm for villrein i Hardangervidda villreinområde",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/5769d019-4fa9-4bbc-9f2e-22f6cf5f4fe3",
           "number": "95/2025",
-          "title": "Forslag til nytt handlingsprogram, Regional plan for Norefjell-Reinsjøfjell (2026-2029)"
+          "title": "Forslag til nytt handlingsprogram, Regional plan for Norefjell-Reinsjøfjell (2026-2029)",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "7f812ab7ab205b9a871af07589b18878cc1793a42584da8ba30315deea576499",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/036a861b-2afc-4b72-8799-4408b59de806",
       "protocolDocumentIds": "https://prod02.elementscloud.no/615d6c4b-4fe1-4fb2-b56c-a0a36845ac53",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/f60f1e24-4011-4d91-8f63-551d20d7fc06",

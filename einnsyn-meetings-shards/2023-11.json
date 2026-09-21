@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "shardType": "meetings",
   "shardKey": "2023-11",
-  "updatedAtUtc": "09/21/2026 14:12:59",
+  "updatedAtUtc": "09/21/2026 15:31:58",
   "meetingCount": 12,
   "meetings": [
     {
@@ -43,8 +43,17 @@
           "metadata": null
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "failed",
+        "completed": false,
+        "fixedMembers": [],
+        "deputies": [],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/b4825159-bcfa-4a68-b718-fcea95a53af2",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb4825159-bcfa-4a68-b718-fcea95a53af2"
+        }
+      },
+      "metadataStatus": "failed",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb4825159-bcfa-4a68-b718-fcea95a53af2"
     },

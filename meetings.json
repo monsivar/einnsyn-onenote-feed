@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-21T09:58:43.3983530+00:00",
+  "generatedAtUtc": "2026-09-21T11:29:22.4939961+00:00",
   "source": "eInnsyn",
   "meetings": [
     {
@@ -4344,7 +4344,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jbbv7v42e5cvah5xtaxwm2cm"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jbbv7v42e5cvah5xtaxwm2cm/download"
     },
     {
       "title": "Møte i Fylkestinget 28.08.2024",
@@ -4491,7 +4491,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jjbw5vw6ejnat6qr3n3tqam3"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jjbw5vw6ejnat6qr3n3tqam3/download"
     },
     {
       "title": "Møte i Fylkesutvalget 04.09.2024",
@@ -4571,7 +4571,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01j8ss0j7jes6b57213t0xerwy"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j8ss0j7jes6b57213t0xerwy/download"
     },
     {
       "title": "Møte i Flerkulturelt utvalg 09.09.2024",
@@ -4602,7 +4602,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01j8ss0w24e9aaa9rev7bzy07w"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j8ss0w24e9aaa9rev7bzy07w/download"
     },
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 09/11/2024",
@@ -4639,7 +4639,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01j8ss0vthfre9ry37yhxs46y8"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j8ss0vthfre9ry37yhxs46y8/download"
     },
     {
       "title": "Møte i Oppgavefellesskap anskaffelser 11.09.2024",
@@ -4731,7 +4731,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01j8ss1t0efgss1dp7w4k6vkzt"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j8ss1t0efgss1dp7w4k6vkzt/download"
     },
     {
       "title": "Møte i Oppgavefellesskap fylkesbiblioteket 09/13/2024",
@@ -4817,7 +4817,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jatd82hafnn83q7722gybfh1"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jatd82hafnn83q7722gybfh1/download"
     },
     {
       "title": "Møte i Fylkesutvalget 17.09.2024",
@@ -5037,7 +5037,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01j944aqedee1r0hh185mzrp7h"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j944aqedee1r0hh185mzrp7h/download"
     },
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 25.09.2024",
@@ -5135,7 +5135,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01j90ztf5fed3rd4733pkd2xf2"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j90ztf5fed3rd4733pkd2xf2/download"
     },
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 09/27/2024",
@@ -5202,7 +5202,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01j98gmcwbej4tdfmrpsfer38j"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j98gmcwbej4tdfmrpsfer38j/download"
     },
     {
       "title": "Møte i Hovedutvalg for samferdsel 07.10.2024",
@@ -5269,7 +5269,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01j9s4qe0hejgtgjbar2zan9mw"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j9s4qe0hejgtgjbar2zan9mw/download"
     },
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 08.10.2024",
@@ -5306,7 +5306,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01j9p1ckp5fxxrmbj4gymt0g28"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01j9p1ckp5fxxrmbj4gymt0g28/download"
     },
     {
       "title": "Møte i Forhandlingsutvalget 10/08/2024",
@@ -5318,7 +5318,7 @@
       "agendaUrl": "",
       "agendaCases": [],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jc11nfa1fqz96mzjqbdjq816"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jc11nfa1fqz96mzjqbdjq816/download"
     },
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 09.10.2024",
@@ -5415,7 +5415,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jb9mrk01evwsqst3thtbcym9"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jb9mrk01evwsqst3thtbcym9/download"
     },
     {
       "title": "Møte i Hovedutvalget for kultur, idrett og folkehelse 10.10.2024",
@@ -5482,7 +5482,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jafg5830f91t9k88vqc2s15y"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jafg5830f91t9k88vqc2s15y/download"
     },
     {
       "title": "Møte i Partssammensatt utvalg 14.10.2024",
@@ -5519,7 +5519,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01ja5r37r2f968sf55cb9r2chr"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01ja5r37r2f968sf55cb9r2chr/download"
     },
     {
       "title": "Møte i Klagenemnd 14.10.2024",
@@ -5550,7 +5550,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01ja868mp4et2akzqwbq9cdcj7"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01ja868mp4et2akzqwbq9cdcj7/download"
     },
     {
       "title": "Møte i Fylkesutvalget 15.10.2024",
@@ -5677,7 +5677,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01ja8rjk39f2yam3ragj9d7yra"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01ja8rjk39f2yam3ragj9d7yra/download"
     },
     {
       "title": "Møte i Arbeidsutvalg for godtgjøringsreglement 10/23/2024",
@@ -5708,7 +5708,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jc3mm475ff1rts2my0h5anky"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jc3mm475ff1rts2my0h5anky/download"
     },
     {
       "title": "Møte i Fylkestinget 10/23/2024",
@@ -5866,7 +5866,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jc65q1exf5san5sz647bezzx"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jc65q1exf5san5sz647bezzx/download"
     },
     {
       "title": "Møte i Oppgavefellesskap fylkesbiblioteket 11/08/2024",
@@ -5903,7 +5903,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jczmwqh6f03be0fx6hq9fz8n"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jczmwqh6f03be0fx6hq9fz8n/download"
     },
     {
       "title": "Møte i Buskerud Eldreråd 11/11/2024",
@@ -5934,7 +5934,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jcg4sa9kfz391tcynpwwy5td"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jcg4sa9kfz391tcynpwwy5td/download"
     },
     {
       "title": "Møte i Flerkulturelt utvalg 11/12/2024",
@@ -5983,7 +5983,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jcp03sv2ehbtbg97kxhcfax7"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jcp03sv2ehbtbg97kxhcfax7/download"
     },
     {
       "title": "Møte i Arbeidsutvalg for godtgjøringsreglement 11/12/2024",
@@ -6014,7 +6014,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jcj9sgzset9s53caqbea67j1"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jcj9sgzset9s53caqbea67j1/download"
     },
     {
       "title": "Møte i Klagenemnd 11/12/2024",
@@ -6039,7 +6039,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jcgeam5ze3nt33e8yt0am1h2"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jcgeam5ze3nt33e8yt0am1h2/download"
     },
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 11/13/2024",
@@ -6076,7 +6076,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jcn8bfxje3r9tapxarja7wvk"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jcn8bfxje3r9tapxarja7wvk/download"
     },
     {
       "title": "Møte i Ungdommens fylkesråd 11/14/2024",
@@ -6198,7 +6198,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jjbvs3qqez6976fj16m2x93x"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jjbvs3qqez6976fj16m2x93x/download"
     },
     {
       "title": "Møte i Fylkesutvalget 11/19/2024",
@@ -6253,7 +6253,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jd7yqj1xfxc8fy4353hh6gfj"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jd7yqj1xfxc8fy4353hh6gfj/download"
     },
     {
       "title": "Møte i Arbeidsutvalg for godtgjøringsreglement 11/20/2024",
@@ -6345,7 +6345,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jdpthv17f5zrfhfz651sb0aq"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jdpthv17f5zrfhfz651sb0aq/download"
     },
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 11/27/2024",
@@ -6454,7 +6454,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jdrvez1wfjq9feefmnravnb0"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jdrvez1wfjq9feefmnravnb0/download"
     },
     {
       "title": "Møte i Hovedutvalg for opplæring 11/28/2024",
@@ -6545,7 +6545,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01je383gzveh4szs9fqw315p62"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01je383gzveh4szs9fqw315p62/download"
     },
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 11/29/2024",
@@ -6642,7 +6642,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01je32kmhdey987m3m8gadrygc"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01je32kmhdey987m3m8gadrygc/download"
     },
     {
       "title": "Møte i Partssammensatt utvalg 12/02/2024",
@@ -6830,7 +6830,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01je8jvchfe98tzrvmqdnvfq3d"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01je8jvchfe98tzrvmqdnvfq3d/download"
     },
     {
       "title": "Møte i Klagenemnd 12/10/2024",
@@ -7018,7 +7018,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jfez9pspfh4szsb1r040nmss"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jfez9pspfh4szsb1r040nmss/download"
     },
     {
       "title": "Møte i Fylkestinget 17.12.2024",
@@ -7091,7 +7091,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jj788xkneada6gg2k4bvx28d"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jj788xkneada6gg2k4bvx28d/download"
     },
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 01/20/2025",
@@ -7122,7 +7122,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jj4fw654e58rs79qdc9w2q10"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jj4fw654e58rs79qdc9w2q10/download"
     },
     {
       "title": "Møte i Buskerud Eldreråd 01/20/2025",
@@ -7147,7 +7147,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jj2nqkkqf979wsjs3xdk7gfn"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jj2nqkkqf979wsjs3xdk7gfn/download"
     },
     {
       "title": "Møte i Flerkulturelt utvalg 01/20/2025",
@@ -7184,7 +7184,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jj79k8bwe9wrrx146t60e30m"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jj79k8bwe9wrrx146t60e30m/download"
     },
     {
       "title": "Møte i Valgkomiteen 01/21/2025",
@@ -7221,7 +7221,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jj6vjhkmfg2vqyfm5fq4gzf4"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jj6vjhkmfg2vqyfm5fq4gzf4/download"
     },
     {
       "title": "Møte i Yrkesopplæringsnemnda 01/23/2025",
@@ -7246,7 +7246,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jpsmcv5xejga83r8eayttn3j"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jpsmcv5xejga83r8eayttn3j/download"
     },
     {
       "title": "Møte i Partssammensatt utvalg 01/24/2025",
@@ -7271,7 +7271,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jjbyz7v5ff3a8cwk9d6s8j95"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jjbyz7v5ff3a8cwk9d6s8j95/download"
     },
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 01/27/2025",
@@ -7350,7 +7350,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jjny6jzxfm1r7avbj7mx8mb2"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jjny6jzxfm1r7avbj7mx8mb2/download"
     },
     {
       "title": "Møte i Klagenemnd 01/27/2025",
@@ -7381,7 +7381,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jjm3kfvje69vf0egpkvyky98"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jjm3kfvje69vf0egpkvyky98/download"
     },
     {
       "title": "Møte i Fylkesutvalget 01/28/2025",
@@ -7442,7 +7442,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jjrhgey0ergsm9ka400mp2a0"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jjrhgey0ergsm9ka400mp2a0/download"
     },
     {
       "title": "Møte i Hovedutvalg for opplæring 01/29/2025",
@@ -7546,7 +7546,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jkwjgpx2fvftfs7ppwp0mv3c"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jkwjgpx2fvftfs7ppwp0mv3c/download"
     },
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 02/04/2025",
@@ -7649,7 +7649,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jkb9cqc8frmvz2767yq2y4z5"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jkb9cqc8frmvz2767yq2y4z5/download"
     },
     {
       "title": "Møte i Hovedutvalg for samferdsel 02/12/2025",
@@ -7686,7 +7686,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jkxcc3jffmtsqa7vpj6x7kc6"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jkxcc3jffmtsqa7vpj6x7kc6/download"
     },
     {
       "title": "Møte i Valgkomiteen 02/18/2025",
@@ -7717,7 +7717,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jmcgsdj8erfaech4p9ja9k09"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jmcgsdj8erfaech4p9ja9k09/download"
     },
     {
       "title": "Møte i Fylkestinget 02/19/2025",
@@ -7838,7 +7838,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jmky1v77fb496yhb3fxr3grd"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jmky1v77fb496yhb3fxr3grd/download"
     },
     {
       "title": "Møte i Fylkesutvalget 03/04/2025",
@@ -7893,7 +7893,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jnjkj5qxeh992vmd9t9vvykc"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jnjkj5qxeh992vmd9t9vvykc/download"
     },
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 03/11/2025",
@@ -7918,7 +7918,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jpj6a0ete43tapywwr7wsf9k"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jpj6a0ete43tapywwr7wsf9k/download"
     },
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 03/11/2025",
@@ -7943,7 +7943,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jpj664ckey8rtqv9acfbx82m"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jpj664ckey8rtqv9acfbx82m/download"
     },
     {
       "title": "Møte i Ungdommens fylkesråd 03/17/2025",
@@ -8004,7 +8004,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jpq2d9spes89at82cjcshfwt"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jpq2d9spes89at82cjcshfwt/download"
     },
     {
       "title": "Møte i Buskerud Eldreråd 03/17/2025",
@@ -8047,7 +8047,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jppmqq04e89bsz3854aertd3"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jppmqq04e89bsz3854aertd3/download"
     },
     {
       "title": "Møte i Flerkulturelt utvalg 03/17/2025",
@@ -8090,7 +8090,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jpmeff28ft6arbgd3fajjkrk"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jpmeff28ft6arbgd3fajjkrk/download"
     },
     {
       "title": "Møte i Distriktsvalgstyret 03/18/2025",
@@ -8183,7 +8183,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jpt3c2rhekf9b5pk4ywr70h8"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jpt3c2rhekf9b5pk4ywr70h8/download"
     },
     {
       "title": "Møte i Yrkesopplæringsnemnda 03/20/2025",
@@ -8214,7 +8214,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jpwkyvvwfdzat6w4w795vsx6"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jpwkyvvwfdzat6w4w795vsx6/download"
     },
     {
       "title": "Møte i Flerkulturelt utvalg 03/20/2025",
@@ -8269,7 +8269,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jpwp63f2e3wtgcmzp20nnesh"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jpwp63f2e3wtgcmzp20nnesh/download"
     },
     {
       "title": "Møte i Partssammensatt utvalg 03/21/2025",
@@ -8306,7 +8306,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jpw5mzxsff8s58bzfxkxcxs6"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jpw5mzxsff8s58bzfxkxcxs6/download"
     },
     {
       "title": "Møte i Fylkesutvalget 03/24/2025",
@@ -8325,7 +8325,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jq4s34rdfz1bk0bnf7thj1k1"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jq4s34rdfz1bk0bnf7thj1k1/download"
     },
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 03/24/2025",
@@ -8422,7 +8422,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jq4k329tem2r38vg5jq0rqd1"
+      "protocolUrl": "https://api.einnsyn.no/dokumentobjekt/do_01jq4k329tem2r38vg5jq0rqd1/download"
     },
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 03/25/2025",

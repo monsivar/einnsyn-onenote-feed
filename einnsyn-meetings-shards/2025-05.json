@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "shardType": "meetings",
   "shardKey": "2025-05",
-  "updatedAtUtc": "09/21/2026 12:12:59",
+  "updatedAtUtc": "09/21/2026 21:07:26",
   "meetingCount": 15,
   "meetings": [
     {
@@ -50,8 +50,103 @@
           "metadata": null
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "complete",
+        "completed": false,
+        "fixedMembers": [
+          {
+            "name": "Tore Opdal Hansen",
+            "attendanceRole": "leder",
+            "representedBy": "H"
+          },
+          {
+            "name": "Lavrans Gabriel Kierulf",
+            "attendanceRole": "nestleder",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Iselin Haugo Stavn",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Christina Højer Mørkve",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Marianne Werp",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Christopher Amundsen Wand",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Mons-Ivar Mjelde",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Tonje Enersen",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Bjørn Tore Ødegården",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Lirigzona Berisha",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Kristin Løvaas Gjerde",
+            "attendanceRole": "medlem",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Magnus Weggesrud",
+            "attendanceRole": "medlem",
+            "representedBy": "SP"
+          },
+          {
+            "name": "Anne Kristine Norman",
+            "attendanceRole": "medlem",
+            "representedBy": "SP"
+          },
+          {
+            "name": "Kjell Erland Grønbeck",
+            "attendanceRole": "medlem",
+            "representedBy": "KRF"
+          },
+          {
+            "name": "Roger Larsen",
+            "attendanceRole": "medlem",
+            "representedBy": "INP"
+          },
+          {
+            "name": "Njål Vigleik Grene-Johnsen",
+            "attendanceRole": "medlem",
+            "representedBy": "SV"
+          },
+          {
+            "name": "Bård Sødal Grasbekk",
+            "attendanceRole": "medlem",
+            "representedBy": "MDG"
+          }
+        ],
+        "deputies": [],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/b2b5eda5-3c7b-4a26-a8ad-428d11351cdb",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb2b5eda5-3c7b-4a26-a8ad-428d11351cdb"
+        }
+      },
+      "metadataStatus": "complete",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb2b5eda5-3c7b-4a26-a8ad-428d11351cdb"
     },
@@ -93,8 +188,17 @@
           "metadata": null
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "failed",
+        "completed": false,
+        "fixedMembers": [],
+        "deputies": [],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/29d79b07-84cc-4ade-abbf-ece80a5aeaca",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F29d79b07-84cc-4ade-abbf-ece80a5aeaca"
+        }
+      },
+      "metadataStatus": "failed",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F29d79b07-84cc-4ade-abbf-ece80a5aeaca"
     },
@@ -150,8 +254,17 @@
           "metadata": null
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "failed",
+        "completed": false,
+        "fixedMembers": [],
+        "deputies": [],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/2c9396af-8622-418f-afd0-c6f67c108c2c",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2c9396af-8622-418f-afd0-c6f67c108c2c"
+        }
+      },
+      "metadataStatus": "failed",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2c9396af-8622-418f-afd0-c6f67c108c2c"
     },
@@ -186,8 +299,38 @@
           "metadata": null
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "complete",
+        "completed": false,
+        "fixedMembers": [
+          {
+            "name": "Egil Ax",
+            "attendanceRole": "leder",
+            "representedBy": "H"
+          },
+          {
+            "name": "Thomas Emil Klingen Andersen",
+            "attendanceRole": "nestleder",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Marianne Werp",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Anita Nesse Røisli",
+            "attendanceRole": "medlem",
+            "representedBy": "MDG"
+          }
+        ],
+        "deputies": [],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/5101b2ec-0672-4ce2-b94e-523aadddbfce",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5101b2ec-0672-4ce2-b94e-523aadddbfce"
+        }
+      },
+      "metadataStatus": "complete",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5101b2ec-0672-4ce2-b94e-523aadddbfce"
     },
@@ -236,8 +379,17 @@
           "metadata": null
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "failed",
+        "completed": false,
+        "fixedMembers": [],
+        "deputies": [],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/c5035ecb-9fb4-40dc-8dc0-f928c16a69e8",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc5035ecb-9fb4-40dc-8dc0-f928c16a69e8"
+        }
+      },
+      "metadataStatus": "failed",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc5035ecb-9fb4-40dc-8dc0-f928c16a69e8"
     },
@@ -363,8 +515,48 @@
           "metadata": null
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "complete",
+        "completed": false,
+        "fixedMembers": [
+          {
+            "name": "Bjørn-Egil Tørrisen",
+            "attendanceRole": "medlem",
+            "representedBy": null
+          },
+          {
+            "name": "Elise Haugsvær",
+            "attendanceRole": "medlem",
+            "representedBy": null
+          },
+          {
+            "name": "Merjem Duderija",
+            "attendanceRole": "leder",
+            "representedBy": null
+          },
+          {
+            "name": "Theodor Vik Thorkildsen",
+            "attendanceRole": "medlem",
+            "representedBy": null
+          },
+          {
+            "name": "Henrik Lund-Warholm",
+            "attendanceRole": "medlem",
+            "representedBy": null
+          },
+          {
+            "name": "Adrian Huseth",
+            "attendanceRole": "medlem",
+            "representedBy": null
+          }
+        ],
+        "deputies": [],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/85c32d15-45a8-40cc-b90a-2855a970a0c4",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F85c32d15-45a8-40cc-b90a-2855a970a0c4"
+        }
+      },
+      "metadataStatus": "complete",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F85c32d15-45a8-40cc-b90a-2855a970a0c4"
     },
@@ -406,8 +598,59 @@
           "metadata": null
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "complete",
+        "completed": false,
+        "fixedMembers": [
+          {
+            "name": "Reidar Lauritsen",
+            "attendanceRole": "leder",
+            "representedBy": "PF"
+          },
+          {
+            "name": "Anna-Brita Bakken",
+            "attendanceRole": "nestleder",
+            "representedBy": "FF"
+          },
+          {
+            "name": "Jan Dybvik",
+            "attendanceRole": "medlem",
+            "representedBy": "PF"
+          },
+          {
+            "name": "Tone Hustad",
+            "attendanceRole": "medlem",
+            "representedBy": "PF"
+          },
+          {
+            "name": "Aslaug Brandt Trondsen",
+            "attendanceRole": "medlem",
+            "representedBy": "JF"
+          },
+          {
+            "name": "Anders Wengen",
+            "attendanceRole": "medlem",
+            "representedBy": "V"
+          },
+          {
+            "name": "Svein Markussen",
+            "attendanceRole": "medlem",
+            "representedBy": "PF"
+          }
+        ],
+        "deputies": [
+          {
+            "name": "Bjørn Syvertsen",
+            "attendanceRole": "deputy",
+            "representedBy": "PF"
+          }
+        ],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/3638affa-4a57-42e6-81f7-a2d0752807aa",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3638affa-4a57-42e6-81f7-a2d0752807aa"
+        }
+      },
+      "metadataStatus": "complete",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3638affa-4a57-42e6-81f7-a2d0752807aa"
     },
@@ -435,8 +678,44 @@
           "metadata": null
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "complete",
+        "completed": false,
+        "fixedMembers": [
+          {
+            "name": "Morgan Langfeldt",
+            "attendanceRole": "nestleder",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Iselin Haugo Stavn",
+            "attendanceRole": "leder",
+            "representedBy": "H"
+          },
+          {
+            "name": "Christopher Amundsen Wand",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Magnus Weggesrud",
+            "attendanceRole": "medlem",
+            "representedBy": "SP"
+          }
+        ],
+        "deputies": [
+          {
+            "name": "Mons-Ivar Mjelde",
+            "attendanceRole": "deputy",
+            "representedBy": "AP"
+          }
+        ],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/dcdaef57-8c9d-4248-a3a6-d1007771a82e",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fdcdaef57-8c9d-4248-a3a6-d1007771a82e"
+        }
+      },
+      "metadataStatus": "complete",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fdcdaef57-8c9d-4248-a3a6-d1007771a82e"
     },
@@ -478,8 +757,17 @@
           "metadata": null
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "failed",
+        "completed": false,
+        "fixedMembers": [],
+        "deputies": [],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/9c283bb5-0205-40e1-80d6-6bfb6369508c",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9c283bb5-0205-40e1-80d6-6bfb6369508c"
+        }
+      },
+      "metadataStatus": "failed",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9c283bb5-0205-40e1-80d6-6bfb6369508c"
     },
@@ -535,8 +823,33 @@
           "metadata": null
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "complete",
+        "completed": false,
+        "fixedMembers": [
+          {
+            "name": "Tore Opdal Hansen",
+            "attendanceRole": "leder",
+            "representedBy": "H"
+          },
+          {
+            "name": "Iselin Haugo Stavn",
+            "attendanceRole": "nestleder",
+            "representedBy": "H"
+          },
+          {
+            "name": "Mons-Ivar Mjelde",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          }
+        ],
+        "deputies": [],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/b0f5a39e-38b5-4322-bebe-d7fd37151e1b",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb0f5a39e-38b5-4322-bebe-d7fd37151e1b"
+        }
+      },
+      "metadataStatus": "complete",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb0f5a39e-38b5-4322-bebe-d7fd37151e1b"
     },
@@ -606,8 +919,48 @@
           "metadata": null
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "complete",
+        "completed": false,
+        "fixedMembers": [
+          {
+            "name": "Tore Andreas Larsen",
+            "attendanceRole": "leder",
+            "representedBy": "NHO"
+          },
+          {
+            "name": "Christine Knutsen",
+            "attendanceRole": "nestleder",
+            "representedBy": "LO"
+          },
+          {
+            "name": "Theodor Vik Thorkildsen",
+            "attendanceRole": "medlem",
+            "representedBy": null
+          },
+          {
+            "name": "Camilla Helen Landsverk",
+            "attendanceRole": "medlem",
+            "representedBy": "UDF"
+          },
+          {
+            "name": "Dag Øivind Henriksen",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Tonje Enersen",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          }
+        ],
+        "deputies": [],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/0c67518c-24e2-4479-8efb-167cf510b90e",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0c67518c-24e2-4479-8efb-167cf510b90e"
+        }
+      },
+      "metadataStatus": "complete",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0c67518c-24e2-4479-8efb-167cf510b90e"
     },
@@ -684,8 +1037,49 @@
           "metadata": null
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "complete",
+        "completed": false,
+        "fixedMembers": [
+          {
+            "name": "Ana Maria Silva-Harper",
+            "attendanceRole": "medlem",
+            "representedBy": "V"
+          },
+          {
+            "name": "Bijan Gharakhani",
+            "attendanceRole": "leder",
+            "representedBy": null
+          },
+          {
+            "name": "Nasim Rizvi",
+            "attendanceRole": "medlem",
+            "representedBy": null
+          },
+          {
+            "name": "Tabassom Fanaian",
+            "attendanceRole": "nestleder",
+            "representedBy": null
+          },
+          {
+            "name": "Mustafa Gezen",
+            "attendanceRole": "medlem",
+            "representedBy": null
+          }
+        ],
+        "deputies": [
+          {
+            "name": "Dler Khurshidi",
+            "attendanceRole": "deputy",
+            "representedBy": "AP"
+          }
+        ],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/619c4b05-f40b-44bc-a816-7c415f544083",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F619c4b05-f40b-44bc-a816-7c415f544083"
+        }
+      },
+      "metadataStatus": "complete",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F619c4b05-f40b-44bc-a816-7c415f544083"
     },
@@ -727,8 +1121,59 @@
           "metadata": null
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "complete",
+        "completed": false,
+        "fixedMembers": [
+          {
+            "name": "Atle Haglund",
+            "attendanceRole": "nestleder",
+            "representedBy": "SAFO"
+          },
+          {
+            "name": "Lena Torgersen",
+            "attendanceRole": "medlem",
+            "representedBy": "FFO"
+          },
+          {
+            "name": "Kristin Reine",
+            "attendanceRole": "medlem",
+            "representedBy": "FFO"
+          },
+          {
+            "name": "Jenny Eileen Gundersen",
+            "attendanceRole": "medlem",
+            "representedBy": "SAFO"
+          },
+          {
+            "name": "Lars Stenberg",
+            "attendanceRole": "medlem",
+            "representedBy": "INP"
+          },
+          {
+            "name": "Simon Sebastian Nordanger",
+            "attendanceRole": "medlem",
+            "representedBy": "SP"
+          }
+        ],
+        "deputies": [
+          {
+            "name": "Irene Eggar Grønnevik",
+            "attendanceRole": "deputy",
+            "representedBy": "FFO"
+          },
+          {
+            "name": "Rune Hansen Gunnerød",
+            "attendanceRole": "deputy",
+            "representedBy": "FFO"
+          }
+        ],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/b7e869f5-d05a-42f2-96ee-92f98a8798a2",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb7e869f5-d05a-42f2-96ee-92f98a8798a2"
+        }
+      },
+      "metadataStatus": "complete",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb7e869f5-d05a-42f2-96ee-92f98a8798a2"
     },
@@ -770,8 +1215,94 @@
           "metadata": null
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "complete",
+        "completed": false,
+        "fixedMembers": [
+          {
+            "name": "Lavrans Gabriel Kierulf",
+            "attendanceRole": "leder",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Iselin Haugo Stavn",
+            "attendanceRole": "nestleder",
+            "representedBy": "H"
+          },
+          {
+            "name": "Simen Murud",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Christina Højer Mørkve",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Mons-Ivar Mjelde",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Magnus Weggesrud",
+            "attendanceRole": "medlem",
+            "representedBy": "SP"
+          }
+        ],
+        "deputies": [
+          {
+            "name": "Lirigzona Berisha",
+            "attendanceRole": "deputy",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Arbeidstakerorganisasjoners medlemmer:",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "Navn",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "Stig Elvis Furset",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "Live Braaten Ellingsen",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "Hilde Kristin Amundsen",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "Helge Opstad",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "Jan Gelbach",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          },
+          {
+            "name": "Ulrik Falck",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          }
+        ],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/0529169a-7f6f-43bc-a688-0177f23d2de9",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0529169a-7f6f-43bc-a688-0177f23d2de9"
+        }
+      },
+      "metadataStatus": "complete",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0529169a-7f6f-43bc-a688-0177f23d2de9"
     }

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "shardType": "meetings",
   "shardKey": "2025-02",
-  "updatedAtUtc": "09/21/2026 17:51:51",
+  "updatedAtUtc": "09/21/2026 21:07:26",
   "meetingCount": 4,
   "meetings": [
     {
@@ -19,84 +19,348 @@
           "title": "Godkjenning av innkalling og protokoll",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F34f593f7-98fe-4117-a49e-efe880fa2712",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe5e8d829-b1c6-4dd0-89e6-440fe0bc2621",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jkba1wjzf97r62am4a8e9fjs",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe5e8d829-b1c6-4dd0-89e6-440fe0bc2621"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "2/2025",
           "title": "Orienteringer",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fc659f029-a919-463d-8a47-e01b9c7ec579",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1bd00238-74ee-4b32-9368-c7ba9e021c4f",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jkba1wt7eh8b5wkq900948yt",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1bd00238-74ee-4b32-9368-c7ba9e021c4f"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "3/2025",
           "title": "Søknad fra Pensjonistforbundet om partnerskapsmidler folkehelse",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F378aa366-740c-4e12-9097-3a694a258ca3",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa6e2273d-7ee9-4093-9a15-268c101514ec",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jkba1wkbfr797yqh2nrgh96z",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa6e2273d-7ee9-4093-9a15-268c101514ec"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "4/2025",
           "title": "Tiltaksbudsjett inkl. faste tilskuddsmottakere kulturarv 2025",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F8a2f4c58-bd30-4f9a-8420-f9bf052be8d3",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5a3476ac-d017-41d5-ad13-2d248724c587",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jkba1wqxezg86xjxz9xv9bet",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5a3476ac-d017-41d5-ad13-2d248724c587"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "5/2025",
           "title": "Tilskuddsordning KulturArvOpplevelser 2025",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F8a384f5d-b798-40a4-b9cf-96ecdb423fd6",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1c3ad851-ccef-4ea8-b747-96fab178e4e7",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jkba1wr7eycv8x8t2ne8hahf",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1c3ad851-ccef-4ea8-b747-96fab178e4e7"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "6/2025",
           "title": "Tiltaksbudsjett for kultur, idrett og friluftsliv 2025",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2Fa3c4d844-64be-4d90-81c7-7206cdab681b",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F634b6021-385e-437c-a620-89158645ee71",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jkba1wrrf9aram87drg1agqh",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F634b6021-385e-437c-a620-89158645ee71"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "7/2025",
           "title": "Fordeling av tilskudd til friluftsaktiviteter 2025",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F70783cbd-d7a9-4f1c-bcfb-662656b59579",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F131c1467-6108-43a6-813f-12cb2ced7cad",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jkba1wq7es6rp3d6gxwjc8tx",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F131c1467-6108-43a6-813f-12cb2ced7cad"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "8/2025",
           "title": "Tildeling av tilskudd til ung deltakelse og medvirkning 2025",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F3d6cd766-278b-4fe2-84c7-ddc92d631170",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F68f424e4-0d46-4c43-8b2e-fddd6b2edf46",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jkba1wm3fcqvsq8wfkc2gj71",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F68f424e4-0d46-4c43-8b2e-fddd6b2edf46"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "9/2025",
           "title": "Tildeling av tilskudd til kunst og kulturprosjekter i Buskerud 2025",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F8a1c5279-5a06-4a38-b38d-1897140b028b",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9b0a6567-d4e4-414f-b318-77dd8291b78f",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jkba1wqmezzb50a2sq5a5wcq",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9b0a6567-d4e4-414f-b318-77dd8291b78f"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "10/2025",
           "title": "Tildeling av tilskudd til bransjeutvikling i kulturell og kreativ næring i Buskerud 2025",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F3c1c9064-0e58-489f-9653-328f45f020c0",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F7783f016-aba5-484c-b87e-622cc35c7dba",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jkba1wksfykshy8f6py6fn0q",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F7783f016-aba5-484c-b87e-622cc35c7dba"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "11/2025",
           "title": "Tildeling av tilskudd til festivaler i Buskerud 2025",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F09034f48-5f11-427d-b48a-8e1cdc4b8657",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F6b07b482-d852-46f5-8706-d54af174ad84",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jkba1wj3ec2acdecm9czb7ey",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F6b07b482-d852-46f5-8706-d54af174ad84"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "12/2025",
           "title": "Tildeling av tilskudd til Aktiv i Buskerud 2025",
           "caseUrl": "https://einnsyn.no/moeteregistrering?id=https%3A%2F%2Fprod02.elementscloud.no%2F3eae77d9-c93c-40af-a4e2-e970794224e0",
           "decisionUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0d5fc661-c23e-42ae-b20c-17bf1463bbdc",
-          "metadata": null
+          "metadata": {
+            "status": "failed",
+            "completed": false,
+            "speakers": [],
+            "proposals": [
+              {
+                "proposerName": "",
+                "proposerParty": null,
+                "onBehalfOf": null
+              }
+            ],
+            "decision": {
+              "status": "failed",
+              "completed": false,
+              "heading": "",
+              "text": ""
+            },
+            "document": {
+              "objectId": "do_01jkba1wmhfdx94rv2264krwmd",
+              "url": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0d5fc661-c23e-42ae-b20c-17bf1463bbdc"
+            },
+            "error": "Response status code does not indicate success: 404 (Not Found)."
+          }
         },
         {
           "number": "13/2025",

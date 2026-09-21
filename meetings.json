@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-21T07:06:50.7986039+00:00",
+  "generatedAtUtc": "2026-09-21T08:23:15.9559352+00:00",
   "source": "eInnsyn",
   "meetings": [
     {
@@ -164,7 +164,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe9c8c8cd-f2a2-4e3f-aaa3-1ead4c6a2c1a"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe0c50f42-b561-4dc9-8b0f-a9aaffe1eb1e"
     },
     {
       "title": "Møte i Fylkesutvalget 26.10.2023",
@@ -207,7 +207,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F62876620-dcc1-4e8b-8ac2-d18746cffb80"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa182cd6e-e067-4c8f-976b-9f9bb54c02ff"
     },
     {
       "title": "Møte i Fylkestinget 02.11.2023",
@@ -244,7 +244,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fbb118933-81a6-472f-acbe-72e8ec172fc7"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb4825159-bcfa-4a68-b718-fcea95a53af2"
     },
     {
       "title": "Møte i Yrkesopplæringsnemnda 13.11.2023",
@@ -336,7 +336,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F8a68d56b-0154-4897-b93d-a900c2ce2c69"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fba6f5d25-2f76-450d-af28-22c1772fa352"
     },
     {
       "title": "Møte i Ungdommens fylkesråd 20.11.2023",
@@ -379,7 +379,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F8764000c-694e-4ddb-9753-d7abb3ad0ca8"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fddcf5e2d-e924-41f6-8d98-ccf4a9fe1cb2"
     },
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 21.11.2023",
@@ -410,7 +410,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd0a6d9b8-27ed-4817-a08c-866e9679baf5"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc368a95e-3119-4a65-9862-e669f29a1bc0"
     },
     {
       "title": "Møte i Flerkulturelt utvalg 21.11.2023",
@@ -484,7 +484,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2898ae1d-e979-40c8-9476-a1f0f67b8717"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2e88056b-70d4-408f-98ea-8b31fbe45ca8"
     },
     {
       "title": "Møte i Hovedutvalg for samferdsel 22.11.2023",
@@ -509,7 +509,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa4b4c43f-2b6a-4b76-88a0-bacf82c3b626"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5de5e2c4-9dc1-40b1-b6ed-de2a3f0cb5db"
     },
     {
       "title": "Møte i Hovedutvalg for opplæring 24.11.2023",
@@ -571,7 +571,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F668617eb-18a2-4187-9f7f-e5c2370a1982"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fbb7bb4a3-3187-46be-81ba-680c89023d3a"
     },
     {
       "title": "Møte i Fylkesutvalget 27.11.2023",
@@ -614,7 +614,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F75de7db6-f5f3-4960-a253-9fc8e689f4f7"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd35f693a-1082-4913-807d-e709042dffe1"
     },
     {
       "title": "Møte i Partssammensatt utvalg 30.11.2023",
@@ -651,7 +651,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4ee3c6af-f5e3-4876-be29-7a28182654e4"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F29ee29b6-3182-419c-97a7-50a5acb1509b"
     },
     {
       "title": "Møte i Fylkesutvalget 05.12.2023",
@@ -790,7 +790,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F53c646b2-cbf0-472b-aa6b-9a0ce7935cf1"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F8a97a78e-465f-46c5-8807-3bc4345d35bc"
     },
     {
       "title": "Møte i Fylkestinget 13.12.2023",
@@ -953,7 +953,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4211e8a3-195c-4a48-b86b-a45b0c107024"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fcfddc3fc-e102-45a7-9031-c9e47fda5fbc"
     },
     {
       "title": "Møte i Fylkestinget 14.12.2023",
@@ -1032,7 +1032,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0f36bc2b-ecbd-47af-b132-f2db488d8bf1"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F761fa526-7b90-4929-af2e-931137b3af35"
     },
     {
       "title": "Møte i Flerkulturelt utvalg 16.01.2024",
@@ -1118,7 +1118,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0692b2e1-2ffc-4e01-a2ce-cf397da87fd4"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3fb379ca-5762-4771-8d5c-b2b1191208d1"
     },
     {
       "title": "Møte i Yrkesopplæringsnemnda 18.01.2024",
@@ -1203,7 +1203,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ffa6a0b6f-98a8-4793-964c-f905da1599ba"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F80a12791-78fd-43d9-b469-a246041c4a68"
     },
     {
       "title": "Møte i Hovedutvalg for samferdsel 22.01.2024",
@@ -1288,7 +1288,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F8f25716f-3a07-4372-b98a-bddc8daee9f9"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F90948485-497c-4fc5-a24a-c60a50b818b1"
     },
     {
       "title": "Møte i Valgkomiteen 23.01.2024",
@@ -1337,7 +1337,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4cf7b0c1-f178-4be6-b31e-35d499ad6141"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Faa9d06d6-0aa5-4252-95b2-190764965027"
     },
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 24.01.2024",
@@ -1392,7 +1392,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F81359293-0f04-4e46-b12d-55255c184238"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd3d361ec-7f65-4168-90fd-530305b5d6f4"
     },
     {
       "title": "Møte i Hovedutvalg for opplæring 01/24/2024",
@@ -1441,7 +1441,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ffff0c956-7376-4ed7-a826-1029d09b4605"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F7f22080b-5bf0-423c-914e-028b35ea09eb"
     },
     {
       "title": "Møte i Hovedutvalg for opplæring 25.01.2024",
@@ -1574,7 +1574,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff3a3495a-8b59-4ba5-9127-d3238ee7ecf9"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F412ff567-2802-47d5-ba86-e8173e58a4bb"
     },
     {
       "title": "Møte i Fylkesutvalget 30.01.2024",
@@ -1635,7 +1635,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F41a63168-971d-4f28-bf4c-1f3c42f61c0a"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Feac59c7b-be29-4a37-b472-738185517c55"
     },
     {
       "title": "Møte i Valgkomiteen 14.02.2024",
@@ -1739,7 +1739,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1c7044b9-2dd8-4ee7-bbbc-20d7f18e4f5b"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fbe453d2a-8eef-4178-92a4-8a203170c471"
     },
     {
       "title": "Møte i Hovedutvalg for opplæring 15.02.2024",
@@ -1880,7 +1880,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F75ce03e0-f521-45c9-82d8-7646460ffc50"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1b8c7e3a-3789-492c-9bb2-e9700dae4c37"
     },
     {
       "title": "Møte i Fylkesutvalget 18.03.2024",
@@ -1935,7 +1935,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F8e1e3a65-d83a-4578-9b87-4f0fa7dcfd00"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5b708026-2948-44b5-8edb-8f26f79a86bb"
     },
     {
       "title": "Møte i Oppgavefellesskap anskaffelser 22.03.2024",
@@ -1978,7 +1978,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2e404fc2-49a1-4fc3-b4ea-984e0ba7b22e"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa1b6a99f-71e9-47e8-a8f9-e8ea5d05d6ed"
     },
     {
       "title": "Møte i Oppgavefellesskap ombud for barn og unge 22.03.2024",
@@ -2027,7 +2027,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd27614c0-cbd6-40b0-bdc6-cba190f5dc74"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fda922092-9068-4849-a3ee-f4effd783a7d"
     },
     {
       "title": "Møte i Oppgavefellesskap fylkesbiblioteket 22.03.2024",
@@ -2094,7 +2094,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F536e5a6f-bd35-4066-8161-5d63c84bfe01"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9b5c96e5-1090-488f-93c6-fee6502baf89"
     },
     {
       "title": "Møte i Valgkomiteen 03.04.2024",
@@ -2137,7 +2137,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fbef6f747-2f7c-4ced-8467-eceb235cfbbe"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1665513f-f3ce-4fad-9227-ca8ddc51a133"
     },
     {
       "title": "Møte i Buskerud Eldreråd 04/03/2024",
@@ -2186,7 +2186,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F89aa4901-b2cd-434d-a987-0376385f61cc"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F75f6e519-9759-4a08-be48-a9e62f7e4aff"
     },
     {
       "title": "Møte i Flerkulturelt utvalg 04.04.2024",
@@ -2229,7 +2229,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff8379664-d887-4b47-9864-3d30314129e6"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fdb9b5b11-ef92-4ef8-84b6-4b89567bbcee"
     },
     {
       "title": "Møte i Partssammensatt utvalg 04.04.2024",
@@ -2248,7 +2248,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb8bd4946-c1a6-474c-99e5-226d95b1ba41"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1cdbc551-17b2-4948-afa5-d6230fe14d0b"
     },
     {
       "title": "Møte i Ungdommens fylkesråd 05.04.2024",
@@ -2303,7 +2303,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc8197db9-1eb9-48c6-b153-d895e219a806"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F45004f93-5b66-408f-a5da-a4d864715eba"
     },
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 04/05/2024",
@@ -2358,7 +2358,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Faccc0fbf-b4ae-435c-b3fc-e0f2aee611b6"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe7039e45-bfc6-4b35-8835-d6e441344605"
     },
     {
       "title": "Møte i Hovedutvalg for samferdsel 08.04.2024",
@@ -2534,7 +2534,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1019404a-4826-4a4b-9567-5b27930fec5c"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff161320a-cf35-4f46-afa8-40261a209919"
     },
     {
       "title": "Møte i Hovedutvalg for opplæring 11.04.2024",
@@ -2819,7 +2819,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2411d9d4-7634-4a15-8a35-3212463a8c50"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F8ffc9934-06b2-407b-99ae-6194b5fb706b"
     },
     {
       "title": "Møte i Valgkomiteen 23.04.2024",
@@ -2869,7 +2869,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1d526a5c-d0a8-4a2c-9069-a5555d1c55b6"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F03599b78-d838-40a4-90f5-c8fe987ea406"
     },
     {
       "title": "Møte i Fylkestinget 24.04.2024",
@@ -2954,7 +2954,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0dd048da-c3f5-41aa-8512-3dd17dbcafb7"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5c58b197-b90b-443a-9f78-e1a9dc899690"
     },
     {
       "title": "Møte i Fylkesutvalget 07.05.2024",
@@ -2997,7 +2997,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F18275e10-f242-4bb8-81e7-54ef0e379e71"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3c0a2955-498d-452b-8bcd-097aa5d93d41"
     },
     {
       "title": "Møte i Politisk utvalg for gruppeledere, fylkesordfører og fylkesvaraordfører 21.05.2024",
@@ -3040,7 +3040,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F8ebcf08a-8bf8-469b-8a47-297a4af6adbc"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F59544bce-7416-4cff-bc6a-d5e3185a3a9d"
     },
     {
       "title": "Møte i Yrkesopplæringsnemnda 30.05.2024",
@@ -3071,7 +3071,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2bdd56ea-762a-4bbe-9160-54160633b53f"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb7c1cb14-9548-493c-b82a-abd882c980a5"
     },
     {
       "title": "Møte i Ungdommens fylkesråd 06/03/2024",
@@ -3132,7 +3132,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3c7a868b-c7fc-4fe2-a624-eb172f10e473"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fbda7cfb9-f59e-452b-b193-d4bd1a3607db"
     },
     {
       "title": "Møte i Buskerud Eldreråd 06/03/2024",
@@ -3175,7 +3175,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb9b6837b-6cdd-41ab-ac64-045c0b839c6b"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe99d6453-d1f8-4f9c-8713-e97db9beff05"
     },
     {
       "title": "Møte i Flerkulturelt utvalg 04.06.2024",
@@ -3218,7 +3218,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3f19ffe8-f03b-4777-a31d-defebcb3b3bb"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd4af37e4-285c-490a-8bc3-2221d423c9e1"
     },
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 06/05/2024",
@@ -3273,7 +3273,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb7e16bea-e959-4ce5-ad04-b94d54500008"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd4368a15-0e1d-4607-a681-4017b8714ad4"
     },
     {
       "title": "Møte i Oppgavefellesskap fylkesbiblioteket 07.06.2024",
@@ -3346,7 +3346,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc6edac7b-6d11-4edf-854a-7dc41d0a2355"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fdc1735b6-2d9e-413f-ac95-d40df0ec3f82"
     },
     {
       "title": "Møte i Hovedutvalg for samferdsel 11.06.2024",
@@ -3383,7 +3383,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd0946699-b42d-4f92-8ab5-1a640b71e2c9"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F75ee2c63-1502-4bec-9cd6-66a2ebb2f807"
     },
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 12.06.2024",
@@ -3462,7 +3462,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F92995d51-31ba-4286-9fc4-57233fd219a8"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2c8a5a18-603e-4db7-9146-8569f9e28012"
     },
     {
       "title": "Møte i Valgkomiteen 12.06.2024",
@@ -3523,7 +3523,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F06550619-1924-4399-bbcb-69023fefdf5b"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb7b39860-3b1a-4c8a-bace-9d254d2846a5"
     },
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 13.06.2024",
@@ -3614,7 +3614,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd1fa3d82-9be2-4eec-a965-fcb365a7c49e"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F6b7d6ea6-1dd5-47d1-8b2e-1455f0b251d6"
     },
     {
       "title": "Møte i Hovedutvalg for opplæring 13.06.2024",
@@ -3868,7 +3868,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fabcfb588-9f14-4cd9-9d27-56071ace338c"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0d5770c0-aaed-4f2b-8f37-755dc6d2cfae"
     },
     {
       "title": "Møte i Partssammensatt utvalg 17.06.2024",
@@ -3905,7 +3905,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F905e0cc6-ad5e-4726-9873-6ae0432fee92"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe8a6791c-8eb3-47a3-bc38-8b53e7f11608"
     },
     {
       "title": "Møte i Fylkestinget 19.06.2024",
@@ -4068,7 +4068,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc67d9526-2b08-4fc5-a828-067d4722ef76"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fca76ed36-7603-4bf5-b595-77bc6a31a26e"
     },
     {
       "title": "Møte i Fylkestinget 20.06.2024",
@@ -4111,7 +4111,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F35b378dd-1085-4393-a93e-c260016def5e"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2cd6b8fb-c0fe-45a0-9d48-3910002da012"
     },
     {
       "title": "Møte i Distriktsvalgstyret 19.08.2024",
@@ -4142,7 +4142,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa8cdb7e2-7123-4595-871b-6e43c35baca9"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd9efc6cd-aa59-46eb-a433-ac04ce10ffdf"
     },
     {
       "title": "Møte i Fylkesutvalget 20.08.2024",
@@ -4251,7 +4251,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc2e8ed76-cda4-4ed3-a259-8326c32cfc91"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd87c8b47-f59e-4e32-8980-9aed52166c45"
     },
     {
       "title": "Møte i Klagenemnd 20.08.2024",
@@ -4344,7 +4344,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F34d304e4-bc85-4509-9b27-b7b2617392e9"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jbbv7v42e5cvah5xtaxwm2cm"
     },
     {
       "title": "Møte i Fylkestinget 28.08.2024",
@@ -4375,7 +4375,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F67d848d8-b10c-4b82-b426-6485030d06d6"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fca6dc95a-2be4-4436-b497-88aceb3f4702"
     },
     {
       "title": "Møte i Fylkestinget 29.08.2024",
@@ -4460,7 +4460,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Faed8f285-0b81-4ee9-a7dc-1cdf8cd271b0"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9261e6fb-2115-4f8d-98c5-e2941388c4e7"
     },
     {
       "title": "Møte i Yrkesopplæringsnemnda 09/03/2024",
@@ -4491,7 +4491,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff32f7355-866c-4cc5-b1a5-02011dbd3794"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jjbw5vw6ejnat6qr3n3tqam3"
     },
     {
       "title": "Møte i Fylkesutvalget 04.09.2024",
@@ -4528,7 +4528,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F95066326-047c-4ee4-a1be-e7cdef6bdaa2"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F33b8b966-1d61-447a-8e8f-2be4bf50bae9"
     },
     {
       "title": "Møte i Buskerud Eldreråd 09/09/2024",
@@ -4571,7 +4571,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F38708690-955d-4c90-8d90-88c195c3c856"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01j8ss0j7jes6b57213t0xerwy"
     },
     {
       "title": "Møte i Flerkulturelt utvalg 09.09.2024",
@@ -4602,7 +4602,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe21c2d21-ac05-44ed-9061-3e06f1bfb735"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01j8ss0w24e9aaa9rev7bzy07w"
     },
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 09/11/2024",
@@ -4639,7 +4639,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fda66c332-3957-4192-8e58-df191f613d1a"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01j8ss0vthfre9ry37yhxs46y8"
     },
     {
       "title": "Møte i Oppgavefellesskap anskaffelser 11.09.2024",
@@ -4682,7 +4682,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F764801c0-03cf-429b-96eb-e91d228270b7"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd5383f22-d692-4b93-8448-d3777af48a8b"
     },
     {
       "title": "Møte i Ungdommens fylkesråd 09/12/2024",
@@ -4731,7 +4731,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F104f611a-d0a6-4dcd-b429-6c3750477d6a"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01j8ss1t0efgss1dp7w4k6vkzt"
     },
     {
       "title": "Møte i Oppgavefellesskap fylkesbiblioteket 09/13/2024",
@@ -4774,7 +4774,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff60bfee8-df32-4e20-8101-07317bcd9b33"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F58c6d43a-abc9-4675-8e33-ec40b6f4e96d"
     },
     {
       "title": "Møte i Arbeidsutvalg for godtgjøringsreglement 16.09.2024",
@@ -4817,7 +4817,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F8880986d-597d-4bdd-ae4c-307552e26d36"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jatd82hafnn83q7722gybfh1"
     },
     {
       "title": "Møte i Fylkesutvalget 17.09.2024",
@@ -4890,7 +4890,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa4737d5a-acba-41f3-9eef-f4733a0fb069"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F71f320ee-1a7f-44f1-9fa0-8a7498514e09"
     },
     {
       "title": "Møte i Politisk utvalg for gruppeledere, fylkesordfører og fylkesvaraordfører 23.09.2024",
@@ -4933,7 +4933,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5161f418-d175-4eeb-8df0-dd4b55445cab"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F139f77f0-990e-44d3-a9ee-06756d7a78e1"
     },
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 24.09.2024",
@@ -5006,7 +5006,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fedcbfb7f-cbfb-4137-9458-0dae7435e095"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2e093fef-5ab8-4336-a1b4-13d759b79089"
     },
     {
       "title": "Møte i Hovedutvalg for opplæring 25.09.2024",
@@ -5037,7 +5037,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F6745d03d-2901-454d-8abf-a024ef28c02c"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01j944aqedee1r0hh185mzrp7h"
     },
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 25.09.2024",
@@ -5135,7 +5135,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F952bacc8-f473-4397-acae-8c2d056146ee"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01j90ztf5fed3rd4733pkd2xf2"
     },
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 09/27/2024",
@@ -5202,7 +5202,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F6d9d137f-2950-43df-8281-71536a18a9a4"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01j98gmcwbej4tdfmrpsfer38j"
     },
     {
       "title": "Møte i Hovedutvalg for samferdsel 07.10.2024",
@@ -5269,7 +5269,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F13f803e8-03ce-467f-bf98-e8bc687a56d0"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01j9s4qe0hejgtgjbar2zan9mw"
     },
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 08.10.2024",
@@ -5306,7 +5306,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4c2af6f0-8d99-47bf-a381-473f378a23cf"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01j9p1ckp5fxxrmbj4gymt0g28"
     },
     {
       "title": "Møte i Forhandlingsutvalget 10/08/2024",
@@ -5318,7 +5318,7 @@
       "agendaUrl": "",
       "agendaCases": [],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0918eab1-94ae-425d-bfac-c720251bbca6"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jc11nfa1fqz96mzjqbdjq816"
     },
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 09.10.2024",
@@ -5415,7 +5415,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4224dfec-454e-4575-9ab1-02397489bf8b"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jb9mrk01evwsqst3thtbcym9"
     },
     {
       "title": "Møte i Hovedutvalget for kultur, idrett og folkehelse 10.10.2024",
@@ -5482,7 +5482,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2f39d170-6e08-458a-af10-2800d96975f6"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jafg5830f91t9k88vqc2s15y"
     },
     {
       "title": "Møte i Partssammensatt utvalg 14.10.2024",
@@ -5519,7 +5519,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F6406e271-9c90-43cc-ac92-13140a17a122"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01ja5r37r2f968sf55cb9r2chr"
     },
     {
       "title": "Møte i Klagenemnd 14.10.2024",
@@ -5550,7 +5550,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb063e5ee-cbe5-44b6-b952-f6f1c9e15f06"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01ja868mp4et2akzqwbq9cdcj7"
     },
     {
       "title": "Møte i Fylkesutvalget 15.10.2024",
@@ -5677,7 +5677,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2fb21876-166d-4245-bc55-6cb7a50701b4"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01ja8rjk39f2yam3ragj9d7yra"
     },
     {
       "title": "Møte i Arbeidsutvalg for godtgjøringsreglement 10/23/2024",
@@ -5708,7 +5708,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F48a96118-b992-4064-8a67-5c5fd8c14ea2"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jc3mm475ff1rts2my0h5anky"
     },
     {
       "title": "Møte i Fylkestinget 10/23/2024",
@@ -5866,7 +5866,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fba99efb8-218b-49d2-b0bf-da518885f005"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jc65q1exf5san5sz647bezzx"
     },
     {
       "title": "Møte i Oppgavefellesskap fylkesbiblioteket 11/08/2024",
@@ -5903,7 +5903,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F7f669dd0-4e27-43f5-ac2d-ac7018134c30"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jczmwqh6f03be0fx6hq9fz8n"
     },
     {
       "title": "Møte i Buskerud Eldreråd 11/11/2024",
@@ -5934,7 +5934,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F76450a88-b211-438c-b3b7-089ee686b0af"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jcg4sa9kfz391tcynpwwy5td"
     },
     {
       "title": "Møte i Flerkulturelt utvalg 11/12/2024",
@@ -5983,7 +5983,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd9f760bd-a499-41f3-a8ca-87d73f26e0ab"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jcp03sv2ehbtbg97kxhcfax7"
     },
     {
       "title": "Møte i Arbeidsutvalg for godtgjøringsreglement 11/12/2024",
@@ -6014,7 +6014,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa7de2fc6-cd7b-4b89-9177-bb255a71cbbf"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jcj9sgzset9s53caqbea67j1"
     },
     {
       "title": "Møte i Klagenemnd 11/12/2024",
@@ -6039,7 +6039,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fdcee2fae-8624-42fa-b809-993ca749693d"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jcgeam5ze3nt33e8yt0am1h2"
     },
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 11/13/2024",
@@ -6076,7 +6076,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9dc71e13-2ebf-4060-a9b4-01ece9014b0c"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jcn8bfxje3r9tapxarja7wvk"
     },
     {
       "title": "Møte i Ungdommens fylkesråd 11/14/2024",
@@ -6198,7 +6198,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2735b7da-722f-41ef-9c74-6559316e08bd"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jjbvs3qqez6976fj16m2x93x"
     },
     {
       "title": "Møte i Fylkesutvalget 11/19/2024",
@@ -6253,7 +6253,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F8ed6f8ac-90a7-4939-8f1e-71f54cd7fb40"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jd7yqj1xfxc8fy4353hh6gfj"
     },
     {
       "title": "Møte i Arbeidsutvalg for godtgjøringsreglement 11/20/2024",
@@ -6345,7 +6345,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F36ec1e75-bdca-4433-8d44-63ed97dfa5ef"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jdpthv17f5zrfhfz651sb0aq"
     },
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 11/27/2024",
@@ -6454,7 +6454,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4b460328-e685-45ea-95a4-3b406598ce2a"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jdrvez1wfjq9feefmnravnb0"
     },
     {
       "title": "Møte i Hovedutvalg for opplæring 11/28/2024",
@@ -6545,7 +6545,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F250f84ec-7467-49f6-a7a7-cc2fe515dd0d"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01je383gzveh4szs9fqw315p62"
     },
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 11/29/2024",
@@ -6642,7 +6642,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff6b44d6a-d281-4f9d-ac9b-813c1c32f176"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01je32kmhdey987m3m8gadrygc"
     },
     {
       "title": "Møte i Partssammensatt utvalg 12/02/2024",
@@ -6830,7 +6830,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ffa3d86ea-e43f-41af-97f5-11980c3b9b5e"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01je8jvchfe98tzrvmqdnvfq3d"
     },
     {
       "title": "Møte i Klagenemnd 12/10/2024",
@@ -7018,7 +7018,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3bcd872e-e576-4c72-9d7d-7baeeb9378b5"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jfez9pspfh4szsb1r040nmss"
     },
     {
       "title": "Møte i Fylkestinget 17.12.2024",
@@ -7091,7 +7091,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff9111077-1e83-4c77-ba94-de3429bbc696"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jj788xkneada6gg2k4bvx28d"
     },
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 01/20/2025",
@@ -7122,7 +7122,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4b7c6bdc-921a-44df-aa3e-210944543a9d"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jj4fw654e58rs79qdc9w2q10"
     },
     {
       "title": "Møte i Buskerud Eldreråd 01/20/2025",
@@ -7147,7 +7147,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff0fb9a49-77b5-432d-8cbd-02230d6a478f"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jj2nqkkqf979wsjs3xdk7gfn"
     },
     {
       "title": "Møte i Flerkulturelt utvalg 01/20/2025",
@@ -7184,7 +7184,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F6521f7fb-1158-4b9c-b067-d57d359ca16b"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jj79k8bwe9wrrx146t60e30m"
     },
     {
       "title": "Møte i Valgkomiteen 01/21/2025",
@@ -7221,7 +7221,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe233282e-b02f-4daa-97b3-f25aa28bf8c2"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jj6vjhkmfg2vqyfm5fq4gzf4"
     },
     {
       "title": "Møte i Yrkesopplæringsnemnda 01/23/2025",
@@ -7246,7 +7246,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F951e1410-1ad3-4973-868a-84c7f31e8b5e"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jpsmcv5xejga83r8eayttn3j"
     },
     {
       "title": "Møte i Partssammensatt utvalg 01/24/2025",
@@ -7271,7 +7271,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ffbb2bf84-232a-4676-b288-e90a5e635ab4"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jjbyz7v5ff3a8cwk9d6s8j95"
     },
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 01/27/2025",
@@ -7350,7 +7350,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F01159a74-589d-4fa4-9b60-e0c9d4b56d59"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jjny6jzxfm1r7avbj7mx8mb2"
     },
     {
       "title": "Møte i Klagenemnd 01/27/2025",
@@ -7381,7 +7381,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F171a6d53-0b6a-40ec-aa0d-fe4df33e1adf"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jjm3kfvje69vf0egpkvyky98"
     },
     {
       "title": "Møte i Fylkesutvalget 01/28/2025",
@@ -7442,7 +7442,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0575b367-f823-4d3f-8486-cb21a3fa0d09"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jjrhgey0ergsm9ka400mp2a0"
     },
     {
       "title": "Møte i Hovedutvalg for opplæring 01/29/2025",
@@ -7546,7 +7546,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5b9a247e-437c-4439-b732-10dd5cf5735b"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jkwjgpx2fvftfs7ppwp0mv3c"
     },
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 02/04/2025",
@@ -7649,7 +7649,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc79a3b49-2800-4bb9-97b5-f1fb811f223b"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jkb9cqc8frmvz2767yq2y4z5"
     },
     {
       "title": "Møte i Hovedutvalg for samferdsel 02/12/2025",
@@ -7686,7 +7686,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F8c633b37-b143-493a-abdb-172864928b5f"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jkxcc3jffmtsqa7vpj6x7kc6"
     },
     {
       "title": "Møte i Valgkomiteen 02/18/2025",
@@ -7717,7 +7717,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0d3cefcf-daee-446e-b4db-a94ca1c52dd0"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jmcgsdj8erfaech4p9ja9k09"
     },
     {
       "title": "Møte i Fylkestinget 02/19/2025",
@@ -7838,7 +7838,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb0b469c1-c708-4108-9b6d-e1b0b6ac5080"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jmky1v77fb496yhb3fxr3grd"
     },
     {
       "title": "Møte i Fylkesutvalget 03/04/2025",
@@ -7893,7 +7893,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3025cc17-5160-4df7-b672-fc5228bae6ca"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jnjkj5qxeh992vmd9t9vvykc"
     },
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 03/11/2025",
@@ -7918,7 +7918,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F69032694-31ba-4ada-ba39-3fd53211e224"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jpj6a0ete43tapywwr7wsf9k"
     },
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 03/11/2025",
@@ -7943,7 +7943,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F87d530db-b87c-403f-867b-f1966a5b1607"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jpj664ckey8rtqv9acfbx82m"
     },
     {
       "title": "Møte i Ungdommens fylkesråd 03/17/2025",
@@ -8004,7 +8004,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F84e04d5b-0202-422e-8566-441f6e12087d"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jpq2d9spes89at82cjcshfwt"
     },
     {
       "title": "Møte i Buskerud Eldreråd 03/17/2025",
@@ -8047,7 +8047,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F349fafc8-a50d-4af2-a3dd-7ba225873121"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jppmqq04e89bsz3854aertd3"
     },
     {
       "title": "Møte i Flerkulturelt utvalg 03/17/2025",
@@ -8090,7 +8090,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc7fedd11-429a-4ddb-90c1-82571df3d40b"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jpmeff28ft6arbgd3fajjkrk"
     },
     {
       "title": "Møte i Distriktsvalgstyret 03/18/2025",
@@ -8109,7 +8109,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F073c4811-43d7-4a7a-abed-bde263779a6b"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F60f65b0c-fbc0-4d8b-8e44-ec0ccf1b9db3"
     },
     {
       "title": "Møte i Oppgavefellesskap ombud for barn og unge 03/18/2025",
@@ -8146,7 +8146,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fde3a5b59-a091-414f-8cbc-89fddd040268"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa7268af9-073c-49d0-9afa-f10b1c993271"
     },
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 03/19/2025",
@@ -8183,7 +8183,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F23849475-cdac-488f-926e-8be9eeff09b0"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jpt3c2rhekf9b5pk4ywr70h8"
     },
     {
       "title": "Møte i Yrkesopplæringsnemnda 03/20/2025",
@@ -8214,7 +8214,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4073051d-d932-436f-a686-99942eb6d3cf"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jpwkyvvwfdzat6w4w795vsx6"
     },
     {
       "title": "Møte i Flerkulturelt utvalg 03/20/2025",
@@ -8269,7 +8269,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fbc565c39-7b02-497a-b2f1-a8093bbb2892"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jpwp63f2e3wtgcmzp20nnesh"
     },
     {
       "title": "Møte i Partssammensatt utvalg 03/21/2025",
@@ -8306,7 +8306,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F18c5094b-63ff-4e60-9b00-7fdc13739206"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jpw5mzxsff8s58bzfxkxcxs6"
     },
     {
       "title": "Møte i Fylkesutvalget 03/24/2025",
@@ -8325,7 +8325,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe188d182-af67-494c-a2e2-64e84aab8663"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jq4s34rdfz1bk0bnf7thj1k1"
     },
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 03/24/2025",
@@ -8422,7 +8422,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F39a39fb9-8b44-44f8-b200-4fcb9f367576"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=do_01jq4k329tem2r38vg5jq0rqd1"
     },
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 03/25/2025",
@@ -8525,7 +8525,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F81197ccc-141c-466b-9d72-63a228998a4a"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0a2b4e5e-1a6f-4dec-bb77-e478c679918b"
     },
     {
       "title": "Møte i Hovedutvalg for samferdsel 03/26/2025",
@@ -8568,7 +8568,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F37c6880a-edf1-434b-a630-9adcf2b89efe"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F234be7c3-0cd6-48c8-a3eb-74981030a005"
     },
     {
       "title": "Møte i Valgkomiteen 03/27/2025",
@@ -8611,7 +8611,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F8725a80c-092f-4177-9f54-658c058ddc6e"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1e0f75d9-da56-487f-81d4-b19c8cbeadf5"
     },
     {
       "title": "Møte i Hovedutvalg for opplæring 03/27/2025",
@@ -8648,7 +8648,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F53f41dc0-567d-4fe7-a595-4d8ae578e195"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F6f79c2e4-e343-4738-b5c7-a3cb3fac1f2a"
     },
     {
       "title": "Møte i Fylkesutvalget 04/02/2025",
@@ -8763,7 +8763,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fddb0fe31-2e84-4fe8-838c-2eb0c0b2e06b"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Feef14798-6b83-4fcf-8af3-d01b34851afd"
     },
     {
       "title": "Møte i Valgkomiteen 04/04/2025",
@@ -8807,7 +8807,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F03a39c0a-6017-4970-a105-3fa3a9773359"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Faae76aa6-048a-435b-a969-09691d423f5a"
     },
     {
       "title": "Møte i Fylkestinget 04/09/2025",
@@ -8934,7 +8934,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F39a68f5f-6432-47be-879f-7b8078ebd76f"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F7061c2ff-76b2-43b2-9cc2-357cb3b83d1c"
     },
     {
       "title": "Møte i Yrkesopplæringsnemnda 04/23/2025",
@@ -8965,7 +8965,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff64c3133-ac25-435e-96ec-e0f7b6e96305"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff2835187-4190-4450-82ff-001590731949"
     },
     {
       "title": "Møte i Hovedutvalg for samferdsel 04/30/2025",
@@ -8990,7 +8990,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff6f8bec4-24b5-4f4a-9248-276a6a009075"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff79109d3-0fcb-43a3-8d51-23d343c98675"
     },
     {
       "title": "Møte i Hovedutvalg for opplæring 04/30/2025",
@@ -9033,7 +9033,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F21dcc405-a27f-4a0f-8612-6c6845236e0b"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F49cd03f8-40b1-4f82-95ce-7ee2a2e8e986"
     },
     {
       "title": "Møte i Fylkesutvalget 05/13/2025",
@@ -9076,7 +9076,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ffbb0524d-2a79-4a36-87cc-7cacdaff0b18"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb2b5eda5-3c7b-4a26-a8ad-428d11351cdb"
     },
     {
       "title": "Møte i Oppgavefellesskap anskaffelser 05/15/2025",
@@ -9113,7 +9113,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5c999bac-7f2a-4aa3-b403-1eb6f459e7d6"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F29d79b07-84cc-4ade-abbf-ece80a5aeaca"
     },
     {
       "title": "Møte i Klagenemnd 05/19/2025",
@@ -9144,7 +9144,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4f5264a1-360c-41c3-8e04-4191ff3a0f15"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5101b2ec-0672-4ce2-b94e-523aadddbfce"
     },
     {
       "title": "Møte i Oppgavefellesskap fylkesbiblioteket 05/23/2025",
@@ -9187,7 +9187,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa8758839-a95c-425e-8828-46b84bc472f8"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc5035ecb-9fb4-40dc-8dc0-f928c16a69e8"
     },
     {
       "title": "Møte i Ungdommens fylkesråd 05/26/2025",
@@ -9296,7 +9296,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F765c1407-c07d-4636-b245-9a9c07040ed7"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F85c32d15-45a8-40cc-b90a-2855a970a0c4"
     },
     {
       "title": "Møte i Buskerud Eldreråd 05/26/2025",
@@ -9333,7 +9333,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9d149af0-f6fb-4361-9c40-fef16735afc5"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3638affa-4a57-42e6-81f7-a2d0752807aa"
     },
     {
       "title": "Møte i Distriktsvalgstyret 05/27/2025",
@@ -9358,7 +9358,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fff708803-de5c-40b9-84ef-9375af69d84e"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fdcdaef57-8c9d-4248-a3a6-d1007771a82e"
     },
     {
       "title": "Møte i Oppgavefellesskap ombud for barn og unge 05/27/2025",
@@ -9395,7 +9395,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fde8efb1c-8cb3-407e-8b05-7b582a4e7712"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9c283bb5-0205-40e1-80d6-6bfb6369508c"
     },
     {
       "title": "Møte i Samarbeidsutvalget 05/27/2025",
@@ -9444,7 +9444,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0ac68f75-57dc-4395-afbc-83c8ca5dac10"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb0f5a39e-38b5-4322-bebe-d7fd37151e1b"
     },
     {
       "title": "Møte i Yrkesopplæringsnemnda 05/28/2025",
@@ -9505,7 +9505,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F6ba627de-0c32-4107-bc8f-61be38798084"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0c67518c-24e2-4479-8efb-167cf510b90e"
     },
     {
       "title": "Møte i Flerkulturelt utvalg 05/28/2025",
@@ -9572,7 +9572,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F99db7898-dea7-4049-97ba-b13d522e81e0"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F619c4b05-f40b-44bc-a816-7c415f544083"
     },
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 05/28/2025",
@@ -9609,7 +9609,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4b15f69a-796c-4c86-be75-299f3a0672cb"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb7e869f5-d05a-42f2-96ee-92f98a8798a2"
     },
     {
       "title": "Møte i Partssammensatt utvalg 05/28/2025",
@@ -9646,7 +9646,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fceac621c-fc16-4c81-9901-426d31c17759"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0529169a-7f6f-43bc-a688-0177f23d2de9"
     },
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 06/02/2025",
@@ -9761,7 +9761,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F78761221-ca7e-4936-b44b-1879ee174994"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0792db8e-bd59-4e97-87ec-8c702f4fd2e4"
     },
     {
       "title": "Møte i Hovedutvalg for samferdsel 03.06.2025",
@@ -9822,7 +9822,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe87fd57c-6b07-41c2-98d4-a4117fd54448"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F8b9c4d8a-ef4e-4101-8db2-a43d51156d9b"
     },
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 06/03/2025",
@@ -9955,7 +9955,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F67c940ce-ab3c-4e37-98c9-920c0c5c356c"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F31c0537b-57cf-42fe-9c47-fd75fece5b23"
     },
     {
       "title": "Møte i Partssammensatt utvalg 06/04/2025",
@@ -9980,7 +9980,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff6acad86-5fe2-4cbb-9164-0d85c1561df4"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F87cdfb58-7a0f-4874-a815-ff5e29fa5993"
     },
     {
       "title": "Møte i Hovedutvalg for opplæring 06/04/2025",
@@ -10089,7 +10089,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd3a8ff93-3795-4422-8152-117eab7750ff"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ffd90ff6e-31a8-4923-9e06-e39a43fa9f61"
     },
     {
       "title": "Møte i Fylkesutvalget 06/11/2025",
@@ -10246,7 +10246,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fbdf246fa-3622-45d7-bd37-b6ba935c17f2"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe6c71d9a-0d86-48f3-b4b8-d75f52ede4c6"
     },
     {
       "title": "Møte i Valgkomiteen 06/11/2025",
@@ -10277,7 +10277,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd0b04d1e-e586-46ba-b028-4bf9510c161d"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd3cca456-f4d6-4fa6-9ad5-3086ad1bbac7"
     },
     {
       "title": "Møte i Distriktsvalgstyret 06/17/2025",
@@ -10302,7 +10302,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3ed890c7-502c-41c1-ac47-602546f9df66"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Facadce70-424c-4dd3-b273-099778b9a840"
     },
     {
       "title": "Møte i Fylkestinget 06/17/2025",
@@ -10465,7 +10465,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd3f209c1-20c4-4288-ba09-3dc3f977b073"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F17a3cac7-e4e1-45e1-8f28-c9b96bc87c18"
     },
     {
       "title": "Møte i Klagenemnd 06/24/2025",
@@ -10496,7 +10496,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fcd67ea9e-5535-47fd-a6b3-433995764262"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fda759832-0999-4275-b912-0ab275a49bad"
     },
     {
       "title": "Møte i Klagenemnd 12.08.2025",
@@ -10539,7 +10539,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9d5a05a7-6a43-4158-a860-c0a8ea8f53c2"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F75435760-ab30-4a93-a2a8-dafda3830123"
     },
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 14.08.2025",
@@ -10558,7 +10558,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2386881d-5ffe-493f-b912-974659dd63d6"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F41193f4b-c6f0-4927-b5ec-d2e714356d26"
     },
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 14.08.2025",
@@ -10577,7 +10577,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5296eaee-f594-48e5-a496-8ffaf87575dc"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb0d76c34-64dc-45ca-8c79-29f66bd9a2fe"
     },
     {
       "title": "Møte i Ungdommens fylkesråd 25.08.2025",
@@ -10614,7 +10614,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F42b1e0c0-d537-400b-aa5b-37f5eec8e0fe"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F507700b5-35b1-4c71-a4ff-8fdff6087633"
     },
     {
       "title": "Møte i Buskerud Eldreråd 25.08.2025",
@@ -10639,7 +10639,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fbc8fcee9-3a44-44f0-b450-0abe473d9de7"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff92468ed-ba79-4c06-95dd-1dfc2110ec26"
     },
     {
       "title": "Møte i Klagenemnd 26.08.2025",
@@ -10676,7 +10676,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F27a5eb02-bf71-47a2-b385-68686e13f131"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fdfc539d3-c7ad-4542-94d6-ca8a1daeac45"
     },
     {
       "title": "Møte i Flerkulturelt utvalg 27.08.2025",
@@ -10713,7 +10713,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa43adf55-76da-4e99-9ca4-5dd2d49b9aaa"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1f3ea0a7-02ff-446d-8c01-b6da1be5918e"
     },
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 28.08.2025",
@@ -10738,7 +10738,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3b114542-e9eb-40c8-aa87-3bbc43353672"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc37cbb82-09b1-4bbe-aae4-fa037da5dfe0"
     },
     {
       "title": "Møte i Partssammensatt utvalg 08/29/2025",
@@ -10781,7 +10781,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F326eebe2-7905-441f-8784-91f7ccbcaa6f"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3992fce3-e365-46f4-ba5e-a85a15b09460"
     },
     {
       "title": "Møte i Oppgavefellesskap anskaffelser 11.09.2025",
@@ -10824,7 +10824,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F94cec371-2825-47fd-8e92-b5143d3734e0"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Faca45c43-c462-4f5b-a737-df7c79e36669"
     },
     {
       "title": "Møte i Oppgavefellesskap fylkesbiblioteket 12.09.2025",
@@ -10861,7 +10861,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd40f13c0-2ea1-406a-b886-5cec26cfe525"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F58d009c6-9033-4c56-afc7-dc72f838081c"
     },
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 15.09.2025",
@@ -10898,7 +10898,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F8e2a4a6e-f6c1-476d-b7d6-04f9fdcc30da"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F10d431dd-9e30-4455-9441-c421244a5f79"
     },
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 16.09.2025",
@@ -10977,7 +10977,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F16898dff-58b3-4949-ac0d-e08abd74dce4"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F64ea9dc1-b925-4e61-a601-0446e02551d5"
     },
     {
       "title": "Møte i Distriktsvalgstyret 16.09.2025",
@@ -11014,7 +11014,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd801e119-e638-412f-9995-5091b4d03ba4"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fcf5dd7ae-f513-40c1-884c-53e5b173f5d8"
     },
     {
       "title": "Møte i Fylkesvalgstyret 16.09.2025",
@@ -11143,7 +11143,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb9b84f6d-ef2c-4e66-bc4e-21aab36796fa"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4f10ee4f-5e64-47e7-bba3-f79e28b6e834"
     },
     {
       "title": "Møte i Hovedutvalg for samferdsel 18.09.2025",
@@ -11199,7 +11199,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5afcba45-d58c-47d9-849a-9d3569fb0798"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5865a450-8cdc-4bc1-896d-d307670bca0a"
     },
     {
       "title": "Møte i Distriktsvalgstyret 23.09.2025",
@@ -11351,7 +11351,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2f7a6956-6d70-45a7-a275-63fe7471d998"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F749edd36-e94a-4150-9e1b-eed87252d42d"
     },
     {
       "title": "Møte i Fylkesvalgstyret 29.09.2025",
@@ -11382,7 +11382,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc4822301-3fc6-4ac2-a6fb-55e99ca36242"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb7fbc292-5017-44c6-9531-93fe4c70e4b1"
     },
     {
       "title": "Møte i Valgkomiteen 06.10.2025",
@@ -11401,7 +11401,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fae502586-449c-44b2-a236-a8eb1d6e28c7"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0576018c-07f1-4b30-8b78-79339bc87b36"
     },
     {
       "title": "Møte i Fylkestinget 10/07/2025",
@@ -11546,7 +11546,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F45f397b0-7547-4920-a434-7e745d2cb4b0"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe7788d01-df21-4e08-83d7-736d44c1bc10"
     },
     {
       "title": "Møte i Yrkesopplæringsnemnda 09.10.2025",
@@ -11613,7 +11613,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fbe1b530f-2f22-433e-8d47-22324941e4f8"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F417613cd-2dd8-4f07-918a-f690bddef3ce"
     },
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 09.10.2025",
@@ -11650,7 +11650,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0f14bd73-7c99-40c6-b03d-0decc1cf6547"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F6a42ffe3-d32c-4a0f-a395-e11b81784e90"
     },
     {
       "title": "Møte i Partssammensatt utvalg 10.10.2025",
@@ -11669,7 +11669,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F6733de74-8e55-4254-b237-26881c7a92db"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F7d07f3b3-3a53-46b5-ac85-83c7f6244ad4"
     },
     {
       "title": "Møte i Ungdommens fylkesråd 13.10.2025",
@@ -11724,7 +11724,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe5912606-6aa0-4fac-8b13-f6eec34751ab"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe3912d3a-d87c-4f7f-bda4-950f88e74556"
     },
     {
       "title": "Møte i Buskerud Eldreråd 13.10.2025",
@@ -11761,7 +11761,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb3643aae-d1c8-4213-bdee-812a40ea6621"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F18775551-a99d-4596-b6b4-e2ebf0637175"
     },
     {
       "title": "Møte i Samarbeidsutvalget 13.10.2025",
@@ -11798,7 +11798,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F725d9644-dbfb-41e8-ab02-81a3177ef513"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa7204260-449a-49bc-bb3a-a6d81ce207b2"
     },
     {
       "title": "Møte i Klagenemnd 14.10.2025",
@@ -11823,7 +11823,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb8517fbc-86de-4677-850b-e7c39d183ee1"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5d1788c4-d3a4-4fee-9430-e150ffd89d8f"
     },
     {
       "title": "Møte i Flerkulturelt utvalg 14.10.2025",
@@ -11866,7 +11866,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa731cc8d-1674-4c75-a4bc-8613e10b457f"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F7fd969d0-5d03-4c7e-b066-93f5ee060d9a"
     },
     {
       "title": "Møte i Hovedutvalg for samferdsel 15.10.2025",
@@ -11897,7 +11897,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2cf4fbd8-b6ae-4baf-82bf-ccd43349e72f"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fea4ed8c4-57eb-470c-a8a0-502fcf3792ea"
     },
     {
       "title": "Møte i Hovedutvalg for opplæring 16.10.2025",
@@ -11940,7 +11940,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F81adc878-7331-43a2-bff7-25334f93f891"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb1bf1a6d-5a98-41c0-a0d8-990492ea3865"
     },
     {
       "title": "Møte i Valgkomiteen 21.10.2025",
@@ -11965,7 +11965,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F44481949-34ea-4b0d-b828-05fa34676e15"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fca298207-9ca0-450d-a256-3fa8c0c75826"
     },
     {
       "title": "Møte i Fylkesutvalget 10/28/2025",
@@ -12056,7 +12056,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9c0aab95-11e1-475d-a37a-cfbe44f7ad83"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F615d6c4b-4fe1-4fb2-b56c-a0a36845ac53"
     },
     {
       "title": "Møte i Arbeidsutvalg revisjon av reglementer 04.11.2025",
@@ -12075,7 +12075,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F178ad6fe-874f-4156-b480-4e8c4187ecc1"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F71cefb8d-e959-472d-9458-55a9e6653f14"
     },
     {
       "title": "Møte i Fylkestinget 05.11.2025",
@@ -12124,7 +12124,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4dd9c616-9f23-44c5-94d4-05082dd49ac5"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fff7fb560-ae5a-4818-a135-75bbf510921f"
     },
     {
       "title": "Møte i Klagenemnd 10.11.2025",
@@ -12167,7 +12167,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F7b1020b7-2f85-48b9-a7be-dc5c7f9aacaf"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F19b5eb76-393e-4a83-8931-4d2bd370df03"
     },
     {
       "title": "Møte i Oppgavefellesskap ombud for barn og unge 13.11.2025",
@@ -12216,7 +12216,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F68121ee0-7a42-499e-b165-ce01be9937fa"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc1fc362c-d8c5-42b8-af18-737dac301ded"
     },
     {
       "title": "Møte i Flerkulturelt utvalg 17.11.2025",
@@ -12283,7 +12283,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa107ea3a-ce35-4a0e-8c1a-82fea354ae9a"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F45413c19-e40a-4511-a2b7-735be6d4cb72"
     },
     {
       "title": "Møte i Ungdommens fylkesråd 17.11.2025",
@@ -12386,7 +12386,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe4cbe6b9-4283-4671-bbbe-14aeeedba712"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F494b40bd-74d7-4f7e-860b-1e0d470ccf97"
     },
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 17.11.2025",
@@ -12447,7 +12447,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3646ceee-b302-4ff0-816e-a0c30124bcda"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9c35bbed-7d63-4941-9a54-494f23dea777"
     },
     {
       "title": "Møte i Buskerud Eldreråd 17.11.2025",
@@ -12490,7 +12490,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe1b56d88-2dee-4fba-a711-b4a05c448778"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F956d71da-6665-4d76-aa4f-ae45b395bbb0"
     },
     {
       "title": "Møte i Fylkesutvalget 18.11.2025",
@@ -12563,7 +12563,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F43c4e7f9-fcc4-4e7b-9f71-1c92d9c1e522"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F22b4d29d-89e2-49c1-b726-aea585a64f37"
     },
     {
       "title": "Møte i Yrkesopplæringsnemnda 20.11.2025",
@@ -12612,7 +12612,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb7dc0289-a11b-4e8c-839a-140e613e7c4f"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F79037b08-d3c9-48e9-8399-fa462d7da1f0"
     },
     {
       "title": "Møte i Partssammensatt utvalg 21.11.2025",
@@ -12667,7 +12667,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fcd9ff55f-7a4d-4225-9436-4a4228e6393b"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Facd949f2-af2f-4b98-b393-bae6312dbfc0"
     },
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 24.11.2025",
@@ -12764,7 +12764,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F613d3a82-a36d-4104-9b8b-dbaca75e3633"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F31ab6981-b8d0-40df-9ab3-9d05e43e67a0"
     },
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 25.11.2025",
@@ -12879,7 +12879,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fbd1d1314-375b-4649-90af-34736ed7e040"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F7c28eb3c-8178-47cd-8d40-2dc539a3c229"
     },
     {
       "title": "Møte i Hovedutvalg for samferdsel 26.11.2025",
@@ -12934,7 +12934,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F30bc3849-46c9-4157-8458-b5648d7d7cc4"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9cc6ee76-ed3b-484c-9c8c-7e8b8fbc9008"
     },
     {
       "title": "Møte i Hovedutvalg for opplæring 27.11.2025",
@@ -13037,7 +13037,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1aa6a6e0-3b0f-4242-a66e-958c51ad8c13"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F351695a6-730d-436d-ba7d-f063099f95b9"
     },
     {
       "title": "Møte i Fylkesutvalget 01.12.2025",
@@ -13158,7 +13158,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fbb987899-6577-4f89-9f8d-f92bb0721e85"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fda938d30-8370-484e-91f7-848cb9857b1c"
     },
     {
       "title": "Møte i Arbeidsutvalg revisjon av reglementer 01.12.2025",
@@ -13183,7 +13183,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb896072f-f736-47a8-8812-62117d82e767"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fce434a06-3389-40c8-a28d-6c9baf0025c2"
     },
     {
       "title": "Møte i Oppgavefellesskap fylkesbiblioteket 05.12.2025",
@@ -13226,7 +13226,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fba7b9392-e5b2-40f9-a618-ff7239b640a4"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fae338d63-f670-48c1-9689-1a85a1f4c083"
     },
     {
       "title": "Møte i Klagenemnd 09.12.2025",
@@ -13251,7 +13251,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F34ffcd64-6a9c-4f09-a432-47848f4e8044"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc3a28d1b-0914-473f-8db0-5f4cd6577365"
     },
     {
       "title": "Møte i Fylkestinget 16.12.2025",
@@ -13414,7 +13414,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F8c8dbf40-f62b-4c8e-8596-0a2eaa923a1b"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe25d19de-7be1-45d9-b96c-28755287cbb4"
     },
     {
       "title": "Møte i Fylkestinget 12/17/2025",
@@ -13457,7 +13457,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F6f138219-0fbc-483a-a5b0-0dc1d0859cd2"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F44a4aee7-32ea-4944-b44e-895d4d146467"
     },
     {
       "title": "Møte i Arbeidsutvalg revisjon av reglementer 13.01.2026",
@@ -13476,7 +13476,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa210aab1-079a-4a0c-918b-a74b611e541b"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff11d7ef9-dab5-47ee-9f40-33bfe8ceac79"
     },
     {
       "title": "Møte i Ungdommens fylkesråd 19.01.2026",
@@ -13549,7 +13549,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F846be844-89c5-497c-8a96-30a9635d22d1"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb5d73c36-5743-4c46-b46f-4191efc14b3e"
     },
     {
       "title": "Møte i Buskerud Eldreråd 20.01.2026",
@@ -13580,7 +13580,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F60c46728-ad12-4a34-9c9a-97c489b53e1a"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F7081d142-86b8-4bca-ae90-49d21fdd3e9e"
     },
     {
       "title": "Møte i Oppgavefellesskap ombud for barn og unge 20.01.2026",
@@ -13629,7 +13629,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F966d0ff8-e051-48fc-85f9-f957360d04b8"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F399271fb-18b1-4d9b-b2ef-8b04c16f994b"
     },
     {
       "title": "Møte i Yrkesopplæringsnemnda 22.01.2026",
@@ -13666,7 +13666,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1b4c2ca4-c334-42d8-91a0-9e95b185869a"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Febc89038-2f92-4a85-bb4e-fc8e93faa969"
     },
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 22.01.2026",
@@ -13697,7 +13697,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fae0007bb-e5cc-4dcc-a1df-73f252b315ef"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd42e95a5-2d3c-4211-9a76-e9582c890aca"
     },
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 26.01.2026",
@@ -13764,7 +13764,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3f354113-9316-4ee4-becb-c2abf2bea026"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F56fa9d5d-72c7-4d09-bc4d-006cfb214a13"
     },
     {
       "title": "Møte i Klagenemnd 27.01.2026",
@@ -13837,7 +13837,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F091861a8-c3e4-4dc4-90e3-4a9c1849c758"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9dfae04d-b585-4063-9fcd-26c2dede1d7b"
     },
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 27.01.2026",
@@ -13952,7 +13952,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe246c591-0ca7-42b1-a3f5-c1806e6211d6"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F22232c84-3ae4-4cfe-bc3e-5194c6120137"
     },
     {
       "title": "Møte i Valgkomiteen 27.01.2026",
@@ -13983,7 +13983,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd5852541-c33d-4be0-adc6-8805433bee5a"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F299aa44c-3404-40ca-bd5c-02b51a9b92fa"
     },
     {
       "title": "Møte i Hovedutvalg for samferdsel 28.01.2026",
@@ -14032,7 +14032,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4e15100c-1550-4a0e-b7b1-3b2909309f62"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4258a955-63ac-49f2-9f00-7f7fe68afc86"
     },
     {
       "title": "Møte i Hovedutvalg for opplæring 29.01.2026",
@@ -14093,7 +14093,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F00613b08-1bd8-4be4-aada-854f2254e7eb"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0cb06275-b614-4443-ab50-b2b03d4d52cc"
     },
     {
       "title": "Møte i Distriktsvalgstyret 30.01.2026",
@@ -14112,7 +14112,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F33435f0f-fbd2-4b0a-89b9-54c885fa4ac8"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F046b6d9c-f916-40a0-b06e-8c6c76c9b4f9"
     },
     {
       "title": "Møte i Fylkesvalgstyret 30.01.2026",
@@ -14131,7 +14131,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F18696c5d-8c74-46a0-b5d1-6ce7f30b1089"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F17dd2a73-6823-47c3-b6fb-039f1fd94908"
     },
     {
       "title": "Møte i Fylkesutvalget 03.02.2026",
@@ -14259,7 +14259,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc5757166-c892-487e-b8cc-eb2f640e0c6e"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F539ef3a2-e158-47b5-960e-9a2030dd9fad"
     },
     {
       "title": "Møte i Fylkestinget 18.02.2026",
@@ -14398,7 +14398,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F834372d1-10c8-48b4-ab0e-faa15253fa34"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F55089454-18af-47aa-8bef-3ace9512558f"
     },
     {
       "title": "Møte i Fylkesutvalget 03.03.2026",
@@ -14459,7 +14459,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fbcc05d7f-2c96-4376-93df-1d60865a5eb6"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F968535ef-da90-435b-aafe-bcd50815134c"
     },
     {
       "title": "Møte i Hovedutvalg for samferdsel 04.03.2026",
@@ -14484,7 +14484,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fdf93f9d9-db4c-48c8-bdd5-135e73b3a99e"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F7e9d3a72-63c5-434b-b7f5-278dcc077e0c"
     },
     {
       "title": "Møte i Oppgavefellesskap ombud for barn og unge 04.03.2026",
@@ -14509,7 +14509,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe81bd17f-5231-46bd-ae81-9a773b0a8030"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff40a2c47-0210-4d51-8be5-4d121004702a"
     },
     {
       "title": "Møte i Klagenemnd 10.03.2026",
@@ -14540,7 +14540,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5e57807c-a143-4f0b-90b1-73adcccc3990"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ffabfa550-ee2d-410e-8314-7fc87c5d2bf4"
     },
     {
       "title": "Møte i Ungdommens fylkesråd 16.03.2026",
@@ -14613,7 +14613,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc6aab798-1214-4595-bfb3-6558055f0e1c"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3925b6ae-8756-4c2e-8c28-2024836ac37f"
     },
     {
       "title": "Møte i Buskerud Eldreråd 17.03.2026",
@@ -14674,7 +14674,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fba58dfc6-6e06-4542-9f64-a8bc76a084f8"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fdef69124-2788-440c-b30a-28dea4b64451"
     },
     {
       "title": "Møte i Flerkulturelt utvalg 18.03.2026",
@@ -14759,7 +14759,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5baff69b-b29e-4a21-95bd-93663364465e"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F8e28c496-f840-4fba-93fa-44aae414176e"
     },
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 19.03.2026",
@@ -14820,7 +14820,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff80aef97-9c44-4cdc-80c9-343b0891190b"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F029453f2-7940-4f5b-bf99-b76eeac6e0a7"
     },
     {
       "title": "Møte i Valgkomiteen 19.03.2026",
@@ -14863,7 +14863,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F82672ae0-7cbe-4f47-827c-b90133a168b5"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F7c4e0c33-a7b4-4a80-9252-86257961f396"
     },
     {
       "title": "Møte i Yrkesopplæringsnemnda 19.03.2026",
@@ -14894,7 +14894,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F717dd71a-5c40-46f6-94ea-5728bf603322"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F7094c76d-a8c5-4a6b-9ea5-6d13cbe65056"
     },
     {
       "title": "Møte i Partssammensatt utvalg 20.03.2026",
@@ -14949,7 +14949,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F7e18ade3-9867-401f-bc20-609d849fbaa0"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F54a83187-3d54-4c15-b04c-3a45902df660"
     },
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 23.03.2026",
@@ -15046,7 +15046,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F06a2ad0f-1887-4450-9b37-1a0e3a0af583"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fab725393-655b-4c42-9cb9-5392d08afc4c"
     },
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 24.03.2026",
@@ -15125,7 +15125,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb519151b-9f7e-42d5-8d3f-1d27d97fb47f"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ffe37379e-383b-4b9e-86de-c69c895ae1e2"
     },
     {
       "title": "Møte i Samarbeidsutvalget 24.03.2026",
@@ -15156,7 +15156,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb94763e2-09e7-4d96-9248-88b2280e9acf"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F132d5d6a-4d5a-40f5-825b-ffbf9369c781"
     },
     {
       "title": "Møte i Hovedutvalg for samferdsel 25.03.2026",
@@ -15223,7 +15223,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd4bcb81f-65dd-4308-8ed0-5cd066763022"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa14a56e9-4976-4b6d-a65f-b7b424790c5e"
     },
     {
       "title": "Møte i Hovedutvalg for opplæring 26.03.2026",
@@ -15272,7 +15272,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fdd0855a6-7235-468d-862d-ea5871dc74a6"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc9027a7c-dcf3-485f-9cf2-9a376222ffee"
     },
     {
       "title": "Møte i Fylkesutvalget 08.04.2026",
@@ -15351,7 +15351,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F510301aa-f705-4c5b-bbf5-dfdc12cfbd66"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3e62f1dc-2b50-4464-b637-ddf14ee2197f"
     },
     {
       "title": "Møte i Valgkomiteen 16.04.2026",
@@ -15370,7 +15370,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F715475a5-7531-4a13-acee-1e377c9f92c2"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd10f1efd-b3c0-40ab-9cef-66ab419fcbc7"
     },
     {
       "title": "Møte i Fylkestinget 16.04.2026",
@@ -15552,7 +15552,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fdd5a9cea-cec0-499b-a971-2f4b327ea266"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2e92733f-f28b-4005-aee1-0da7e3c4bcd6"
     },
     {
       "title": "Møte i Hovedutvalg for opplæring 29.04.2026",
@@ -15595,7 +15595,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4f44cecf-55e1-4ad9-989d-3f7e97d14813"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ff21b6cac-a507-4274-8b68-c371733dcd58"
     },
     {
       "title": "Møte i Oppgavefellesskap ombud for barn og unge 30.04.2026",
@@ -15644,7 +15644,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F916dac2f-06ed-4151-a7b9-66ee7333cb30"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F80b8e42c-6bb6-48d2-8f01-49339b78a78d"
     },
     {
       "title": "Møte i Oppgavefellesskap anskaffelser 07.05.2026",
@@ -15675,7 +15675,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F2de858b2-9cce-4c80-91fe-3f7b5b7c1c49"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe64443b5-d089-4fd7-9c47-37164273b76b"
     },
     {
       "title": "Møte i Fylkesutvalget 12.05.2026",
@@ -15767,7 +15767,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F911146ef-d4e0-4285-9659-fcf27d0eb3e1"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F6da23493-ec8c-4e01-9f6f-3ffb566a4b72"
     },
     {
       "title": "Møte i Fylkesutvalget 22.05.2026",
@@ -15798,7 +15798,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa402fd4d-177c-457c-a8f3-aa58c1bc7d6d"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fda162f59-35e7-454a-8ebb-831e00f447df"
     },
     {
       "title": "Møte i Buskerud Eldreråd 26.05.2026",
@@ -15859,7 +15859,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc6f7ecc0-10bb-4f70-82a3-433e38066226"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0f6ef743-052d-426a-b0d9-5efbb0d3cc11"
     },
     {
       "title": "Møte i Ungdommens fylkesråd 27.05.2026",
@@ -15956,7 +15956,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe5985ca8-eaae-48bc-9966-2c185b586e1e"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F739f1272-0576-49a3-87a7-8b6a87b42962"
     },
     {
       "title": "Møte i Yrkesopplæringsnemnda 28.05.2026",
@@ -16011,7 +16011,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F346c002b-e5e4-4369-aa2c-81b19c3f28f9"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1e100805-88de-4742-8d63-9d164f84358f"
     },
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 28.05.2026",
@@ -16072,7 +16072,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb2cbc3f8-a7af-4edb-bb2f-865bbccf9b8a"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5e14ec15-c284-4617-9ad1-bddf663a3d5c"
     },
     {
       "title": "Møte i Flerkulturelt utvalg 29.05.2026",
@@ -16139,7 +16139,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F776aa963-6743-4c18-b5ef-b31071a5decf"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F54effe95-4dca-411b-a911-1affa0c8fe65"
     },
     {
       "title": "Møte i Partssammensatt utvalg 29.05.2026",
@@ -16188,7 +16188,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F821d38c3-bc8c-43e7-991b-0bf3f4ecbdf7"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F6908784a-f780-4b55-844f-f2f2b5790021"
     },
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 01.06.2026",
@@ -16273,7 +16273,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe1477f3c-d23d-4f45-ad3b-322a09d0bd3b"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1c8e8e7a-bc77-49d6-aa7e-b444c80461e5"
     },
     {
       "title": "Møte i Samarbeidsutvalget 01.06.2026",
@@ -16310,7 +16310,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F006313fa-a7e0-42f6-970a-5635a5540180"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5dcb4899-b3e8-45e3-a601-cb4acdce48cd"
     },
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 02.06.2026",
@@ -16383,7 +16383,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F20d8173b-7902-487c-9451-25e9258553c9"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc0eff9ee-6788-4687-9877-231183aca8cd"
     },
     {
       "title": "Møte i Hovedutvalg for samferdsel 02.06.2026",
@@ -16486,7 +16486,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F53324dc2-70c1-40d6-9103-dc5f0cd9a592"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5df3fe1e-c559-4a50-8d29-ede8c4858c92"
     },
     {
       "title": "Møte i Hovedutvalg for opplæring 03.06.2026",
@@ -16595,7 +16595,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc4707e0d-f9ad-4072-879d-f26be4192eb5"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F63c280f8-a930-4341-959b-bc312213a8da"
     },
     {
       "title": "Møte i Hovedutvalg for opplæring 04.06.2026",
@@ -16662,7 +16662,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F3bec4789-174f-46d6-94b5-a21b85508d92"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa6f2ed9c-2e42-4188-b411-43e310194b3e"
     },
     {
       "title": "Møte i Fylkesvalgstyret 05.06.2026",
@@ -16687,7 +16687,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb76542ac-5af4-4c8a-922d-d2f80a62347d"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F69e3dbd2-2b5b-458e-b142-f311611b9d72"
     },
     {
       "title": "Møte i Distriktsvalgstyret 05.06.2026",
@@ -16706,7 +16706,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc7375f82-e26d-48af-8dd1-b396a16de52f"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc4a1f7a0-dd96-4ee5-bf0d-610e1de9130a"
     },
     {
       "title": "Møte i Fylkesutvalget 09.06.2026",
@@ -16869,7 +16869,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc9c23272-da6b-4f8d-bca6-1d365a01b74b"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ffca06b54-f667-4f26-a7c2-4cebe0a4fd12"
     },
     {
       "title": "Møte i Partssammensatt utvalg 15.06.2026",
@@ -16924,7 +16924,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F1d3e0e3e-2b0b-44c7-96f5-8442e68c6ea2"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F6e8083ab-e797-4fad-bf43-478192a11493"
     },
     {
       "title": "Møte i Klagenemnd 16.06.2026",
@@ -16991,7 +16991,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd3cb4334-888d-406d-a9a8-3b878dfafbf3"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F53c7199b-3db1-4495-b8b6-b26b5bc005c6"
     },
     {
       "title": "Møte i Oppgavefellesskap ombud for barn og unge 16.06.2026",
@@ -17028,7 +17028,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F03c5e1a6-623d-4da2-8eb2-6a5fffaf19b2"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc5f9b8b6-502b-45fc-bf6f-ab73fb014e4b"
     },
     {
       "title": "Møte i Valgkomiteen 16.06.2026",
@@ -17065,7 +17065,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fa6381a99-95e2-4d33-b0e8-a861a15a64fc"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F7ffa760d-6d9d-4e26-83dc-976bb86c7bec"
     },
     {
       "title": "Møte i Fylkestinget 18.06.2026",
@@ -17228,7 +17228,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F84ffd464-3514-4717-9683-0de68578202b"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F65fbdc62-3945-4833-ada9-eae376e62848"
     },
     {
       "title": "Møte i Klagenemnd 25.08.2026",
@@ -17291,7 +17291,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F5b2ae029-2b5c-4616-9093-957bcd2b3222"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Ffab39a85-acb1-49fe-b62f-29ebc4fef97a"
     },
     {
       "title": "Møte i Ungdommens fylkesråd 31.08.2026",
@@ -17354,7 +17354,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd664f123-581a-4b0b-8cb6-38725f91f797"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fdf65cc04-f1ba-47c5-a950-d40fcb4e5d91"
     },
     {
       "title": "Møte i Fylkesutvalget 01.09.2026",
@@ -17397,7 +17397,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4f9bd768-b872-4959-9e4f-165671df548c"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F8034adb2-f343-4fc1-9de2-5af5c7ba84ff"
     },
     {
       "title": "Møte i Buskerud Eldreråd 01.09.2026",
@@ -17440,7 +17440,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fb8808f26-e18e-4ec1-b0b2-6c15df88fede"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F36be9931-f71c-4486-9e2b-7b4d63266f3a"
     },
     {
       "title": "Møte i Flerkulturelt utvalg 02.09.2026",
@@ -17493,7 +17493,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fdbfea782-025b-46ac-a7cd-fb6ed118f9d7"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F31444121-339c-47be-838c-34e45f69f6a4"
     },
     {
       "title": "Møte i Råd for mennesker med funksjonsnedsettelse 03.09.2026",
@@ -17567,7 +17567,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe4248e68-9b44-4ff7-b34d-92d12343a91f"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0f487c21-07c9-4dc9-bae7-8f8dfa71491b"
     },
     {
       "title": "Møte i Valgkomiteen 10.09.2026",
@@ -17604,7 +17604,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F192c894e-b630-4635-a26a-4c0ecf697c80"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F4a0c0e01-3fe4-43d2-8e33-d1258a027087"
     },
     {
       "title": "Møte i Oppgavefellesskap fylkesbiblioteket 11.09.2026",
@@ -17657,7 +17657,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fd69704a2-93ef-4375-87ce-2384bb218452"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F7c69d0dd-229b-4356-be4e-8133906d6ebd"
     },
     {
       "title": "Møte i Partssammensatt utvalg 11.09.2026",
@@ -17682,7 +17682,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F78444097-6db3-407b-8a6d-021c41d4e0a5"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe03db085-a1aa-4829-98f1-10d57acfc671"
     },
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 14.09.2026",
@@ -17719,7 +17719,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fbf48ab6c-99d0-45a3-a84f-67a5e33b185d"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc825dd46-3021-46af-b13f-1f42b4d3e5a9"
     },
     {
       "title": "Møte i Hovedutvalg for kultur, idrett og folkehelse 15.09.2026",
@@ -17822,7 +17822,7 @@
         }
       ],
       "protocolAvailable": true,
-      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F0fb30948-47d6-465d-b22d-3e0331edf50f"
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F13d21c1f-1abd-415f-8d34-5e7d45f43a12"
     },
     {
       "title": "Møte i Hovedutvalg for næring og innovasjon 16.09.2026",

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "shardType": "meetings",
   "shardKey": "2024-02",
-  "updatedAtUtc": "2026-09-21T09:40:52.8590765+00:00",
+  "updatedAtUtc": "2026-09-21T12:12:59.5664693+00:00",
   "meetingCount": 6,
   "meetings": [
     {
@@ -13,19 +13,20 @@
       "meetingDate": "02/14/2024 08:00:00",
       "meetingDateUtc": "2024-02-14T07:00:00Z",
       "meetingPlace": "Digitalt møte",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/78c0920f-5482-42a6-9645-27ee98fada39",
       "agendaDocumentObjectId": "do_01j76y42p4fbztgqjc99scvv16",
+      "agendaSignature": "1e1019a2bd39540f07a42334a9c2dcb1e912a0788dbb1030f35ce1cf1d927d4b",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/71da1f0a-8b10-4d06-93da-8b2f6fbbb5a0",
           "number": "7/2024",
-          "title": "Anskaffelser i Akershus, Buskerud og Østfold kommunalt oppgavefellesskap - oppnevning til representantskapet 2024-2027"
+          "title": "Anskaffelser i Akershus, Buskerud og Østfold kommunalt oppgavefellesskap - oppnevning til representantskapet 2024-2027",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "1e1019a2bd39540f07a42334a9c2dcb1e912a0788dbb1030f35ce1cf1d927d4b",
-      "protocolAvailable": false,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/78c0920f-5482-42a6-9645-27ee98fada39",
       "protocolDocumentIds": null,
+      "agendaAvailable": true,
+      "protocolAvailable": false,
       "caseDecisions": []
     },
     {
@@ -36,74 +37,86 @@
       "meetingDate": "02/15/2024 08:00:00",
       "meetingDateUtc": "2024-02-15T07:00:00Z",
       "meetingPlace": "Fylkeshuset i Drammen, Hauges gate, Fylkestingssalen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/ce855e61-7db2-4ab5-99a9-596bc55cad5d",
       "agendaDocumentObjectId": "do_01j76y3sx9e1br1ffej6d7znsw",
+      "agendaSignature": "c057b0c17b1b47f936698c5aaad1e08e0ce5d633695cc1360fd779f56235075d",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/076703af-365e-4294-92c1-3580614a0896",
           "number": "1/2024",
-          "title": "Interpellasjon fra Odd Terje Svendsen (AP) og Trine Raknes (AP) om vinterbrøytet vei Imingfjell"
+          "title": "Interpellasjon fra Odd Terje Svendsen (AP) og Trine Raknes (AP) om vinterbrøytet vei Imingfjell",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/8e62660d-ecff-49a5-a349-e132cab86793",
           "number": "1/2024",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/9b151476-731e-4b94-a729-9a8f2a40145a",
           "number": "2/2024",
-          "title": "Prosjektoppsummering 2023 | Etablering av tre nye fylkeskommuner og avvikling av Viken fylkeskommune"
+          "title": "Prosjektoppsummering 2023 | Etablering av tre nye fylkeskommuner og avvikling av Viken fylkeskommune",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/a00dd69a-854a-42a4-9870-b61766ca2d1d",
           "number": "3/2024",
-          "title": "Reservasjon - pensjonsordning for folkevalgte. Endring i godtgjøringsforskrift"
+          "title": "Reservasjon - pensjonsordning for folkevalgte. Endring i godtgjøringsforskrift",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/73c0056c-05af-4908-8d84-70f9fe454255",
           "number": "4/2024",
-          "title": "Pensjonskassen for fylkene Akershus, Buskerud og Østfold - nye vedtekter og valg til foretaksmøte"
+          "title": "Pensjonskassen for fylkene Akershus, Buskerud og Østfold - nye vedtekter og valg til foretaksmøte",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/c609077b-c754-4182-8589-07f63457883e",
           "number": "5/2024",
-          "title": "Høring - forslag om videreføring av midlertidige endringer i lovverket som følge av ankomster fra Ukraina"
+          "title": "Høring - forslag om videreføring av midlertidige endringer i lovverket som følge av ankomster fra Ukraina",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/306e26f8-ab14-47c7-8893-1f5bd1575130",
           "number": "6/2024",
-          "title": "FRID IKS - valg av medlemmer til representantskapet for perioden 2024 - 2027"
+          "title": "FRID IKS - valg av medlemmer til representantskapet for perioden 2024 - 2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/326862af-3014-411a-8b54-a694faf54a00",
           "number": "7/2024",
-          "title": "Oppnevning representanter - årsmøte i Osloregionens Europakontor"
+          "title": "Oppnevning representanter - årsmøte i Osloregionens Europakontor",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/d0fc1a5f-3860-4a22-9153-00ff8946e1c1",
           "number": "8/2024",
-          "title": "Fagskolen i Viken - nytt valg av varamedlemmer til representantskapet 2024 - 2027"
+          "title": "Fagskolen i Viken - nytt valg av varamedlemmer til representantskapet 2024 - 2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/22d99eb4-16c0-4f04-8409-0272b8ef4d19",
           "number": "9/2024",
-          "title": "Valg av representanter til Forum nye Bergensbanen"
+          "title": "Valg av representanter til Forum nye Bergensbanen",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/8547a7a6-ac2d-46d3-848d-4e224c27074c",
           "number": "10/2024",
-          "title": "Valg av rådsmedlemmer til Oslofjordens Friluftsråd"
+          "title": "Valg av rådsmedlemmer til Oslofjordens Friluftsråd",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/3c7ca9fb-225d-4ea8-b119-5b8ff62462da",
           "number": "11/2024",
-          "title": "Anskaffelser i Akershus, Buskerud og Østfold kommunalt oppgavefellesskap - oppnevning til representantskapet 2024-2027"
+          "title": "Anskaffelser i Akershus, Buskerud og Østfold kommunalt oppgavefellesskap - oppnevning til representantskapet 2024-2027",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "c057b0c17b1b47f936698c5aaad1e08e0ce5d633695cc1360fd779f56235075d",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/ce855e61-7db2-4ab5-99a9-596bc55cad5d",
       "protocolDocumentIds": "https://prod02.elementscloud.no/be453d2a-8eef-4178-92a4-8a203170c471",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/c609077b-c754-4182-8589-07f63457883e",
@@ -247,29 +260,32 @@
       "meetingDate": "02/15/2024 16:15:00",
       "meetingDateUtc": "2024-02-15T15:15:00Z",
       "meetingPlace": "Fylkeshuset i Drammen, Gule huset",
-      "agendaAvailable": true,
-      "agendaDocumentIds": null,
       "agendaDocumentObjectId": "",
+      "agendaSignature": "64849e52021c600ff54627c276e68cd13d3e2b20765543c27cfc7be2589946f4",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/421ceb43-4659-49a9-9bc7-b3ff61030c6c",
           "number": "7/2024",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/14918fd5-74a7-41a9-992d-6fd09ec619ee",
           "number": "8/2024",
-          "title": "Høring på forskrift til ny opplæringslov og privatskolelov"
+          "title": "Høring på forskrift til ny opplæringslov og privatskolelov",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/eba2ef04-4e87-4ef0-882d-cc4862753351",
           "number": "9/2024",
-          "title": "Workshop om høring - endringer i fraværsreglene i videregående skole"
+          "title": "Workshop om høring - endringer i fraværsreglene i videregående skole",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "64849e52021c600ff54627c276e68cd13d3e2b20765543c27cfc7be2589946f4",
-      "protocolAvailable": false,
+      "agendaDocumentIds": null,
       "protocolDocumentIds": null,
+      "agendaAvailable": true,
+      "protocolAvailable": false,
       "caseDecisions": []
     },
     {
@@ -280,13 +296,13 @@
       "meetingDate": "02/16/2024 08:00:00",
       "meetingDateUtc": "2024-02-16T07:00:00Z",
       "meetingPlace": "Drammen, Fylkestingssalen",
-      "agendaAvailable": false,
-      "agendaDocumentIds": null,
       "agendaDocumentObjectId": "",
-      "agendaCases": [],
       "agendaSignature": "ddadb0edefa886b86e7548cc30c6f587f59d4cfbaa8e85deaf7e07bb50e24a18",
-      "protocolAvailable": false,
+      "agendaCases": [],
+      "agendaDocumentIds": null,
       "protocolDocumentIds": null,
+      "agendaAvailable": false,
+      "protocolAvailable": false,
       "caseDecisions": []
     },
     {
@@ -297,39 +313,44 @@
       "meetingDate": "02/20/2024 09:00:00",
       "meetingDateUtc": "2024-02-20T08:00:00Z",
       "meetingPlace": "Fylkeshuset, Hauges gate 89, Drammen, Biskopsrud",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/d3bbe7b8-c963-4f77-bd3e-3dcc947e430a",
       "agendaDocumentObjectId": "do_01j76y3s87eytr3enrv1rpg1mf",
+      "agendaSignature": "13560bbec9ad52cace5303386db8c328f8c847a5e1db58403565c38b9b08a894",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/4558cf1c-5b28-43e2-b2e3-4b8719aee9ef",
           "number": "9/2024",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/44032217-9b8f-44fe-a076-405420ad9c27",
           "number": "10/2024",
-          "title": "Orienteringer"
+          "title": "Orienteringer",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/97da080b-4795-4d2d-96eb-ce5fa3c781e8",
           "number": "11/2024",
-          "title": "Flesberg kommune - Trekking av innsigelse til kommuneplanens arealdel 2023 - 2033"
+          "title": "Flesberg kommune - Trekking av innsigelse til kommuneplanens arealdel 2023 - 2033",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/fb258628-301b-4259-bb59-ed8f06b69504",
           "number": "12/2024",
-          "title": "Modum kommune - Innspill til Kommunal planstrategi 2024 - 2027"
+          "title": "Modum kommune - Innspill til Kommunal planstrategi 2024 - 2027",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/6495cc5b-58fc-4285-9344-d43b64ff7318",
           "number": "13/2024",
-          "title": "Gol kommune - Kommuneplan - Kommuneplanens arealdel - Fråsegn til ny høring"
+          "title": "Gol kommune - Kommuneplan - Kommuneplanens arealdel - Fråsegn til ny høring",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "13560bbec9ad52cace5303386db8c328f8c847a5e1db58403565c38b9b08a894",
-      "protocolAvailable": false,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/d3bbe7b8-c963-4f77-bd3e-3dcc947e430a",
       "protocolDocumentIds": null,
+      "agendaAvailable": true,
+      "protocolAvailable": false,
       "caseDecisions": []
     },
     {
@@ -340,49 +361,56 @@
       "meetingDate": "02/22/2024 09:00:00",
       "meetingDateUtc": "2024-02-22T08:00:00Z",
       "meetingPlace": "Fylkeshuset, Haugesgate 89, Drammen",
-      "agendaAvailable": true,
-      "agendaDocumentIds": "https://prod02.elementscloud.no/b5c210da-f3bf-4177-a96c-a4e46d82a05c",
       "agendaDocumentObjectId": "do_01j76y435pf0gtwceg1gf7qegn",
+      "agendaSignature": "735196babf5979468abc9528432fd9fbcfa9ab44452d6f88679e30ade572ec49",
       "agendaCases": [
         {
           "id": "https://prod02.elementscloud.no/f8e833a4-6f52-4cf3-ba6f-2eaf9922626e",
           "number": "11/2024",
-          "title": "Godkjenning av innkalling og protokoll"
+          "title": "Godkjenning av innkalling og protokoll",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/ca5a1e44-e87b-4f11-b9ee-e4dff47f7a34",
           "number": "12/2024",
-          "title": "Leveranseavtale med Brakar"
+          "title": "Leveranseavtale med Brakar",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/039122e2-5c78-445d-91f6-f8d49f3efe64",
           "number": "13/2024",
-          "title": "Tilskudd til generelt vedlikehold på fylkesveg for 2024"
+          "title": "Tilskudd til generelt vedlikehold på fylkesveg for 2024",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/72c2c92e-eafe-43bc-9b57-6dedee4d2b31",
           "number": "14/2024",
-          "title": "Søknad om aktivitets- og driftsmidler til Trygg Trafikk Buskerud i 2024"
+          "title": "Søknad om aktivitets- og driftsmidler til Trygg Trafikk Buskerud i 2024",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/ac4cae1e-ff3b-4a78-ba8b-2b6d2df27745",
           "number": "15/2024",
-          "title": "Nominasjon av kandidat til Samferdselsdepartementets trafikksikkerhetspris 2024"
+          "title": "Nominasjon av kandidat til Samferdselsdepartementets trafikksikkerhetspris 2024",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/f0185417-98db-418c-9392-0044db5434b8",
           "number": "16/2024",
-          "title": "Søknad om støtte til flybuss - Rolf Lie - Askeladden reiser og transport"
+          "title": "Søknad om støtte til flybuss - Rolf Lie - Askeladden reiser og transport",
+          "recommendation": null
         },
         {
           "id": "https://prod02.elementscloud.no/f5bbca79-f05c-4063-9fa7-dd1f3e986ae8",
           "number": "17/2024",
-          "title": "Nasjonal transportplan 2025-2036. Prioriteringer i Buskerud"
+          "title": "Nasjonal transportplan 2025-2036. Prioriteringer i Buskerud",
+          "recommendation": null
         }
       ],
-      "agendaSignature": "735196babf5979468abc9528432fd9fbcfa9ab44452d6f88679e30ade572ec49",
-      "protocolAvailable": true,
+      "agendaDocumentIds": "https://prod02.elementscloud.no/b5c210da-f3bf-4177-a96c-a4e46d82a05c",
       "protocolDocumentIds": "https://prod02.elementscloud.no/1b8c7e3a-3789-492c-9bb2-e9700dae4c37",
+      "agendaAvailable": true,
+      "protocolAvailable": true,
       "caseDecisions": [
         {
           "caseId": "https://prod02.elementscloud.no/f5bbca79-f05c-4063-9fa7-dd1f3e986ae8",

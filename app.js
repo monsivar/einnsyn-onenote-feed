@@ -7,6 +7,7 @@ const DATA_URL = ['localhost', '127.0.0.1'].includes(window.location.hostname)
   ? '/einnsyn-meetings-catalog.json'
   : './meetings.json';
 const FEED_URL = './feedV2.xml';
+const KOMMUNE_TV_URL = './einnsyn-kommune-tv.json';
 
 const state = { meetings: [], representatives: [], view: 'upcoming', filters: { search: '', committee: '', agenda: 'all', range: 'all', representative: '', roles: [] } };
 const els = {};
@@ -64,9 +65,9 @@ function bindControls() {
 
 async function loadData() {
   try {
-    const [rawMeetings, feedResponse] = await Promise.all([loadMeetings(), fetch(FEED_URL, { cache: 'no-store' })]);
+    const [rawMeetings, feedResponse, kommuneTvByMeeting] = await Promise.all([loadMeetings(), fetch(FEED_URL, { cache: 'no-store' }), loadKommuneTv()]);
     const feedText = feedResponse.ok ? await feedResponse.text() : '';
-    state.meetings = normalizeMeetings(rawMeetings, parseFeed(feedText));
+    state.meetings = normalizeMeetings(rawMeetings, parseFeed(feedText), kommuneTvByMeeting);
     populateCommittees();
     populateRepresentatives();
     els.loading.hidden = true;
@@ -119,7 +120,7 @@ async function loadMeetings() {
   }
 }
 
-function normalizeMeetings(rawMeetings, feedByMeeting) {
+function normalizeMeetings(rawMeetings, feedByMeeting, kommuneTvByMeeting) {
   const now = new Date();
   return rawMeetings.map(raw => {
     const meetingId = raw.meetingId || raw.id || decodeMeetingId(raw.meetingUrl) || '';
@@ -140,8 +141,28 @@ function normalizeMeetings(rawMeetings, feedByMeeting) {
     const meetingUrl = safeUrl(raw.meetingUrl) || publicMeetingUrl(meetingId) || safeUrl(feed.meetingUrl);
     const agendaUrl = safeUrl(raw.agendaUrl) || safeUrl(feed.agendaUrl) || agendaDocumentUrl(raw.agendaDocumentObjectId);
     const protocolUrl = safeUrl(feed.protocolUrl) || safeUrl(raw.protocolUrl) || protocolDocumentUrl(raw.protocolDocumentIds);
-    return { id: meetingId, title: raw.title || feed.title || 'Møte', committee: raw.committee || feed.committee || 'Politisk organ', date, place: raw.meetingPlace || feed.place || '', agendaAvailable: Boolean(raw.agendaAvailable || cases.length || feed.agendaAvailable), agendaUrl, meetingUrl, cases, attendance: normalizeAttendance(raw.attendance || raw.attendanceMetadata), metadataStatus: raw.metadataStatus || 'not_present', protocolAvailable: Boolean(protocolUrl), protocolUrl, past: date < now };
+    const kommuneTv = kommuneTvByMeeting.get(meetingId) || kommuneTvByMeeting.get(`${dateKey(date)}|${raw.committee || feed.committee || ''}`) || {};
+    const enrichedCases = cases.map(item => ({ ...item, kommuneTvUrl: findKommuneTvCaseUrl(item, kommuneTv.cases) }));
+    return { id: meetingId, title: raw.title || feed.title || 'Møte', committee: raw.committee || feed.committee || 'Politisk organ', date, place: raw.meetingPlace || feed.place || '', agendaAvailable: Boolean(raw.agendaAvailable || enrichedCases.length || feed.agendaAvailable), agendaUrl, meetingUrl, kommuneTvUrl: safeUrl(kommuneTv.meetingUrl), cases: enrichedCases, attendance: normalizeAttendance(raw.attendance || raw.attendanceMetadata), metadataStatus: raw.metadataStatus || 'not_present', protocolAvailable: Boolean(protocolUrl), protocolUrl, past: date < now };
   }).filter(meeting => meeting.id && !Number.isNaN(meeting.date.getTime())).sort((a, b) => a.date - b.date);
+}
+
+function dateKey(date) {
+  if (!(date instanceof Date) || Number.isNaN(date.getTime())) return '';
+  return date.toISOString().slice(0, 10);
+}
+
+function findKommuneTvCaseUrl(item, kommuneTvCases) {
+  if (!Array.isArray(kommuneTvCases)) return '';
+  const caseId = String(item.id || item.caseId || '');
+  const number = normalizeCaseNumber(item.number || item.caseNumber);
+  const match = kommuneTvCases.find(candidate => String(candidate.einnsynCaseId || '') === caseId)
+    || kommuneTvCases.find(candidate => normalizeCaseNumber(candidate.number) === number);
+  return safeUrl(match?.videoUrl) || safeUrl(match?.caseUrl);
+}
+
+function normalizeCaseNumber(value) {
+  return String(value || '').replace(/^\s*PS\s*/i, '').replace(/\s+/g, '').toLocaleLowerCase('nb-NO');
 }
 
 function parseFeed(xmlText) {
@@ -269,12 +290,13 @@ function renderMeeting(meeting) {
   const year = date.find(part => part.type === 'year')?.value || '';
   const time = new Intl.DateTimeFormat('nb-NO', { hour: '2-digit', minute: '2-digit' }).format(meeting.date);
   const status = meeting.agendaAvailable ? '<span class="pill ready">● Agenda klar</span>' : '<span class="pill pending">● Agenda kommer</span>';
+  const kommuneTv = meeting.kommuneTvUrl ? `<a class="meeting-tv-link" href="${attrUrl(meeting.kommuneTvUrl)}" target="_blank" rel="noreferrer">${icon('tv')}<span>Kommune-TV</span></a>` : '';
   const actions = [meeting.meetingUrl ? `<a class="action primary" href="${attrUrl(meeting.meetingUrl)}" target="_blank" rel="noreferrer">Åpne møtet i EInnsyn ↗</a>` : '', meeting.agendaUrl ? `<a class="action" href="${attrUrl(meeting.agendaUrl)}" target="_blank" rel="noreferrer">Åpne Agenda (PDF) ↗</a>` : '', meeting.protocolUrl ? `<a class="action" href="${attrUrl(meeting.protocolUrl)}" target="_blank" rel="noreferrer">Åpne Protokoll (PDF) ↗</a>` : ''].join('');
   const visibleCases = getMeetingCases(meeting);
   const caseCount = hasAdvancedFilter() ? `${visibleCases.length} treffende ${visibleCases.length === 1 ? 'sak' : 'saker'} av ${meeting.cases.length}` : `${visibleCases.length} ${visibleCases.length === 1 ? 'sak' : 'saker'} i sakskartet`;
   const cases = visibleCases.length ? `<details class="agenda-details" ${hasAdvancedFilter() || (state.view === 'upcoming' && meeting.agendaAvailable) ? 'open' : ''}><summary>${caseCount}</summary><ul class="case-list">${visibleCases.map(renderCase).join('')}</ul></details>` : '';
   const metadata = renderMeetingMetadata(meeting);
-  return `<article class="meeting-card"><div class="meeting-top"><div class="date-badge"><span class="day">${escapeHtml(day)}</span><span class="month">${escapeHtml(month)}</span><span class="year">${escapeHtml(year)}</span></div><div class="meeting-summary"><div class="card-topline"><span class="committee">${escapeHtml(meeting.committee)}</span>${status}</div><h3>${escapeHtml(cleanTitle(meeting.title))}</h3><div class="meta-row"><span class="meta-item">${icon('clock')} ${escapeHtml(time)}</span>${meeting.place ? `<span class="meta-item">${icon('pin')} ${escapeHtml(meeting.place)}</span>` : '<span class="meta-item">Sted ikke publisert ennå</span>'}</div><div class="card-actions">${actions}</div></div></div>${cases}${metadata}</article>`;
+  return `<article class="meeting-card"><div class="meeting-top"><div class="date-badge"><span class="day">${escapeHtml(day)}</span><span class="month">${escapeHtml(month)}</span><span class="year">${escapeHtml(year)}</span></div><div class="meeting-summary"><div class="card-topline"><span class="committee">${escapeHtml(meeting.committee)}</span>${status}${kommuneTv}</div><h3>${escapeHtml(cleanTitle(meeting.title))}</h3><div class="meta-row"><span class="meta-item">${icon('clock')} ${escapeHtml(time)}</span>${meeting.place ? `<span class="meta-item">${icon('pin')} ${escapeHtml(meeting.place)}</span>` : '<span class="meta-item">Sted ikke publisert ennå</span>'}</div><div class="card-actions">${actions}</div></div></div>${cases}${metadata}</article>`;
 }
 
 function renderMeetingMetadata(meeting) {
@@ -328,16 +350,21 @@ function renderCase(item) {
   const decision = item.decisionUrl ? `<a class="action case-action" href="${attrUrl(item.decisionUrl)}" target="_blank" rel="noreferrer">Åpne vedtak ↗</a>` : '';
   const attachments = documents.length ? `<details class="case-option"><summary>Vis vedlegg til saken (${documents.length})</summary><ul class="attachment-list">${documents.map((document, index) => document.url ? `<li><a href="${attrUrl(document.url)}" target="_blank" rel="noreferrer">${escapeHtml(document.title || `Vedlegg ${index + 1}`)} ↗</a></li>` : `<li>${escapeHtml(document.title || `Vedlegg ${index + 1}`)} <span class="attachment-unavailable">Ikke tilgjengelig</span></li>`).join('')}</ul></details>` : '';
   const actions = [caseLink, decision].filter(Boolean).join('');
-  const metadata = renderCaseMetadata(item.metadata);
+  const metadata = renderCaseMetadata(item.metadata, item.kommuneTvUrl);
   return `<li class="case-item"><details class="case-details"><summary><span class="case-heading"><span class="case-number">${escapeHtml(item.number || 'Sak')}</span><span>${escapeHtml(title)}</span></span></summary><div class="case-content">${actions ? `<div class="case-actions">${actions}</div>` : ''}${recommendation}${attachments}${metadata}</div></details></li>`;
 }
 
-function renderCaseMetadata(metadata) {
-  if (!metadata) return '';
+function renderCaseMetadata(metadata, kommuneTvUrl) {
+  if (!metadata) return kommuneTvUrl ? `<div class="case-video-only">${renderKommuneTvAction(kommuneTvUrl)}</div>` : '';
   const speakers = Array.isArray(metadata.speakers) && metadata.speakers.length ? `<div class="metadata-block"><span class="metadata-label">Hvem hadde ordet</span><ul class="person-list">${metadata.speakers.map(person => `<li><strong>${escapeHtml(person.name)}</strong>${person.party ? ` <span>(${escapeHtml(person.party)})</span>` : ''}</li>`).join('')}</ul></div>` : `<div class="metadata-empty">Ingen talerliste registrert.</div>`;
   const proposals = Array.isArray(metadata.proposals) && metadata.proposals.length ? `<div class="metadata-block"><span class="metadata-label">Forslag fremmet</span><ul class="proposal-list">${metadata.proposals.map(proposal => `<li><strong>${escapeHtml(proposal.proposerName)}</strong>${proposal.proposerParty ? ` (${escapeHtml(proposal.proposerParty)})` : ''}${proposal.onBehalfOf ? ` <span>på vegne av ${escapeHtml(proposal.onBehalfOf)}</span>` : ''}</li>`).join('')}</ul></div>` : '';
   const status = `<span class="metadata-status ${metadataStatusClass(metadata.status)}">${escapeHtml(metadataStatusLabel(metadata.status))}</span>`;
-  return `<div class="case-metadata"><div class="metadata-heading"><strong>Saksmetadata</strong>${status}</div>${speakers}${proposals}${metadata.error ? `<p class="metadata-error">Feil: ${escapeHtml(metadata.error)}</p>` : ''}</div>`;
+  const kommuneTvAction = kommuneTvUrl ? renderKommuneTvAction(kommuneTvUrl) : '';
+  return `<div class="case-metadata"><div class="metadata-heading"><strong>Saksmetadata</strong>${status}</div>${speakers}${kommuneTvAction}${proposals}${metadata.error ? `<p class="metadata-error">Feil: ${escapeHtml(metadata.error)}</p>` : ''}</div>`;
+}
+
+function renderKommuneTvAction(url) {
+  return `<div class="case-video-action"><a class="action kommune-tv-action" href="${attrUrl(url)}" target="_blank" rel="noreferrer">${icon('tv')}Se behandlingen i Kommune-TV ↗</a></div>`;
 }
 
 function metadataStatusClass(status) { return status === 'complete' ? 'complete' : status === 'partial' ? 'partial' : status === 'failed' ? 'failed' : 'unknown'; }
@@ -383,16 +410,39 @@ function protocolDocumentUrl(value) {
   if (typeof id === 'string' && /^do_[a-z0-9]+$/i.test(id)) return `https://api.einnsyn.no/dokumentobjekt/${encodeURIComponent(id)}/download`;
   return safeUrl(id) ? `https://einnsyn.no/api/v2/fil?iri=${encodeURIComponent(id)}` : '';
 }
+
+async function loadKommuneTv() {
+  try {
+    const response = await fetch(KOMMUNE_TV_URL, { cache: 'no-store' });
+    if (!response.ok) return new Map();
+    const payload = await response.json();
+    if (Number(payload.schemaVersion) !== 1 || payload.dataType !== 'kommune-tv-links' || !Array.isArray(payload.meetings)) return new Map();
+    const entries = new Map();
+    payload.meetings.forEach(item => {
+      const meetingId = String(item.einnsynMeetingId || '');
+      const dateCommittee = `${item.meetingDate || ''}|${item.committee || ''}`;
+      if (meetingId) entries.set(meetingId, item);
+      if (item.meetingDate && item.committee) entries.set(dateCommittee, item);
+    });
+    return entries;
+  } catch {
+    return new Map();
+  }
+}
 function documentUrl(id) { return id && !String(id).startsWith('db_') && !String(id).startsWith('do_') ? safeUrl(id) : ''; }
 function safeUrl(value) { return typeof value === 'string' && /^https:\/\//i.test(value) ? value : ''; }
 function attrUrl(value) { return escapeHtml(safeUrl(value)); }
 function decodeMeetingId(value) { try { return new URL(value).searchParams.get('id') || ''; } catch { return ''; } }
 function escapeHtml(value) { return String(value ?? '').replace(/[&<>"']/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[char])); }
-function icon(type) { return type === 'pin' ? '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M12 21s7-6.1 7-12a7 7 0 1 0-14 0c0 5.9 7 12 7 12Z"/><circle cx="12" cy="9" r="2.3"/></svg>' : '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="12" cy="12" r="8.5"/><path d="M12 7v5l3.2 2"/></svg>'; }
+function icon(type) {
+  if (type === 'pin') return '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M12 21s7-6.1 7-12a7 7 0 1 0-14 0c0 5.9 7 12 7 12Z"/><circle cx="12" cy="9" r="2.3"/></svg>';
+  if (type === 'tv') return '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><rect x="3.5" y="5.5" width="17" height="12" rx="2"/><path d="m8 3 4 2.5L16 3M8.5 21h7"/></svg>';
+  return '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="12" cy="12" r="8.5"/><path d="M12 7v5l3.2 2"/></svg>';
+}
 
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', () => {
-    navigator.serviceWorker.register('./sw.js?v=1.0.11').catch(() => {
+    navigator.serviceWorker.register('./sw.js?v=1.1.0').catch(() => {
       // The app remains fully usable in Safari private browsing and older browsers.
     });
   });

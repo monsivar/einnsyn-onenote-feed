@@ -5,6 +5,13 @@
     <link>https://einnsyn.no/</link>
     <description>Agenda payloads for OneNote import</description>
     <item>
+      <title>Møte i Hovedutvalg for næring og innovasjon 17.09.2026</title>
+      <link>https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe90a5504-03e7-4d68-b804-d5df81253431</link>
+      <guid isPermaLink="false">einnsyn-onenote-v2:7d8db8b9cc28f95c3373d16292e54ee552d6fd1cc8eadd7e7be3077e21dec241</guid>
+      <pubDate>Tue, 22 Sep 2026 11:56:12 GMT</pubDate>
+      <description><![CDATA[{"schemaVersion":2,"eventType":"MEETING_PROTOCOL_AVAILABLE_V2","performWrite":true,"meeting":{"id":"https://prod02.elementscloud.no/e90a5504-03e7-4d68-b804-d5df81253431","title":"Møte i Hovedutvalg for næring og innovasjon 17.09.2026","committee":"Hovedutvalg for næring og innovasjon","date":"2026-09-17","place":"Gol kommunehus, Gamlevegen 4, Gol","meetingUrl":"https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fe90a5504-03e7-4d68-b804-d5df81253431","agendaUrl":"https://api.einnsyn.no/dokumentobjekt/do_01m1y2mfhfehtsv0essmpd17yk/download"},"protocol":{"documentId":"https://prod02.elementscloud.no/809f1132-b992-4e92-8939-35148a6baa0a","url":"https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F809f1132-b992-4e92-8939-35148a6baa0a"}}]]></description>
+    </item>
+    <item>
       <title>Møte i Hovedutvalg for samferdsel 17.09.2026</title>
       <link>https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Fbb3511e8-3552-4146-a406-0b3b687db62e</link>
       <guid isPermaLink="false">einnsyn-onenote-v2:ef651fbfca842ea4cad377bbbafcf6ebddc1ad46f29e57aac6ff831760d3cacd</guid>

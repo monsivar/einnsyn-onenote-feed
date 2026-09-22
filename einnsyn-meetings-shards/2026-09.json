@@ -694,7 +694,7 @@
       "attendance": null,
       "metadataStatus": "not_present",
       "protocolAvailable": false,
-      "protocolUrl": ""
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F809f1132-b992-4e92-8939-35148a6baa0a"
     },
     {
       "title": "Møte i Hovedutvalg for samferdsel 18.09.2026",

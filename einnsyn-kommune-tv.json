@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "dataType": "kommune-tv-links",
   "source": "https://buskerud.kommunetv.no",
-  "updatedAtUtc": "2026-09-22T00:54:05.5140036+00:00",
-  "meetingCount": 43,
+  "updatedAtUtc": "2026-09-22T13:28:50.1932720+00:00",
+  "meetingCount": 44,
   "meetings": [
     {
       "einnsynMeetingId": "https://prod02.elementscloud.no/42a79600-ca69-4357-b983-60d3d952b06e",
@@ -10977,6 +10977,340 @@
               "url": "https://buskerud.kommunetv.no/archive/1012?caseId=16221",
               "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1012_7.smil/playlist.m3u8?wowzaplaystart=21626000&wowzaplayduration=14000",
               "durationSeconds": 14.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "einnsynMeetingId": "https://prod02.elementscloud.no/9d8919ba-1505-4277-bb15-21c8e5b1ef09",
+      "meetingDate": "2026-09-22",
+      "committee": "Fylkesutvalget",
+      "archiveId": 1013,
+      "kommuneTvTitle": "Fylkesutvalget 22 september 2026",
+      "meetingUrl": "https://buskerud.kommunetv.no/archive/1013",
+      "matchMethod": "committee-date",
+      "cases": [
+        {
+          "einnsynCaseId": "https://prod02.elementscloud.no/5e13adec-2824-423e-ae60-04964f250828",
+          "number": "78/2026",
+          "title": "Godkjenning av innkalling og protokoll",
+          "kommuneTvBookmarkId": 16279,
+          "caseUrl": "https://buskerud.kommunetv.no/archive/1013?caseId=16279",
+          "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=974000&wowzaplayduration=1297000",
+          "matchMethod": "case-number-title",
+          "segmentCount": 1,
+          "segments": [
+            {
+              "bookmarkId": 16279,
+              "title": "Godkjenning av innkalling og protokoll",
+              "url": "https://buskerud.kommunetv.no/archive/1013?caseId=16279",
+              "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=974000&wowzaplayduration=1297000",
+              "durationSeconds": 1297.0
+            }
+          ]
+        },
+        {
+          "einnsynCaseId": "https://prod02.elementscloud.no/66e0a31a-59fc-4b99-9433-a2e8df3f8c16",
+          "number": "79/2026",
+          "title": "Orienteringer",
+          "kommuneTvBookmarkId": 16278,
+          "caseUrl": "https://buskerud.kommunetv.no/archive/1013?caseId=16278",
+          "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=2271000&wowzaplayduration=5230000",
+          "matchMethod": "case-number-title",
+          "segmentCount": 1,
+          "segments": [
+            {
+              "bookmarkId": 16278,
+              "title": "Orienteringer",
+              "url": "https://buskerud.kommunetv.no/archive/1013?caseId=16278",
+              "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=2271000&wowzaplayduration=5230000",
+              "durationSeconds": 5230.0
+            }
+          ]
+        },
+        {
+          "einnsynCaseId": "https://prod02.elementscloud.no/fd7b32f5-8200-43ed-b891-e01b94e4ca8e",
+          "number": "80/2026",
+          "title": "Eierskapsrapport 2026",
+          "kommuneTvBookmarkId": 16282,
+          "caseUrl": "https://buskerud.kommunetv.no/archive/1013?caseId=16282",
+          "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=7501000&wowzaplayduration=17000",
+          "matchMethod": "case-number-title",
+          "segmentCount": 1,
+          "segments": [
+            {
+              "bookmarkId": 16282,
+              "title": "Eierskapsrapport 2026",
+              "url": "https://buskerud.kommunetv.no/archive/1013?caseId=16282",
+              "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=7501000&wowzaplayduration=17000",
+              "durationSeconds": 17.0
+            }
+          ]
+        },
+        {
+          "einnsynCaseId": "https://prod02.elementscloud.no/27fe822c-e5ed-4053-bf2e-4251a9a069a1",
+          "number": "81/2026",
+          "title": "Økt valgdeltakelse ved valget i 2027",
+          "kommuneTvBookmarkId": 16275,
+          "caseUrl": "https://buskerud.kommunetv.no/archive/1013?caseId=16275",
+          "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=7518000&wowzaplayduration=462000",
+          "matchMethod": "case-number-title",
+          "segmentCount": 1,
+          "segments": [
+            {
+              "bookmarkId": 16275,
+              "title": "Økt valgdeltakelse ved valget i 2027",
+              "url": "https://buskerud.kommunetv.no/archive/1013?caseId=16275",
+              "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=7518000&wowzaplayduration=462000",
+              "durationSeconds": 462.0
+            }
+          ]
+        },
+        {
+          "einnsynCaseId": "https://prod02.elementscloud.no/cad74c21-0afc-487b-ac6d-4453c507ef67",
+          "number": "82/2026",
+          "title": "Valgløftet 2027 – felles forpliktelse for et sterkt lokaldemokrati",
+          "kommuneTvBookmarkId": 16286,
+          "caseUrl": "https://buskerud.kommunetv.no/archive/1013?caseId=16286",
+          "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=7980000&wowzaplayduration=22000",
+          "matchMethod": "case-number-title",
+          "segmentCount": 1,
+          "segments": [
+            {
+              "bookmarkId": 16286,
+              "title": "Valgløftet 2027 – felles forpliktelse for et sterkt lokaldemokrati",
+              "url": "https://buskerud.kommunetv.no/archive/1013?caseId=16286",
+              "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=7980000&wowzaplayduration=22000",
+              "durationSeconds": 22.0
+            }
+          ]
+        },
+        {
+          "einnsynCaseId": "https://prod02.elementscloud.no/443cda07-e057-488f-b4f7-47b1aad697c0",
+          "number": "83/2026",
+          "title": "På vei mot et sterkere interessepolitisk samarbeid i Buskerud",
+          "kommuneTvBookmarkId": 16284,
+          "caseUrl": "https://buskerud.kommunetv.no/archive/1013?caseId=16284",
+          "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=8002000&wowzaplayduration=515000",
+          "matchMethod": "case-number-title",
+          "segmentCount": 1,
+          "segments": [
+            {
+              "bookmarkId": 16284,
+              "title": "På vei mot et sterkere interessepolitisk samarbeid i Buskerud",
+              "url": "https://buskerud.kommunetv.no/archive/1013?caseId=16284",
+              "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=8002000&wowzaplayduration=515000",
+              "durationSeconds": 515.0
+            }
+          ]
+        },
+        {
+          "einnsynCaseId": "https://prod02.elementscloud.no/629ed510-27db-4445-b240-b091941567b0",
+          "number": "84/2026",
+          "title": "Skjermingstiltak for beboere og lokaltrafikk på Sollihøgda i bompengeprosjektet E16 Bjørum - Skaret",
+          "kommuneTvBookmarkId": 16285,
+          "caseUrl": "https://buskerud.kommunetv.no/archive/1013?caseId=16285",
+          "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=10476000&wowzaplayduration=644000",
+          "matchMethod": "case-number-title",
+          "segmentCount": 1,
+          "segments": [
+            {
+              "bookmarkId": 16285,
+              "title": "Skjermingstiltak for beboere og lokaltrafikk på Sollihøgda i bompengeprosjektet E16 Bjørum - Skaret",
+              "url": "https://buskerud.kommunetv.no/archive/1013?caseId=16285",
+              "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=10476000&wowzaplayduration=644000",
+              "durationSeconds": 644.0
+            }
+          ]
+        },
+        {
+          "einnsynCaseId": "https://prod02.elementscloud.no/9a9c6687-0b01-4868-aeda-68b6c3bf39dc",
+          "number": "85/2026",
+          "title": "Krødsherad kommune - Gbnr. 219/3/1 - Folkets hus - Uttalelse til fredningssak",
+          "kommuneTvBookmarkId": 16280,
+          "caseUrl": "https://buskerud.kommunetv.no/archive/1013?caseId=16280",
+          "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=11120000&wowzaplayduration=192000",
+          "matchMethod": "case-number-title",
+          "segmentCount": 1,
+          "segments": [
+            {
+              "bookmarkId": 16280,
+              "title": "Krødsherad kommune - Gbnr. 219/3/1 - Folkets hus - Uttalelse til fredningssak",
+              "url": "https://buskerud.kommunetv.no/archive/1013?caseId=16280",
+              "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=11120000&wowzaplayduration=192000",
+              "durationSeconds": 192.0
+            }
+          ]
+        },
+        {
+          "einnsynCaseId": "https://prod02.elementscloud.no/07ca1ad5-55de-4b9b-b452-f808e45cd647",
+          "number": "86/2026",
+          "title": "Forslag til nytt handlingsprogram, Regional plan for Nordfjella med Raudafjell (2026-2029)",
+          "kommuneTvBookmarkId": 16289,
+          "caseUrl": "https://buskerud.kommunetv.no/archive/1013?caseId=16289",
+          "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=11312000&wowzaplayduration=23000",
+          "matchMethod": "case-number-title",
+          "segmentCount": 1,
+          "segments": [
+            {
+              "bookmarkId": 16289,
+              "title": "Forslag til nytt handlingsprogram, Regional plan for Nordfjella med Raudafjell (2026-2029)",
+              "url": "https://buskerud.kommunetv.no/archive/1013?caseId=16289",
+              "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=11312000&wowzaplayduration=23000",
+              "durationSeconds": 23.0
+            }
+          ]
+        },
+        {
+          "einnsynCaseId": "https://prod02.elementscloud.no/b8350964-fb5b-4dfd-8ecb-129be9d0ca0e",
+          "number": "87/2026",
+          "title": "UngData 2025 medvirkningsrapport- Ungdom i hjerte av Buskerud",
+          "kommuneTvBookmarkId": 16276,
+          "caseUrl": "https://buskerud.kommunetv.no/archive/1013?caseId=16276",
+          "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=11335000&wowzaplayduration=19000",
+          "matchMethod": "case-number-title",
+          "segmentCount": 1,
+          "segments": [
+            {
+              "bookmarkId": 16276,
+              "title": "UngData 2025 medvirkningsrapport- Ungdom i hjerte av Buskerud",
+              "url": "https://buskerud.kommunetv.no/archive/1013?caseId=16276",
+              "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=11335000&wowzaplayduration=19000",
+              "durationSeconds": 19.0
+            }
+          ]
+        },
+        {
+          "einnsynCaseId": "https://prod02.elementscloud.no/8309526f-537e-4f51-9b90-38b3cf379361",
+          "number": "88/2026",
+          "title": "Høringssvar - NOU 2026:6 Den nye velferdskommunen",
+          "kommuneTvBookmarkId": 16281,
+          "caseUrl": "https://buskerud.kommunetv.no/archive/1013?caseId=16281",
+          "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=11354000&wowzaplayduration=28000",
+          "matchMethod": "case-number-title",
+          "segmentCount": 1,
+          "segments": [
+            {
+              "bookmarkId": 16281,
+              "title": "Høringssvar - NOU 2026:6 Den nye velferdskommunen",
+              "url": "https://buskerud.kommunetv.no/archive/1013?caseId=16281",
+              "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=11354000&wowzaplayduration=28000",
+              "durationSeconds": 28.0
+            }
+          ]
+        },
+        {
+          "einnsynCaseId": "https://prod02.elementscloud.no/47faade5-c21c-46b2-af45-5f5a17f8a4d2",
+          "number": "89/2026",
+          "title": "Høring - Endringer i reglene om interkommunalt samarbeid etter kommuneloven",
+          "kommuneTvBookmarkId": 16287,
+          "caseUrl": "https://buskerud.kommunetv.no/archive/1013?caseId=16287",
+          "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=11383000&wowzaplayduration=102000",
+          "matchMethod": "case-number-title",
+          "segmentCount": 1,
+          "segments": [
+            {
+              "bookmarkId": 16287,
+              "title": "Høring - Endringer i reglene om interkommunalt samarbeid etter kommuneloven",
+              "url": "https://buskerud.kommunetv.no/archive/1013?caseId=16287",
+              "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=11383000&wowzaplayduration=102000",
+              "durationSeconds": 102.0
+            }
+          ]
+        },
+        {
+          "einnsynCaseId": "https://prod02.elementscloud.no/90ed0ba2-058c-4a95-b65e-d1a40955fc3b",
+          "number": "90/2026",
+          "title": "Høringsuttalelse fra Buskerud fylkeskommune. Strategi for kompetanse- og studentbyen Drammen 2026–2035",
+          "kommuneTvBookmarkId": 16277,
+          "caseUrl": "https://buskerud.kommunetv.no/archive/1013?caseId=16277",
+          "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=11485000&wowzaplayduration=166000",
+          "matchMethod": "case-number-title",
+          "segmentCount": 1,
+          "segments": [
+            {
+              "bookmarkId": 16277,
+              "title": "Høringsuttalelse fra Buskerud fylkeskommune. Strategi for kompetanse- og studentbyen Drammen 2026–2035",
+              "url": "https://buskerud.kommunetv.no/archive/1013?caseId=16277",
+              "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=11485000&wowzaplayduration=166000",
+              "durationSeconds": 166.0
+            }
+          ]
+        },
+        {
+          "einnsynCaseId": "https://prod02.elementscloud.no/19fa86c0-35af-4393-bc8d-e09e360ec125",
+          "number": "91/2026",
+          "title": "Høringssvar fra Buskerud Fylkeskommune - strategiutkast for USN 2027-2035",
+          "kommuneTvBookmarkId": 16274,
+          "caseUrl": "https://buskerud.kommunetv.no/archive/1013?caseId=16274",
+          "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=11623000&wowzaplayduration=16000",
+          "matchMethod": "case-number-title",
+          "segmentCount": 1,
+          "segments": [
+            {
+              "bookmarkId": 16274,
+              "title": "Høringssvar fra Buskerud Fylkeskommune - strategiutkast for USN 2027-2035",
+              "url": "https://buskerud.kommunetv.no/archive/1013?caseId=16274",
+              "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=11623000&wowzaplayduration=16000",
+              "durationSeconds": 16.0
+            }
+          ]
+        },
+        {
+          "einnsynCaseId": "https://prod02.elementscloud.no/215e8833-d9ab-42af-a568-cf03f28286e1",
+          "number": "92/2026",
+          "title": "Høringsinnspill - Forslag til ny Oslofjordplan",
+          "kommuneTvBookmarkId": 16273,
+          "caseUrl": "https://buskerud.kommunetv.no/archive/1013?caseId=16273",
+          "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=11591000&wowzaplayduration=711000",
+          "matchMethod": "case-number-title",
+          "segmentCount": 1,
+          "segments": [
+            {
+              "bookmarkId": 16273,
+              "title": "Høringsinnspill - Forslag til ny Oslofjordplan",
+              "url": "https://buskerud.kommunetv.no/archive/1013?caseId=16273",
+              "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=11591000&wowzaplayduration=711000",
+              "durationSeconds": 711.0
+            }
+          ]
+        },
+        {
+          "einnsynCaseId": "https://prod02.elementscloud.no/b91c6e73-b185-4f63-b6b8-0207a8d199f4",
+          "number": "93/2026",
+          "title": "Nytt valgoppgjør til fylkestinget og suppleringsvalg til fylkeskommunale utvalg, råd og styrer etter Johan Baumanns (H) bortgang",
+          "kommuneTvBookmarkId": 16288,
+          "caseUrl": "https://buskerud.kommunetv.no/archive/1013?caseId=16288",
+          "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=12302000&wowzaplayduration=24000",
+          "matchMethod": "case-number-title",
+          "segmentCount": 1,
+          "segments": [
+            {
+              "bookmarkId": 16288,
+              "title": "Nytt valgoppgjør til fylkestinget og suppleringsvalg til fylkeskommunale utvalg, råd og styrer etter Johan Baumanns (H) bortgang",
+              "url": "https://buskerud.kommunetv.no/archive/1013?caseId=16288",
+              "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=12302000&wowzaplayduration=24000",
+              "durationSeconds": 24.0
+            }
+          ]
+        },
+        {
+          "einnsynCaseId": "https://prod02.elementscloud.no/5b06d377-5884-4007-9b11-d82c3ef93c64",
+          "number": "94/2026",
+          "title": "Støtte til NRK TV-aksjonen 2026 - Gi et trygt sted å sove - Flyktninghjelpen",
+          "kommuneTvBookmarkId": 16283,
+          "caseUrl": "https://buskerud.kommunetv.no/archive/1013?caseId=16283",
+          "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=12326000&wowzaplayduration=18000",
+          "matchMethod": "case-number-title",
+          "segmentCount": 1,
+          "segments": [
+            {
+              "bookmarkId": 16283,
+              "title": "Støtte til NRK TV-aksjonen 2026 - Gi et trygt sted å sove - Flyktninghjelpen",
+              "url": "https://buskerud.kommunetv.no/archive/1013?caseId=16283",
+              "videoUrl": "https://wms1.aventia.no/arkivF/_definst_/buskerud/arkiv/1013_128.smil/playlist.m3u8?wowzaplaystart=12326000&wowzaplayduration=18000",
+              "durationSeconds": 18.0
             }
           ]
         }

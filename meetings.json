@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-23T12:24:31.0072678+00:00",
+  "generatedAtUtc": "2026-09-23T13:42:21.0718261+00:00",
   "source": "eInnsyn",
   "meetings": [
     {
@@ -54911,6 +54911,20 @@
       "meetingDateUtc": "2026-12-15T08:00:00.000Z",
       "meetingPlace": "",
       "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2Ffe25106f-28e3-4098-ba97-7db7dd581343",
+      "agendaAvailable": false,
+      "agendaUrl": "",
+      "agendaCases": [],
+      "attendance": null,
+      "metadataStatus": "not_present",
+      "protocolAvailable": false,
+      "protocolUrl": ""
+    },
+    {
+      "title": "Møte i Partssammensatt utvalg 22.01.2027",
+      "committee": "Partssammensatt utvalg",
+      "meetingDateUtc": "2027-01-22T09:00:00.000Z",
+      "meetingPlace": "Fylkestingssalen, fylkeshuset Drammen",
+      "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F9d8bd8e2-817f-4755-9d71-6c5e89cdce7e",
       "agendaAvailable": false,
       "agendaUrl": "",
       "agendaCases": [],

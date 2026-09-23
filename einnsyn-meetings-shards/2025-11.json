@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "shardType": "meetings",
   "shardKey": "2025-11",
-  "updatedAtUtc": "09/23/2026 20:42:30",
+  "updatedAtUtc": "09/23/2026 23:20:59",
   "meetingCount": 16,
   "meetings": [
     {
@@ -662,8 +662,48 @@
           "metadata": null
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "complete",
+        "completed": false,
+        "fixedMembers": [
+          {
+            "name": "Ana Maria Silva-Harper",
+            "attendanceRole": "medlem",
+            "representedBy": "V"
+          },
+          {
+            "name": "Bijan Gharakhani",
+            "attendanceRole": "leder",
+            "representedBy": null
+          },
+          {
+            "name": "Parviz Salimi",
+            "attendanceRole": "medlem",
+            "representedBy": null
+          },
+          {
+            "name": "Tabassom Fanaian",
+            "attendanceRole": "nestleder",
+            "representedBy": null
+          },
+          {
+            "name": "Mustafa Gezen",
+            "attendanceRole": "medlem",
+            "representedBy": null
+          },
+          {
+            "name": "Lirigzona Berisha",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          }
+        ],
+        "deputies": [],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/45413c19-e40a-4511-a2b7-735be6d4cb72",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F45413c19-e40a-4511-a2b7-735be6d4cb72"
+        }
+      },
+      "metadataStatus": "complete",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F45413c19-e40a-4511-a2b7-735be6d4cb72"
     },
@@ -782,8 +822,59 @@
           "metadata": null
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "complete",
+        "completed": false,
+        "fixedMembers": [
+          {
+            "name": "Bjørn-Egil Tørrisen",
+            "attendanceRole": "medlem",
+            "representedBy": null
+          },
+          {
+            "name": "Elise Haugsvær",
+            "attendanceRole": "medlem",
+            "representedBy": null
+          },
+          {
+            "name": "Merjem Duderija",
+            "attendanceRole": "leder",
+            "representedBy": null
+          },
+          {
+            "name": "Kacper Wyszynski",
+            "attendanceRole": "nestleder",
+            "representedBy": null
+          },
+          {
+            "name": "Theodor Vik Thorkildsen",
+            "attendanceRole": "medlem",
+            "representedBy": null
+          },
+          {
+            "name": "Ingeborg Renslo",
+            "attendanceRole": "medlem",
+            "representedBy": null
+          },
+          {
+            "name": "Adrian Huseth",
+            "attendanceRole": "medlem",
+            "representedBy": null
+          }
+        ],
+        "deputies": [
+          {
+            "name": "Ajla Duric",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          }
+        ],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/494b40bd-74d7-4f7e-860b-1e0d470ccf97",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F494b40bd-74d7-4f7e-860b-1e0d470ccf97"
+        }
+      },
+      "metadataStatus": "complete",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F494b40bd-74d7-4f7e-860b-1e0d470ccf97"
     },

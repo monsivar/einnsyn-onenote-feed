@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "shardType": "meetings",
   "shardKey": "2025-11",
-  "updatedAtUtc": "09/23/2026 17:27:36",
+  "updatedAtUtc": "09/23/2026 20:42:30",
   "meetingCount": 16,
   "meetings": [
     {
@@ -385,8 +385,44 @@
           "metadata": null
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "complete",
+        "completed": false,
+        "fixedMembers": [
+          {
+            "name": "Egil Ax",
+            "attendanceRole": "leder",
+            "representedBy": "H"
+          },
+          {
+            "name": "Thomas Emil Klingen Andersen",
+            "attendanceRole": "nestleder",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Marianne Werp",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Sadi Emeci",
+            "attendanceRole": "medlem",
+            "representedBy": "SV"
+          }
+        ],
+        "deputies": [
+          {
+            "name": "Knut Andre Svensbråten",
+            "attendanceRole": "deputy",
+            "representedBy": null
+          }
+        ],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/19b5eb76-393e-4a83-8931-4d2bd370df03",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F19b5eb76-393e-4a83-8931-4d2bd370df03"
+        }
+      },
+      "metadataStatus": "complete",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F19b5eb76-393e-4a83-8931-4d2bd370df03"
     },
@@ -442,8 +478,48 @@
           "metadata": null
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "complete",
+        "completed": false,
+        "fixedMembers": [
+          {
+            "name": "Thomas Sjøvold",
+            "attendanceRole": "leder",
+            "representedBy": "AKERSHUS"
+          },
+          {
+            "name": "Margrethe Prahl Reusch",
+            "attendanceRole": "medlem",
+            "representedBy": "AKERSHUS"
+          },
+          {
+            "name": "Simen Murud",
+            "attendanceRole": "medlem",
+            "representedBy": "BUSKERUD"
+          },
+          {
+            "name": "Tonje Enersen",
+            "attendanceRole": "medlem",
+            "representedBy": "BUSKERUD"
+          },
+          {
+            "name": "Thor Hals",
+            "attendanceRole": "medlem",
+            "representedBy": "ØSTFOLD"
+          },
+          {
+            "name": "Camilla Aas",
+            "attendanceRole": "nestleder",
+            "representedBy": "ØSTFOLD"
+          }
+        ],
+        "deputies": [],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/806de690-8056-4011-8d90-5e03d9c7163b",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F806de690-8056-4011-8d90-5e03d9c7163b"
+        }
+      },
+      "metadataStatus": "complete",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F806de690-8056-4011-8d90-5e03d9c7163b"
     },
@@ -499,8 +575,17 @@
           "metadata": null
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "failed",
+        "completed": false,
+        "fixedMembers": [],
+        "deputies": [],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/c1fc362c-d8c5-42b8-af18-737dac301ded",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc1fc362c-d8c5-42b8-af18-737dac301ded"
+        }
+      },
+      "metadataStatus": "failed",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fc1fc362c-d8c5-42b8-af18-737dac301ded"
     },

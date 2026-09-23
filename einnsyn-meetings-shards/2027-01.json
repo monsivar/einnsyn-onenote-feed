@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "shardType": "meetings",
+  "shardKey": "2027-01",
+  "updatedAtUtc": "09/23/2026 13:39:04",
+  "meetingCount": 1,
+  "meetings": [
+    {
+      "title": "Møte i Partssammensatt utvalg 22.01.2027",
+      "committee": "Partssammensatt utvalg",
+      "meetingDateUtc": "2027-01-22T09:00:00Z",
+      "meetingPlace": "Fylkestingssalen, fylkeshuset Drammen",
+      "meetingUrl": "https://einnsyn.no/moetemappe?id=https%3A%2F%2Fprod02.elementscloud.no%2F9d8bd8e2-817f-4755-9d71-6c5e89cdce7e",
+      "agendaAvailable": false,
+      "agendaUrl": "",
+      "agendaCases": [],
+      "attendance": null,
+      "metadataStatus": "not_present",
+      "protocolAvailable": false,
+      "protocolUrl": ""
+    }
+  ]
+}

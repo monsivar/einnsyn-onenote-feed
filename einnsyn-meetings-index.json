@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "catalogType": "meeting-index",
   "source": "eInnsyn",
-  "updatedAtUtc": "09/24/2026 06:57:34",
-  "meetingCount": 387,
+  "updatedAtUtc": "09/24/2026 11:46:21",
+  "meetingCount": 388,
   "shardCount": 37,
   "shards": [
     {
@@ -207,8 +207,8 @@
     {
       "key": "2026-10",
       "path": "einnsyn-meetings-shards/2026-10.json",
-      "meetingCount": 10,
-      "sha256": "9daaa16873a80467f74fddaae8a1b4fa22dd5c1b40b2d9aeca16ed5c8200b0a3"
+      "meetingCount": 11,
+      "sha256": "fe9f03e349a13b02f3c2e497603facfd1058af0bb0922bd389bb284c01e6281e"
     },
     {
       "key": "2026-11",

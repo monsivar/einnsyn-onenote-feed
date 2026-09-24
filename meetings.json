@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-24T12:52:49.2512826+00:00",
+  "generatedAtUtc": "2026-09-24T17:14:44.8086111+00:00",
   "source": "eInnsyn",
   "meetings": [
     {
@@ -55449,7 +55449,7 @@
       "attendance": null,
       "metadataStatus": "not_present",
       "protocolAvailable": false,
-      "protocolUrl": ""
+      "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2Fe086c82b-8369-440a-b04a-bc18e59e4a1e"
     },
     {
       "title": "Møte i Fylkestinget 07.10.2026",

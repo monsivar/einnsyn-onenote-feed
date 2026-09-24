@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAtUtc": "2026-09-24T17:14:44.8086111+00:00",
+  "generatedAtUtc": "2026-09-24T17:46:09.9354861+00:00",
   "source": "eInnsyn",
   "meetings": [
     {
@@ -47709,8 +47709,74 @@
           "metadata": null
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "complete",
+        "completed": false,
+        "fixedMembers": [
+          {
+            "name": "Kristin Løvaas Gjerde",
+            "attendanceRole": "leder",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Christina Højer Mørkve",
+            "attendanceRole": "nestleder",
+            "representedBy": "H"
+          },
+          {
+            "name": "Egil Ax",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Lars Stenberg",
+            "attendanceRole": "medlem",
+            "representedBy": "INP"
+          },
+          {
+            "name": "Øivind Fjeldheim",
+            "attendanceRole": "medlem",
+            "representedBy": "PP"
+          },
+          {
+            "name": "Anne Kristin Hov Hilleren",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Erik Kaupang",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Simon Sebastian Nordanger",
+            "attendanceRole": "medlem",
+            "representedBy": "SP"
+          },
+          {
+            "name": "Sigrid Onsgaard Sagabråten",
+            "attendanceRole": "medlem",
+            "representedBy": "SP"
+          },
+          {
+            "name": "Cecilie Søvik",
+            "attendanceRole": "medlem",
+            "representedBy": "MDG"
+          }
+        ],
+        "deputies": [
+          {
+            "name": "Thomas Emil Klingen Andersen",
+            "attendanceRole": "deputy",
+            "representedBy": "FRP"
+          }
+        ],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/7c28eb3c-8178-47cd-8d40-2dc539a3c229",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F7c28eb3c-8178-47cd-8d40-2dc539a3c229"
+        }
+      },
+      "metadataStatus": "complete",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F7c28eb3c-8178-47cd-8d40-2dc539a3c229"
     },

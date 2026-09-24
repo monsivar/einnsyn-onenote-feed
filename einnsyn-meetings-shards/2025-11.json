@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "shardType": "meetings",
   "shardKey": "2025-11",
-  "updatedAtUtc": "09/24/2026 17:46:04",
+  "updatedAtUtc": "09/24/2026 20:59:04",
   "meetingCount": 16,
   "meetings": [
     {
@@ -1945,8 +1945,83 @@
           "metadata": null
         }
       ],
-      "attendance": null,
-      "metadataStatus": "not_present",
+      "attendance": {
+        "status": "complete",
+        "completed": false,
+        "fixedMembers": [
+          {
+            "name": "Christopher Amundsen Wand",
+            "attendanceRole": "leder",
+            "representedBy": "H"
+          },
+          {
+            "name": "Eilev Bekjorden",
+            "attendanceRole": "nestleder",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Mari Djupvik Bråthen",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Thomas Fosen",
+            "attendanceRole": "medlem",
+            "representedBy": "H"
+          },
+          {
+            "name": "Lars Stenberg",
+            "attendanceRole": "medlem",
+            "representedBy": "INP"
+          },
+          {
+            "name": "Turid Solberg Thomassen",
+            "attendanceRole": "medlem",
+            "representedBy": "KRF"
+          },
+          {
+            "name": "Knut Andre Svensbråten",
+            "attendanceRole": "medlem",
+            "representedBy": "FRP"
+          },
+          {
+            "name": "Tonje Enersen",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Trine Raknes",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Odd Terje Svendsen",
+            "attendanceRole": "medlem",
+            "representedBy": "AP"
+          },
+          {
+            "name": "Anne Kristine Norman",
+            "attendanceRole": "medlem",
+            "representedBy": "SP"
+          },
+          {
+            "name": "Tove Hofstad",
+            "attendanceRole": "medlem",
+            "representedBy": "V"
+          },
+          {
+            "name": "Hans Petter de Fine",
+            "attendanceRole": "medlem",
+            "representedBy": "R"
+          }
+        ],
+        "deputies": [],
+        "source": {
+          "documentId": "https://prod02.elementscloud.no/9cc6ee76-ed3b-484c-9c8c-7e8b8fbc9008",
+          "documentUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9cc6ee76-ed3b-484c-9c8c-7e8b8fbc9008"
+        }
+      },
+      "metadataStatus": "complete",
       "protocolAvailable": true,
       "protocolUrl": "https://einnsyn.no/api/v2/fil?iri=https%3A%2F%2Fprod02.elementscloud.no%2F9cc6ee76-ed3b-484c-9c8c-7e8b8fbc9008"
     },

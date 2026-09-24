@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "shardType": "meetings",
   "shardKey": "2024-01",
-  "updatedAtUtc": "09/24/2026 12:52:41",
+  "updatedAtUtc": "09/24/2026 17:46:03",
   "meetingCount": 15,
   "meetings": [
     {

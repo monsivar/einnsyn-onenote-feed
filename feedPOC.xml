@@ -8,8 +8,8 @@
     <item>
       <title>POC: Opprett OneNote-side for testmøte</title>
       <link>https://einnsyn.no/moetemappe?id=poc-meeting-001</link>
-      <guid isPermaLink="false">poc-create-meeting-001-v1</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">poc-create-meeting-002-v1</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[{
   "schemaVersion": 1,
   "eventType": "POC_CREATE",

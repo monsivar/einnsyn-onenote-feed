@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>eInnsyn OneNote POC - update</title>
+    <link>https://github.com/monsivar/einnsyn-onenote-feed</link>
+    <description>Syntetisk POC-feed for oppdatering av OneNote-side via direkte side-ID.</description>
+    <lastBuildDate>Tue, 29 Sep 2026 00:05:00 GMT</lastBuildDate>
+    <item>
+      <title>POC: Oppdater OneNote-side med vedtak og protokoll</title>
+      <link>https://einnsyn.no/moetemappe?id=poc-meeting-001</link>
+      <guid isPermaLink="false">poc-update-meeting-001-v1</guid>
+      <pubDate>Tue, 29 Sep 2026 00:05:00 GMT</pubDate>
+      <description><![CDATA[{
+  "schemaVersion": 1,
+  "eventType": "POC_UPDATE",
+  "updateEventId": "poc-update-meeting-001-v1",
+  "performWrite": true,
+  "meetingId": "poc-meeting-001",
+  "pageId": "REPLACE_WITH_PAGE_ID_FROM_CREATE_CALLBACK",
+  "sourceVersion": "poc-protocol-2026-09-29-v1",
+  "updates": [
+    {
+      "caseId": "poc-case-1",
+      "anchorId": "poc-case-decision-slot-poc-case-1",
+      "html": "<p><strong>Vedtak:</strong> Vedtak 1 – saken tas til orientering.</p><p><a href='https://einnsyn.no/vedtak?id=poc-case-1'>Åpne vedtaket</a></p>"
+    },
+    {
+      "caseId": "poc-case-2",
+      "anchorId": "poc-case-decision-slot-poc-case-2",
+      "html": "<p><strong>Vedtak:</strong> Vedtak 2 – innstillingen vedtas.</p><p><a href='https://einnsyn.no/vedtak?id=poc-case-2'>Åpne vedtaket</a></p>"
+    },
+    {
+      "caseId": "poc-case-3",
+      "anchorId": "poc-case-decision-slot-poc-case-3",
+      "html": "<p><strong>Vedtak:</strong> Vedtak 3 – saken utsettes.</p><p><a href='https://einnsyn.no/vedtak?id=poc-case-3'>Åpne vedtaket</a></p>"
+    }
+  ],
+  "protocol": {
+    "anchorId": "poc-meeting-protocol-slot-poc-meeting-001",
+    "html": "<p><strong>Protokoll:</strong> Protokollen er tilgjengelig.</p><p><a href='https://einnsyn.no/protokoll?id=poc-meeting-001'>Åpne protokollen</a></p>"
+  },
+  "callback": {
+    "repository": "monsivar/einnsyn-teams-integration-Buskerud-Ap",
+    "eventType": "POC_PAGE_UPDATED"
+  }
+}]]></description>
+    </item>
+  </channel>
+</rss>

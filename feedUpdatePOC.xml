@@ -8,15 +8,15 @@
     <item>
       <title>POC: Oppdater OneNote-side med vedtak og protokoll</title>
       <link>https://einnsyn.no/moetemappe?id=poc-meeting-001</link>
-      <guid isPermaLink="false">poc-update-meeting-001-v1</guid>
+      <guid isPermaLink="false">poc-update-meeting-002-v1</guid>
       <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[{
   "schemaVersion": 1,
   "eventType": "POC_UPDATE",
-  "updateEventId": "poc-update-meeting-001-v1",
+  "updateEventId": "poc-update-meeting-002-v1",
   "performWrite": true,
   "meetingId": "poc-meeting-001",
-  "pageId": "1-b8271637f135413cafc9f2ff313790d8!13-72381bbc-f77b-465a-9477-9b4caec9213d",
+  "pageId": "1-6566914131d5413d8ba974c55585326b!6-72381bbc-f77b-465a-9477-9b4caec9213d",
   "sourceVersion": "poc-protocol-2026-09-29-v1",
   "updates": [
     {

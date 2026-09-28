@@ -4,12 +4,12 @@
     <title>eInnsyn OneNote POC - create</title>
     <link>https://github.com/monsivar/einnsyn-onenote-feed</link>
     <description>Syntetisk POC-feed for opprettelse av OneNote-side.</description>
-    <lastBuildDate>Tue, 29 Sep 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 00:00:00 GMT</lastBuildDate>
     <item>
       <title>POC: Opprett OneNote-side for testmøte</title>
       <link>https://einnsyn.no/moetemappe?id=poc-meeting-001</link>
-      <guid isPermaLink="false">poc-create-meeting-002-v1</guid>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">poc-create-meeting-00-v1</gu3id>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
       <description><![CDATA[{
   "schemaVersion": 1,
   "eventType": "POC_CREATE",

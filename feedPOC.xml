@@ -13,7 +13,7 @@
       <description><![CDATA[{
   "schemaVersion": 1,
   "eventType": "POC_CREATE",
-  "createEventId": "poc-create-meeting-001-v1",
+  "createEventId": "poc-create-meeting-003-v1",
   "performWrite": true,
   "sectionKey": "POC_TEST",
   "meeting": {

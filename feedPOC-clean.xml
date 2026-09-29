@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>eInnsyn OneNote POC - clean trigger test</title>
+    <link>https://github.com/monsivar/einnsyn-onenote-feed</link>
+    <description>Ren POC-feed uten fremtidige pubDate-verdier.</description>
+    <lastBuildDate>Tue, 29 Sep 2026 14:30:20 GMT</lastBuildDate>
+    <item>
+      <title>POC: Ren RSS-trigger-test for ny OneNote-side</title>
+      <link>https://einnsyn.no/moetemappe?id=poc-meeting-clean-001</link>
+      <guid isPermaLink="false">poc-create-poc-meeting-clean-001-v1</guid>
+      <pubDate>Tue, 29 Sep 2026 14:30:20 GMT</pubDate>
+      <description><![CDATA[{
+  "schemaVersion": 1,
+  "eventType": "POC_CREATE",
+  "createEventId": "poc-create-poc-meeting-clean-001-v1",
+  "performWrite": true,
+  "sectionKey": "GENERELT",
+  "sectionId": "https://www.onenote.com/api/v1.0/myOrganization/siteCollections/f905ed9d-ab1b-420a-b4ba-af1b6ee8ea45/sites/ffca75ab-92a3-41bb-b73d-d735d3b7864f/notes/sections/1-72381bbc-f77b-465a-9477-9b4caec9213d/pages",
+  "meeting": {
+    "id": "poc-meeting-clean-001",
+    "title": "POC-møte – ren RSS-trigger-test",
+    "committee": "POC-utvalg",
+    "date": "2026-09-29",
+    "place": "Testrom",
+    "meetingUrl": "https://einnsyn.no/moetemappe?id=poc-meeting-clean-001",
+    "agendaUrl": "https://einnsyn.no/moeteregistrering?id=poc-agenda-clean-001"
+  },
+  "cases": [],
+  "pageHtml": "<html><head><title>POC-møte – ren RSS-trigger-test</title></head><body><h1>POC-møte – ren RSS-trigger-test</h1><p><strong>Utvalg:</strong> POC-utvalg</p><p><strong>Dato:</strong> 2026-09-29</p><p><strong>Sted:</strong> Testrom</p><p>Ren test av RSS-trigger og opprettelse av OneNote-side.</p><div data-id='poc-clean-test-anchor-poc-meeting-clean-001'><p><strong>Testanker:</strong></p></div><hr/><p><em>POC-side – skal ikke brukes som produksjonsdata.</em></p></body></html>"
+}]]></description>
+    </item>
+  </channel>
+</rss>

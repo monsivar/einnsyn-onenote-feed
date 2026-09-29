@@ -1,0 +1,150 @@
+name: OneNote append POC step
+
+on:
+  workflow_dispatch:
+    inputs:
+      step:
+        description: Teststeg som skal publiseres til RSS
+        required: true
+        type: choice
+        options:
+          - create
+          - append-1
+          - append-2
+          - append-3
+      meeting_id:
+        description: Møte-ID for append-testen
+        required: true
+        default: poc-meeting-append-001
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  append-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout POC branch
+        uses: actions/checkout@v4
+        with:
+          ref: codex/onenote-rss-poc
+          fetch-depth: 0
+
+      - name: Checkout page registry from main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: registry
+          fetch-depth: 1
+
+      - name: Generate next RSS test item
+        env:
+          TEST_STEP: ${{ inputs.step }}
+          MEETING_ID: ${{ inputs.meeting_id }}
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const step = process.env.TEST_STEP;
+          const meetingId = process.env.MEETING_ID;
+          const sectionKey = 'GENERELT';
+          const sectionId = 'https://www.onenote.com/api/v1.0/myOrganization/siteCollections/f905ed9d-ab1b-420a-b4ba-af1b6ee8ea45/sites/ffca75ab-92a3-41bb-b73d-d735d3b7864f/notes/sections/1-72381bbc-f77b-465a-9477-9b4caec9213d/pages';
+          const appendAnchorId = 'meeting-append-content-' + meetingId;
+          const link = 'https://einnsyn.no/moetemappe?id=' + meetingId;
+
+          if (!['create', 'append-1', 'append-2', 'append-3'].includes(step)) {
+            throw new Error('Ugyldig teststeg: ' + step);
+          }
+
+          function nextPublicationDate(paths) {
+            let timestamp = Date.now();
+            for (const file of paths) {
+              if (!fs.existsSync(file)) continue;
+              const xml = fs.readFileSync(file, 'utf8');
+              for (const match of xml.matchAll(/<pubDate>(.*?)<\/pubDate>/g)) {
+                const parsed = Date.parse(match[1]);
+                if (Number.isFinite(parsed)) timestamp = Math.max(timestamp, parsed + 1000);
+              }
+            }
+            return new Date(timestamp);
+          }
+
+          function addItem(file, title, guid, payload, publishedAt) {
+            if (!fs.existsSync(file)) throw new Error('Finner ikke feedfilen: ' + file);
+            let xml = fs.readFileSync(file, 'utf8');
+            const item = [
+              '    <item>',
+              '      <title>' + title + '</title>',
+              '      <link>' + link + '</link>',
+              '      <guid isPermaLink="false">' + guid + '</guid>',
+              '      <pubDate>' + publishedAt.toUTCString() + '</pubDate>',
+              '      <description><![CDATA[' + JSON.stringify(payload, null, 2) + ']]></description>',
+              '    </item>'
+            ].join('\n');
+            if (!xml.includes('</channel>')) throw new Error('RSS-filen mangler </channel>: ' + file);
+            xml = xml.replace(/<lastBuildDate>.*?<\/lastBuildDate>/, '<lastBuildDate>' + publishedAt.toUTCString() + '</lastBuildDate>');
+            xml = xml.replace('</channel>', item + '\n  </channel>');
+            fs.writeFileSync(file, xml);
+          }
+
+          const publishedAt = nextPublicationDate(['feedPOC.xml', 'feedUpdatePOC.xml']);
+
+          if (step === 'create') {
+            const pageHtml = '<html><head><title>POC-møte – append testside</title></head><body>' +
+              '<div data-id="meeting-slot-' + meetingId + '" data-schema-version="1">' +
+              '<h1>POC-møte – append testside</h1>' +
+              '<p><strong>Utvalg:</strong> POC-utvalg</p>' +
+              '<p><strong>Dato:</strong> 2026-10-05</p>' +
+              '<p><strong>Sted:</strong> Testrom</p>' +
+              '<p>Testside for sekvensielle automatiske tillegg.</p>' +
+              '<div data-id="meeting-last-updated-from-moteblikk-' + meetingId + '"><p><strong>Sist oppdatert fra Møteblikk:</strong></p></div>' +
+              '<div data-id="meeting-protocol-' + meetingId + '"><p><strong>Protokoll:</strong></p></div>' +
+              '<h2>Automatiske oppdateringer</h2>' +
+              '<div data-id="' + appendAnchorId + '"></div>' +
+              '<div data-id="meeting-end-anchor-' + meetingId + '"></div>' +
+              '<hr/><p><em>POC-side – skal ikke brukes som produksjonsdata.</em></p>' +
+              '</div></body></html>';
+            const payload = {
+              schemaVersion: 1,
+              eventType: 'MEETING_CREATE',
+              createEventId: 'poc-create-' + meetingId + '-v1',
+              performWrite: true,
+              sectionKey,
+              sectionId,
+              quality: { readyForOneNote: true, agendaAvailable: true, recommendationsAvailable: true, caseCount: 0 },
+              meeting: { id: meetingId, title: 'POC-møte – append testside', committee: 'POC-utvalg', date: '2026-10-05', place: 'Testrom', meetingUrl: link, agendaUrl: link + '&agenda=true' },
+              cases: [],
+              pageHtml
+            };
+            addItem('feedPOC.xml', 'POC: Opprett append-testside', 'poc-create-' + meetingId + '-v1', payload, publishedAt);
+          } else {
+            const pages = JSON.parse(fs.readFileSync('registry/meeting-pages.json', 'utf8'));
+            const page = pages.find((entry) => entry.meetingId === meetingId);
+            if (!page || !page.pageId) throw new Error('Ingen pageId er registrert for ' + meetingId + '. Verifiser opprettelsen og registrer GitHub-issue-en først.');
+            const number = Number(step.split('-')[1]);
+            const html = Array.from({ length: number }, (_, index) => '<p>Dette er tilleggsoppdatering ' + (index + 1) + '</p>').join('');
+            const payload = {
+              schemaVersion: 1,
+              eventType: 'MEETING_UPDATE',
+              updateEventId: 'poc-append-' + meetingId + '-' + step + '-v1',
+              performWrite: true,
+              sectionKey,
+              sectionId,
+              meetingId,
+              pageId: page.pageId,
+              lastUpdatedFromMoteblikk: publishedAt.toISOString(),
+              sourceVersion: 'append-poc-' + step + '-v1',
+              updates: [],
+              append: { anchorId: appendAnchorId, mode: 'replace-aggregate', html }
+            };
+            addItem('feedUpdatePOC.xml', 'POC: Append ' + step + ' til OneNote-side', 'poc-append-' + meetingId + '-' + step + '-v1', payload, publishedAt);
+          }
+          NODE
+
+      - name: Commit generated test item
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add feedPOC.xml feedUpdatePOC.xml
+          git commit -m "Run OneNote append POC: ${{ inputs.step }}"
+          git push origin HEAD:codex/onenote-rss-poc

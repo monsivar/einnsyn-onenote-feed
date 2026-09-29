@@ -4,7 +4,7 @@
     <title>eInnsyn OneNote POC - clean trigger test</title>
     <link>https://github.com/monsivar/einnsyn-onenote-feed</link>
     <description>Ren POC-feed uten fremtidige pubDate-verdier.</description>
-    <lastBuildDate>Tue, 29 Sep 2026 15:12:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 15:40:17 GMT</lastBuildDate>
     <item>
       <title>POC: Ren RSS-trigger-test for ny OneNote-side</title>
       <link>https://einnsyn.no/moetemappe?id=poc-meeting-clean-001</link>
@@ -37,6 +37,35 @@
   "meeting": { "id": "poc-meeting-clean-002", "title": "POC-møte – ny RSS-trigger-test", "committee": "POC-utvalg", "date": "2026-09-29", "place": "Testrom", "meetingUrl": "https://einnsyn.no/moetemappe?id=poc-meeting-clean-002", "agendaUrl": "https://einnsyn.no/moeteregistrering?id=poc-agenda-clean-002" },
   "cases": [],
   "pageHtml": "<html><head><title>POC-møte – ny RSS-trigger-test</title></head><body><h1>POC-møte – ny RSS-trigger-test</h1><p><strong>Utvalg:</strong> POC-utvalg</p><p><strong>Dato:</strong> 2026-09-29</p><p><strong>Sted:</strong> Testrom</p><p>Dette er et nytt RSS-element etter at PA-triggeren ble byttet til ren feed.</p><div data-id='poc-clean-test-anchor-poc-meeting-clean-002'><p><strong>Testanker:</strong></p></div><hr/><p><em>POC-side – skal ikke brukes som produksjonsdata.</em></p></body></html>"
+}]]></description>
+    </item>
+    <item>
+      <title>POC: Møte med saker og endeanker</title>
+      <link>https://einnsyn.no/moetemappe?id=poc-meeting-rich-001</link>
+      <guid isPermaLink="false">poc-create-poc-meeting-rich-001-v1</guid>
+      <pubDate>Tue, 29 Sep 2026 15:40:17 GMT</pubDate>
+      <description><![CDATA[{
+  "schemaVersion": 1,
+  "eventType": "POC_CREATE",
+  "createEventId": "poc-create-poc-meeting-rich-001-v1",
+  "performWrite": true,
+  "sectionKey": "GENERELT",
+  "sectionId": "https://www.onenote.com/api/v1.0/myOrganization/siteCollections/f905ed9d-ab1b-420a-b4ba-af1b6ee8ea45/sites/ffca75ab-92a3-41bb-b73d-d735d3b7864f/notes/sections/1-72381bbc-f77b-465a-9477-9b4caec9213d/pages",
+  "meeting": {
+    "id": "poc-meeting-rich-001",
+    "title": "POC-møte – møte med saker og endeanker",
+    "committee": "POC-utvalg",
+    "date": "2026-09-29",
+    "place": "Testrom",
+    "meetingUrl": "https://einnsyn.no/moetemappe?id=poc-meeting-rich-001",
+    "agendaUrl": "https://einnsyn.no/moeteregistrering?id=poc-agenda-rich-001"
+  },
+  "cases": [
+    { "id": "poc-rich-case-1", "number": "1/2026", "title": "Første sak for videre testing", "caseUrl": "https://einnsyn.no/moeteregistrering?id=poc-rich-case-1", "recommendation": { "status": "OK", "text": "Testinnstilling for sak 1." } },
+    { "id": "poc-rich-case-2", "number": "2/2026", "title": "Andre sak for videre testing", "caseUrl": "https://einnsyn.no/moeteregistrering?id=poc-rich-case-2", "recommendation": { "status": "OK", "text": "Testinnstilling for sak 2." } },
+    { "id": "poc-rich-case-3", "number": "3/2026", "title": "Tredje sak for videre testing", "caseUrl": "https://einnsyn.no/moeteregistrering?id=poc-rich-case-3", "recommendation": { "status": "OK", "text": "Testinnstilling for sak 3." } }
+  ],
+  "pageHtml": "<html><head><title>POC-møte – møte med saker og endeanker</title></head><body><div data-id='poc-meeting-slot-poc-meeting-rich-001' data-schema-version='1'><h1>POC-møte – møte med saker og endeanker</h1><p><strong>Utvalg:</strong> POC-utvalg</p><p><strong>Dato:</strong> 2026-09-29</p><p><strong>Sted:</strong> Testrom</p><p><a href='https://einnsyn.no/moetemappe?id=poc-meeting-rich-001'>Åpne møtet i eInnsyn</a></p><p><a href='https://einnsyn.no/moeteregistrering?id=poc-agenda-rich-001'>Åpne agenda</a></p><p><strong>Sist oppdatert fra Møteblikk:</strong> 2026-09-29 17:40</p><div data-id='poc-meeting-protocol-slot-poc-meeting-rich-001'><p><strong>Protokoll:</strong></p></div><div data-id='poc-case-slot-poc-rich-case-1'><h2>1/2026 – Første sak for videre testing</h2><p><strong>Innstilling:</strong> Testinnstilling for sak 1.</p><p><a href='https://einnsyn.no/moeteregistrering?id=poc-rich-case-1'>Åpne saken</a></p><div data-id='poc-case-decision-slot-poc-rich-case-1'><p><strong>Innstilling/Vedtak:</strong></p></div><div data-id='poc-case-notes-slot-poc-rich-case-1'><p><strong>Notater:</strong></p></div></div><div data-id='poc-case-slot-poc-rich-case-2'><h2>2/2026 – Andre sak for videre testing</h2><p><strong>Innstilling:</strong> Testinnstilling for sak 2.</p><p><a href='https://einnsyn.no/moeteregistrering?id=poc-rich-case-2'>Åpne saken</a></p><div data-id='poc-case-decision-slot-poc-rich-case-2'><p><strong>Innstilling/Vedtak:</strong></p></div><div data-id='poc-case-notes-slot-poc-rich-case-2'><p><strong>Notater:</strong></p></div></div><div data-id='poc-case-slot-poc-rich-case-3'><h2>3/2026 – Tredje sak for videre testing</h2><p><strong>Innstilling:</strong> Testinnstilling for sak 3.</p><p><a href='https://einnsyn.no/moeteregistrering?id=poc-rich-case-3'>Åpne saken</a></p><div data-id='poc-case-decision-slot-poc-rich-case-3'><p><strong>Innstilling/Vedtak:</strong></p></div><div data-id='poc-case-notes-slot-poc-rich-case-3'><p><strong>Notater:</strong></p></div></div><div data-id='poc-meeting-end-anchor-poc-meeting-rich-001'><p><strong>Endeanker:</strong> Nye møteoppdateringer legges inn her.</p></div><hr/><p><em>POC-side – skal ikke brukes som produksjonsdata.</em></p></div></body></html>"
 }]]></description>
     </item>
   </channel>

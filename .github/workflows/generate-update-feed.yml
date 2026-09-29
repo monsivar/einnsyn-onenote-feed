@@ -1,0 +1,81 @@
+name: Generate OneNote update feed
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - meeting-pages.json
+  workflow_dispatch:
+    inputs:
+      meeting_id:
+        description: Møte-ID som skal berikes i POC-oppdateringsfeeden
+        required: false
+        default: poc-meeting-001
+
+permissions:
+  contents: write
+
+jobs:
+  generate-update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout mapping data
+        uses: actions/checkout@v4
+
+      - name: Checkout POC-feed branch
+        uses: actions/checkout@v4
+        with:
+          ref: codex/onenote-rss-poc
+          path: poc-feed
+          fetch-depth: 0
+
+      - name: Insert OneNote page ID into update feed
+        env:
+          MEETING_ID: ${{ github.event.inputs.meeting_id || 'poc-meeting-001' }}
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const path = require('path');
+
+          const meetingId = process.env.MEETING_ID;
+          const pages = JSON.parse(fs.readFileSync('meeting-pages.json', 'utf8'));
+          const page = pages.find((entry) => entry.meetingId === meetingId);
+          if (!page) {
+            throw new Error('No OneNote page mapping found for meetingId: ' + meetingId);
+          }
+
+          const feedPath = path.join('poc-feed', 'feedUpdatePOC.xml');
+          let xml = fs.readFileSync(feedPath, 'utf8');
+          const descriptionMatch = xml.match(/<description><!\[CDATA\[([\s\S]*?)\]\]><\/description>/);
+          if (!descriptionMatch) {
+            throw new Error('Could not find the JSON CDATA description in feedUpdatePOC.xml');
+          }
+
+          const payload = JSON.parse(descriptionMatch[1]);
+          if (payload.meetingId !== meetingId) {
+            throw new Error('Feed meetingId ' + payload.meetingId + ' does not match ' + meetingId);
+          }
+
+          payload.pageId = page.pageId;
+          const generatedJson = JSON.stringify(payload, null, 2);
+          xml = xml.replace(descriptionMatch[1], generatedJson);
+          xml = xml.replace(
+            /<lastBuildDate>.*?<\/lastBuildDate>/,
+            '<lastBuildDate>' + new Date().toUTCString() + '</lastBuildDate>',
+          );
+          fs.writeFileSync(feedPath, xml);
+          NODE
+
+      - name: Commit generated feed to POC branch
+        working-directory: poc-feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feedUpdatePOC.xml
+          if git diff --cached --quiet; then
+            echo "No feed change was needed."
+            exit 0
+          fi
+          git commit -m "Generate OneNote update feed with page ID"
+          git push origin HEAD:codex/onenote-rss-poc

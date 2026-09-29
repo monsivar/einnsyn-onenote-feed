@@ -56,19 +56,6 @@ jobs:
             throw new Error('Ugyldig teststeg: ' + step);
           }
 
-          function nextPublicationDate(paths) {
-            let timestamp = Date.now();
-            for (const file of paths) {
-              if (!fs.existsSync(file)) continue;
-              const xml = fs.readFileSync(file, 'utf8');
-              for (const match of xml.matchAll(/<pubDate>(.*?)<\/pubDate>/g)) {
-                const parsed = Date.parse(match[1]);
-                if (Number.isFinite(parsed)) timestamp = Math.max(timestamp, parsed + 1000);
-              }
-            }
-            return new Date(timestamp);
-          }
-
           function addItem(file, title, guid, payload, publishedAt) {
             if (!fs.existsSync(file)) throw new Error('Finner ikke feedfilen: ' + file);
             let xml = fs.readFileSync(file, 'utf8');
@@ -87,7 +74,9 @@ jobs:
             fs.writeFileSync(file, xml);
           }
 
-          const publishedAt = nextPublicationDate(['feedPOC.xml', 'feedUpdatePOC.xml']);
+          // RSS consumers use publishDate as the freshness boundary. Never derive
+          // a new test event from a future-dated fixture already in the feed.
+          const publishedAt = new Date();
 
           if (step === 'create') {
             const pageHtml = '<html><head><title>POC-møte – append testside</title></head><body>' +
@@ -102,8 +91,7 @@ jobs:
               '<h2>Automatiske oppdateringer</h2>' +
               '<div data-id="' + appendAnchorId + '"></div>' +
               '<div data-id="meeting-end-anchor-' + meetingId + '"></div>' +
-              '<hr/><p><em>POC-side – skal ikke brukes som produksjonsdata.</em></p>' +
-              '</div></body></html>';
+              '<hr/><p><em>POC-side – skal ikke brukes som produksjonsdata.</em></p></div></body></html>';
             const payload = {
               schemaVersion: 1,
               eventType: 'MEETING_CREATE',

@@ -4,7 +4,7 @@
     <title>eInnsyn OneNote POC - clean update</title>
     <link>https://github.com/monsivar/einnsyn-onenote-feed</link>
     <description>Ren POC-feed med oppdateringer til OneNote-sider.</description>
-    <lastBuildDate>Tue, 29 Sep 2026 16:15:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 18:45:00 GMT</lastBuildDate>
     <item>
       <title>POC: Fem rene oppdateringer til OneNote-side</title>
       <link>https://einnsyn.no/moetemappe?id=poc-meeting-blank-001</link>
@@ -22,11 +22,11 @@
   "lastUpdatedFromMoteblikk": "2026-09-29T14:38:09Z",
   "sourceVersion": "poc-clean-updates-2026-09-29-v1",
   "updates": [
-    { "caseId": "poc-test-1", "anchorId": "poc-test-anchor-1", "html": "<p>Dette er oppdatering 1</p>" },
-    { "caseId": "poc-test-2", "anchorId": "poc-test-anchor-2", "html": "<p>Dette er oppdatering 2</p>" },
-    { "caseId": "poc-test-3", "anchorId": "poc-test-anchor-3", "html": "<p>Dette er oppdatering 3</p>" },
-    { "caseId": "poc-test-4", "anchorId": "poc-test-anchor-4", "html": "<p>Dette er oppdatering 4</p>" },
-    { "caseId": "poc-test-5", "anchorId": "poc-test-anchor-5", "html": "<p>Dette er oppdatering 5</p>" }
+    { "caseId": "poc-test-1", "anchorId": "poc-test-anchor-1", "action": "append", "position": "after", "html": "<p>Dette er oppdatering 1</p>" },
+    { "caseId": "poc-test-2", "anchorId": "poc-test-anchor-2", "action": "append", "position": "after", "html": "<p>Dette er oppdatering 2</p>" },
+    { "caseId": "poc-test-3", "anchorId": "poc-test-anchor-3", "action": "append", "position": "after", "html": "<p>Dette er oppdatering 3</p>" },
+    { "caseId": "poc-test-4", "anchorId": "poc-test-anchor-4", "action": "append", "position": "after", "html": "<p>Dette er oppdatering 4</p>" },
+    { "caseId": "poc-test-5", "anchorId": "poc-test-anchor-5", "action": "append", "position": "after", "html": "<p>Dette er oppdatering 5</p>" }
   ]
 }]]></description>
     </item>
@@ -47,11 +47,33 @@
   "lastUpdatedFromMoteblikk": "2026-09-29T16:15:17Z",
   "sourceVersion": "poc-rich-updates-2026-09-29-v1",
   "updates": [
-    { "caseId": "poc-meeting-rich-001", "anchorId": "poc-meeting-protocol-slot-poc-meeting-rich-001", "html": "<p><strong>Protokoll:</strong> Protokoll testversjon 1 er tilgjengelig.</p>" },
-    { "caseId": "poc-rich-case-1", "anchorId": "poc-case-decision-slot-poc-rich-case-1", "html": "<p><strong>Innstilling/Vedtak:</strong> Vedtak test 1: Saken tas til orientering.</p>" },
-    { "caseId": "poc-rich-case-2", "anchorId": "poc-case-notes-slot-poc-rich-case-2", "html": "<p><strong>Notater:</strong> Dette er første notat på sak 2.</p>" },
-    { "caseId": "poc-rich-case-3", "anchorId": "poc-case-decision-slot-poc-rich-case-3", "html": "<p><strong>Innstilling/Vedtak:</strong> Vedtak test 3: Saken følges opp i neste møte.</p>" },
-    { "caseId": "poc-meeting-rich-001", "anchorId": "poc-meeting-end-anchor-poc-meeting-rich-001", "html": "<p><strong>Ny møteoppdatering:</strong> Dette innholdet ble lagt til ved første oppdateringstest.</p>" }
+    { "caseId": "poc-meeting-rich-001", "anchorId": "poc-meeting-protocol-slot-poc-meeting-rich-001", "action": "append", "position": "after", "html": "<p><strong>Protokoll:</strong> Protokoll testversjon 1 er tilgjengelig.</p>" },
+    { "caseId": "poc-rich-case-1", "anchorId": "poc-case-decision-slot-poc-rich-case-1", "action": "append", "position": "after", "html": "<p><strong>Innstilling/Vedtak:</strong> Vedtak test 1: Saken tas til orientering.</p>" },
+    { "caseId": "poc-rich-case-2", "anchorId": "poc-case-notes-slot-poc-rich-case-2", "action": "append", "position": "after", "html": "<p><strong>Notater:</strong> Dette er første notat på sak 2.</p>" },
+    { "caseId": "poc-rich-case-3", "anchorId": "poc-case-decision-slot-poc-rich-case-3", "action": "append", "position": "after", "html": "<p><strong>Innstilling/Vedtak:</strong> Vedtak test 3: Saken følges opp i neste møte.</p>" },
+    { "caseId": "poc-meeting-rich-001", "anchorId": "poc-meeting-end-anchor-poc-meeting-rich-001", "action": "append", "position": "after", "html": "<p><strong>Ny møteoppdatering:</strong> Dette innholdet ble lagt til ved første oppdateringstest.</p>" }
+  ]
+}]]></description>
+    </item>
+    <item>
+      <title>POC: Test av før- og etter-anker</title>
+      <link>https://einnsyn.no/moetemappe?id=poc-meeting-rich-001</link>
+      <guid isPermaLink="false">poc-rich-update-meeting-001-v2-before-after</guid>
+      <pubDate>Tue, 29 Sep 2026 18:45:00 GMT</pubDate>
+      <description><![CDATA[{
+  "schemaVersion": 1,
+  "eventType": "POC_UPDATE",
+  "updateEventId": "poc-rich-update-meeting-001-v2-before-after",
+  "performWrite": true,
+  "sectionKey": "GENERELT",
+  "sectionId": "https://www.onenote.com/api/v1.0/myOrganization/siteCollections/f905ed9d-ab1b-420a-b4ba-af1b6ee8ea45/sites/ffca75ab-92a3-41bb-b73d-d735d3b7864f/notes/sections/1-72381bbc-f77b-465a-9477-9b4caec9213d/pages",
+  "meetingId": "poc-meeting-rich-001",
+  "pageId": "1-1b0009e7243a4c39b1f4dd3baf442846!6-72381bbc-f77b-465a-9477-9b4caec9213d",
+  "lastUpdatedFromMoteblikk": "2026-09-29T18:45:00Z",
+  "sourceVersion": "poc-rich-updates-before-after-2026-09-29-v1",
+  "updates": [
+    { "caseId": "poc-rich-case-1", "anchorId": "poc-case-notes-slot-poc-rich-case-1", "action": "append", "position": "after", "html": "<p><strong>Etter-anker-test:</strong> Dette innholdet skal legges etter notatankeret.</p>" },
+    { "caseId": "poc-meeting-rich-001", "anchorId": "poc-meeting-end-anchor-poc-meeting-rich-001", "action": "insert", "position": "before", "html": "<p><strong>Før-anker-test:</strong> Dette innholdet skal legges før endeankeret.</p>" }
   ]
 }]]></description>
     </item>

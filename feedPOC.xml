@@ -3,34 +3,33 @@
   <channel>
     <title>eInnsyn OneNote POC - create</title>
     <link>https://github.com/monsivar/einnsyn-onenote-feed</link>
-    <description>Syntetisk POC-feed for opprettelse av OneNote-side.</description>
-    <lastBuildDate>Thu, 01 Oct 2026 00:00:00 GMT</lastBuildDate>
+    <description>POC-feed for automatisk opprettelse av blank OneNote-testside.</description>
+    <lastBuildDate>Sat, 03 Oct 2026 00:00:00 GMT</lastBuildDate>
+
     <item>
-      <title>POC: Opprett OneNote-side for testmøte</title>
-      <link>https://einnsyn.no/moetemappe?id=poc-meeting-001</link>
-      <guid isPermaLink="false">poc-create-meeting-003-v1</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+      <title>POC: Opprett blank OneNote-testside</title>
+      <link>https://einnsyn.no/moetemappe?id=poc-meeting-blank-001</link>
+      <guid isPermaLink="false">poc-create-blank-meeting-001-v1</guid>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 GMT</pubDate>
+
       <description><![CDATA[{
   "schemaVersion": 1,
   "eventType": "POC_CREATE",
-  "createEventId": "poc-create-meeting-003-v1",
+  "createEventId": "poc-create-blank-meeting-001-v1",
   "performWrite": true,
-  "sectionKey": "POC_TEST",
+  "sectionKey": "GENERELT",
+  "sectionId": "https://www.onenote.com/api/v1.0/myOrganization/siteCollections/f905ed9d-ab1b-420a-b4ba-af1b6ee8ea45/sites/ffca75ab-92a3-41bb-b73d-d735d3b7864f/notes/sections/1-72381bbc-f77b-465a-9477-9b4caec9213d/pages",
   "meeting": {
-    "id": "poc-meeting-001",
-    "title": "POC-møte – OneNote direkte side",
+    "id": "poc-meeting-blank-001",
+    "title": "POC-møte – blank testside",
     "committee": "POC-utvalg",
-    "date": "2026-09-29",
+    "date": "2026-10-03",
     "place": "Testrom",
-    "meetingUrl": "https://einnsyn.no/moetemappe?id=poc-meeting-001",
-    "agendaUrl": "https://einnsyn.no/moeteregistrering?id=poc-agenda-001"
+    "meetingUrl": "https://einnsyn.no/moetemappe?id=poc-meeting-blank-001",
+    "agendaUrl": "https://einnsyn.no/moeteregistrering?id=poc-agenda-blank-001"
   },
-  "cases": [
-    { "id": "poc-case-1", "number": "1/2026", "title": "Første testsak", "caseUrl": "https://einnsyn.no/moeteregistrering?id=poc-case-1", "recommendation": { "status": "OK", "text": "Testinnstilling 1." } },
-    { "id": "poc-case-2", "number": "2/2026", "title": "Andre testsak", "caseUrl": "https://einnsyn.no/moeteregistrering?id=poc-case-2", "recommendation": { "status": "OK", "text": "Testinnstilling 2." } },
-    { "id": "poc-case-3", "number": "3/2026", "title": "Tredje testsak", "caseUrl": "https://einnsyn.no/moeteregistrering?id=poc-case-3", "recommendation": { "status": "OK", "text": "Testinnstilling 3." } }
-  ],
-  "pageHtml": "<html><head><title>POC-møte – OneNote direkte side</title></head><body><div data-id='poc-meeting-slot-poc-meeting-001' data-schema-version='1'><h1>POC-møte – OneNote direkte side</h1><p><strong>Utvalg:</strong> POC-utvalg</p><p><strong>Dato:</strong> 2026-09-29</p><p><strong>Sted:</strong> Testrom</p><p><a href='https://einnsyn.no/moetemappe?id=poc-meeting-001'>Åpne møtet i eInnsyn</a></p><div data-id='poc-case-slot-poc-case-1'><h2>1/2026 – Første testsak</h2><p><strong>Innstilling:</strong> Testinnstilling 1.</p><p><a href='https://einnsyn.no/moeteregistrering?id=poc-case-1'>Åpne saken</a></p><div data-id='poc-case-decision-slot-poc-case-1'><p><strong>Innstilling/Vedtak:</strong></p></div></div><div data-id='poc-case-slot-poc-case-2'><h2>2/2026 – Andre testsak</h2><p><strong>Innstilling:</strong> Testinnstilling 2.</p><p><a href='https://einnsyn.no/moeteregistrering?id=poc-case-2'>Åpne saken</a></p><div data-id='poc-case-decision-slot-poc-case-2'><p><strong>Innstilling/Vedtak:</strong></p></div></div><div data-id='poc-case-slot-poc-case-3'><h2>3/2026 – Tredje testsak</h2><p><strong>Innstilling:</strong> Testinnstilling 3.</p><p><a href='https://einnsyn.no/moeteregistrering?id=poc-case-3'>Åpne saken</a></p><div data-id='poc-case-decision-slot-poc-case-3'><p><strong>Innstilling/Vedtak:</strong></p></div></div><div data-id='poc-meeting-protocol-slot-poc-meeting-001'><p><strong>Protokoll:</strong></p></div><hr/><p><em>POC-side. Skal ikke brukes som produksjonsdata.</em></p></div></body></html>"
+  "cases": [],
+  "pageHtml": "<html><body><div data-id='poc-meeting-slot-poc-meeting-blank-001' data-schema-version='1'><h1>POC-møte – blank testside</h1><p><strong>Utvalg:</strong> POC-utvalg</p><p><strong>Dato:</strong> 2026-10-03</p><p><strong>Sted:</strong> Testrom</p><p>Testside for automatiske OneNote-oppdateringer.</p><div data-id='poc-test-anchor-1'><p><strong>Testpunkt 1:</strong></p></div><div data-id='poc-test-anchor-2'><p><strong>Testpunkt 2:</strong></p></div><div data-id='poc-test-anchor-3'><p><strong>Testpunkt 3:</strong></p></div><div data-id='poc-test-anchor-4'><p><strong>Testpunkt 4:</strong></p></div><div data-id='poc-test-anchor-5'><p><strong>Testpunkt 5:</strong></p></div><hr/><p><em>POC-side – skal ikke brukes som produksjonsdata.</em></p></div></body></html>"
 }]]></description>
     </item>
   </channel>

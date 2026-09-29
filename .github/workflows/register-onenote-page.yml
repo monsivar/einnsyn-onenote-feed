@@ -1,0 +1,121 @@
+name: Register OneNote page from issue
+
+on:
+  issues:
+    types: [opened]
+  workflow_dispatch:
+    inputs:
+      issue_number:
+        description: Issue number to register
+        required: true
+        type: number
+
+permissions:
+  contents: write
+  issues: read
+
+jobs:
+  register-onenote-page:
+    if: github.event_name == 'workflow_dispatch' || startsWith(github.event.issue.title, 'OneNote-side opprettet')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Read issue fields
+        id: issue
+        uses: actions/github-script@v7
+        env:
+          ISSUE_NUMBER: ${{ github.event.issue.number || inputs.issue_number }}
+        with:
+          script: |
+            const issueNumber = Number(process.env.ISSUE_NUMBER);
+            if (!Number.isInteger(issueNumber) || issueNumber < 1) {
+              core.setFailed('Missing or invalid issue number');
+              return;
+            }
+
+            const issue = context.payload.issue ?? (await github.rest.issues.get({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: issueNumber,
+            })).data;
+
+            const body = issue.body ?? '';
+            const field = (label) => {
+              const match = body.match(new RegExp('^- ' + label + ':\\s*(.+)$', 'mi'));
+              return match?.[1]?.trim() ?? '';
+            };
+
+            const meetingId = field('Møte-ID');
+            const createEventId = field('Opprettings-ID');
+            const pageId = field('Page ID');
+            const oneNoteUrl = field('OneNote');
+
+            for (const [name, value] of Object.entries({ meetingId, createEventId, pageId, oneNoteUrl })) {
+              if (!value) {
+                core.setFailed('Issue is missing the field: ' + name);
+                return;
+              }
+            }
+
+            core.setOutput('meeting_id', meetingId);
+            core.setOutput('create_event_id', createEventId);
+            core.setOutput('page_id', pageId);
+            core.setOutput('onenote_url', oneNoteUrl);
+            core.setOutput('issue_number', String(issue.number));
+            core.setOutput('issue_url', issue.html_url);
+
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Update meeting page registry
+        env:
+          MEETING_ID: ${{ steps.issue.outputs.meeting_id }}
+          CREATE_EVENT_ID: ${{ steps.issue.outputs.create_event_id }}
+          PAGE_ID: ${{ steps.issue.outputs.page_id }}
+          ONENOTE_URL: ${{ steps.issue.outputs.onenote_url }}
+          ISSUE_NUMBER: ${{ steps.issue.outputs.issue_number }}
+          ISSUE_URL: ${{ steps.issue.outputs.issue_url }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          file=meeting-pages.json
+          if [ -f "$file" ]; then
+            jq empty "$file"
+          else
+            printf '%s\n' '[]' > "$file"
+          fi
+
+          jq \
+            --arg meetingId "$MEETING_ID" \
+            --arg createEventId "$CREATE_EVENT_ID" \
+            --arg pageId "$PAGE_ID" \
+            --arg oneNoteUrl "$ONENOTE_URL" \
+            --arg issueUrl "$ISSUE_URL" \
+            --argjson issueNumber "$ISSUE_NUMBER" \
+            --arg updatedAt "$(date -u +%Y-%m-%dT%H:%M:%SZ)" \
+            'map(select(.meetingId != $meetingId)) + [{
+              meetingId: $meetingId,
+              createEventId: $createEventId,
+              pageId: $pageId,
+              oneNoteUrl: $oneNoteUrl,
+              issueNumber: $issueNumber,
+              issueUrl: $issueUrl,
+              updatedAt: $updatedAt
+            }]' \
+            "$file" > "$file.tmp"
+          mv "$file.tmp" "$file"
+
+      - name: Commit meeting page registry
+        env:
+          ISSUE_NUMBER: ${{ steps.issue.outputs.issue_number }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add meeting-pages.json
+          if git diff --cached --quiet; then
+            echo 'No registry change needed.'
+            exit 0
+          fi
+          git commit -m "Register OneNote page from issue #$ISSUE_NUMBER"
+          git push

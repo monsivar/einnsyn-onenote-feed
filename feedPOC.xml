@@ -4,7 +4,7 @@
     <title>eInnsyn OneNote POC - create</title>
     <link>https://github.com/monsivar/einnsyn-onenote-feed</link>
     <description>POC-feed for automatisk opprettelse av blank OneNote-testside.</description>
-    <lastBuildDate>Sun, 04 Oct 2026 00:00:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 13:06:31 GMT</lastBuildDate>
 
     <item>
       <title>POC: Opprett blank OneNote-testside</title>
@@ -61,6 +61,37 @@
   },
   "cases": [],
   "pageHtml": "<html><head><title>POC-møte – append testside</title></head><body><div data-id=\"meeting-slot-poc-meeting-append-001\" data-schema-version=\"1\"><h1>POC-møte – append testside</h1><p><strong>Utvalg:</strong> POC-utvalg</p><p><strong>Dato:</strong> 2026-10-05</p><p><strong>Sted:</strong> Testrom</p><p>Testside for sekvensielle automatiske tillegg.</p><div data-id=\"meeting-last-updated-from-moteblikk-poc-meeting-append-001\"><p><strong>Sist oppdatert fra Møteblikk:</strong></p></div><div data-id=\"meeting-protocol-poc-meeting-append-001\"><p><strong>Protokoll:</strong></p></div><h2>Automatiske oppdateringer</h2><div data-id=\"meeting-append-content-poc-meeting-append-001\"></div><div data-id=\"meeting-end-anchor-poc-meeting-append-001\"></div><hr/><p><em>POC-side – skal ikke brukes som produksjonsdata.</em></p></div></body></html>"
+}]]></description>
+    </item>
+      <item>
+      <title>POC: Opprett append-testside</title>
+      <link>https://einnsyn.no/moetemappe?id=poc-meeting-append-002</link>
+      <guid isPermaLink="false">poc-create-poc-meeting-append-002-v1</guid>
+      <pubDate>Tue, 29 Sep 2026 13:06:31 GMT</pubDate>
+      <description><![CDATA[{
+  "schemaVersion": 1,
+  "eventType": "MEETING_CREATE",
+  "createEventId": "poc-create-poc-meeting-append-002-v1",
+  "performWrite": true,
+  "sectionKey": "GENERELT",
+  "sectionId": "https://www.onenote.com/api/v1.0/myOrganization/siteCollections/f905ed9d-ab1b-420a-b4ba-af1b6ee8ea45/sites/ffca75ab-92a3-41bb-b73d-d735d3b7864f/notes/sections/1-72381bbc-f77b-465a-9477-9b4caec9213d/pages",
+  "quality": {
+    "readyForOneNote": true,
+    "agendaAvailable": true,
+    "recommendationsAvailable": true,
+    "caseCount": 0
+  },
+  "meeting": {
+    "id": "poc-meeting-append-002",
+    "title": "POC-møte – append testside",
+    "committee": "POC-utvalg",
+    "date": "2026-10-05",
+    "place": "Testrom",
+    "meetingUrl": "https://einnsyn.no/moetemappe?id=poc-meeting-append-002",
+    "agendaUrl": "https://einnsyn.no/moetemappe?id=poc-meeting-append-002&agenda=true"
+  },
+  "cases": [],
+  "pageHtml": "<html><head><title>POC-møte – append testside</title></head><body><div data-id=\"meeting-slot-poc-meeting-append-002\" data-schema-version=\"1\"><h1>POC-møte – append testside</h1><p><strong>Utvalg:</strong> POC-utvalg</p><p><strong>Dato:</strong> 2026-10-05</p><p><strong>Sted:</strong> Testrom</p><p>Testside for sekvensielle automatiske tillegg.</p><div data-id=\"meeting-last-updated-from-moteblikk-poc-meeting-append-002\"><p><strong>Sist oppdatert fra Møteblikk:</strong></p></div><div data-id=\"meeting-protocol-poc-meeting-append-002\"><p><strong>Protokoll:</strong></p></div><h2>Automatiske oppdateringer</h2><div data-id=\"meeting-append-content-poc-meeting-append-002\"></div><div data-id=\"meeting-end-anchor-poc-meeting-append-002\"></div><hr/><p><em>POC-side – skal ikke brukes som produksjonsdata.</em></p></div></body></html>"
 }]]></description>
     </item>
   </channel>
